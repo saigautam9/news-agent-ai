@@ -10,10 +10,11 @@ from __future__ import annotations
 import time
 from pathlib import Path
 
+import traceback
+
 from fastapi import FastAPI, Request
-from fastapi.responses import HTMLResponse, JSONResponse
+from fastapi.responses import HTMLResponse, JSONResponse, PlainTextResponse
 from fastapi.staticfiles import StaticFiles
-from fastapi.templating import Jinja2Templates
 
 from app import config
 from app.briefing import (
@@ -39,7 +40,8 @@ BASE = Path(__file__).resolve().parent
 
 app = FastAPI(title="Deep Signal", docs_url=None, redoc_url=None)
 app.mount("/static", StaticFiles(directory=BASE / "static"), name="static")
-templates = Jinja2Templates(directory=BASE / "templates")
+
+INDEX_HTML = BASE / "templates" / "index.html"
 
 # Short-lived cache of the last news batch per chat, so the inline-keyboard
 # buttons can resolve which story the user tapped. Survives within a warm
@@ -49,8 +51,15 @@ _news_cache: dict[str, dict] = {}
 
 # ---------------------------------------------------------------- web UI
 @app.get("/", response_class=HTMLResponse)
-def home(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request})
+def home():
+    """Serve the single-page UI (static HTML — no template variables)."""
+    try:
+        return HTMLResponse(INDEX_HTML.read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001
+        return PlainTextResponse(
+            "Deep Signal — homepage failed to load:\n\n" + traceback.format_exc(),
+            status_code=500,
+        )
 
 
 @app.get("/health")
