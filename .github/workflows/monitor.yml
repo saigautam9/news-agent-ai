@@ -21,13 +21,13 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-python@v5
         with:
-          node-version: 20
-      - run: npm ci
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
 
       - name: Run monitor scan
-        run: npm run monitor
+        run: python scripts/monitor.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}

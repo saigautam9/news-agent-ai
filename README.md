@@ -3,166 +3,122 @@
 **The news, actually explained.** Deep Signal isn't a feed — it's a multi-agent
 intelligence pipeline. For every story it investigates *why* it happened, what it
 echoes from history, who quietly wins and loses, and what it changes next — then
-explains all of it in plain English, like a smart friend talking it through over chai.
+explains all of it in plain English.
 
-It runs itself **for free, forever**: scheduled briefings + a breaking-news monitor
-on GitHub Actions, with alerts pushed to Telegram.
+It ships as a **FastAPI web app**, an **interactive Telegram bot**, a set of
+**self-scheduling briefing jobs**, and a **scikit-learn ML module** — and it runs
+**free, forever** on free-tier infrastructure.
 
 ---
 
 ## What it does
 
-- **Today's briefing** — the 5 stories that genuinely matter right now, ranked.
-- **Deep Dive** — root causes, the butterfly chain, "connect the dots" (what made
-  this inevitable, the hidden beneficiary, official story vs reality, a 1990
-  counterfactual, what's coming in 6 months), how different sides spin it, an
-  impact map, historical parallels, blind spots, predictions, and a contrarian view.
-- **Multi-Agent View** — five analysts who each *think differently* (a diplomat, a
-  hedge-fund manager, a Silicon Valley founder, a public-health researcher, a
-  historian), then a debate-room synthesis that surfaces where they clash.
-- **Always-on monitoring** — decides what is worth your attention by severity, so
-  it never spams you.
+- **Web app** — today's important news, grouped by desk (Geopolitics, Markets,
+  Technology, Health, Climate, Society). Each story expands into a *Deep Dive*
+  (root causes, butterfly chain, winners/losers, historical parallels, a
+  contrarian view) and a *Multi-Agent View* (five analysts who each think
+  differently, then a debate-room synthesis).
+- **Assistant chatbot** — ask about any topic from the website; Deep Signal
+  investigates it and replies with its own analysis, opinion, a proposed
+  solution, and predicted outcomes.
+- **Telegram bot** — `/news` sends today's stories, then tap a story for Deep
+  Signal's take; or send any topic for a full investigation.
+- **Always-on automation** — scheduled briefings + a breaking-news monitor run
+  on GitHub Actions and push alerts to Telegram.
+- **ML module** — scikit-learn classifiers that categorise and score news
+  offline (see [`ml/`](ml/)).
 
-## The multi-agent pipeline
+## Architecture — the multi-agent pipeline
 
-Each agent does one focused job, on a free model:
+Each agent does one focused job on a free model; independent agents run in
+parallel.
 
 | Agent | Model | Job |
 |---|---|---|
-| Fetcher | Gemini 2.5 Flash (Google Search grounded) | Pull live news from multiple outlets |
+| Fetcher | Gemini 2.5 Flash (Google-Search grounded) | Pull live news from multiple outlets |
 | Classifier | Gemini 2.5 Flash Lite | Domain + urgency + severity |
 | Analyst | Gemini 2.5 Flash (grounded) | Causes, connect-the-dots, narratives |
 | Impact Mapper | Gemini 2.5 Flash Lite | Winners / losers / impact matrix |
 | Historian | Groq Llama 4 Scout | Historical patterns, blind spots, contrarian view |
 | Synthesis | Groq Llama 4 Scout | Debate — where the analysts agree vs clash |
+| Verdict | Groq Llama 4 Scout | Deep Signal's own opinion, solution, outcomes |
 | Rewriter | Groq Llama 4 Scout | Final plain-English rewrite with everyday analogies |
 
-## How the notifications work
+```
+                    ┌──────────── FastAPI app ────────────┐
+   Web UI  ──────►   │  /api/news  /api/search  /api/chat   │
+   Telegram ─────►   │  /api/analyze  /api/agents           │  ──►  multi-agent
+   GitHub Actions ►  │  /api/telegram (webhook)             │       pipeline
+                    └──────────────────────────────────────┘
+   scikit-learn ML module  ◄── trains on the corpus the pipeline collects
+```
 
-It is **not** three fixed pings a day — it decides:
+## Tech stack
 
-| When | What happens |
-|---|---|
-| **08:00** | Full morning briefing — always sent |
-| **every 2 hours** | Silent breaking-news scan — pings you *only* if something CRITICAL breaks |
-| **14:00** | Afternoon update — sent *only* if new important stories emerged |
-| **20:00** | Evening roundup of the day |
-| **Sun 20:30** | Weekly roundup of the slower-moving stories |
-
-Severity decides what reaches you: **CRITICAL/HIGH** → notified; **MEDIUM** → bundled
-into roundups; **LOW** → skipped. Most days that's 2-3 messages. Quiet days, maybe
-just the morning briefing.
+- **Backend** — Python · FastAPI · Uvicorn
+- **Frontend** — server-rendered Jinja2 + vanilla JS/CSS (no build step)
+- **AI** — Google Gemini 2.5 (grounded) · Groq Llama 4 Scout
+- **ML** — scikit-learn · pandas (TF-IDF classifiers + a regressor)
+- **Automation** — GitHub Actions (cron) · Telegram Bot API
+- **Deploy** — Vercel (Python serverless)
 
 ---
 
-## Quick start (local)
+## Run locally
 
 ```bash
-npm install
-cp .env.example .env.local     # then fill in your keys — see SETUP.md
-npm run dev                    # open http://localhost:3000
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env.local        # then fill in your keys — see SETUP.md
+uvicorn app.server:app --reload   # open http://localhost:8000
 ```
 
-You need three **free** keys (full walkthrough in **[SETUP.md](./SETUP.md)**):
-
-1. **Gemini** — <https://aistudio.google.com/apikey>
-2. **Groq** — <https://console.groq.com/keys>
-3. **Telegram bot** — via [@BotFather](https://t.me/BotFather)
+You need three **free** keys (full walkthrough in [SETUP.md](./SETUP.md)):
+Gemini (<https://aistudio.google.com/apikey>), Groq
+(<https://console.groq.com/keys>), and a Telegram bot via
+[@BotFather](https://t.me/BotFather).
 
 Run a briefing or the monitor by hand:
 
 ```bash
-npm run briefing -- morning      # morning | afternoon | evening | weekly
-npm run monitor                  # one breaking-news scan
+python scripts/briefing.py morning     # morning | afternoon | evening | weekly
+python scripts/monitor.py              # one breaking-news scan
 ```
-
----
 
 ## Deploy — free, forever
 
-### 1. The web app → Vercel
+1. **Web app → Vercel.** Import the repo; add `GEMINI_API_KEY`, `GROQ_API_KEY`,
+   `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`, `TELEGRAM_WEBHOOK_SECRET`, `APP_URL`
+   as environment variables. `vercel.json` handles the Python serverless config.
+2. **Telegram bot.** After deploy:
+   `python scripts/setup_webhook.py set https://your-app.vercel.app`
+3. **Automation → GitHub Actions.** Add the API keys as repo *Secrets* and
+   `APP_URL` as a repo *Variable*, then enable workflows. Set
+   **Settings → Actions → Workflow permissions → Read and write** so the jobs
+   can commit `data/` back.
 
-Push this folder to a GitHub repo, import it at [vercel.com](https://vercel.com),
-and add `GEMINI_API_KEY` + `GROQ_API_KEY` as environment variables. Vercel's free
-tier is enough. Copy the deployed URL.
+## Cost & limitations
 
-### 2. The automation → GitHub Actions
+Total cost is **$0** — every provider is free-tier only.
 
-The scheduled briefings and the 2-hour monitor run as GitHub Actions — free for
-public repos (and 2,000 free minutes/month for private ones). In your repo:
-
-**Settings → Secrets and variables → Actions → Secrets**, add:
-
-| Secret | Value |
-|---|---|
-| `GEMINI_API_KEY` | your Gemini key |
-| `GROQ_API_KEY` | your Groq key |
-| `TELEGRAM_BOT_TOKEN` | your bot token |
-| `TELEGRAM_CHAT_ID` | your chat id |
-
-**Settings → Secrets and variables → Actions → Variables**, add:
-
-| Variable | Value |
-|---|---|
-| `APP_URL` | your Vercel URL (for the "Open Deep Signal" link) |
-| `MAX_GEMINI_CALLS` | optional — defaults to `20` |
-| `MAX_GROQ_CALLS` | optional — defaults to `20` |
-
-Then open the **Actions** tab and enable workflows. Use **Run workflow** on
-*Deep Signal — Scheduled Briefings* to test it immediately.
-
-> The jobs commit `data/usage.json` and `data/log.json` back to the repo — that's
-> the free "database" for cost tracking and deduplication. They need write access:
-> **Settings → Actions → General → Workflow permissions → Read and write**.
-
-### Adjusting the schedule (timezone)
-
-GitHub Actions cron is **UTC**. Edit the `cron:` lines in
-[`.github/workflows/scheduled.yml`](./.github/workflows/scheduled.yml) to your
-timezone — `UTC = local time − your offset`:
-
-| You want 8am in… | UTC cron |
-|---|---|
-| UK (UTC+0) | `0 8 * * *` |
-| India (UTC+5:30) | `30 2 * * *` |
-| US Eastern (UTC−5) | `0 13 * * *` |
-| US Pacific (UTC−8) | `0 16 * * *` |
-
-(If you change a time, also update the matching line in the workflow's
-`Pick mode from schedule` step.)
-
----
-
-## Cost protection
-
-Total cost is **$0** — every provider is free-tier only. On top of that:
-
-- Hard daily caps (`MAX_GEMINI_CALLS`, `MAX_GROQ_CALLS`, default 20 each). If a cap
-  is hit, the job stops cleanly and resumes the next day.
-- Every API call is logged to `data/usage.json`.
-- At 80% of a cap you get a one-time Telegram heads-up.
-
-The schedule uses ~18 Gemini calls/day (12 monitor scans + 3 briefings). Note
-that Gemini's free tier allows **20 requests/day per model** — the schedule is
-designed to fit just inside that, so manual runs on the same day may hit the
-limit until it resets.
+- Gemini's free tier allows **20 requests/day per model**. The schedule
+  (~18 calls/day) is designed to fit inside it; `MAX_GEMINI_CALLS` /
+  `MAX_GROQ_CALLS` are hard caps that stop a job cleanly if reached.
+- Every API call is counted; at 80% of a cap you get a one-time Telegram
+  heads-up. If a cap is hit, the system pauses and resumes the next day.
 
 ## Project structure
 
 ```
-src/lib/      pipeline.ts (orchestration) · gemini.ts · groq.ts · prompts.ts
-              usage.ts (cost caps) · store.ts (dedup log) · telegram.ts · briefing.ts
-src/app/      page.tsx (UI) · api/{news,search,analyze,agents,telegram}/route.ts
-scripts/      briefing.mts · monitor.mts · setup-webhook.mts · collect-corpus.mts
-.github/      workflows/scheduled.yml · workflows/monitor.yml
-data/         usage.json · log.json             (the free JSON "database")
-ml/           Python/scikit-learn news classifiers — train.py · predict.py
+app/        FastAPI application
+  server.py        routes · /api/chat · Telegram webhook (inline keyboard)
+  pipeline.py      the 8-agent orchestration
+  gemini.py · groq_client.py · prompts.py
+  usage.py (caps) · store.py (dedup log) · telegram.py · briefing.py
+  templates/ · static/   the web UI
+api/        index.py     Vercel serverless entry point
+scripts/    briefing.py · monitor.py · collect_corpus.py · setup_webhook.py
+ml/         scikit-learn news classifiers — train.py · predict.py
+.github/    workflows/scheduled.yml · workflows/monitor.yml
+data/       usage.json · log.json   (the free JSON "database")
 ```
-
-## Notes
-
-- A deep dive runs ~4 model calls and takes 15-30s; the news list ~20s. The API
-  routes allow 60s.
-- Free tiers have rate limits — fine for personal use. If Groq renames the Llama 4
-  Scout model, set `GROQ_MODEL` in your env.
-- Telegram messages use Markdown; dynamic text is sanitized so it can't break.

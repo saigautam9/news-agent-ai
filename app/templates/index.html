@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Deep Signal — the news, actually explained</title>
+  <meta name="description" content="A multi-agent intelligence pipeline that investigates why the news happened, who quietly wins, and what changes next — in plain English." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+  <div class="aurora"></div>
+
+  <main class="shell">
+    <header class="masthead">
+      <div class="brand">
+        <span class="pulse"></span>
+        <span class="brand-name">DEEP SIGNAL</span>
+        <span class="brand-tag">multi-agent news intelligence</span>
+      </div>
+      <h1>The news, actually explained.</h1>
+      <p class="lede">
+        Not a feed. A pipeline of seven AI agents that investigates <em>why</em> a
+        story happened, what it echoes from history, who quietly wins and loses,
+        and what it changes next — then explains it in plain English.
+      </p>
+    </header>
+
+    <section class="console">
+      <button id="todayBtn" class="btn-primary">
+        <span class="arrow">▸</span> Today's Important News
+      </button>
+
+      <div class="search-row">
+        <input
+          id="queryInput"
+          type="text"
+          placeholder="Investigate any topic — “Fed policy”, “Taiwan”, “AI safety”…"
+          autocomplete="off"
+        />
+        <button id="searchBtn" class="btn-ghost">Search</button>
+      </div>
+
+      <div class="cat-label">Browse by desk</div>
+      <div id="categories" class="categories">
+        <button class="cat" data-cat="Geopolitics">🌍 Geopolitics</button>
+        <button class="cat" data-cat="Markets">📈 Markets</button>
+        <button class="cat" data-cat="Technology">💻 Technology</button>
+        <button class="cat" data-cat="Health">🧬 Health</button>
+        <button class="cat" data-cat="Climate">🌱 Climate</button>
+        <button class="cat" data-cat="Society">👥 Society</button>
+      </div>
+    </section>
+
+    <div id="history" class="history hidden"></div>
+    <div id="status" class="status hidden"></div>
+    <div id="error" class="error hidden"></div>
+    <section id="results" class="results"></section>
+
+    <section id="empty" class="automation">
+      <h2>Always on — and free</h2>
+      <p>
+        Deep Signal runs itself on GitHub Actions and decides what is worth your
+        attention by severity, so it never spams you:
+      </p>
+      <div class="schedule">
+        <div class="sched-row"><span>08:00</span><p>Full morning briefing — always sent</p></div>
+        <div class="sched-row"><span>every 2h</span><p>Silent scan — pings only if something critical breaks</p></div>
+        <div class="sched-row"><span>14:00</span><p>Afternoon update — only if new important news emerged</p></div>
+        <div class="sched-row"><span>20:00</span><p>Evening roundup of the day</p></div>
+      </div>
+      <p class="muted">
+        Briefings land in Telegram. Hit <strong>Today's Important News</strong>
+        above to run the pipeline live — or ask the assistant, bottom-right.
+      </p>
+    </section>
+
+    <footer class="foot">
+      <p>
+        Pipeline · Gemini 2.5 Flash + Flash-Lite (fetch, classify, analyze) ·
+        Groq Llama 4 Scout (history, debate, verdict, plain-English rewrite)
+      </p>
+      <p class="muted">
+        Built with FastAPI + Python · scikit-learn ML classifiers · automated
+        free-tier briefings &amp; an interactive Telegram bot.
+      </p>
+    </footer>
+  </main>
+
+  <!-- chat assistant -->
+  <button id="chatToggle" class="chat-toggle" aria-label="Open the assistant">
+    <span class="chat-toggle-icon">🛰</span>
+  </button>
+
+  <div id="chatPanel" class="chat-panel hidden">
+    <div class="chat-head">
+      <div>
+        <strong>Deep Signal Assistant</strong>
+        <span>ask about any news topic</span>
+      </div>
+      <button id="chatClose" class="chat-close" aria-label="Close">✕</button>
+    </div>
+    <div id="chatLog" class="chat-log">
+      <div class="msg bot">
+        Hi — I'm Deep Signal. Ask me about any topic and I'll investigate it and
+        give you my honest take, a solution, and what's likely to happen next.
+      </div>
+    </div>
+    <form id="chatForm" class="chat-form">
+      <input id="chatInput" type="text" placeholder="Ask about any topic…" autocomplete="off" />
+      <button type="submit" aria-label="Send">➤</button>
+    </form>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

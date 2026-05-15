@@ -75,21 +75,22 @@ This is how briefings reach your phone and laptop.
 Set `APP_URL` to where the web app runs (keep the default for local use):
 
 ```
-APP_URL=http://localhost:3000
+APP_URL=http://localhost:8000
 ```
 
 That's it. Test everything:
 
 ```bash
-npm install
-npm run dev          # open http://localhost:3000, click "Today's Important News"
-npm run monitor      # should print a scan result; sends Telegram only if critical
-npm run briefing -- morning   # sends a morning briefing to your Telegram
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+uvicorn app.server:app --reload    # open http://localhost:8000
+python scripts/monitor.py          # prints a scan result; alerts Telegram only if critical
+python scripts/briefing.py morning # sends a morning briefing to your Telegram
 ```
 
-If `npm run briefing -- morning` puts a message in your Telegram chat, you're done.
-Next, see **[README.md](./README.md)** to deploy it free on Vercel + GitHub Actions
-so it runs every day on its own.
+If `python scripts/briefing.py morning` puts a message in your Telegram chat,
+you're done. Next, see **[README.md](./README.md)** to deploy it free on Vercel +
+GitHub Actions so it runs every day on its own.
 
 ---
 

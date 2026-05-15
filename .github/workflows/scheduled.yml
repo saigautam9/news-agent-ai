@@ -30,10 +30,10 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-python@v5
         with:
-          node-version: 20
-      - run: npm ci
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
 
       - name: Pick mode from schedule
         id: mode
@@ -47,7 +47,7 @@ jobs:
           esac
 
       - name: Run briefing
-        run: npm run briefing -- ${{ steps.mode.outputs.mode }}
+        run: python scripts/briefing.py ${{ steps.mode.outputs.mode }}
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}

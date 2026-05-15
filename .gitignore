@@ -1,17 +1,17 @@
-node_modules
-.next
-out
-build
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment / secrets
 .env
 .env.local
 .env*.local
-*.tsbuildinfo
-next-env.d.ts
-.DS_Store
-.vercel
 
-# Python (ml/)
-.venv
-__pycache__
-*.pyc
+# ML — large downloaded dataset (re-fetch with ml/download_data.py)
 ml/data/agnews/
+
+# Vercel / OS
+.vercel
+.DS_Store
