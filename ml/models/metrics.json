@@ -1,0 +1,26 @@
+{
+  "topic_classifier": {
+    "dataset": "AG News",
+    "train_size": 120000,
+    "test_size": 7600,
+    "accuracy": 0.9214,
+    "macro_f1": 0.9213
+  },
+  "signal_models": {
+    "corpus_size": 25,
+    "domain_classifier": {
+      "test_accuracy": 0.429,
+      "test_macro_f1": 0.167,
+      "cv_accuracy": 0.721
+    },
+    "severity_classifier": {
+      "test_accuracy": 0.571,
+      "test_macro_f1": 0.242,
+      "cv_accuracy": 0.641
+    },
+    "urgency_regressor": {
+      "status": "skipped",
+      "labelled_rows": 15
+    }
+  }
+}

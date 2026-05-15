@@ -10,7 +10,8 @@
     "lint": "next lint",
     "briefing": "tsx scripts/briefing.mts",
     "monitor": "tsx scripts/monitor.mts",
-    "webhook": "tsx scripts/setup-webhook.mts"
+    "webhook": "tsx scripts/setup-webhook.mts",
+    "collect-corpus": "MAX_GEMINI_CALLS=900 MAX_GROQ_CALLS=900 tsx scripts/collect-corpus.mts"
   },
   "dependencies": {
     "@google/genai": "^1.0.0",

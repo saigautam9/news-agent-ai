@@ -9,3 +9,9 @@ build
 next-env.d.ts
 .DS_Store
 .vercel
+
+# Python (ml/)
+.venv
+__pycache__
+*.pyc
+ml/data/agnews/

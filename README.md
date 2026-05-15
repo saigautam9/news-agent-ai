@@ -142,19 +142,21 @@ Total cost is **$0** — every provider is free-tier only. On top of that:
 - Every API call is logged to `data/usage.json`.
 - At 80% of a cap you get a one-time Telegram heads-up.
 
-The schedule uses ~18 Gemini calls/day (12 monitor scans + 3 briefings), which
-fits inside the default cap. If you add lots of manual runs, raise the caps — the
-free tiers allow far more than 20/day.
+The schedule uses ~18 Gemini calls/day (12 monitor scans + 3 briefings). Note
+that Gemini's free tier allows **20 requests/day per model** — the schedule is
+designed to fit just inside that, so manual runs on the same day may hit the
+limit until it resets.
 
 ## Project structure
 
 ```
 src/lib/      pipeline.ts (orchestration) · gemini.ts · groq.ts · prompts.ts
               usage.ts (cost caps) · store.ts (dedup log) · telegram.ts · briefing.ts
-src/app/      page.tsx (UI) · api/{news,search,analyze,agents}/route.ts
-scripts/      briefing.mts · monitor.mts        (run by GitHub Actions)
+src/app/      page.tsx (UI) · api/{news,search,analyze,agents,telegram}/route.ts
+scripts/      briefing.mts · monitor.mts · setup-webhook.mts · collect-corpus.mts
 .github/      workflows/scheduled.yml · workflows/monitor.yml
 data/         usage.json · log.json             (the free JSON "database")
+ml/           Python/scikit-learn news classifiers — train.py · predict.py
 ```
 
 ## Notes
