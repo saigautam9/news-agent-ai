@@ -67,6 +67,14 @@ export interface Synthesis {
   contrarian: string;
 }
 
+/** Deep Signal's own opinion on a topic — its read, its stance, a fix, a forecast. */
+export interface Verdict {
+  analysis: string;
+  opinion: string;
+  solution: string;
+  outcomes: { horizon: string; outcome: string }[];
+}
+
 export interface ScanItem {
   headline: string;
   summary: string;

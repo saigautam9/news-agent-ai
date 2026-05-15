@@ -23,6 +23,7 @@ import type {
   Source,
   Story,
   Synthesis,
+  Verdict,
 } from "./types";
 
 type StoryRef = Pick<Story, "headline" | "summary">;
@@ -260,6 +261,33 @@ export async function buildAgentTakes(
     agents: final.agents || agents,
     synthesis: final.synthesis || synthesis,
     sources,
+  };
+}
+
+/**
+ * Deep Signal's own opinion on a topic — its analysis, a clear stance, a
+ * proposed solution, and the likely outcomes. One Groq call.
+ */
+export async function buildVerdict(
+  topic: string,
+  story: StoryRef,
+): Promise<Verdict> {
+  const text = await runGroq({
+    system: P.VERDICT_SYSTEM,
+    prompt: P.verdictPrompt(topic, story),
+  });
+  const v = extractJson<Verdict>(text);
+  return {
+    analysis: String(v.analysis ?? ""),
+    opinion: String(v.opinion ?? ""),
+    solution: String(v.solution ?? ""),
+    outcomes: (v.outcomes || [])
+      .slice(0, 4)
+      .map((o) => ({
+        horizon: String(o.horizon ?? ""),
+        outcome: String(o.outcome ?? ""),
+      }))
+      .filter((o) => o.outcome),
   };
 }
 

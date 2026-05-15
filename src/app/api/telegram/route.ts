@@ -8,9 +8,9 @@
 // See README.md ("Chat with the bot").
 
 import { NextResponse } from "next/server";
-import { fetchStories } from "@/lib/pipeline";
+import { fetchStories, buildVerdict } from "@/lib/pipeline";
 import { sendTelegram, sanitizeMarkdown } from "@/lib/telegram";
-import { formatTopicReply } from "@/lib/briefing";
+import { formatTopicReply, formatVerdictReply } from "@/lib/briefing";
 import { errMessage } from "@/lib/gemini";
 
 export const runtime = "nodejs";
@@ -81,11 +81,20 @@ export async function POST(req: Request) {
   try {
     await sendTelegram({
       chatId,
-      text: `🛰 Looking into *${sanitizeMarkdown(text)}* — one moment…`,
+      text: `🛰 Investigating *${sanitizeMarkdown(text)}* and forming my take — one moment…`,
     }).catch(() => {});
 
     const { stories } = await fetchStories(text);
-    await sendTelegram({ chatId, text: formatTopicReply(text, stories, appUrl) });
+    if (stories.length === 0) {
+      await sendTelegram({ chatId, text: formatTopicReply(text, stories, appUrl) });
+    } else {
+      const [top, ...others] = stories;
+      const verdict = await buildVerdict(text, top);
+      await sendTelegram({
+        chatId,
+        text: formatVerdictReply(text, top, verdict, others, appUrl),
+      });
+    }
   } catch (e) {
     await sendTelegram({
       chatId,

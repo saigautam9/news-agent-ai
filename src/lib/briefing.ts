@@ -3,7 +3,7 @@
 
 import { sanitizeMarkdown } from "./telegram";
 import type { LogEntry } from "./store";
-import type { ScanItem, Severity, Story } from "./types";
+import type { ScanItem, Severity, Story, Verdict } from "./types";
 import type { UsageSnapshot } from "./usage";
 
 const SEV_EMOJI: Record<Severity, string> = {
@@ -122,6 +122,50 @@ export function formatTopicReply(
   }
   const blocks = stories.map(storyBlock).join("\n\n");
   return `*🛰 Deep Signal — ${s(query)}*\n\n${blocks}\n\n${footer(appUrl)}`;
+}
+
+/**
+ * The interactive bot's full answer to a topic: the key story, then Deep
+ * Signal's own analysis, opinion, proposed solution and likely outcomes.
+ */
+export function formatVerdictReply(
+  topic: string,
+  story: Story,
+  verdict: Verdict,
+  others: Story[],
+  appUrl: string,
+): string {
+  const sections: string[] = [];
+  if (verdict.analysis) {
+    sections.push(`🧠 *My read*\n${s(verdict.analysis)}`);
+  }
+  if (verdict.opinion) {
+    sections.push(`💬 *My take*\n${s(verdict.opinion)}`);
+  }
+  if (verdict.solution) {
+    sections.push(`🛠 *What should happen*\n${s(verdict.solution)}`);
+  }
+  if (verdict.outcomes.length > 0) {
+    const lines = verdict.outcomes
+      .map((o) => `• _${s(o.horizon)}_ — ${s(o.outcome)}`)
+      .join("\n");
+    sections.push(`🔮 *Likely outcomes*\n${lines}`);
+  }
+
+  const related =
+    others.length > 0
+      ? `\n\n📌 *Related angles*\n` +
+        others
+          .slice(0, 4)
+          .map((o) => `• ${s(o.headline)}`)
+          .join("\n")
+      : "";
+
+  return (
+    `*🛰 Deep Signal — ${s(topic)}*\n\n` +
+    `${SEV_EMOJI[story.severity]} *${s(story.headline)}*\n${s(story.summary)}\n\n` +
+    `${sections.join("\n\n")}${related}\n\n${footer(appUrl)}`
+  );
 }
 
 /** Cost-protection warning sent once when usage crosses the threshold. */

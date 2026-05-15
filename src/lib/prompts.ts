@@ -29,6 +29,14 @@ export const SYNTHESIS_SYSTEM =
   "agree, where they clash, and what the crowd is getting wrong. You reply with valid " +
   "JSON only.";
 
+export const VERDICT_SYSTEM =
+  "You are Deep Signal's lead analyst. Beyond explaining the news, you give your own " +
+  "honest, reasoned opinion: you take a clear stance, say what you think is right or " +
+  "wrong about it and why, propose a concrete solution, and forecast the likely " +
+  "outcomes. You are fair and evidence-based — confident, never preachy, and willing " +
+  "to admit uncertainty. You write in plain, simple English, like a smart friend " +
+  "explaining it over chai. You reply with valid JSON only.";
+
 export const REWRITE_SYSTEM =
   "You are an expert editor. You turn dense analysis into plain, simple English that " +
   "anyone understands instantly, using everyday analogies. You reply with valid JSON only.";
@@ -190,6 +198,26 @@ export function monitorPrompt(date: string): string {
     `{"critical":true or false,"items":[{"headline":"",` +
     `"summary":"what happened","why":"why this is genuinely critical"}]}\n` +
     `If nothing is genuinely critical, return {"critical":false,"items":[]}.`
+  );
+}
+
+// ---- Verdict: Deep Signal's own opinion on a topic (Groq Llama 4 Scout) ----
+
+export function verdictPrompt(
+  topic: string,
+  story: Pick<Story, "headline" | "summary">,
+): string {
+  return (
+    `The user asked Deep Signal about: "${topic}". The key development is below.\n\n` +
+    `STORY: ${story.headline}\n${story.summary}\n\n` +
+    `Think it through, then give your OWN honest take — do not stay neutral.\n\n` +
+    `Return ONLY this JSON:\n` +
+    `{"analysis":"what is really going on here and why it happened — the deeper read, 2-3 sentences",` +
+    `"opinion":"your honest opinion. Take a clear stance — say what you think is right or wrong ` +
+    `about this and why. Begin with \\"I think\\".",` +
+    `"solution":"a concrete, realistic solution or the best way forward to handle this",` +
+    `"outcomes":[{"horizon":"e.g. 3 months / 1 year","outcome":"the most likely outcome"}]}\n` +
+    `Give 2-3 outcomes, ordered nearest first.`
   );
 }
 
