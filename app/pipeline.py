@@ -20,10 +20,17 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import date
 
 from app import prompts as P
+from app.cache import TTLCache
 from app.gemini import MODEL_FLASH, MODEL_LITE, extract_json, run_gemini
 from app.groq_client import run_groq
 
 SEVERITIES = {"CRITICAL", "HIGH", "MEDIUM", "LOW"}
+
+# Quota-saving caches. News changes through the day; a story's analysis does
+# not, so it can be cached for much longer. Identical requests within these
+# windows cost zero API calls.
+_news_cache = TTLCache(ttl_seconds=30 * 60)        # 30 minutes
+_analysis_cache = TTLCache(ttl_seconds=6 * 60 * 60)  # 6 hours
 
 
 def _clamp_urgency(value) -> int:
@@ -128,6 +135,11 @@ def _agent_rewrite(label: str, data):
 
 def fetch_stories(query: str | None = None) -> dict:
     """Today's important news, or the top angles on a topic when `query` is given."""
+    cache_key = (query or "").strip().lower() or "__today__"
+    cached = _news_cache.get(cache_key)
+    if cached is not None:
+        return cached
+
     fetched = _agent_fetch(query)
     raw = fetched["raw"]
 
@@ -158,11 +170,18 @@ def fetch_stories(query: str | None = None) -> dict:
         )
 
     stories.sort(key=lambda s: s["urgency"], reverse=True)
-    return {"stories": stories, "sources": fetched["sources"]}
+    result = {"stories": stories, "sources": fetched["sources"]}
+    _news_cache.set(cache_key, result)
+    return result
 
 
 def build_deep_dive(story: dict) -> dict:
     """Full deep-dive analysis of one story. (Analyst ‖ Impact ‖ Historian) → Rewriter."""
+    cache_key = "deep:" + story["headline"].strip().lower()
+    cached = _analysis_cache.get(cache_key)
+    if cached is not None:
+        return cached
+
     with ThreadPoolExecutor(max_workers=3) as pool:
         analyze_future = pool.submit(_agent_analyze, story)
         impact_future = pool.submit(_agent_impact, story)
@@ -186,11 +205,18 @@ def build_deep_dive(story: dict) -> dict:
         "contrarianView": history.get("contrarianView"),
     }
     final = _agent_rewrite("deep-dive analysis", merged)
-    return {"analysis": final, "sources": analysis["sources"]}
+    result = {"analysis": final, "sources": analysis["sources"]}
+    _analysis_cache.set(cache_key, result)
+    return result
 
 
 def build_agent_takes(story: dict) -> dict:
     """Five specialist analysts weigh in, then a synthesis agent finds the debate."""
+    cache_key = "agents:" + story["headline"].strip().lower()
+    cached = _analysis_cache.get(cache_key)
+    if cached is not None:
+        return cached
+
     perspectives = _agent_perspectives(story)
     agents = perspectives["agents"]
     synthesis = _agent_synthesis(agents)
@@ -198,27 +224,36 @@ def build_agent_takes(story: dict) -> dict:
         "panel of analyst views and their debate",
         {"agents": agents, "synthesis": synthesis},
     )
-    return {
+    result = {
         "agents": final.get("agents") or agents,
         "synthesis": final.get("synthesis") or synthesis,
         "sources": perspectives["sources"],
     }
+    _analysis_cache.set(cache_key, result)
+    return result
 
 
 def build_verdict(topic: str, story: dict) -> dict:
     """Deep Signal's own opinion on a topic — analysis, stance, solution, outcomes."""
+    cache_key = "verdict:" + story["headline"].strip().lower()
+    cached = _analysis_cache.get(cache_key)
+    if cached is not None:
+        return cached
+
     v = extract_json(run_groq(P.VERDICT_SYSTEM, P.verdict_prompt(topic, story)))
     outcomes = [
         {"horizon": str(o.get("horizon", "")), "outcome": str(o.get("outcome", ""))}
         for o in (v.get("outcomes") or [])[:4]
         if o.get("outcome")
     ]
-    return {
+    result = {
         "analysis": str(v.get("analysis", "")),
         "opinion": str(v.get("opinion", "")),
         "solution": str(v.get("solution", "")),
         "outcomes": outcomes,
     }
+    _analysis_cache.set(cache_key, result)
+    return result
 
 
 def quick_scan() -> dict:
