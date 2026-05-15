@@ -1,0 +1,71 @@
+name: Deep Signal — Scheduled Briefings
+
+# Runs the morning / afternoon / evening briefings and the weekly roundup.
+# IMPORTANT: cron times below are UTC. Adjust them to your timezone — see
+# README.md ("Adjusting the schedule"). Defaults: 08:00 / 14:00 / 20:00 UTC.
+
+on:
+  schedule:
+    - cron: "0 8 * * *" # morning briefing (always sends)
+    - cron: "0 14 * * *" # afternoon update (only if new important news)
+    - cron: "0 20 * * *" # evening roundup
+    - cron: "30 20 * * 0" # weekly roundup — Sundays
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Which briefing to run manually"
+        type: choice
+        options: [morning, afternoon, evening, weekly]
+        default: morning
+
+# Both workflows write to data/ — this serializes them so commits never race.
+concurrency:
+  group: deep-signal-data
+  cancel-in-progress: false
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm ci
+
+      - name: Pick mode from schedule
+        id: mode
+        run: |
+          case "${{ github.event.schedule }}" in
+            "0 8 * * *")   echo "mode=morning"   >> "$GITHUB_OUTPUT" ;;
+            "0 14 * * *")  echo "mode=afternoon" >> "$GITHUB_OUTPUT" ;;
+            "0 20 * * *")  echo "mode=evening"   >> "$GITHUB_OUTPUT" ;;
+            "30 20 * * 0") echo "mode=weekly"    >> "$GITHUB_OUTPUT" ;;
+            *)             echo "mode=${{ github.event.inputs.mode || 'morning' }}" >> "$GITHUB_OUTPUT" ;;
+          esac
+
+      - name: Run briefing
+        run: npm run briefing -- ${{ steps.mode.outputs.mode }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          APP_URL: ${{ vars.APP_URL }}
+          MAX_GEMINI_CALLS: ${{ vars.MAX_GEMINI_CALLS }}
+          MAX_GROQ_CALLS: ${{ vars.MAX_GROQ_CALLS }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "deep-signal-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore(data): update usage + story log [skip ci]"
+            git pull --rebase --autostash origin "${{ github.ref_name }}" || true
+            git push
+          fi
