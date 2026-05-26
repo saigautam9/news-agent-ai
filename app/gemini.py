@@ -7,12 +7,36 @@ from __future__ import annotations
 
 import json
 import re
+import time
 
 from google import genai
 from google.genai import types
 
 from app import config
 from app.usage import record
+
+
+# Transient errors (5xx, "UNAVAILABLE", "high demand") are retried with
+# exponential backoff. A daily-quota 429 (RESOURCE_EXHAUSTED) is NOT retried —
+# the only fix is to wait for the next day.
+def _is_transient(exc: BaseException) -> bool:
+    msg = str(exc).lower()
+    if "resource_exhausted" in msg or "quota exceeded" in msg:
+        return False
+    return any(
+        token in msg
+        for token in (" 500 ", " 502 ", " 503 ", " 504 ", "unavailable", "high demand")
+    )
+
+
+def _retry(call, attempts: int = 3, base_delay: float = 1.5):
+    for i in range(attempts):
+        try:
+            return call()
+        except Exception as exc:  # noqa: BLE001
+            if i == attempts - 1 or not _is_transient(exc):
+                raise
+            time.sleep(base_delay * (2**i))
 
 # Two free-tier Gemini models, each with a focused role in the pipeline.
 MODEL_FLASH = config.GEMINI_MODEL
@@ -59,10 +83,12 @@ def run_gemini(
             response_mime_type="application/json",
         )
 
-    res = client.models.generate_content(
-        model=model or MODEL_FLASH,
-        contents=prompt,
-        config=cfg,
+    res = _retry(
+        lambda: client.models.generate_content(
+            model=model or MODEL_FLASH,
+            contents=prompt,
+            config=cfg,
+        )
     )
 
     text = res.text or ""

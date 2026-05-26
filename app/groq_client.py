@@ -9,6 +9,7 @@ from __future__ import annotations
 from groq import Groq
 
 from app import config
+from app.gemini import _retry  # shared transient-error retry helper
 from app.usage import record
 
 GROQ_MODEL = config.GROQ_MODEL
@@ -32,14 +33,16 @@ def run_groq(system: str, prompt: str) -> str:
     """Run one Groq call in JSON mode and return the raw JSON string."""
     record("groq")  # raises UsageLimitError if the daily cap is reached
 
-    res = _get_client().chat.completions.create(
-        model=GROQ_MODEL,
-        temperature=0.4,
-        response_format={"type": "json_object"},
-        messages=[
-            {"role": "system", "content": system},
-            {"role": "user", "content": prompt},
-        ],
+    res = _retry(
+        lambda: _get_client().chat.completions.create(
+            model=GROQ_MODEL,
+            temperature=0.4,
+            response_format={"type": "json_object"},
+            messages=[
+                {"role": "system", "content": system},
+                {"role": "user", "content": prompt},
+            ],
+        )
     )
 
     content = res.choices[0].message.content
