@@ -19,14 +19,17 @@ from app.usage import record
 # Transient errors (5xx, "UNAVAILABLE", "high demand") are retried with
 # exponential backoff. A daily-quota 429 (RESOURCE_EXHAUSTED) is NOT retried —
 # the only fix is to wait for the next day.
+_TRANSIENT_STATUS = re.compile(r"\b(500|502|503|504)\b")
+_TRANSIENT_PHRASES = ("unavailable", "high demand", "internal server error", "bad gateway")
+
+
 def _is_transient(exc: BaseException) -> bool:
     msg = str(exc).lower()
     if "resource_exhausted" in msg or "quota exceeded" in msg:
         return False
-    return any(
-        token in msg
-        for token in (" 500 ", " 502 ", " 503 ", " 504 ", "unavailable", "high demand")
-    )
+    if _TRANSIENT_STATUS.search(msg):
+        return True
+    return any(phrase in msg for phrase in _TRANSIENT_PHRASES)
 
 
 def _retry(call, attempts: int = 3, base_delay: float = 1.5):
