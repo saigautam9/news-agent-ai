@@ -1,8 +1,8 @@
 """
-Deep Signal — ML inference.
+NewsAgent AI — ML inference.
 
 Loads the trained models and analyses a news headline instantly and offline —
-no API calls. Reports the topic (AG News model) and, when the Deep Signal
+no API calls. Reports the topic (AG News model) and, when the NewsAgent AI
 models have been trained, the domain, severity and urgency score.
 
 Usage:
@@ -48,7 +48,7 @@ def main() -> None:
         print(f"Urgency:  {float(urgency.predict([text])[0]):.1f} / 10")
 
     if domain is None:
-        print("\n(Deep Signal domain/severity/urgency models not trained yet.)")
+        print("\n(NewsAgent AI domain/severity/urgency models not trained yet.)")
     print()
 
 

@@ -1,6 +1,6 @@
 # Setup — get your free keys
 
-Deep Signal needs three things, all **free**. This takes about 10 minutes.
+NewsAgent AI needs three things, all **free**. This takes about 10 minutes.
 Copy `.env.example` to `.env.local` first, then fill in each value below.
 
 ```bash
@@ -47,8 +47,8 @@ This is how briefings reach your phone and laptop.
 
 1. Open Telegram and search for **@BotFather** (the one with the blue checkmark).
 2. Send `/newbot`.
-3. Give it a name (e.g. `My Deep Signal`) and a username ending in `bot`
-   (e.g. `my_deep_signal_bot`).
+3. Give it a name (e.g. `My NewsAgent`) and a username ending in `bot`
+   (e.g. `my_news_agent_bot`).
 4. BotFather replies with a **token** like `123456789:AAE...`. Copy it:
    ```
    TELEGRAM_BOT_TOKEN=123456789:AAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

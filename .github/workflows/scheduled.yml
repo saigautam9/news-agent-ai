@@ -1,4 +1,4 @@
-name: Deep Signal — Scheduled Briefings
+name: NewsAgent AI — Scheduled Briefings
 
 # Runs the morning / afternoon / evening briefings and the weekly roundup.
 # IMPORTANT: cron times below are UTC. Adjust them to your timezone — see

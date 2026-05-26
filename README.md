@@ -1,6 +1,6 @@
-# 🛰 Deep Signal
+# 🛰 NewsAgent AI
 
-**The news, actually explained.** Deep Signal isn't a feed — it's a multi-agent
+**The news, actually explained.** NewsAgent AI isn't a feed — it's a multi-agent
 intelligence pipeline. For every story it investigates *why* it happened, what it
 echoes from history, who quietly wins and loses, and what it changes next — then
 explains all of it in plain English.
@@ -18,11 +18,10 @@ It ships as a **FastAPI web app**, an **interactive Telegram bot**, a set of
   (root causes, butterfly chain, winners/losers, historical parallels, a
   contrarian view) and a *Multi-Agent View* (five analysts who each think
   differently, then a debate-room synthesis).
-- **Assistant chatbot** — ask about any topic from the website; Deep Signal
+- **Assistant chatbot** — ask about any topic from the website; NewsAgent AI
   investigates it and replies with its own analysis, opinion, a proposed
   solution, and predicted outcomes.
-- **Telegram bot** — `/news` sends today's stories, then tap a story for Deep
-  Signal's take; or send any topic for a full investigation.
+- **Telegram bot** — `/news` sends today's stories, then tap a story for NewsAgent AI's take; or send any topic for a full investigation.
 - **Always-on automation** — scheduled briefings + a breaking-news monitor run
   on GitHub Actions and push alerts to Telegram.
 - **ML module** — scikit-learn classifiers that categorise and score news
@@ -41,7 +40,7 @@ parallel.
 | Impact Mapper | Gemini 2.5 Flash Lite | Winners / losers / impact matrix |
 | Historian | Groq Llama 4 Scout | Historical patterns, blind spots, contrarian view |
 | Synthesis | Groq Llama 4 Scout | Debate — where the analysts agree vs clash |
-| Verdict | Groq Llama 4 Scout | Deep Signal's own opinion, solution, outcomes |
+| Verdict | Groq Llama 4 Scout | NewsAgent AI's own opinion, solution, outcomes |
 | Rewriter | Groq Llama 4 Scout | Final plain-English rewrite with everyday analogies |
 
 ```

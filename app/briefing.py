@@ -19,7 +19,7 @@ def _today() -> str:
 
 
 def _footer(app_url: str) -> str:
-    return f"{PIPELINE_LINE}\n[Open Deep Signal →]({app_url})"
+    return f"{PIPELINE_LINE}\n[Open NewsAgent AI →]({app_url})"
 
 
 def _story_block(story: dict) -> str:
@@ -35,7 +35,7 @@ def format_briefing(title: str, stories: list[dict], app_url: str) -> str:
     """Morning briefing / afternoon update — a list of important stories."""
     blocks = "\n\n".join(_story_block(s) for s in stories)
     return (
-        f"*🛰 Deep Signal — {_s(title)}*\n_{_today()}_\n\n"
+        f"*🛰 NewsAgent AI — {_s(title)}*\n_{_today()}_\n\n"
         f"{blocks}\n\n{_footer(app_url)}"
     )
 
@@ -52,7 +52,7 @@ def format_roundup(important: list[dict], mediums: list[dict], app_url: str) -> 
         bullets = "\n".join(f"• {_s(m['headline'])}" for m in mediums[:6])
         radar = f"\n\n🟡 *Also on the radar*\n{bullets}"
     return (
-        f"*🛰 Deep Signal — Evening Roundup*\n_{_today()}_\n\n"
+        f"*🛰 NewsAgent AI — Evening Roundup*\n_{_today()}_\n\n"
         f"{head}{radar}\n\n{_footer(app_url)}"
     )
 
@@ -64,7 +64,7 @@ def format_breaking(items: list[dict], app_url: str) -> str:
         f"_Why this is critical: {_s(it['why'])}_"
         for it in items
     )
-    return f"🚨 *Deep Signal — Breaking*\n\n{blocks}\n\n[Open Deep Signal →]({app_url})"
+    return f"🚨 *NewsAgent AI — Breaking*\n\n{blocks}\n\n[Open NewsAgent AI →]({app_url})"
 
 
 def format_weekly(entries: list[dict], app_url: str) -> str:
@@ -73,16 +73,16 @@ def format_weekly(entries: list[dict], app_url: str) -> str:
         f"🟡 *{_s(e['headline'])}*\n{_s(e['summary'])}" for e in entries[:12]
     )
     return (
-        f"*🛰 Deep Signal — Weekly Roundup*\n"
+        f"*🛰 NewsAgent AI — Weekly Roundup*\n"
         f"_The slower-moving stories from the past week_\n\n"
-        f"{blocks}\n\n[Open Deep Signal →]({app_url})"
+        f"{blocks}\n\n[Open NewsAgent AI →]({app_url})"
     )
 
 
 def format_usage_warning(u: dict) -> str:
     """Cost-protection warning sent once when usage crosses the threshold."""
     return (
-        f"⚠️ *Deep Signal — API usage warning*\n\n"
+        f"⚠️ *NewsAgent AI — API usage warning*\n\n"
         f"Today's calls so far: Gemini {u['gemini']}/{u['maxGemini']}, "
         f"Groq {u['groq']}/{u['maxGroq']}.\n\n"
         f"If a daily cap is reached the system pauses and resumes tomorrow — "
@@ -94,12 +94,12 @@ def format_topic_reply(query: str, stories: list[dict], app_url: str) -> str:
     """Reply to a topic/question asked interactively via the Telegram bot."""
     if not stories:
         return (
-            f"🛰 *Deep Signal*\n\n"
+            f"🛰 *NewsAgent AI*\n\n"
             f"I couldn't find anything solid on _{_s(query)}_ right now — "
             f"try rephrasing it."
         )
     blocks = "\n\n".join(_story_block(s) for s in stories)
-    return f"*🛰 Deep Signal — {_s(query)}*\n\n{blocks}\n\n{_footer(app_url)}"
+    return f"*🛰 NewsAgent AI — {_s(query)}*\n\n{blocks}\n\n{_footer(app_url)}"
 
 
 def format_news_list(title: str, stories: list[dict]) -> str:
@@ -114,7 +114,7 @@ def format_news_list(title: str, stories: list[dict]) -> str:
         )
     body = "\n\n".join(lines)
     return (
-        f"*🛰 Deep Signal — {_s(title)}*\n_{_today()}_\n\n{body}\n\n"
+        f"*🛰 NewsAgent AI — {_s(title)}*\n_{_today()}_\n\n{body}\n\n"
         f"👇 Want my take? Tap a story number below — or *All* for every story."
     )
 
@@ -122,7 +122,7 @@ def format_news_list(title: str, stories: list[dict]) -> str:
 def format_verdict_reply(
     topic: str, story: dict, verdict: dict, others: list[dict], app_url: str
 ) -> str:
-    """The bot's full answer: the key story + Deep Signal's verdict."""
+    """The bot's full answer: the key story + NewsAgent AI's verdict."""
     sections: list[str] = []
     if verdict.get("analysis"):
         sections.append(f"🧠 *My read*\n{_s(verdict['analysis'])}")
@@ -145,7 +145,7 @@ def format_verdict_reply(
     emoji = SEV_EMOJI.get(story["severity"], "🟡")
     body = "\n\n".join(sections)
     return (
-        f"*🛰 Deep Signal — {_s(topic)}*\n\n"
+        f"*🛰 NewsAgent AI — {_s(topic)}*\n\n"
         f"{emoji} *{_s(story['headline'])}*\n{_s(story['summary'])}\n\n"
         f"{body}{related}\n\n{_footer(app_url)}"
     )

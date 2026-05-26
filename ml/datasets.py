@@ -1,9 +1,9 @@
 """
-Dataset loaders for the Deep Signal ML module.
+Dataset loaders for the NewsAgent AI ML module.
 
 Two sources:
   - AG News        — 120k public, labelled news articles (4 topic classes).
-  - Signal corpus  — the stories Deep Signal collects + labels itself.
+  - Signal corpus  — the stories NewsAgent AI collects + labels itself.
 """
 
 from __future__ import annotations
@@ -44,7 +44,7 @@ def load_agnews() -> tuple[pd.DataFrame, pd.DataFrame]:
 
 def load_signal_corpus() -> pd.DataFrame:
     """
-    Deep Signal's own labelled stories, merged from ml/data/corpus.csv and
+    NewsAgent AI's own labelled stories, merged from ml/data/corpus.csv and
     data/log.json. Columns: text, domain, severity, urgency (urgency may be NaN
     for stories that came from the log, which doesn't record it).
     """

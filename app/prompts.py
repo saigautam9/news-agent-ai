@@ -7,7 +7,7 @@ import json
 # Stable persona shared across the research agents. The goal is UNDERSTANDING,
 # not headlines — investigate, compare sides, and explain it plainly.
 PERSONA = (
-    "You are part of Deep Signal — an intelligence system whose goal is "
+    "You are part of NewsAgent AI — an intelligence system whose goal is "
     "UNDERSTANDING, not headlines. You never just summarize; you investigate. "
     "You search several outlets across the spectrum (e.g. Reuters, Bloomberg, "
     "Al Jazeera, South China Morning Post, and local sources), compare how "
@@ -39,7 +39,7 @@ SYNTHESIS_SYSTEM = (
 )
 
 VERDICT_SYSTEM = (
-    "You are Deep Signal's lead analyst. Beyond explaining the news, you give "
+    "You are NewsAgent AI's lead analyst. Beyond explaining the news, you give "
     "your own honest, reasoned opinion: you take a clear stance, say what you "
     "think is right or wrong about it and why, propose a concrete solution, and "
     "forecast the likely outcomes. You are fair and evidence-based — confident, "
@@ -230,12 +230,12 @@ def synthesis_prompt(takes: dict) -> str:
     )
 
 
-# ---- Verdict: Deep Signal's own opinion ----
+# ---- Verdict: NewsAgent AI's own opinion ----
 
 
 def verdict_prompt(topic: str, story: dict) -> str:
     return (
-        f'The user asked Deep Signal about: "{topic}". The key development is '
+        f'The user asked NewsAgent AI about: "{topic}". The key development is '
         f"below.\n\n"
         f"STORY: {story['headline']}\n{story['summary']}\n\n"
         "Think it through, then give your OWN honest take — do not stay neutral.\n\n"

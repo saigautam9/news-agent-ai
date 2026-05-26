@@ -1,7 +1,7 @@
 """
 Builds the training corpus for the ML module (ml/).
 
-Runs Deep Signal's own fetch + classify pipeline across many topics, so every
+Runs NewsAgent AI's own fetch + classify pipeline across many topics, so every
 story comes back already labelled with a domain, urgency score and severity.
 The labelled rows are written to ml/data/corpus.csv.
 

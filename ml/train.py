@@ -1,13 +1,13 @@
 """
-Deep Signal — ML training pipeline.
+NewsAgent AI — ML training pipeline.
 
 Trains two sets of scikit-learn models, all on TF-IDF text features:
 
   A. News topic classifier — trained on AG News (120k labelled news articles).
      A real, reproducible benchmark result — the headline ML model.
 
-  B. Deep Signal models — a domain classifier, a severity classifier and an
-     urgency-score regressor, trained on the stories Deep Signal collects and
+  B. NewsAgent AI models — a domain classifier, a severity classifier and an
+     urgency-score regressor, trained on the stories NewsAgent AI collects and
      auto-labels itself (ml/data/corpus.csv + data/log.json). This corpus grows
      every day the deployed app runs, so re-running this script keeps improving
      them.
@@ -102,7 +102,7 @@ def train_topic_classifier() -> dict:
 
 
 # --------------------------------------------------------------------------
-# B. Deep Signal models — the project's own collected corpus
+# B. NewsAgent AI models — the project's own collected corpus
 # --------------------------------------------------------------------------
 def _evaluate_classifier(name: str, df, target: str) -> dict:
     X, y = df["text"], df[target]
@@ -142,7 +142,7 @@ def _evaluate_classifier(name: str, df, target: str) -> dict:
 
 def train_signal_models() -> dict:
     print("\n" + "=" * 56)
-    print("  B. Deep Signal models  —  self-collected corpus")
+    print("  B. NewsAgent AI models  —  self-collected corpus")
     print("=" * 56)
 
     df = load_signal_corpus()

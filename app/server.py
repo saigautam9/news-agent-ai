@@ -1,5 +1,5 @@
 """
-Deep Signal — FastAPI application.
+NewsAgent AI — FastAPI application.
 
 Serves the web UI, the JSON API, a chat endpoint, and the Telegram webhook.
 The same multi-agent pipeline powers all of them.
@@ -34,7 +34,7 @@ from app.telegram import (
 
 BASE = Path(__file__).resolve().parent
 
-app = FastAPI(title="Deep Signal", docs_url=None, redoc_url=None)
+app = FastAPI(title="NewsAgent AI", docs_url=None, redoc_url=None)
 app.mount("/static", StaticFiles(directory=BASE / "static"), name="static")
 
 INDEX_HTML = BASE / "templates" / "index.html"
@@ -53,7 +53,7 @@ def home():
         return HTMLResponse(INDEX_HTML.read_text(encoding="utf-8"))
     except Exception:  # noqa: BLE001
         return PlainTextResponse(
-            "Deep Signal — homepage failed to load:\n\n" + traceback.format_exc(),
+            "NewsAgent AI — homepage failed to load:\n\n" + traceback.format_exc(),
             status_code=500,
         )
 
@@ -123,7 +123,7 @@ async def api_agents(request: Request):
 
 @app.post("/api/chat")
 async def api_chat(request: Request):
-    """Website chatbot — investigates a question and returns Deep Signal's verdict."""
+    """Website chatbot — investigates a question and returns NewsAgent AI's verdict."""
     message = str((await _json(request)).get("message") or "").strip()
     if not message:
         return JSONResponse({"error": "Ask me about any topic."}, status_code=400)
@@ -141,7 +141,7 @@ async def api_chat(request: Request):
 # ---------------------------------------------------------------- Telegram bot
 _HELP = "\n".join(
     [
-        "🛰 *Deep Signal*",
+        "🛰 *NewsAgent AI*",
         "",
         "I investigate the news with a 7-agent AI pipeline and give you my own",
         "analysis, opinion and predicted outcomes.",
@@ -175,7 +175,7 @@ async def api_telegram(request: Request):
     # Owner-only — protects the free-tier API quota.
     owner = config.TELEGRAM_CHAT_ID
     if owner and str(chat_id) != str(owner):
-        _try_send("Sorry — this is a private Deep Signal bot.", chat_id)
+        _try_send("Sorry — this is a private NewsAgent AI bot.", chat_id)
         return {"ok": True}
 
     if text in ("/start", "/help"):

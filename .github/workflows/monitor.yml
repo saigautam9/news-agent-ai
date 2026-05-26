@@ -1,4 +1,4 @@
-name: Deep Signal — Breaking-News Monitor
+name: NewsAgent AI — Breaking-News Monitor
 
 # A lightweight scan every 2 hours. One grounded Gemini call checks for breaking
 # news; it only sends a Telegram alert if something CRITICAL is happening,

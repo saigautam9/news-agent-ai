@@ -234,7 +234,7 @@ def build_agent_takes(story: dict) -> dict:
 
 
 def build_verdict(topic: str, story: dict) -> dict:
-    """Deep Signal's own opinion on a topic — analysis, stance, solution, outcomes."""
+    """NewsAgent AI's own opinion on a topic — analysis, stance, solution, outcomes."""
     cache_key = "verdict:" + story["headline"].strip().lower()
     cached = _analysis_cache.get(cache_key)
     if cached is not None:
