@@ -17,11 +17,7 @@ from fastapi.responses import HTMLResponse, JSONResponse, PlainTextResponse
 from fastapi.staticfiles import StaticFiles
 
 from app import config
-from app.briefing import (
-    format_news_list,
-    format_topic_reply,
-    format_verdict_reply,
-)
+from app.briefing import format_news_list, format_verdict_reply
 from app.gemini import err_message
 from app.pipeline import (
     build_agent_takes,
@@ -151,7 +147,8 @@ _HELP = "\n".join(
         "analysis, opinion and predicted outcomes.",
         "",
         "• /news — today's top stories, then tap one for my take",
-        "• send any *topic* — e.g. `US tariffs` — for a full investigation",
+        "• send any *topic* — e.g. `US tariffs` — for the top stories on it,",
+        "  then tap a number for my analysis, opinion and predicted outcomes",
     ]
 )
 
@@ -186,16 +183,33 @@ async def api_telegram(request: Request):
     elif text in ("/news", "news"):
         _send_news(chat_id)
     else:
-        _send_topic_verdict(chat_id, text)
+        _send_news(chat_id, query=text)
     return {"ok": True}
 
 
-def _send_news(chat_id) -> None:
-    """Send today's stories with a 'my take?' inline keyboard."""
+def _send_news(chat_id, query: str | None = None) -> None:
+    """
+    Send a news list with a 'my take?' inline keyboard.
+    With `query`, fetches stories on that topic; otherwise today's top news.
+    """
+    if query:
+        _try_send(
+            f"🛰 Investigating *{sanitize_markdown(query)}* — one moment…", chat_id
+        )
+
     try:
-        stories = fetch_stories()["stories"]
+        stories = fetch_stories(query)["stories"]
     except Exception as exc:  # noqa: BLE001
-        _try_send(f"Sorry — couldn't fetch the news: {sanitize_markdown(err_message(exc))}", chat_id)
+        _try_send(
+            f"Sorry — couldn't fetch the news: {sanitize_markdown(err_message(exc))}",
+            chat_id,
+        )
+        return
+
+    if not stories:
+        _try_send(
+            "I couldn't find anything solid on that — try rephrasing.", chat_id
+        )
         return
 
     _news_cache[str(chat_id)] = {"stories": stories, "ts": time.time()}
@@ -205,33 +219,11 @@ def _send_news(chat_id) -> None:
     keyboard = inline_keyboard(
         [numbers, [{"text": "🧠 My take on all", "callback_data": "take:all"}]]
     )
+    title = query if query else "Today's Briefing"
     try:
-        send_telegram(format_news_list("Today's Briefing", stories), chat_id, keyboard)
+        send_telegram(format_news_list(title, stories), chat_id, keyboard)
     except Exception:  # noqa: BLE001
         pass
-
-
-def _send_topic_verdict(chat_id, topic: str) -> None:
-    """Investigate a free-text topic and reply with Deep Signal's verdict."""
-    try:
-        _try_send(
-            f"🛰 Investigating *{sanitize_markdown(topic)}* and forming my take — "
-            f"one moment…",
-            chat_id,
-        )
-        stories = fetch_stories(topic)["stories"]
-        if not stories:
-            send_telegram(format_topic_reply(topic, stories, config.APP_URL), chat_id)
-            return
-        top, others = stories[0], stories[1:]
-        verdict = build_verdict(topic, top)
-        send_telegram(
-            format_verdict_reply(topic, top, verdict, others, config.APP_URL), chat_id
-        )
-    except Exception as exc:  # noqa: BLE001
-        _try_send(
-            f"Sorry — that didn't work: {sanitize_markdown(err_message(exc))}", chat_id
-        )
 
 
 def _handle_callback(callback: dict) -> None:
