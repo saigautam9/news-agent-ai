@@ -1,22 +1,82 @@
 {
   "topic_classifier": {
     "dataset": "AG News",
+    "model": "TF-IDF (1-2 gram) + LinearSVC",
     "train_size": 120000,
     "test_size": 7600,
-    "accuracy": 0.9214,
-    "macro_f1": 0.9213
+    "accuracy": 0.9233,
+    "macro_f1": 0.9231,
+    "weighted_f1": 0.9231,
+    "labels": [
+      "Business",
+      "Sci/Tech",
+      "Sports",
+      "World"
+    ],
+    "per_class": {
+      "Business": {
+        "precision": 0.898,
+        "recall": 0.888,
+        "f1": 0.893,
+        "support": 1900
+      },
+      "Sci/Tech": {
+        "precision": 0.897,
+        "recall": 0.908,
+        "f1": 0.903,
+        "support": 1900
+      },
+      "Sports": {
+        "precision": 0.96,
+        "recall": 0.985,
+        "f1": 0.972,
+        "support": 1900
+      },
+      "World": {
+        "precision": 0.938,
+        "recall": 0.912,
+        "f1": 0.925,
+        "support": 1900
+      }
+    },
+    "confusion_matrix": [
+      [
+        1687,
+        145,
+        14,
+        54
+      ],
+      [
+        113,
+        1726,
+        13,
+        48
+      ],
+      [
+        11,
+        5,
+        1871,
+        13
+      ],
+      [
+        68,
+        48,
+        51,
+        1733
+      ]
+    ]
   },
   "signal_models": {
-    "corpus_size": 20,
+    "corpus_size": 21,
     "domain_classifier": {
-      "test_accuracy": 0.6,
-      "test_macro_f1": 0.25,
+      "test_accuracy": 0.667,
+      "test_macro_f1": 0.296,
       "cv_accuracy": null
     },
     "severity_classifier": {
-      "test_accuracy": 0.6,
-      "test_macro_f1": 0.375,
-      "cv_accuracy": 0.55
+      "test_accuracy": 0.667,
+      "test_macro_f1": 0.472,
+      "cv_accuracy": 0.473
     },
     "urgency_regressor": {
       "status": "skipped",

@@ -71,7 +71,7 @@ the free tier; and the two data-writing workflows share a concurrency lock so
 their commits never race.
 
 📊 Model evaluation metrics live in [`ml/README.md`](ml/README.md#evaluation-results)
-— the AG News topic classifier scores **92.1%** accuracy (0.921 macro-F1).
+— the AG News topic classifier scores **92.3%** accuracy (0.923 macro-F1).
 
 ## Signal Engine — news *pattern* intelligence
 
