@@ -73,6 +73,17 @@
 
   <div id="tiles" class="tiles"></div>
 
+  <div class="card full" style="margin-bottom:16px">
+    <h2>🔮 Ask the archive — outlook &amp; precedents</h2>
+    <p class="cap">Type any topic. It searches every stored story by meaning, then gives a precedent-based outlook — what has <em>typically followed</em>, with a confidence scored from the evidence.</p>
+    <div style="display:flex;gap:10px;flex-wrap:wrap">
+      <input id="q" type="text" placeholder="e.g. oil prices and middle east conflict" autocomplete="off"
+        style="flex:1;min-width:220px;background:#0a0e14;border:1px solid var(--border);border-radius:10px;padding:11px 14px;color:var(--ink);font-size:.92rem" />
+      <button id="askBtn" style="background:var(--amber);color:#0a0e14;border:0;border-radius:10px;padding:11px 22px;font-weight:700;cursor:pointer">Ask →</button>
+    </div>
+    <div id="askResult"></div>
+  </div>
+
   <div class="grid">
     <div class="card full">
       <h2>Daily news volume</h2>
@@ -295,6 +306,43 @@ function renderCo(co){
     box.appendChild(row);
   });
 }
+
+// ---- Ask the archive: outlook + precedents ----
+const CONF_COLOR = {"moderate-high":"var(--escalate)","moderate":"var(--amber)","low":"var(--ink-mute)","none":"var(--ink-mute)"};
+async function ask(){
+  const q=$("q").value.trim(); if(!q) return;
+  const box=$("askResult");
+  box.innerHTML='<p class="cap" style="margin-top:12px">🔎 Searching every stored story…</p>';
+  try{
+    const d=await fetch("/api/outlook?q="+encodeURIComponent(q)).then(r=>r.json());
+    if(d.error){ box.innerHTML='<p class="cap" style="margin-top:12px">'+d.error+'</p>'; return; }
+    const cc=CONF_COLOR[d.confidence]||"var(--ink-mute)";
+    const H=(l)=>`<span style="font-size:.7rem;text-transform:uppercase;letter-spacing:.09em;color:var(--ink-mute)">${l}</span>`;
+    let html='<div style="margin-top:16px;border-top:1px solid var(--border);padding-top:16px">';
+    if(d.pattern){
+      html+=`<div style="margin-bottom:12px">${H("Pattern")}<div style="margin-top:3px">${d.pattern}</div></div>`;
+      html+=`<div style="margin-bottom:8px">${H("Likely next")} <span style="background:${cc};color:#0a0e14;border-radius:99px;padding:2px 10px;font-size:.7rem;font-weight:700;margin-left:4px">${d.confidence} confidence</span><div style="margin-top:4px">${d.likely_next||""}</div></div>`;
+      html+=`<p class="cap" style="margin-bottom:14px">${d.based_on||""} · ${d.disclaimer||""}</p>`;
+    } else {
+      html+=`<p class="cap" style="margin-bottom:12px">${d.outlook||"No comparable precedents yet."}</p>`;
+    }
+    if(d.matches&&d.matches.length){
+      html+=H("Related events retrieved (by meaning)")+'<div style="margin-top:8px;display:flex;flex-direction:column;gap:7px">';
+      d.matches.slice(0,6).forEach(m=>{
+        html+=`<div style="display:flex;gap:10px;align-items:baseline;font-size:.86rem">
+          <span style="font-family:'JetBrains Mono',monospace;color:var(--ink-mute);font-size:.74rem;min-width:84px">${m.date||"—"}</span>
+          <span style="color:${deskColor(m.domain)};font-size:.72rem;min-width:82px">${m.domain}</span>
+          <span style="color:var(--ink-soft)">${m.headline}</span>
+          <span title="similarity" style="margin-left:auto;font-family:'JetBrains Mono',monospace;color:var(--ink-mute);font-size:.72rem">${m.similarity}</span>
+        </div>`;
+      });
+      html+='</div>';
+    }
+    box.innerHTML=html+'</div>';
+  }catch(e){ box.innerHTML='<p class="cap" style="margin-top:12px">Search failed — try again.</p>'; }
+}
+$("askBtn").addEventListener("click", ask);
+$("q").addEventListener("keydown", e=>{ if(e.key==="Enter") ask(); });
 
 main();
 </script>
