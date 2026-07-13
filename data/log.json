@@ -129,6 +129,16 @@
       "mode": "monitor",
       "fp": "us and iran exchange massive strikes over strait of hormuz",
       "date": "2026-07-13"
+    },
+    {
+      "headline": "U.S. Reinstates Iran Naval Blockade and Imposes Strait of Hormuz Cargo Toll Amid Massive Military Escalation",
+      "summary": "Following the collapse of a shaky ceasefire, President Donald Trump announced that the U.S. is reimposing a naval blockade on Iranian ports and will charge a 20% toll on all other cargo transiting the Strait of Hormuz to cover American security costs. This follows a weekend of heavy fighting, featuring U.S. strikes against dozens of Iranian targets\u2014including the first combat use of American sea drones\u2014and retaliatory Iranian strikes targeting U.S. bases and allies in Jordan, Bahrain, Kuwait, Qatar, and Oman.",
+      "why": "The Strait of Hormuz is a vital global trade choke point handling a fifth of the world's oil and gas. Reinstating a blockade, imposing an unprecedented unilateral maritime toll, and entering a direct multi-front hot war between the U.S. and Iran marks a major military escalation with severe consequences for global energy markets and international security.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s reinstates iran naval blockade and imposes strait of",
+      "date": "2026-07-13"
     }
   ]
 }
