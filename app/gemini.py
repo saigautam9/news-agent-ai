@@ -17,27 +17,41 @@ from app.usage import record
 
 
 # Transient errors (5xx, "UNAVAILABLE", "high demand") are retried with
-# exponential backoff. A daily-quota 429 (RESOURCE_EXHAUSTED) is NOT retried —
-# the only fix is to wait for the next day.
+# exponential backoff. A per-MINUTE 429 rate-limit is also retried briefly
+# (news loads fire a few grounded calls at once and can trip it); a genuine
+# daily-quota 429 with a long/absent retry hint is NOT retried.
 _TRANSIENT_STATUS = re.compile(r"\b(500|502|503|504)\b")
 _TRANSIENT_PHRASES = ("unavailable", "high demand", "internal server error", "bad gateway")
+_RETRY_DELAY_RE = re.compile(r"retrydelay['\"]?\s*[:=]\s*['\"]?(\d+(?:\.\d+)?)s", re.I)
 
 
 def _is_transient(exc: BaseException) -> bool:
     msg = str(exc).lower()
-    if "resource_exhausted" in msg or "quota exceeded" in msg:
-        return False
     if _TRANSIENT_STATUS.search(msg):
         return True
     return any(phrase in msg for phrase in _TRANSIENT_PHRASES)
 
 
-def _retry(call, attempts: int = 3, base_delay: float = 1.5):
+def _is_rate_limit(exc: BaseException) -> bool:
+    msg = str(exc).lower()
+    return "429" in msg or "resource_exhausted" in msg or "rate limit" in msg
+
+
+def _retry(call, attempts: int = 4, base_delay: float = 1.5):
     for i in range(attempts):
         try:
             return call()
         except Exception as exc:  # noqa: BLE001
-            if i == attempts - 1 or not _is_transient(exc):
+            if i == attempts - 1:
+                raise
+            if _is_rate_limit(exc):
+                m = _RETRY_DELAY_RE.search(str(exc))
+                wait = float(m.group(1)) if m else min(3 * (2**i), 20)
+                if wait > 30:  # looks like a hard/daily quota — don't spin on it
+                    raise
+                time.sleep(wait + 0.5)
+                continue
+            if not _is_transient(exc):
                 raise
             time.sleep(base_delay * (2**i))
 
