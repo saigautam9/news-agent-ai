@@ -1,3 +1,54 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "headline": "US and Iran at war again as peace deal fails",
+      "summary": "The peace deal between the US and Iran has broken down. The US attacked over 100 targets in Iran, and Iran fought back at US bases and tried to block a crucial shipping route. Now they're in a fierce battle for control of the waterway.",
+      "why": "This fight is blocking the main supply of energy for the world, which could quickly make fuel prices go up very high.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and iran at war again as peace deal fails",
+      "date": "2026-07-13"
+    },
+    {
+      "headline": "Russia bans diesel exports after drone attacks on refineries",
+      "summary": "Russia has stopped exporting diesel fuel because simple drones from Ukraine have damaged many of its oil refineries. People in Russia are now waiting in long lines for fuel, and the government is even importing fuel from India. Diesel prices in Europe have gone up to record highs because one of the world's biggest sellers is no longer selling.",
+      "why": "It shows how small, cheap drones can really hurt a powerful country's economy and make transportation more expensive for everyone.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "russia bans diesel exports after drone attacks on refineries",
+      "date": "2026-07-13"
+    },
+    {
+      "headline": "Venezuela's twin earthquakes leave thousands dead and cities ruined",
+      "summary": "Over 4,300 people have died after two huge earthquakes hit Venezuela just 39 seconds apart. The rare 'doublet' quake destroyed entire neighborhoods, and thousands of people are still missing. The UN is trying to raise money to help, but Venezuela is already struggling financially.",
+      "why": "It's the worst natural disaster in the region in over a century, causing a huge health crisis and displacing thousands of people.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "venezuela s twin earthquakes leave thousands dead and cities ruined",
+      "date": "2026-07-13"
+    },
+    {
+      "headline": "Qatar delays global gas supply increase after shipping attacks",
+      "summary": "Qatar has put on hold its plans to send more natural gas to the world after one of its ships was attacked in the Middle East. The country's main energy facility is now running at very low levels to keep workers safe. Ships are turning back rather than risk going through the dangerous waters.",
+      "why": "This delay will make it much harder and more expensive for Europe and Asia to heat their homes this winter.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "qatar delays global gas supply increase after shipping attacks",
+      "date": "2026-07-13"
+    },
+    {
+      "headline": "Severe El Ni\u00f1o weather threatens global food price surge",
+      "summary": "Weather experts warn that a severe El Ni\u00f1o cycle could cause a global food crisis that lasts for years. Extreme heat is already causing huge wildfires in Canada and Spain, and droughts are damaging crops. If this continues, the cost of basic groceries could go up worldwide.",
+      "why": "It means families everywhere will feel the pinch at the supermarket, while poorer countries could face severe food shortages.",
+      "domain": "Climate",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "severe el ni o weather threatens global food price surge",
+      "date": "2026-07-13"
+    }
+  ]
 }
