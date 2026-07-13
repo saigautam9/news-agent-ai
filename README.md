@@ -36,10 +36,10 @@ parallel.
 
 | Agent | Model | Job |
 |---|---|---|
-| Fetcher | Gemini 2.5 Flash (Google-Search grounded) | Pull live news from multiple outlets |
-| Classifier | Gemini 2.5 Flash Lite | Domain + urgency + severity |
-| Analyst | Gemini 2.5 Flash (grounded) | Causes, connect-the-dots, narratives |
-| Impact Mapper | Gemini 2.5 Flash Lite | Winners / losers / impact matrix |
+| Fetcher | Gemini Flash (Google-Search grounded) | Pull live news from multiple outlets |
+| Classifier | Gemini Flash-Lite | Domain + urgency + severity |
+| Analyst | Gemini Flash (grounded) | Causes, connect-the-dots, narratives |
+| Impact Mapper | Gemini Flash-Lite | Winners / losers / impact matrix |
 | Historian | Groq Llama 4 Scout | Historical patterns, blind spots, contrarian view |
 | Synthesis | Groq Llama 4 Scout | Debate — where the analysts agree vs clash |
 | Verdict | Groq Llama 4 Scout | NewsAgent AI's own opinion, solution, outcomes |
@@ -54,11 +54,30 @@ parallel.
    scikit-learn ML module  ◄── trains on the corpus the pipeline collects
 ```
 
+### Data flow (ETL)
+
+Under the hood NewsAgent AI is a scheduled **ETL + inference pipeline**:
+
+| Stage | What happens | Tech |
+| --- | --- | --- |
+| **Extract** | Grounded Gemini calls pull live stories from multiple outlets with cited sources; the web UI and Telegram webhook are the on-demand triggers, GitHub Actions cron is the scheduled one | Gemini Flash + Google-Search grounding |
+| **Transform** | Seven specialised agents classify (domain / severity / urgency), analyse causes & impact, add historical context, debate, and rewrite into plain English — every LLM call returns schema-validated JSON | Gemini Flash / Flash-Lite · Groq Llama 4 Scout |
+| **Load** | Structured results persist to `data/log.json` and append to the ML training corpus (`ml/data/corpus.csv`); daily API usage is metered against free-tier caps | JSON store · Git-committed data |
+| **Serve** | FastAPI serves the web app + JSON API; GitHub Actions delivers briefings to Telegram; the scikit-learn module retrains on the growing corpus | FastAPI · GitHub Actions · scikit-learn |
+
+**Production hardening:** transient `5xx`/`UNAVAILABLE` errors retry with
+exponential backoff; daily API usage is hard-capped so a runaway loop can't blow
+the free tier; and the two data-writing workflows share a concurrency lock so
+their commits never race.
+
+📊 Model evaluation metrics live in [`ml/README.md`](ml/README.md#evaluation-results)
+— the AG News topic classifier scores **92.1%** accuracy (0.921 macro-F1).
+
 ## Tech stack
 
 - **Backend** — Python · FastAPI · Uvicorn
 - **Frontend** — server-rendered Jinja2 + vanilla JS/CSS (no build step)
-- **AI** — Google Gemini 2.5 (grounded) · Groq Llama 4 Scout
+- **AI** — Google Gemini Flash (grounded) · Groq Llama 4 Scout
 - **ML** — scikit-learn · pandas (TF-IDF classifiers + a regressor)
 - **Automation** — GitHub Actions (cron) · Telegram Bot API
 - **Deploy** — Vercel (Python serverless)

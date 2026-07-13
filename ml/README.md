@@ -52,3 +52,42 @@ report, and writes `ml/models/metrics.json`.
 
 To grow the NewsAgent AI corpus, run `npm run collect-corpus` from the project
 root (limited by Gemini's free-tier quota of 20 requests/day).
+
+## Evaluation results
+
+Every number below is produced by `python train.py` (which also writes
+`models/metrics.json`) and is fully reproducible from the committed data.
+
+### Topic classifier — AG News benchmark
+
+TF-IDF (unigram + bigram) + Logistic Regression, trained on **120,000**
+labelled articles and evaluated on the held-out **7,600**-article test set.
+
+| Metric | Score |
+| --- | --- |
+| Accuracy | **92.1%** |
+| Macro F1 | **0.921** |
+
+Per-class (precision / recall / F1):
+
+| Class | Precision | Recall | F1 |
+| --- | --- | --- | --- |
+| Sports | 0.96 | 0.98 | **0.97** |
+| World | 0.94 | 0.91 | **0.92** |
+| Sci/Tech | 0.90 | 0.91 | **0.90** |
+| Business | 0.90 | 0.89 | **0.89** |
+
+### Domain & severity classifiers — self-collected corpus
+
+Trained on NewsAgent AI's own auto-labelled corpus (**20 stories today** —
+preliminary, and improves every day the deployed app collects more):
+
+| Model | Classes | Held-out accuracy | Macro F1 | CV accuracy |
+| --- | --- | --- | --- | --- |
+| Domain | 6 | 60.0% | 0.25 | — |
+| Severity | 4 | 60.0% | 0.375 | 55.0% |
+| Urgency (regressor) | 1–10 | skipped — needs more labelled rows | | |
+
+> These self-collected models are deliberately honest about their small-data
+> stage: the corpus grows daily, and re-running `train.py` keeps improving them.
+> The AG News topic classifier is the headline, benchmark-grade result.
