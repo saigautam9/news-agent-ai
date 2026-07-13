@@ -130,6 +130,35 @@ def log_story(entry: dict) -> None:
     con.close()
 
 
+def persist_stories(stories: list[dict], mode: str = "live") -> None:
+    """Persist live-fetched stories to Postgres (stamps today's date).
+
+    Called when a user asks for news on the site, so the warehouse captures
+    on-demand queries too — not just the scheduled briefings.
+    """
+    con = _connect()
+    if con is None or not stories:
+        return
+    from datetime import date as _date
+
+    today = _date.today().isoformat()
+    enriched = [
+        {**s, "date": s.get("date") or today, "mode": s.get("mode") or mode}
+        for s in stories
+    ]
+    rows = _transform(enriched)
+    if rows:
+        with con:
+            con.execute(_SCHEMA)
+            con.cursor().executemany(
+                "INSERT INTO stories (fp,date,domain,severity,severity_rank,"
+                "urgency,mode,headline,summary) VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s) "
+                "ON CONFLICT (fp) DO NOTHING",
+                rows,
+            )
+    con.close()
+
+
 def migrate() -> dict:
     """ETL: load the JSON log + ML corpus into Postgres (idempotent upsert)."""
     con = _connect()

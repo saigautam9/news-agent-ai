@@ -172,6 +172,15 @@ def fetch_stories(query: str | None = None) -> dict:
     stories.sort(key=lambda s: s["urgency"], reverse=True)
     result = {"stories": stories, "sources": fetched["sources"]}
     _news_cache.set(cache_key, result)
+
+    # Capture on-demand queries in the warehouse too (never break news on a DB hiccup).
+    try:
+        from app.analytics import persist_stories
+
+        persist_stories(stories, mode="query" if query else "live")
+    except Exception:
+        pass
+
     return result
 
 
