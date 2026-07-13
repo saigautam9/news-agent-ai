@@ -42,8 +42,8 @@ GEMINI_API_KEY = _get("GEMINI_API_KEY")
 GROQ_API_KEY = _get("GROQ_API_KEY")
 
 # --- Models (overridable) ---
-GEMINI_MODEL = _get("GEMINI_MODEL", "gemini-2.5-flash")
-GEMINI_LITE_MODEL = _get("GEMINI_LITE_MODEL", "gemini-2.5-flash-lite")
+GEMINI_MODEL = _get("GEMINI_MODEL", "gemini-flash-latest")
+GEMINI_LITE_MODEL = _get("GEMINI_LITE_MODEL", "gemini-flash-lite-latest")
 GROQ_MODEL = _get("GROQ_MODEL", "meta-llama/llama-4-scout-17b-16e-instruct")
 
 # --- Telegram ---
