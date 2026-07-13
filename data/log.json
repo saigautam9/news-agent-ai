@@ -139,6 +139,56 @@
       "mode": "monitor",
       "fp": "u s reinstates iran naval blockade and imposes strait of",
       "date": "2026-07-13"
+    },
+    {
+      "headline": "US and Iran in tense standoff over Strait of Hormuz",
+      "summary": "The US and Iran are in a heated argument over a vital waterway called the Strait of Hormuz. This route is crucial because a fifth of the world's oil passes through it. The US has threatened to block Iranian ships and charge other ships a fee for safety. Iran responded by attacking US military bases in nearby countries. This escalation has halted peace talks, raising fears of a full-scale war.",
+      "why": "If this waterway closes, it's like blocking a major blood vessel for global energy. This would cause fuel and shipping prices to skyrocket worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and iran in tense standoff over strait of hormuz",
+      "date": "2026-07-13"
+    },
+    {
+      "headline": "Venezuela's earthquake crisis turns into survival struggle",
+      "summary": "Three weeks after massive earthquakes hit northern Venezuela, over 4,300 people have died and tens of thousands are still missing. The disaster caused $37 billion in damage, leaving millions without clean water, power, or food. The country's economy was already struggling, and the government is overwhelmed and unable to lead recovery efforts.",
+      "why": "This is a huge humanitarian disaster that will likely force millions more people to flee Venezuela, changing the regional refugee crisis.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "venezuela s earthquake crisis turns into survival struggle",
+      "date": "2026-07-13"
+    },
+    {
+      "headline": "European summer heatwave kills over 10,000 people",
+      "summary": "New data shows that a severe summer heatwave in Europe has killed over 10,000 people. Extreme heat is drying up water reservoirs and straining electricity grids. Governments are scrambling to adapt to what is becoming a longer and more deadly summer season.",
+      "why": "It shows that the climate crisis is no longer a distant threat, but an active, deadly risk to human health and infrastructure in some of the world's wealthiest nations.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "european summer heatwave kills over 10 000 people",
+      "date": "2026-07-13"
+    },
+    {
+      "headline": "Severe El Ni\u00f1o and global conflicts may cause food price surge",
+      "summary": "Scientists and market experts warn that a severe El Ni\u00f1o weather pattern and regional wars could threaten global food security. Extreme weather is ruining crops, while military clashes and shipping blockades are trapping grain supplies. This double threat could keep grocery prices high until 2028.",
+      "why": "When food gets too expensive, it doesn't just hurt household budgets; it can cause severe hunger and political unrest in the world's poorest countries.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "severe el ni o and global conflicts may cause food",
+      "date": "2026-07-13"
+    },
+    {
+      "headline": "The European Union pledges $1 billion to rebuild Gaza, but peace remains elusive",
+      "summary": "The EU has pledged nearly $1 billion in aid to start rebuilding Gaza, which has been devastated by years of conflict. However, the ceasefire is stalled, and international groups estimate the actual cost to rebuild is at least $70 billion. Clearing the massive debris alone is expected to take over seven years.",
+      "why": "The pledge highlights the huge gap between the financial aid offered and the reality of a stalled peace process that prevents rebuilding from starting.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "the european union pledges 1 billion to rebuild gaza but",
+      "date": "2026-07-13"
     }
   ]
 }
