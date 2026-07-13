@@ -98,8 +98,10 @@ def signal_report() -> dict:
         baseline = [i for d, ii in by_date.items() if d < recent_cut for i in ii]
         if len(baseline) >= 3 and recent:
             b_mean, r_mean = statistics.fmean(baseline), statistics.fmean(recent)
-            b_std = statistics.pstdev(baseline) or 1e-9
-            z = (r_mean - b_mean) / b_std
+            # Floor the std so near-constant baselines can't blow the z-score up,
+            # and clamp to a sane range.
+            b_std = max(statistics.pstdev(baseline), 0.1)
+            z = max(-8.0, min(8.0, (r_mean - b_mean) / b_std))
             label = "escalating" if z > 0.5 else "cooling" if z < -0.5 else "steady"
             momentum.append({
                 "domain": domain, "z_score": round(z, 2), "trend": label,
@@ -113,8 +115,8 @@ def signal_report() -> dict:
         daily = [statistics.fmean(by_date[d]) for d in sorted(by_date) if by_date[d]]
         if len(daily) >= 4:
             hist, today = daily[:-1], daily[-1]
-            mu, sd = statistics.fmean(hist), (statistics.pstdev(hist) or 1e-9)
-            z = (today - mu) / sd
+            mu, sd = statistics.fmean(hist), max(statistics.pstdev(hist), 0.1)
+            z = max(-8.0, min(8.0, (today - mu) / sd))
             if abs(z) >= 2:
                 anomalies.append({"domain": domain, "z_score": round(z, 2),
                                   "direction": "spike" if z > 0 else "drop"})
