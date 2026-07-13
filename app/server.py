@@ -84,6 +84,22 @@ def api_stats():
         return JSONResponse({"error": err_message(exc)}, status_code=500)
 
 
+@app.get("/api/signals")
+def api_signals(note: int = 0):
+    """Signal Engine — computed news-pattern intelligence (signal scores,
+    momentum, anomalies, cross-desk co-occurrence). ?note=1 adds an LLM
+    analyst interpretation of the computed metrics."""
+    try:
+        from app.signals import research_note, signal_report
+
+        report = signal_report()
+        if note and report.get("available"):
+            report["research_note"] = research_note(report)
+        return report
+    except Exception as exc:  # noqa: BLE001
+        return JSONResponse({"error": err_message(exc)}, status_code=500)
+
+
 @app.post("/api/search")
 async def api_search(request: Request):
     """Top angles on a topic."""
