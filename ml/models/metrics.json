@@ -7,16 +7,16 @@
     "macro_f1": 0.9213
   },
   "signal_models": {
-    "corpus_size": 25,
+    "corpus_size": 20,
     "domain_classifier": {
-      "test_accuracy": 0.429,
-      "test_macro_f1": 0.167,
-      "cv_accuracy": 0.721
+      "test_accuracy": 0.6,
+      "test_macro_f1": 0.25,
+      "cv_accuracy": null
     },
     "severity_classifier": {
-      "test_accuracy": 0.571,
-      "test_macro_f1": 0.242,
-      "cv_accuracy": 0.641
+      "test_accuracy": 0.6,
+      "test_macro_f1": 0.375,
+      "cv_accuracy": 0.55
     },
     "urgency_regressor": {
       "status": "skipped",
