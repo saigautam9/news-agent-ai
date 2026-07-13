@@ -189,6 +189,16 @@
       "mode": "evening",
       "fp": "the european union pledges 1 billion to rebuild gaza but",
       "date": "2026-07-13"
+    },
+    {
+      "headline": "US-Iran Ceasefire Collapses Into Direct War With Airstrikes, Strait of Hormuz Blockade, and Attacks on US Bases",
+      "summary": "The month-old ceasefire between the US and Iran has shattered as both nations resumed direct, high-intensity conflict. Following Iranian attacks on commercial vessels, the US military launched a massive wave of precision airstrikes targeting air defense systems, coastal radars, and military sites inside Iran. In response, Iran's Islamic Revolutionary Guard Corps (IRGC) launched retaliatory ballistic missiles and drones targeting major US military facilities in Kuwait, Bahrain, and Jordan, forcing regional allies to engage active air defenses. Concurrently, US President Donald Trump announced a reinstated naval blockade on Iranian ports and declared a 20% toll on all other cargo ships transiting the Strait of Hormuz. This rapid escalation has paralyzed over 90% of shipping in the strategic waterway and sent global oil prices surging by nearly 10%.",
+      "why": "This represents a major, direct military confrontation between the United States and Iran that threatens to spiral into an all-out regional war. The conflict has instantly disrupted the world's most critical energy transit chokepoint, triggered an immediate global oil price shock, and forced multiple neighboring sovereign nations to conduct active combat interceptions of incoming missiles.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us iran ceasefire collapses into direct war with airstrikes strait",
+      "date": "2026-07-13"
     }
   ]
 }
