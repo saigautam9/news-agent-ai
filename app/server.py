@@ -73,6 +73,17 @@ def api_news():
         return JSONResponse({"error": err_message(exc)}, status_code=500)
 
 
+@app.get("/api/stats")
+def api_stats():
+    """Aggregate analytics over the Neon Postgres warehouse of collected news."""
+    try:
+        from app.analytics import get_stats
+
+        return get_stats()
+    except Exception as exc:  # noqa: BLE001
+        return JSONResponse({"error": err_message(exc)}, status_code=500)
+
+
 @app.post("/api/search")
 async def api_search(request: Request):
     """Top angles on a topic."""

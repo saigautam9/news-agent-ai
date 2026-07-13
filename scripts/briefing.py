@@ -120,6 +120,14 @@ def main() -> None:
     usage.persist(USAGE_FILE)
     save_log(LOG_FILE, log)
 
+    # Sync the story warehouse to Postgres (never let a DB hiccup break the run).
+    try:
+        from app.analytics import migrate
+
+        migrate()
+    except Exception as exc:  # noqa: BLE001
+        print(f"[briefing] postgres sync skipped: {exc}")
+
     u = usage.snapshot()
     print(
         f"[briefing] usage today — Gemini {u['gemini']}/{u['maxGemini']}, "

@@ -41,6 +41,10 @@ def _get(name: str, default: str = "") -> str:
 GEMINI_API_KEY = _get("GEMINI_API_KEY")
 GROQ_API_KEY = _get("GROQ_API_KEY")
 
+# Neon Postgres — cloud warehouse for the story log + analytics (optional:
+# falls back to the local JSON store when unset, so local dev still works).
+DATABASE_URL = _get("DATABASE_URL")
+
 # --- Models (overridable) ---
 GEMINI_MODEL = _get("GEMINI_MODEL", "gemini-flash-latest")
 GEMINI_LITE_MODEL = _get("GEMINI_LITE_MODEL", "gemini-flash-lite-latest")

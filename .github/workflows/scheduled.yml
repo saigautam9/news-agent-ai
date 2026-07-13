@@ -56,6 +56,7 @@ jobs:
           APP_URL: ${{ vars.APP_URL }}
           MAX_GEMINI_CALLS: ${{ vars.MAX_GEMINI_CALLS }}
           MAX_GROQ_CALLS: ${{ vars.MAX_GROQ_CALLS }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
 
       - name: Commit updated data
         run: |
