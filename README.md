@@ -73,11 +73,39 @@ their commits never race.
 📊 Model evaluation metrics live in [`ml/README.md`](ml/README.md#evaluation-results)
 — the AG News topic classifier scores **92.1%** accuracy (0.921 macro-F1).
 
+## Signal Engine — news *pattern* intelligence
+
+Most news apps report *what* happened. NewsAgent AI also quantifies **patterns in
+the news stream itself**, combining the historical **Neon Postgres** warehouse
+with today's live stories:
+
+- **Signal Score** per desk — a transparent 0–100 blend of severity, urgency and volume.
+- **Momentum** — is a desk *escalating or cooling* vs its own historical baseline (z-score)?
+- **Anomalies** — desks whose latest activity is a statistical outlier.
+- **Cross-desk co-occurrence** — which desks tend to move together (connect-the-dots).
+
+Every number is computed with plain statistics — reproducible, nothing
+hallucinated. An optional LLM analyst layer interprets the metrics in plain
+English *without* inventing facts or predicting specific events. Signals sharpen
+as the warehouse accumulates more days of history.
+
+### Data & analytics API
+
+| Endpoint | Returns |
+| --- | --- |
+| `GET /api/stats` | Warehouse analytics — totals, domain / severity mix, urgency, daily volume |
+| `GET /api/signals` | Signal Engine — scores, momentum, anomalies, co-occurrence (`?note=1` adds the LLM analyst note) |
+
+**Data layer:** a Neon Postgres `stories` fact table, loaded by an idempotent
+ETL (`python scripts/etl.py`) that runs after every briefing so the warehouse
+stays current for both the live app and the scheduled jobs.
+
 ## Tech stack
 
 - **Backend** — Python · FastAPI · Uvicorn
 - **Frontend** — server-rendered Jinja2 + vanilla JS/CSS (no build step)
 - **AI** — Google Gemini Flash (grounded) · Groq Llama 4 Scout
+- **Data** — Neon **Postgres** warehouse · SQL analytics · idempotent ETL · a statistical Signal Engine
 - **ML** — scikit-learn · pandas (TF-IDF classifiers + a regressor)
 - **Automation** — GitHub Actions (cron) · Telegram Bot API
 - **Deploy** — Vercel (Python serverless)
