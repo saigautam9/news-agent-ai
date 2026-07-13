@@ -38,6 +38,7 @@ app = FastAPI(title="NewsAgent AI", docs_url=None, redoc_url=None)
 app.mount("/static", StaticFiles(directory=BASE / "static"), name="static")
 
 INDEX_HTML = BASE / "templates" / "index.html"
+DASHBOARD_HTML = BASE / "templates" / "dashboard.html"
 
 # Short-lived cache of the last news batch per chat, so the inline-keyboard
 # buttons can resolve which story the user tapped. Survives within a warm
@@ -55,6 +56,17 @@ def home():
         return PlainTextResponse(
             "NewsAgent AI — homepage failed to load:\n\n" + traceback.format_exc(),
             status_code=500,
+        )
+
+
+@app.get("/dashboard", response_class=HTMLResponse)
+def dashboard():
+    """Visual analytics dashboard over the warehouse + Signal Engine."""
+    try:
+        return HTMLResponse(DASHBOARD_HTML.read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001
+        return PlainTextResponse(
+            "Dashboard failed to load:\n\n" + traceback.format_exc(), status_code=500
         )
 
 

@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>NewsAgent AI — Signal Dashboard</title>
+<meta name="description" content="Live analytics over the NewsAgent AI news warehouse — volume, desks, severity, signal scores and momentum." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --bg:#080b11; --panel:#121821; --panel-2:#0d131b; --border:#1f2933;
+    --ink:#e8eef6; --ink-soft:#aab7c7; --ink-mute:#6b7a8d;
+    --amber:#f5a623; --grid:#1a222c;
+    /* status (reserved) */
+    --crit:#ef4444; --high:#f5a623; --med:#5b6b7f;
+    /* diverging momentum */
+    --escalate:#ef6a4c; --cool:#38bdf8; --steady:#6b7a8d;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"Inter",system-ui,-apple-system,sans-serif;line-height:1.5}
+  a{color:var(--amber);text-decoration:none}
+  .wrap{max-width:1080px;margin:0 auto;padding:32px 20px 72px}
+  header .brand{display:flex;align-items:center;gap:10px;color:var(--ink-mute);
+    font-family:"JetBrains Mono",monospace;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase}
+  .pulse{width:8px;height:8px;border-radius:50%;background:var(--amber);box-shadow:0 0 0 0 rgba(245,166,35,.6);animation:p 2s infinite}
+  @keyframes p{0%{box-shadow:0 0 0 0 rgba(245,166,35,.5)}70%{box-shadow:0 0 0 8px rgba(245,166,35,0)}100%{box-shadow:0 0 0 0 rgba(245,166,35,0)}}
+  h1{font-size:1.6rem;margin:8px 0 2px}
+  .sub{color:var(--ink-soft);margin:0 0 24px;font-size:.92rem}
+  /* stat tiles */
+  .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-bottom:22px}
+  .tile{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:16px 18px}
+  .tile .v{font-size:1.7rem;font-weight:700;font-family:"JetBrains Mono",monospace}
+  .tile .l{color:var(--ink-mute);font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;margin-top:2px}
+  .tile .v small{font-size:.9rem;color:var(--ink-soft);font-weight:500}
+  /* cards + charts */
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  @media (max-width:760px){.grid{grid-template-columns:1fr}}
+  .card{background:var(--panel);border:1px solid var(--border);border-radius:16px;padding:18px 18px 14px}
+  .card.full{grid-column:1 / -1}
+  .card h2{font-size:.95rem;margin:0 0 2px}
+  .card .cap{color:var(--ink-mute);font-size:.78rem;margin:0 0 12px}
+  svg{width:100%;height:auto;display:block;overflow:visible}
+  .axis text{fill:var(--ink-mute);font-size:10px;font-family:"JetBrains Mono",monospace}
+  .axis line,.axis path{stroke:var(--grid)}
+  .barlabel{fill:var(--ink-soft);font-size:11px;font-family:"JetBrains Mono",monospace}
+  .rowlabel{fill:var(--ink-soft);font-size:12px}
+  .legend{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:10px}
+  .legend span{display:inline-flex;align-items:center;gap:6px;color:var(--ink-soft);font-size:.78rem}
+  .legend i{width:10px;height:10px;border-radius:3px;display:inline-block}
+  .note{color:var(--ink-mute);font-size:.8rem;border-left:3px solid var(--amber);
+    padding:8px 12px;background:rgba(245,166,35,.06);border-radius:8px;margin-top:6px}
+  .co{display:flex;flex-direction:column;gap:8px}
+  .co-row{display:flex;align-items:center;gap:10px;font-size:.85rem}
+  .co-bar{height:8px;border-radius:99px;background:var(--amber);opacity:.8}
+  #tip{position:fixed;pointer-events:none;background:#0a0e14;border:1px solid var(--border);
+    border-radius:8px;padding:7px 10px;font-size:.8rem;color:var(--ink);opacity:0;transition:opacity .1s;z-index:9;
+    box-shadow:0 6px 20px rgba(0,0,0,.4)}
+  #tip b{font-family:"JetBrains Mono",monospace}
+  .back{font-size:.85rem}
+  footer{color:var(--ink-mute);font-size:.78rem;margin-top:26px;text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand"><span class="pulse"></span> NewsAgent AI · Signal Dashboard</div>
+    <h1>The news, measured.</h1>
+    <p class="sub">Live analytics over every story the pipeline has collected — stored in Neon Postgres, analyzed by the Signal Engine. <a class="back" href="/">← back to the app</a></p>
+  </header>
+
+  <div id="tiles" class="tiles"></div>
+
+  <div class="grid">
+    <div class="card full">
+      <h2>Daily news volume</h2>
+      <p class="cap">Stories captured per day across the tracked window.</p>
+      <div id="c-volume"></div>
+    </div>
+
+    <div class="card">
+      <h2>Stories by desk</h2>
+      <p class="cap">Where the coverage concentrates.</p>
+      <div id="c-domain"></div>
+    </div>
+
+    <div class="card">
+      <h2>Severity mix</h2>
+      <p class="cap">How serious the captured news is.</p>
+      <div id="c-severity"></div>
+    </div>
+
+    <div class="card">
+      <h2>Signal score by desk</h2>
+      <p class="cap">Severity × urgency × volume, 0–100 (Signal Engine).</p>
+      <div id="c-signal"></div>
+    </div>
+
+    <div class="card">
+      <h2>Momentum vs. baseline</h2>
+      <p class="cap">Escalating or cooling vs. each desk's own history (z-score).</p>
+      <div id="c-momentum"></div>
+    </div>
+
+    <div class="card full">
+      <h2>Desks that move together</h2>
+      <p class="cap">Pairs of desks active on the same days — the connect-the-dots signal.</p>
+      <div id="c-co" class="co"></div>
+      <div id="note" class="note" style="display:none"></div>
+    </div>
+  </div>
+
+  <footer>NewsAgent AI · data: Neon Postgres warehouse · analysis: Signal Engine · <span id="asof"></span></footer>
+</div>
+<div id="tip"></div>
+
+<script>
+// ---- fixed, CVD-safe categorical colors (Okabe-Ito), assigned by desk in fixed order ----
+const DESK_ORDER = ["Markets","Geopolitics","Society","Technology","Health","Climate","Breaking"];
+const OKABE = ["#56B4E9","#E69F00","#009E73","#F0E442","#CC79A7","#0072B2","#D55E00"];
+const deskColor = d => OKABE[Math.max(0, DESK_ORDER.indexOf(d)) % OKABE.length];
+const SEV = {CRITICAL:"var(--crit)", HIGH:"var(--high)", MEDIUM:"var(--med)", LOW:"#3f4b59"};
+const $ = id => document.getElementById(id);
+const NS = "http://www.w3.org/2000/svg";
+const el = (n,a={}) => { const e=document.createElementNS(NS,n); for(const k in a) e.setAttribute(k,a[k]); return e; };
+const tip = $("tip");
+function showTip(html,e){ tip.innerHTML=html; tip.style.opacity=1; tip.style.left=(e.clientX+14)+"px"; tip.style.top=(e.clientY+14)+"px"; }
+function hideTip(){ tip.style.opacity=0; }
+
+async function main(){
+  let stats, signals;
+  try{
+    [stats, signals] = await Promise.all([
+      fetch("/api/stats").then(r=>r.json()),
+      fetch("/api/signals?note=1").then(r=>r.json())
+    ]);
+  }catch(e){ $("tiles").innerHTML = "<div class='tile'><div class='v'>—</div><div class='l'>could not load data</div></div>"; return; }
+  if(!stats || !stats.total){ $("tiles").innerHTML="<div class='tile'><div class='v'>0</div><div class='l'>no data yet</div></div>"; return; }
+
+  renderTiles(stats, signals);
+  renderVolume(stats.daily_volume||[]);
+  renderBars("c-domain", (stats.by_domain||[]).map(d=>({label:d.domain,value:d.count,color:deskColor(d.domain)})), "stories");
+  renderSeverity(stats.by_severity||[], stats.total);
+  renderBars("c-signal", (signals.desks||[]).map(d=>({label:d.domain,value:d.signal_score,color:deskColor(d.domain)})), "score", 100);
+  renderMomentum(signals.momentum||[]);
+  renderCo(signals.co_occurrence||[]);
+  if(signals.research_note){ const n=$("note"); n.style.display="block"; n.innerHTML="🧠 <b>Analyst note:</b> "+signals.research_note; }
+  $("asof").textContent = "as of " + (stats.date_range?.[1]||"") + " · " + stats.total + " stories";
+}
+
+function renderTiles(s, sig){
+  const top = (sig.desks&&sig.desks[0])?sig.desks[0].domain:"—";
+  const days = (s.daily_volume||[]).length;
+  const tiles = [
+    ["Total stories", s.total, ""],
+    ["High / critical", s.high_or_critical, "<small>/ "+s.total+"</small>"],
+    ["Days tracked", days, ""],
+    ["Avg urgency", (s.urgency&&s.urgency.avg!=null)?s.urgency.avg:"—", "<small>/ 10</small>"],
+    ["Top desk", top, ""],
+  ];
+  $("tiles").innerHTML = tiles.map(t=>`<div class="tile"><div class="v">${t[1]}${t[2]}</div><div class="l">${t[0]}</div></div>`).join("");
+}
+
+// ---- line/area: change over time ----
+function renderVolume(data){
+  if(!data.length) return;
+  const W=1000, H=220, m={t:14,r:14,b:26,l:34};
+  const iw=W-m.l-m.r, ih=H-m.t-m.b;
+  const xs=data.map((_,i)=>i), maxY=Math.max(...data.map(d=>d.count),1);
+  const X=i=> m.l + (data.length<2?iw/2:(i/(data.length-1))*iw);
+  const Y=v=> m.t + ih - (v/maxY)*ih;
+  const svg=el("svg",{viewBox:`0 0 ${W} ${H}`, preserveAspectRatio:"none", role:"img"});
+  // gridlines + y ticks
+  const g=el("g",{class:"axis"});
+  for(let k=0;k<=3;k++){ const v=Math.round(maxY*k/3); const y=Y(v);
+    g.appendChild(el("line",{x1:m.l,x2:W-m.r,y1:y,y2:y}));
+    const tx=el("text",{x:m.l-6,y:y+3,"text-anchor":"end"}); tx.textContent=v; g.appendChild(tx);
+  }
+  // x ticks: first, middle, last
+  [0, Math.floor(data.length/2), data.length-1].forEach(i=>{
+    const t=el("text",{x:X(i),y:H-8,"text-anchor":"middle",class:""}); t.setAttribute("fill","var(--ink-mute)");
+    t.setAttribute("font-size","10"); t.setAttribute("font-family","JetBrains Mono"); t.textContent=(data[i].date||"").slice(5); g.appendChild(t);
+  });
+  svg.appendChild(g);
+  // area
+  let dLine="", dArea="";
+  data.forEach((d,i)=>{ const x=X(i),y=Y(d.count); dLine+=(i?"L":"M")+x+" "+y+" "; });
+  dArea = dLine + `L ${X(data.length-1)} ${m.t+ih} L ${X(0)} ${m.t+ih} Z`;
+  const grad=el("linearGradient",{id:"vg",x1:0,y1:0,x2:0,y2:1});
+  grad.appendChild(el("stop",{offset:"0%","stop-color":"var(--amber)","stop-opacity":".28"}));
+  grad.appendChild(el("stop",{offset:"100%","stop-color":"var(--amber)","stop-opacity":"0"}));
+  svg.appendChild(grad);
+  svg.appendChild(el("path",{d:dArea,fill:"url(#vg)"}));
+  svg.appendChild(el("path",{d:dLine,fill:"none",stroke:"var(--amber)","stroke-width":2,"stroke-linejoin":"round"}));
+  // hover crosshair
+  const focus=el("circle",{r:4,fill:"var(--amber)",stroke:"var(--bg)","stroke-width":2,opacity:0});
+  const vline=el("line",{stroke:"var(--border)","stroke-width":1,opacity:0,y1:m.t,y2:m.t+ih});
+  svg.appendChild(vline); svg.appendChild(focus);
+  const hit=el("rect",{x:m.l,y:m.t,width:iw,height:ih,fill:"transparent"});
+  hit.addEventListener("mousemove",e=>{
+    const r=svg.getBoundingClientRect(); const px=(e.clientX-r.left)/r.width*W;
+    let i=Math.round((px-m.l)/iw*(data.length-1)); i=Math.max(0,Math.min(data.length-1,i));
+    const x=X(i),y=Y(data[i].count); focus.setAttribute("cx",x);focus.setAttribute("cy",y);focus.setAttribute("opacity",1);
+    vline.setAttribute("x1",x);vline.setAttribute("x2",x);vline.setAttribute("opacity",1);
+    showTip(`<b>${data[i].date}</b><br>${data[i].count} stories`,e);
+  });
+  hit.addEventListener("mouseleave",()=>{focus.setAttribute("opacity",0);vline.setAttribute("opacity",0);hideTip();});
+  svg.appendChild(hit);
+  $("c-volume").appendChild(svg);
+}
+
+// ---- horizontal bars: magnitude by category ----
+function renderBars(id, rows, unit, fixedMax){
+  if(!rows.length) return;
+  rows=rows.slice().sort((a,b)=>b.value-a.value);
+  const rowH=30, W=1000, m={l:120,r:56,t:6,b:6};
+  const H=m.t+m.b+rows.length*rowH;
+  const maxV=fixedMax||Math.max(...rows.map(r=>r.value),1);
+  const bw=W-m.l-m.r;
+  const svg=el("svg",{viewBox:`0 0 ${W} ${H}`, role:"img"});
+  rows.forEach((r,i)=>{
+    const y=m.t+i*rowH; const w=Math.max(2,(r.value/maxV)*bw);
+    const lab=el("text",{x:m.l-10,y:y+rowH/2+4,"text-anchor":"end",class:"rowlabel"}); lab.textContent=r.label; svg.appendChild(lab);
+    const bar=el("rect",{x:m.l,y:y+5,width:w,height:rowH-12,rx:4,fill:r.color||"var(--amber)"});
+    bar.addEventListener("mousemove",e=>showTip(`<b>${r.label}</b><br>${r.value} ${unit}`,e));
+    bar.addEventListener("mouseleave",hideTip); svg.appendChild(bar);
+    const v=el("text",{x:m.l+w+8,y:y+rowH/2+4,class:"barlabel"}); v.textContent=r.value; svg.appendChild(v);
+  });
+  $(id).appendChild(svg);
+}
+
+// ---- severity: stacked status bar ----
+function renderSeverity(rows, total){
+  const order=["CRITICAL","HIGH","MEDIUM","LOW"];
+  rows=order.map(s=>rows.find(r=>r.severity===s)).filter(Boolean);
+  const W=1000,H=64,m={l:0,r:0};
+  const svg=el("svg",{viewBox:`0 0 ${W} ${H}`,role:"img"});
+  let x=0; const tot=rows.reduce((a,r)=>a+r.count,0)||1;
+  rows.forEach(r=>{
+    let w=(r.count/tot)*W; if(w>2&&x>0){x+=2;w-=2;} // 2px surface gap
+    const rect=el("rect",{x,y:8,width:Math.max(2,w),height:28,rx:4,fill:SEV[r.severity]||"#3f4b59"});
+    rect.addEventListener("mousemove",e=>showTip(`<b>${r.severity}</b><br>${r.count} (${Math.round(r.count/tot*100)}%)`,e));
+    rect.addEventListener("mouseleave",hideTip); svg.appendChild(rect);
+    x+=w;
+  });
+  $("c-severity").appendChild(svg);
+  const leg=document.createElement("div"); leg.className="legend";
+  leg.innerHTML=rows.map(r=>`<span><i style="background:${SEV[r.severity]}"></i>${r.severity} · ${r.count}</span>`).join("");
+  $("c-severity").appendChild(leg);
+}
+
+// ---- momentum: diverging bars (polarity) ----
+function renderMomentum(mom){
+  const box=$("c-momentum");
+  if(!mom.length){ box.innerHTML='<p class="cap">Not enough history yet — momentum needs several days.</p>'; return; }
+  mom=mom.slice().sort((a,b)=>b.z_score-a.z_score);
+  const rowH=32, W=1000, mx={l:110,r:20,t:6,b:6}, cx=(mx.l+ (W-mx.r))/2;
+  const H=mx.t+mx.b+mom.length*rowH;
+  const maxZ=Math.max(1,...mom.map(m=>Math.abs(m.z_score)));
+  const half=(cx-mx.l);
+  const svg=el("svg",{viewBox:`0 0 ${W} ${H}`,role:"img"});
+  svg.appendChild(el("line",{x1:cx,x2:cx,y1:mx.t,y2:H-mx.b,stroke:"var(--grid)","stroke-width":1}));
+  mom.forEach((m,i)=>{
+    const y=mx.t+i*rowH;
+    const col = m.trend==="escalating"?"var(--escalate)":m.trend==="cooling"?"var(--cool)":"var(--steady)";
+    const w=(Math.abs(m.z_score)/maxZ)*half;
+    const x = m.z_score>=0 ? cx : cx-w;
+    const lab=el("text",{x:mx.l-10,y:y+rowH/2+4,"text-anchor":"end",class:"rowlabel"}); lab.textContent=m.domain; svg.appendChild(lab);
+    const bar=el("rect",{x, y:y+6, width:Math.max(2,w), height:rowH-14, rx:4, fill:col});
+    bar.addEventListener("mousemove",e=>showTip(`<b>${m.domain}</b><br>${m.trend} · z=${m.z_score}`,e));
+    bar.addEventListener("mouseleave",hideTip); svg.appendChild(bar);
+    const v=el("text",{x:m.z_score>=0?cx+w+8:cx-w-8, y:y+rowH/2+4, "text-anchor":m.z_score>=0?"start":"end", class:"barlabel"});
+    v.textContent=m.trend; svg.appendChild(v);
+  });
+  box.appendChild(svg);
+  const leg=document.createElement("div"); leg.className="legend";
+  leg.innerHTML=`<span><i style="background:var(--escalate)"></i>escalating</span><span><i style="background:var(--steady)"></i>steady</span><span><i style="background:var(--cool)"></i>cooling</span>`;
+  box.appendChild(leg);
+}
+
+function renderCo(co){
+  const box=$("c-co");
+  if(!co.length){ box.innerHTML='<p class="cap">No co-occurrence yet.</p>'; return; }
+  const max=Math.max(...co.map(c=>c.shared_days),1);
+  box.innerHTML="";
+  co.slice(0,6).forEach(c=>{
+    const row=document.createElement("div"); row.className="co-row";
+    row.innerHTML=`<span style="width:210px;color:var(--ink-soft)">${c.pair[0]} <span style="color:var(--ink-mute)">+</span> ${c.pair[1]}</span>`;
+    const bar=document.createElement("div"); bar.className="co-bar"; bar.style.width=(30+ (c.shared_days/max)*260)+"px";
+    row.appendChild(bar);
+    const v=document.createElement("span"); v.style.color="var(--ink-mute)"; v.style.fontFamily="JetBrains Mono"; v.style.fontSize=".8rem";
+    v.textContent=c.shared_days+"d"; row.appendChild(v);
+    box.appendChild(row);
+  });
+}
+
+main();
+</script>
+</body>
+</html>
