@@ -199,6 +199,16 @@
       "mode": "monitor",
       "fp": "us iran ceasefire collapses into direct war with airstrikes strait",
       "date": "2026-07-13"
+    },
+    {
+      "headline": "U.S. and Iran Exchange Heavy Strikes as Trump Orders Naval Blockade on Iranian Ports",
+      "summary": "A short-lived peace deal between the US and Iran has totally collapsed. The US military is launching a third straight night of heavy airstrikes on Iran. President Trump just announced a full naval blockade on Iranian ports starting Tuesday, and he wants to charge a 20% toll on ships using the Strait of Hormuz. Iran has fired back with missiles and drones hitting US bases and allies in Bahrain, Jordan, and Kuwait.",
+      "why": "This is a massive military escalation. The Strait of Hormuz is like the world's main oil artery\u2014about a fifth of the world's oil goes through it. A direct war and a US blockade here could choke global trade and send energy prices through the roof.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran exchange heavy strikes as trump orders",
+      "date": "2026-07-13"
     }
   ]
 }
