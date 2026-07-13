@@ -109,6 +109,16 @@
       "mode": "morning",
       "fp": "us senator lindsey graham dies suddenly at 71",
       "date": "2026-07-13"
+    },
+    {
+      "headline": "U.S. and Iran trade heavy strikes as Strait of Hormuz conflict explodes",
+      "summary": "The uneasy peace between the U.S. and Iran has completely broken down. Over the last 24 hours, the two sides have traded massive military blows [1.2.2]. It started when Iran declared the Strait of Hormuz\u2014the world\u2019s most important choke point for oil\u2014closed. The U.S. responded with heavy airstrikes to open it back up. Iran then fired missiles and drones at U.S. bases in Kuwait, Jordan, and Bahrain. Now, oil prices are spiking, and there are major fears of a wider war.",
+      "why": "This is a direct, heavy military clash between two major powers over a global trade artery. It is not a slow-moving political spat; it is active combat that is already pulling in surrounding countries and threatening to mess up the global economy.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trade heavy strikes as strait of",
+      "date": "2026-07-13"
     }
   ]
 }
