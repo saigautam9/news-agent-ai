@@ -1,0 +1,33 @@
+name: NewsAgent AI — Daily History Backfill
+
+# Every day, pull the latest few days of world news from GDELT (free, no key),
+# load it into the Postgres warehouse, and embed the new stories for the RAG
+# memory. This is what makes the warehouse + analytics grow automatically.
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily at 06:00 UTC
+  workflow_dispatch:
+
+# Shares the data lock with the briefing/monitor workflows.
+concurrency:
+  group: deep-signal-data
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+
+      - name: Pull recent GDELT history + embed
+        run: |
+          python scripts/backfill_gdelt.py 4 2
+          python scripts/embed_stories.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
