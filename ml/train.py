@@ -23,25 +23,76 @@ import json
 from pathlib import Path
 
 import joblib
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import (
+import matplotlib
+import numpy as np
+
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt  # noqa: E402
+from sklearn.ensemble import RandomForestRegressor  # noqa: E402
+from sklearn.feature_extraction.text import TfidfVectorizer  # noqa: E402
+from sklearn.linear_model import LogisticRegression  # noqa: E402
+from sklearn.metrics import (  # noqa: E402
     accuracy_score,
     classification_report,
+    cohen_kappa_score,
     confusion_matrix,
     f1_score,
+    matthews_corrcoef,
     mean_absolute_error,
     r2_score,
+    roc_auc_score,
+    roc_curve,
 )
-from sklearn.model_selection import cross_val_score, train_test_split
-from sklearn.pipeline import Pipeline
-from sklearn.svm import LinearSVC
+from sklearn.model_selection import (  # noqa: E402
+    StratifiedKFold,
+    cross_val_score,
+    cross_validate,
+    train_test_split,
+)
+from sklearn.pipeline import Pipeline  # noqa: E402
+from sklearn.preprocessing import label_binarize  # noqa: E402
+from sklearn.svm import LinearSVC  # noqa: E402
 
 from datasets import load_agnews, load_signal_corpus
 
 MODELS = Path(__file__).resolve().parent / "models"
+ASSETS = Path(__file__).resolve().parent / "assets"
 RANDOM_STATE = 42
+
+# Colorblind-safe (Okabe-Ito) — one per AG News class.
+TOPIC_COLORS = {
+    "Business": "#E69F00", "Sci/Tech": "#56B4E9",
+    "Sports": "#009E73", "World": "#0072B2",
+}
+
+
+def plot_confusion(cm, labels, path, title) -> None:
+    fig, ax = plt.subplots(figsize=(5.0, 4.4))
+    im = ax.imshow(cm, cmap="Blues")
+    ax.set_xticks(range(len(labels)), labels, rotation=20)
+    ax.set_yticks(range(len(labels)), labels)
+    ax.set_xlabel("Predicted"); ax.set_ylabel("Actual"); ax.set_title(title)
+    thresh = cm.max() / 2
+    for i in range(len(labels)):
+        for j in range(len(labels)):
+            ax.text(j, i, f"{cm[i, j]:,}", ha="center", va="center",
+                    color="white" if cm[i, j] > thresh else "black", fontsize=9)
+    fig.colorbar(im, fraction=0.046, pad=0.04)
+    fig.tight_layout(); fig.savefig(path, dpi=130); plt.close(fig)
+
+
+def plot_roc(y_true, scores, labels, path, title) -> None:
+    """OvR ROC from LinearSVC decision-function scores (columns = `labels`)."""
+    yb = label_binarize(y_true, classes=labels)
+    fig, ax = plt.subplots(figsize=(5.4, 4.4))
+    for i, c in enumerate(labels):
+        fpr, tpr, _ = roc_curve(yb[:, i], scores[:, i])
+        ax.plot(fpr, tpr, color=TOPIC_COLORS.get(c, None), lw=2,
+                label=f"{c} (AUC {roc_auc_score(yb[:, i], scores[:, i]):.3f})")
+    ax.plot([0, 1], [0, 1], "--", color="gray", lw=1)
+    ax.set_xlabel("False positive rate"); ax.set_ylabel("True positive rate")
+    ax.set_title(title); ax.legend(loc="lower right", fontsize=9)
+    fig.tight_layout(); fig.savefig(path, dpi=130); plt.close(fig)
 
 
 def text_clf(max_features: int = 40000) -> Pipeline:
@@ -105,6 +156,31 @@ def train_topic_classifier() -> dict:
     print(f"test macro-F1 : {f1:.3f}\n")
     print(classification_report(test_df["label"], pred, zero_division=0))
 
+    # --- additional metrics --------------------------------------------------
+    kappa = cohen_kappa_score(test_df["label"], pred)
+    mcc = matthews_corrcoef(test_df["label"], pred)
+    scores = model.decision_function(test_df["text"])  # (n, 4) OvR margins
+    yb = label_binarize(test_df["label"], classes=labels)
+    roc_auc = float(np.mean([roc_auc_score(yb[:, i], scores[:, i]) for i in range(len(labels))]))
+
+    print("computing 5-fold cross-validation (this refits the model 5x) ...")
+    cv = cross_validate(
+        model, train_df["text"], train_df["label"],
+        cv=StratifiedKFold(5, shuffle=True, random_state=RANDOM_STATE),
+        scoring=["accuracy", "f1_macro"], n_jobs=-1,
+    )
+    cv_acc, cv_f1 = cv["test_accuracy"], cv["test_f1_macro"]
+    print(f"  ROC-AUC (OvR macro): {roc_auc:.4f}   Cohen's kappa: {kappa:.4f}   MCC: {mcc:.4f}")
+    print(f"  CV accuracy: {cv_acc.mean():.4f} ± {cv_acc.std():.4f}   "
+          f"CV macro-F1: {cv_f1.mean():.4f} ± {cv_f1.std():.4f}")
+
+    ASSETS.mkdir(exist_ok=True)
+    plot_confusion(cm, labels, ASSETS / "topic_confusion_matrix.png",
+                   "AG News topic classifier — confusion matrix")
+    plot_roc(test_df["label"], scores, labels, ASSETS / "topic_roc_curves.png",
+             "AG News topic classifier — ROC (one-vs-rest)")
+    print(f"  saved plots -> {ASSETS}/")
+
     joblib.dump(model, MODELS / "topic_clf.joblib")
     return {
         "dataset": "AG News",
@@ -114,6 +190,15 @@ def train_topic_classifier() -> dict:
         "accuracy": round(acc, 4),
         "macro_f1": round(f1, 4),
         "weighted_f1": round(wf1, 4),
+        "roc_auc_ovr_macro": round(roc_auc, 4),
+        "cohen_kappa": round(float(kappa), 4),
+        "matthews_corrcoef": round(float(mcc), 4),
+        "cv_5fold": {
+            "accuracy_mean": round(float(cv_acc.mean()), 4),
+            "accuracy_std": round(float(cv_acc.std()), 4),
+            "macro_f1_mean": round(float(cv_f1.mean()), 4),
+            "macro_f1_std": round(float(cv_f1.std()), 4),
+        },
         "labels": labels,
         "per_class": {
             c: {
