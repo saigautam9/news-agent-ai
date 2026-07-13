@@ -120,13 +120,16 @@ def main() -> None:
     usage.persist(USAGE_FILE)
     save_log(LOG_FILE, log)
 
-    # Sync the story warehouse to Postgres (never let a DB hiccup break the run).
+    # Sync the story warehouse to Postgres + refresh embeddings (never let a DB
+    # hiccup break the run).
     try:
         from app.analytics import migrate
+        from app.memory import backfill_embeddings
 
         migrate()
+        backfill_embeddings()
     except Exception as exc:  # noqa: BLE001
-        print(f"[briefing] postgres sync skipped: {exc}")
+        print(f"[briefing] postgres/embedding sync skipped: {exc}")
 
     u = usage.snapshot()
     print(

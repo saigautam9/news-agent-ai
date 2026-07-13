@@ -126,6 +126,20 @@ def api_memory(q: str = "", k: int = 6, note: int = 0):
         return JSONResponse({"error": err_message(exc)}, status_code=500)
 
 
+@app.get("/api/outlook")
+def api_outlook(q: str = ""):
+    """Precedent-based likelihood/opinion for a topic — pattern, what has
+    typically followed, and a confidence computed from the evidence strength."""
+    try:
+        from app.memory import outlook
+
+        if not q.strip():
+            return {"outlook": "Provide a ?q= topic."}
+        return outlook(q)
+    except Exception as exc:  # noqa: BLE001
+        return JSONResponse({"error": err_message(exc)}, status_code=500)
+
+
 @app.post("/api/search")
 async def api_search(request: Request):
     """Top angles on a topic."""

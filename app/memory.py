@@ -124,3 +124,59 @@ def recall(query: str, k: int = 6) -> dict:
     except Exception:  # noqa: BLE001
         note = ""
     return {"query": query, "matches": hits, "note": note or "Related precedents retrieved."}
+
+
+def outlook(query: str, k: int = 8) -> dict:
+    """Precedent-based likelihood/opinion. The **confidence is computed from the
+    data** (how many strong, consistent precedents exist) — never guessed by the
+    LLM — and the opinion is grounded only in what was retrieved."""
+    hits = search(query, k)
+    if not hits:
+        return {"query": query, "confidence": "none",
+                "outlook": "No comparable precedents in the archive yet.", "matches": []}
+
+    strong = [m for m in hits if m["similarity"] >= 0.60]
+    avg_sim = round(sum(m["similarity"] for m in hits) / len(hits), 3)
+    # confidence is a function of evidence strength, not model opinion
+    if len(strong) >= 5 and avg_sim >= 0.66:
+        confidence = "moderate-high"
+    elif len(strong) >= 3:
+        confidence = "moderate"
+    else:
+        confidence = "low"
+
+    from app.gemini import extract_json
+    from app.groq_client import run_groq
+
+    evidence = "; ".join(
+        f"[{m['date']}] {m['domain']}/{m['severity']}: {m['headline']}" for m in hits[:6]
+    )
+    system = (
+        "You are a news research analyst producing a precedent-based OUTLOOK. "
+        "You get past stories most similar to a query. Identify the recurring "
+        "pattern, then state what has TYPICALLY FOLLOWED in these precedents, "
+        "framed as a likelihood ('tends to', 'has usually'), never a certainty or "
+        "a specific dated prediction. Ground every claim in the precedents. "
+        'Respond as JSON: {"pattern": "<1 sentence>", "likely_next": "<1-2 sentences>"}.'
+    )
+    prompt = (
+        f"Query: {query}\nPrecedents: {evidence}\n"
+        f"({len(strong)} strongly-similar of {len(hits)} retrieved.) Return the JSON."
+    )
+    pattern = likely = ""
+    try:
+        parsed = extract_json(run_groq(system, prompt))
+        if isinstance(parsed, dict):
+            pattern, likely = str(parsed.get("pattern", "")), str(parsed.get("likely_next", ""))
+    except Exception:  # noqa: BLE001
+        pass
+
+    return {
+        "query": query,
+        "confidence": confidence,
+        "based_on": f"{len(strong)} strong precedents (avg similarity {avg_sim})",
+        "pattern": pattern,
+        "likely_next": likely,
+        "disclaimer": "Precedent-based likelihood from historical patterns — not a prediction of specific events.",
+        "matches": hits,
+    }
