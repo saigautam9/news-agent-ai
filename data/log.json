@@ -119,6 +119,16 @@
       "mode": "monitor",
       "fp": "u s and iran trade heavy strikes as strait of",
       "date": "2026-07-13"
+    },
+    {
+      "headline": "US and Iran Exchange Massive Strikes Over Strait of Hormuz as Region Braces for War",
+      "summary": "Following the collapse of a recent ceasefire, the US military launched intensive airstrikes against over 140 Iranian targets, debuting combat sea drones to strike facilities in Bandar Abbas. In immediate retaliation, Iran's Revolutionary Guard Corps (IRGC) launched missile and drone attacks targeting US military bases in Kuwait, Jordan, Bahrain, and Qatar. In response to the clashes, President Donald Trump declared a US naval blockade on Iranian shipping and announced a unilateral 20% toll on cargo crossing the Strait of Hormuz, which Iran has declared closed. The escalations have sent global oil prices surging by 5%.",
+      "why": "This marks a severe and rapid military escalation between the United States and Iran, transitioning from proxy conflicts to direct, heavy exchange of fire. The active battle over the Strait of Hormuz\u2014the world's most critical maritime energy bottleneck\u2014directly threatens global energy markets and risks pulling the wider Middle East into an open, regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and iran exchange massive strikes over strait of hormuz",
+      "date": "2026-07-13"
     }
   ]
 }
