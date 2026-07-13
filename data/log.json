@@ -49,6 +49,16 @@
       "mode": "morning",
       "fp": "severe el ni o weather threatens global food price surge",
       "date": "2026-07-13"
+    },
+    {
+      "headline": "U.S. and Iran Exchange Heavy Airstrikes and Retaliatory Missile Attacks Across the Persian Gulf",
+      "summary": "The U.S. military launched a fresh wave of precision airstrikes on dozens of Iranian military targets, aiming to keep the Strait of Hormuz open. In direct retaliation, Iran's Islamic Revolutionary Guard Corps (IRGC) fired missiles and drones targeting U.S. military bases in Kuwait, Bahrain, and Jordan. The strikes prompted air raid sirens in Bahrain, led Jordan to shoot down four incoming missiles, and forced Kuwait's military to engage hostile targets in its airspace. This major military escalation marks a near-total collapse of the tentative June ceasefire.",
+      "why": "This is a major military escalation and direct combat between U.S. and Iranian forces that has expanded into a wider regional conflict. It directly threatens global energy security through the declared closure of the Strait of Hormuz, a vital maritime chokepoint for the world's oil and gas supply.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran exchange heavy airstrikes and retaliatory missile",
+      "date": "2026-07-13"
     }
   ]
 }
