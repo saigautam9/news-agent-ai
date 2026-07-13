@@ -43,7 +43,9 @@ GROQ_API_KEY = _get("GROQ_API_KEY")
 
 # Neon Postgres — cloud warehouse for the story log + analytics (optional:
 # falls back to the local JSON store when unset, so local dev still works).
-DATABASE_URL = _get("DATABASE_URL")
+# .strip() guards against a stray newline/space when the value is pasted into
+# a hosting dashboard (e.g. "sslmode=require\n").
+DATABASE_URL = _get("DATABASE_URL").strip()
 
 # --- Models (overridable) ---
 GEMINI_MODEL = _get("GEMINI_MODEL", "gemini-flash-latest")
