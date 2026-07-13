@@ -59,6 +59,56 @@
       "mode": "monitor",
       "fp": "u s and iran exchange heavy airstrikes and retaliatory missile",
       "date": "2026-07-13"
+    },
+    {
+      "headline": "US and Iran have biggest fight in months near a key shipping route",
+      "summary": "The US military attacked Iran after a cargo ship was damaged. Iran quickly fought back, targeting US bases with missiles. Iran says a crucial shipping route is closed, but the US disagrees, causing oil prices to rise.",
+      "why": "This direct fight over a vital oil route could easily disrupt global energy supplies and lead to a bigger war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and iran have biggest fight in months near a",
+      "date": "2026-07-13"
+    },
+    {
+      "headline": "Typhoon Bavi hits eastern China, forcing millions to evacuate",
+      "summary": "Bavi hit China's coast as a strong storm, bringing strong winds and floods. Officials moved over two million people to safety before it struck. The storm has caused power outages, uprooted trees, and disrupted transportation.",
+      "why": "It's the strongest storm to hit China this year, showing the huge impact of extreme weather on global manufacturing and people's lives.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "typhoon bavi hits eastern china forcing millions to evacuate",
+      "date": "2026-07-13"
+    },
+    {
+      "headline": "European heatwave causes over 10,000 deaths",
+      "summary": "A severe heatwave has caused over 10,000 deaths in Europe. Germany has reported 5,000 victims, and dry conditions have sparked wildfires in Spain. The heat is damaging roads, melting tracks, and overwhelming emergency services.",
+      "why": "This tragedy shows that even wealthy countries are struggling to cope with the deadly effects of climate change.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "european heatwave causes over 10 000 deaths",
+      "date": "2026-07-13"
+    },
+    {
+      "headline": "Philippine Vice President Sara Duterte's impeachment trial continues",
+      "summary": "The Senate trial of Vice President Sara Duterte is happening in Manila. She's accused of corruption and making threats. If found guilty, she'll lose her job and can't run again, which could change the country's politics.",
+      "why": "This trial is a big deal that could affect a major democratic country in Southeast Asia.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "philippine vice president sara duterte s impeachment trial continues",
+      "date": "2026-07-13"
+    },
+    {
+      "headline": "US Senator Lindsey Graham dies suddenly at 71",
+      "summary": "Senator Lindsey Graham passed away from a sudden heart condition after returning from a trip to Ukraine. He was a well-known voice on foreign policy and a key supporter of US aid to Ukraine and Israel.",
+      "why": "His death removes a major figure who supported US military aid to Ukraine and Israel during critical global conflicts.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "us senator lindsey graham dies suddenly at 71",
+      "date": "2026-07-13"
     }
   ]
 }
