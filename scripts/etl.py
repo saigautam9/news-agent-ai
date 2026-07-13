@@ -22,6 +22,16 @@ def main() -> None:
     res = build_warehouse()
     print(f"[etl] warehouse loaded → {res['store']}  ({res['rows']} stories)")
 
+    # Keep the semantic-memory embeddings current (skips silently if no API key).
+    try:
+        from app.memory import backfill_embeddings
+
+        emb = backfill_embeddings()
+        if emb.get("embedded"):
+            print(f"[etl] embedded {emb['embedded']} new stories into pgvector")
+    except Exception as exc:  # noqa: BLE001
+        print(f"[etl] embedding step skipped: {exc}")
+
     s = get_stats()
     if not s.get("total"):
         print("[etl] no stories yet — warehouse is empty.")

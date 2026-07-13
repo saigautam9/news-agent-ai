@@ -112,6 +112,20 @@ def api_signals(note: int = 0):
         return JSONResponse({"error": err_message(exc)}, status_code=500)
 
 
+@app.get("/api/memory")
+def api_memory(q: str = "", k: int = 6, note: int = 0):
+    """Semantic memory (RAG): retrieve related stories from the whole history.
+    ?note=1 adds a precedent-grounded analyst note (what has typically followed)."""
+    try:
+        from app.memory import recall, search
+
+        if not q.strip():
+            return {"matches": [], "note": "Provide a ?q= query."}
+        return recall(q, k) if note else {"query": q, "matches": search(q, k)}
+    except Exception as exc:  # noqa: BLE001
+        return JSONResponse({"error": err_message(exc)}, status_code=500)
+
+
 @app.post("/api/search")
 async def api_search(request: Request):
     """Top angles on a topic."""
