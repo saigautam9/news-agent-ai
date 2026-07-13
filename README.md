@@ -89,23 +89,43 @@ hallucinated. An optional LLM analyst layer interprets the metrics in plain
 English *without* inventing facts or predicting specific events. Signals sharpen
 as the warehouse accumulates more days of history.
 
-### Data & analytics API
+## Semantic memory (RAG) + precedent outlook
+
+Every story is embedded (Gemini `gemini-embedding-001`, 768-d) into **pgvector**
+with an HNSW cosine index, so the app can retrieve related news from the *entire
+history* by meaning — and reason about it:
+
+- **Semantic search** — find past events related to any topic, not by keyword.
+- **Precedent outlook** — what has *typically followed* similar past events,
+  with a **confidence computed from the evidence** (how many strong, consistent
+  precedents exist) — never a guess, never a specific-event prediction.
+
+**Historical depth:** a free **GDELT** backfill (`scripts/backfill_gdelt.py`) +
+a daily backfill workflow grow the warehouse to hundreds of dated stories with
+no API key.
+
+### Data, analytics & memory API
 
 | Endpoint | Returns |
 | --- | --- |
 | `GET /api/stats` | Warehouse analytics — totals, domain / severity mix, urgency, daily volume |
 | `GET /api/signals` | Signal Engine — scores, momentum, anomalies, co-occurrence (`?note=1` adds the LLM analyst note) |
+| `GET /api/memory?q=` | Semantic search over all history (`?note=1` adds a precedent note) |
+| `GET /api/outlook?q=` | Precedent-based outlook — pattern, likely-next, computed confidence |
+| `GET /dashboard` | Visual dashboard — charts + an "Ask the archive" search box |
 
-**Data layer:** a Neon Postgres `stories` fact table, loaded by an idempotent
-ETL (`python scripts/etl.py`) that runs after every briefing so the warehouse
-stays current for both the live app and the scheduled jobs.
+**Data layer:** a Neon **Postgres + pgvector** `stories` table, loaded by an
+idempotent ETL (`python scripts/etl.py`) and grown by GDELT; both the live app
+and the scheduled jobs write to it, and embeddings refresh automatically.
 
 ## Tech stack
 
 - **Backend** — Python · FastAPI · Uvicorn
 - **Frontend** — server-rendered Jinja2 + vanilla JS/CSS (no build step)
 - **AI** — Google Gemini Flash (grounded) · Groq Llama 4 Scout
-- **Data** — Neon **Postgres** warehouse · SQL analytics · idempotent ETL · a statistical Signal Engine
+- **Data** — Neon **Postgres + pgvector** warehouse · SQL analytics · idempotent ETL · GDELT backfill
+- **Retrieval** — Gemini embeddings · pgvector (HNSW) semantic search · precedent-based RAG outlook
+- **Analytics** — a statistical Signal Engine (momentum / anomaly / co-occurrence) + a visual dashboard
 - **ML** — scikit-learn · pandas (TF-IDF classifiers + a regressor)
 - **Automation** — GitHub Actions (cron) · Telegram Bot API
 - **Deploy** — Vercel (Python serverless)
