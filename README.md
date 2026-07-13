@@ -1,5 +1,7 @@
 # 🛰 NewsAgent AI
 
+### 🔗 Live app → **[deep-signal-mu.vercel.app](https://deep-signal-mu.vercel.app)**
+
 **The news, actually explained.** NewsAgent AI isn't a feed — it's a multi-agent
 intelligence pipeline. For every story it investigates *why* it happened, what it
 echoes from history, who quietly wins and loses, and what it changes next — then
