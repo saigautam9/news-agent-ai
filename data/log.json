@@ -429,6 +429,16 @@
       "mode": "evening",
       "fp": "federal judge scraps trump s 1 8 billion irs deal",
       "date": "2026-07-14"
+    },
+    {
+      "headline": "US Reinstates Naval Blockade on Iran Amid Intense Strikes in Strait of Hormuz",
+      "summary": "The conflict between the U.S. and Iran escalated sharply as U.S. Central Command reinstated a naval blockade on Iranian ports. This follows consecutive nights of U.S. airstrikes inside Iran and retaliatory Iranian strikes targeting Gulf shipping tankers\u2014which killed one crew member\u2014and U.S. military outposts in Jordan and Bahrain. Amid the chaos, President Trump dropped a highly controversial plan to charge a 20% cargo transit fee in the strait, shifting instead to Gulf investment deals.",
+      "why": "This represents a major, direct military escalation between the U.S. and a regional power in the world's most vital maritime oil chokepoint. The combination of an active naval blockade, heavy airstrikes, and deadly attacks on merchant vessels is a severe threat to international security and global energy markets.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us reinstates naval blockade on iran amid intense strikes in",
+      "date": "2026-07-14"
     }
   ]
 }
