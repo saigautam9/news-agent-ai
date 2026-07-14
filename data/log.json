@@ -379,6 +379,56 @@
       "mode": "monitor",
       "fp": "u s blockades iran and drops hormuz toll plan amid",
       "date": "2026-07-14"
+    },
+    {
+      "headline": "The U.S. and Iran are in a tense standoff over a vital oil route",
+      "summary": "The U.S. has been carrying out airstrikes against Iran for three nights in a row. President Donald Trump has also announced a military blockade of the Strait of Hormuz, a crucial waterway for oil shipments. Iran has fought back by attacking oil tankers and launching strikes in the Gulf, causing international oil prices to rise. This situation is getting more and more dangerous, with both sides saying they control the waterway.",
+      "why": "This matters because a fifth of the world's oil passes through this narrow strait. Blocking it would be like closing a major highway that everyone relies on, which could cause a huge shock to the global economy.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "the u s and iran are in a tense standoff",
+      "date": "2026-07-14"
+    },
+    {
+      "headline": "Record-breaking heatwaves and massive wildfires are testing Europe",
+      "summary": "Europe is experiencing its third extreme heatwave in just six weeks, leading to over 10,000 heat-related deaths. Huge wildfires are burning out of control, including a massive fire near Paris that has closed motorways and forced people to evacuate. Temperatures have soared above 40\u00b0C (104\u00b0F) in several countries, putting a strain on electricity grids as people try to stay cool.",
+      "why": "This shows that climate change is not just a future threat, but a crisis that is already affecting people's lives and causing thousands of deaths in some of the world's richest countries.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "record breaking heatwaves and massive wildfires are testing europe",
+      "date": "2026-07-14"
+    },
+    {
+      "headline": "WHO warns of a rapidly spreading Ebola outbreak in Central Africa",
+      "summary": "The World Health Organization has raised the alarm about a deadly Ebola outbreak in the Democratic Republic of Congo that is spreading faster than any previous outbreak. Over 700 people have died so far, and because the virus is spreading through unknown paths, it's hard to track. To make matters worse, health workers don't have any approved vaccines or treatments for this particular strain of the virus.",
+      "why": "If this outbreak isn't contained in Congo, it could easily spread across borders and trigger a major global health emergency.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "who warns of a rapidly spreading ebola outbreak in central",
+      "date": "2026-07-14"
+    },
+    {
+      "headline": "Europe and Ukraine team up to build a affordable missile shield",
+      "summary": "Ukraine and nine other European countries have launched a new coalition to build a shared air-defense shield across Europe. Instead of waiting for expensive U.S.-made Patriot missile systems, the group is funding a cheaper, homegrown Ukrainian alternative called Freya. This move comes as Russia intensifies its devastating ballistic missile strikes on Kyiv.",
+      "why": "This is a significant shift in European defense, showing that European allies are preparing to rely less on America and more on their own cheaper, faster military technology.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "europe and ukraine team up to build a affordable missile",
+      "date": "2026-07-14"
+    },
+    {
+      "headline": "Federal judge scraps Trump's $1.8 billion IRS deal",
+      "summary": "A federal judge in Florida has canceled a controversial settlement that President Trump made with the IRS. The deal would have created a $1.8 billion fund to pay off Trump's allies and given his family lifetime immunity from federal tax audits. The judge criticized the arrangement as 'collusion,' saying that Trump basically sued himself to get tax immunity and taxpayer cash.",
+      "why": "This is a huge win for the rule of law, proving that even a sitting president cannot use the court system to dodge taxes and fund political allies.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "federal judge scraps trump s 1 8 billion irs deal",
+      "date": "2026-07-14"
     }
   ]
 }
