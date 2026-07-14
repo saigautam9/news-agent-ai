@@ -439,6 +439,16 @@
       "mode": "monitor",
       "fp": "us reinstates naval blockade on iran amid intense strikes in",
       "date": "2026-07-14"
+    },
+    {
+      "headline": "U.S. Launches Fresh Airstrikes on Iran and Restarts Port Blockade Over Strait of Hormuz Crisis",
+      "summary": "The U.S. military launched fresh airstrikes on Iran and reinstated a naval blockade on Iranian ports today. This comes after Iranian cruise missiles hit oil tankers in the Strait of Hormuz, killing a crew member. Meanwhile, President Trump walked back his threat to charge ships a 20% toll for crossing the strait, while Iran warned it would block all regional energy exports if U.S. attacks continue.",
+      "why": "This is a sharp military escalation between the U.S. and Iran in the world's most vital energy shipping corridor, risking a severe global energy crisis and a larger war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s launches fresh airstrikes on iran and restarts port",
+      "date": "2026-07-14"
     }
   ]
 }
