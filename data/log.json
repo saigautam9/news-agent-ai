@@ -309,6 +309,56 @@
       "mode": "monitor",
       "fp": "u s and iran trade heavy strikes as trump orders",
       "date": "2026-07-14"
+    },
+    {
+      "headline": "The U.S. and Iran Are in a Big Fight Again",
+      "summary": "A temporary peace deal between the U.S. and Iran has fallen apart. The U.S. launched big air attacks on Iranian bases after President Trump said the peace deal was over. Iran fought back by attacking ships and U.S. military bases. Now, the U.S. is blocking Iranian ports with ships, which is making oil prices go up.",
+      "why": "If this narrow waterway gets blocked, it could cause big problems for the world's energy supply, which might lead to high prices everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "the u s and iran are in a big fight",
+      "date": "2026-07-14"
+    },
+    {
+      "headline": "Heat Waves and Wildfires Are Getting Worse",
+      "summary": "Very hot weather is causing records to be broken, starting huge wildfires, and killing over 10,000 people in Europe and North America. Wildfires are getting close to Paris, burning in Spain, and are out of control in the U.S. and Canada. The heat is also hurting crops, which means Europe won't have as much grain as usual.",
+      "why": "The heat and fires are directly threatening people's lives, straining power grids, and putting the world's food supply at risk.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "heat waves and wildfires are getting worse",
+      "date": "2026-07-14"
+    },
+    {
+      "headline": "Ukraine Teams Up with Europe for Missile Defense",
+      "summary": "Ukrainian President Volodymyr Zelenskyy announced a new partnership with nine European countries to build a shared missile defense system. This comes as Ukraine is struggling with a shortage of expensive Western air defense missiles because of constant Russian attacks.",
+      "why": "This move helps Ukraine have a permanent defense system with its European neighbors, which could help with security after the war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ukraine teams up with europe for missile defense",
+      "date": "2026-07-14"
+    },
+    {
+      "headline": "New U.S. Law Helps Regular People Buy Homes",
+      "summary": "A big new housing law has started in the U.S. to help regular families buy homes. The law stops big companies and investors who own a lot of houses from buying more single-family homes. The law went into effect because President Trump didn't sign or veto it.",
+      "why": "This law tries to stop big companies from outbidding regular people who want to buy starter homes.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "new u s law helps regular people buy homes",
+      "date": "2026-07-14"
+    },
+    {
+      "headline": "China's Exports Are Booming Because of AI",
+      "summary": "China's exports went up by 27% in June because people around the world want artificial intelligence technology. Demand for computer chips, smart devices, and electronic parts grew by almost 57% in the first half of the year. This boom is helping China's economy, which has been struggling because of a housing market problem.",
+      "why": "It shows how much the AI boom is changing global trade, making technology the main driver of economic growth.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "china s exports are booming because of ai",
+      "date": "2026-07-14"
     }
   ]
 }
