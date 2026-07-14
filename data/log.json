@@ -209,6 +209,16 @@
       "mode": "monitor",
       "fp": "u s and iran exchange heavy strikes as trump orders",
       "date": "2026-07-13"
+    },
+    {
+      "headline": "US Strikes Iran for Third Night and Reinstates Blockade as Tanker Attacks in Strait of Hormuz Kill Sailor",
+      "summary": "The US military has launched a third consecutive night of airstrikes against Iran, while President Trump has ordered a naval blockade on all Iranian ports. In retaliation, Iran used cruise missiles to strike two Emirati oil tankers in the Strait of Hormuz, killing an Indian sailor and injuring eight others. This dramatic escalation has caused global oil prices to jump sharply.",
+      "why": "This is a major military escalation that marks the resumption of the US-Iran war. By cutting off the Strait of Hormuz and launching direct strikes, both sides are threatening the world's most vital energy chokepoint, which could trigger a global energy crisis and a much larger regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us strikes iran for third night and reinstates blockade as",
+      "date": "2026-07-14"
     }
   ]
 }
