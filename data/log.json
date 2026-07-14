@@ -359,6 +359,16 @@
       "mode": "afternoon",
       "fp": "china s exports are booming because of ai",
       "date": "2026-07-14"
+    },
+    {
+      "headline": "US-Iran Peace Deal Collapses Into Heavy Airstrikes, Blockades, and Missile Attacks",
+      "summary": "The short-lived peace deal between the US and Iran is officially dead, and the conflict is heating up fast. US forces just finished their third straight night of intense airstrikes against Iranian military targets. At the same time, President Trump announced that the US is bringing back a full naval blockade on Iran and plans to charge all cargo ships a 20% 'tax' to sail through the Strait of Hormuz. Iran didn't wait to retaliate\u2014they fired ballistic missiles at a US air base in Jordan, launched attacks near Bahrain, and struck several international oil tankers in the Gulf, killing one crew member. Oil prices are already spiking.",
+      "why": "This is a severe, sudden military escalation between the US and a major regional power. It features direct missile attacks on US bases, active naval blockades, hits on global energy shipping lanes, and a direct threat to the global economy as oil prices climb.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us iran peace deal collapses into heavy airstrikes blockades and",
+      "date": "2026-07-14"
     }
   ]
 }
