@@ -219,6 +219,16 @@
       "mode": "monitor",
       "fp": "us strikes iran for third night and reinstates blockade as",
       "date": "2026-07-14"
+    },
+    {
+      "headline": "U.S. and Iran Resume Heavy Fighting as Trump Reinstates Strait of Hormuz Blockade",
+      "summary": "A short-lived peace deal has completely collapsed. President Trump announced that the U.S. Navy is reinstating a naval blockade on Iranian ports and suggested charging cargo ships a 20% fee to pass through the Strait of Hormuz. The U.S. military has launched its third straight night of major airstrikes on Iranian targets. In response, Iran's Revolutionary Guard hit back, firing missiles at U.S. bases in Bahrain and Jordan and striking two UAE tankers, which killed one crew member.",
+      "why": "This is a massive military escalation in the world's most crucial oil chokepoint. With the U.S. enforcing a blockade and demanding transit fees, and Iran retaliating directly against U.S. regional bases and commercial tankers, this flare-up threatens to spark a wider regional war and trigger a global energy crisis.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran resume heavy fighting as trump reinstates",
+      "date": "2026-07-14"
     }
   ]
 }
