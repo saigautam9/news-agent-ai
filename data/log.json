@@ -289,6 +289,16 @@
       "mode": "monitor",
       "fp": "us strikes iran as trump reinstates hormuz blockade and imposes",
       "date": "2026-07-14"
+    },
+    {
+      "headline": "US reinstates naval blockade on Iran as Strait of Hormuz conflict reignites",
+      "summary": "The shaky ceasefire between the US and Iran has collapsed. US forces just finished a third consecutive night of intense airstrikes targeting Iranian defenses, missile sites, and the port city of Bushehr. In retaliation, Iran fired ballistic missiles at a US air base in Jordan and launched cruise missiles at two UAE oil tankers in the Strait of Hormuz, killing one sailor. To push back, President Trump announced the US is reinstating a strict naval blockade on Iranian ports starting Tuesday at 4 p.m. ET. In a major twist, he also declared the US the 'Guardian' of the strait and said they will charge a 20% fee on all other cargo ships passing through to cover US security costs.",
+      "why": "The Strait of Hormuz is the world's most important oil transit route, handling a fifth of global energy supply. A renewed naval blockade coupled with active airstrikes, missile retaliation, and a massive 20% shipping fee could easily spiral into a full-scale war, disrupt global trade networks, and send global oil prices skyrocketing.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us reinstates naval blockade on iran as strait of hormuz",
+      "date": "2026-07-14"
     }
   ]
 }
