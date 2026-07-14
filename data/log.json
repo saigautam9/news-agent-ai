@@ -279,6 +279,16 @@
       "mode": "morning",
       "fp": "the us tries to dismantle the international criminal court",
       "date": "2026-07-14"
+    },
+    {
+      "headline": "US Strikes Iran as Trump Reinstates Hormuz Blockade and Imposes 20% Shipping Toll",
+      "summary": "The US has launched a third consecutive night of airstrikes against Iran, with President Donald Trump announcing a reinstated naval blockade on Iranian ports starting Tuesday, July 14, 2026. In a major policy departure, Trump declared the US will charge a 20% fee on all cargo passing through the Strait of Hormuz to cover security costs. Iran has retaliated by striking targets in Bahrain and Jordan, and firing cruise missiles at two UAE-linked oil tankers, killing one crew member and prompting oil prices to spike.",
+      "why": "This is a massive military escalation that shatters a fragile ceasefire in the 2026 US-Iran war, threatening to drag regional neighbors like the UAE into direct conflict. Additionally, the US imposing a 20% transit fee on ships in the Strait of Hormuz fundamentally upends centuries of global freedom-of-navigation principles and risks severe disruptions to international energy markets.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us strikes iran as trump reinstates hormuz blockade and imposes",
+      "date": "2026-07-14"
     }
   ]
 }
