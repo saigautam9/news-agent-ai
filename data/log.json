@@ -229,6 +229,56 @@
       "mode": "monitor",
       "fp": "u s and iran resume heavy fighting as trump reinstates",
       "date": "2026-07-14"
+    },
+    {
+      "headline": "The US and Iran are in a big fight over a crucial waterway",
+      "summary": "The US attacked Iran with airstrikes and President Trump blocked ships from passing through the Strait of Hormuz. Iran fought back by targeting other countries and oil tankers. This fight is making oil prices go up.",
+      "why": "If this waterway is blocked or taxed, it could hurt the global economy and cause an energy crisis, like when you squeeze a tube and the contents come out.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "the us and iran are in a big fight over",
+      "date": "2026-07-14"
+    },
+    {
+      "headline": "Scientists warn of a super-powerful El Ni\u00f1o event",
+      "summary": "Meteorologists say there's an 81% chance of a huge climate event that could break heat records. We're already seeing really hot weather and wildfires. This weather pattern acts like a giant heater for the Earth.",
+      "why": "It could cause severe droughts, floods, and crop failures, leading to food shortages, like when a big storm ruins a farmer's crops.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "scientists warn of a super powerful el ni o event",
+      "date": "2026-07-14"
+    },
+    {
+      "headline": "France helps Ukraine build its own advanced missiles",
+      "summary": "French President Macron said Ukraine can build advanced French missiles and bombs on its own soil. Ukraine will also buy fighter jets and get pilot training. Europe is now helping Ukraine build its own permanent arms factories.",
+      "why": "This changes the long-term situation of the war, making Ukraine less dependent on foreign help for its defense, like when you teach someone to fish instead of giving them fish.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "france helps ukraine build its own advanced missiles",
+      "date": "2026-07-14"
+    },
+    {
+      "headline": "The US has to refund $81 billion in unfair tariffs",
+      "summary": "The US Supreme Court said Trump's import taxes were unlawful, so the government has to pay back a lot of money to businesses. This unexpected refund has created a huge hole in the federal budget.",
+      "why": "It shows how hard it is to use executive orders to run a trade war, and now the US economy has a growing deficit, like when you overspend on a credit card.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "the us has to refund 81 billion in unfair tariffs",
+      "date": "2026-07-14"
+    },
+    {
+      "headline": "The US tries to dismantle the International Criminal Court",
+      "summary": "US Secretary of State Marco Rubio is trying to tear down the world's highest war crimes court. He says the court threatens American sovereignty and could target US border agents and leaders.",
+      "why": "If the world's most powerful country tries to destroy the global court, it could hurt international justice and human rights accountability for a long time, like when you undermine a referee's authority in a game.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "the us tries to dismantle the international criminal court",
+      "date": "2026-07-14"
     }
   ]
 }
