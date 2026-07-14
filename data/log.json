@@ -299,6 +299,16 @@
       "mode": "monitor",
       "fp": "us reinstates naval blockade on iran as strait of hormuz",
       "date": "2026-07-14"
+    },
+    {
+      "headline": "U.S. and Iran trade heavy strikes as Trump orders naval blockade and ships are hit in the Gulf",
+      "summary": "Things just took a very scary turn in the Middle East. The U.S. military hammered targets inside Iran for the third night in a row. This came right after President Donald Trump announced a full naval blockade on Iranian ports and said the U.S. would start charging a 20% fee for ships using the Strait of Hormuz. In response, Iran's military launched cruise missiles that struck two UAE oil tankers, killing a crew member and starting onboard fires. Iran also fired missiles at a U.S. base in Jordan and sent drones toward Bahrain.",
+      "why": "This is a massive military escalation. We are seeing active fighting between the U.S. and Iran, a full-on naval blockade, and attacks on civilian oil tankers in the world's most important energy choke point. It has sent oil prices spiking and threatens to drag the whole region into a much larger war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trade heavy strikes as trump orders",
+      "date": "2026-07-14"
     }
   ]
 }
