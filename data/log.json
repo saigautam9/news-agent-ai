@@ -449,6 +449,16 @@
       "mode": "monitor",
       "fp": "u s launches fresh airstrikes on iran and restarts port",
       "date": "2026-07-14"
+    },
+    {
+      "headline": "US-Iran War Escalates With New Naval Blockade and Direct Strikes on Military Bases",
+      "summary": "A shaky peace deal between the US and Iran has completely fallen apart. The US has officially reimposed a strict naval blockade on all Iranian ports and launched multiple nights of heavy airstrikes on military targets. Iran has retaliated by firing missiles and drones at US bases in Jordan and Bahrain, and by attacking commercial tankers in the Strait of Hormuz. The sudden flare-up has pushed oil prices over $86 a barrel and forced neighboring countries like Jordan and Kuwait to intercept incoming missiles and drones.",
+      "why": "This is a major military escalation in the world's most vital oil transit corridor. Direct warfare between the US and Iran threatens to spiral into a massive regional war and trigger a global energy crisis.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us iran war escalates with new naval blockade and direct",
+      "date": "2026-07-15"
     }
   ]
 }
