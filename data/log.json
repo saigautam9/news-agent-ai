@@ -669,6 +669,16 @@
       "mode": "evening",
       "fp": "gibraltar and spain remove old border fence after brexit",
       "date": "2026-07-15"
+    },
+    {
+      "headline": "U.S. Reimposes Blockade on Iran as Middle East Ceasefire Collapses",
+      "summary": "The fragile truce between the U.S. and Iran is officially dead. The U.S. has put its naval blockade back on Iran and is hammering the country with intense airstrikes to keep the Strait of Hormuz open. Iran is firing back with missiles targeting U.S. bases in places like Bahrain and Kuwait, and they are threatening to shut off the tap for all Middle East oil. U.S. jets even fired missiles at a commercial oil tanker to stop it from breaking the blockade.",
+      "why": "This is a massive military escalation. The Strait of Hormuz is a critical chokepoint for the world's oil, and squeezing it is like pinching the global fuel hose. If this isn't contained, it could drag the entire region into a full-blown war and trigger major energy shortages globally.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s reimposes blockade on iran as middle east ceasefire",
+      "date": "2026-07-15"
     }
   ]
 }
