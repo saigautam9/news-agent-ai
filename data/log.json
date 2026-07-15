@@ -599,6 +599,16 @@
       "mode": "monitor",
       "fp": "u s launches fresh strikes on iran as regional conflict",
       "date": "2026-07-15"
+    },
+    {
+      "headline": "Geopolitical Escalation in West Asia as US Blockades Iranian Ports and Iran Shuts the Strait of Hormuz",
+      "summary": "The military conflict between the United States and Iran has escalated sharply. Following President Donald Trump's decision to reinstate a strict naval blockade on Iranian ports, Iran's Islamic Revolutionary Guard Corps (IRGC) retaliated by shutting down the critical Strait of Hormuz. Iran launched a wave of missile strikes targeting U.S. military bases in Bahrain and Kuwait, and threatened that 'not a single drop' of regional oil and gas will be exported. In response, the U.S. military has intensified its airstrikes in the region and the U.S. Treasury has imposed sweeping new sanctions on networks procuring weapons for the Iranian regime.",
+      "why": "This is a severe military escalation involving direct, state-on-state combat and a blockade in the Strait of Hormuz\u2014a maritime chokepoint through which roughly 20% of the world's oil supply passes. The closure of the strait and the exchange of airstrikes threaten to trigger a massive regional war and cause severe disruptions to the global economy and energy markets.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "geopolitical escalation in west asia as us blockades iranian ports",
+      "date": "2026-07-15"
     }
   ]
 }
