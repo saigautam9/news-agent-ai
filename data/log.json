@@ -539,6 +539,56 @@
       "mode": "monitor",
       "fp": "u s and iran exchange heavy strikes as conflict escalates",
       "date": "2026-07-15"
+    },
+    {
+      "headline": "US and Iran Face Off in the Strait of Hormuz",
+      "summary": "The US Navy is blocking Iranian ships and attacking Iranian targets after Iranian ships were attacked. Iran is now threatening to stop oil shipments from the Middle East and is attacking US military bases. This is making oil prices go up fast.",
+      "why": "If there's a big war in this area, it could stop a lot of oil from getting out, which would make inflation worse.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us and iran face off in the strait of hormuz",
+      "date": "2026-07-15"
+    },
+    {
+      "headline": "EU Cuts Off Sudan's Gold Cash to Stop Civil War",
+      "summary": "The European Union is not allowing Sudan to sell gold to stop the country's leaders from getting money to buy weapons. The war is also making it hard to grow food and get aid to people. This is making a lot of Sudanese people very hungry.",
+      "why": "While the goal is to stop the war, many people in Sudan are facing one of the worst food crises in decades.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "eu cuts off sudan s gold cash to stop civil",
+      "date": "2026-07-15"
+    },
+    {
+      "headline": "China\u2019s Economy Slows Down as Trade Tensions Rise",
+      "summary": "China's economy grew slowly, 4.7%, in the first half of the year. People in China are not spending much, the housing market is still bad, and trade fights with other countries are hurting factories. This slowdown affects companies around the world that sell things to China.",
+      "why": "When China's economy slows down, it affects trade and businesses all over the world.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "china s economy slows down as trade tensions rise",
+      "date": "2026-07-15"
+    },
+    {
+      "headline": "New York Puts a Freeze on Giant AI Data Centers",
+      "summary": "New York is stopping new big computer centers that power artificial intelligence for a year. These centers use a lot of energy and water to keep computers cool. The state wants to figure out how to keep the power grid from getting overloaded and how to keep people's bills from going up.",
+      "why": "This is the first big challenge to building more AI, showing that the tech boom is running into real-world problems.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "new york puts a freeze on giant ai data centers",
+      "date": "2026-07-15"
+    },
+    {
+      "headline": "Britain and Europe Scrap Border Checks at Gibraltar",
+      "summary": "The UK and EU agreed to remove passport checks at the border between Spain and Gibraltar. This ends years of arguments that made it hard for people to cross the border. Now, thousands of people can travel back and forth easily.",
+      "why": "This agreement solves a big problem from Brexit, which helps the local economy and shows that countries can work together.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "britain and europe scrap border checks at gibraltar",
+      "date": "2026-07-15"
     }
   ]
 }
