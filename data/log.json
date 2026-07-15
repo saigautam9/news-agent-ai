@@ -609,6 +609,16 @@
       "mode": "monitor",
       "fp": "geopolitical escalation in west asia as us blockades iranian ports",
       "date": "2026-07-15"
+    },
+    {
+      "headline": "U.S. Reimposes Naval Blockade on Iran and Launches New Airstrikes in Massive Strait of Hormuz Escalation",
+      "summary": "The US has started bombing Iran again, hitting key missile and military sites including strategic islands near the Strait of Hormuz. Washington has also put its naval blockade back on the country after Iran attacked commercial shipping vessels. In response, Iran's Revolutionary Guard is warning it might shut down all oil and gas exports from the region, completely wrecking a recent temporary peace deal.",
+      "why": "This is a massive military step-up in one of the world's most important shipping lanes. If Iran follows through on its threat to block all energy exports, oil prices could go through the roof, and the region could slide right back into a massive, full-blown war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s reimposes naval blockade on iran and launches new",
+      "date": "2026-07-15"
     }
   ]
 }
