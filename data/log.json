@@ -459,6 +459,16 @@
       "mode": "monitor",
       "fp": "us iran war escalates with new naval blockade and direct",
       "date": "2026-07-15"
+    },
+    {
+      "headline": "US and Iran Exchange Major Overnight Military Strikes as Strait of Hormuz Blockade Resumes",
+      "summary": "Following President Donald Trump's reimposition of a naval blockade on all Iranian ports, the U.S. military conducted a massive seven-hour wave of airstrikes against Iranian coastal targets and missile sites. In response, Iran's Islamic Revolutionary Guard Corps (IRGC) launched retaliatory missile and drone attacks targeting regional U.S. military bases in Bahrain (the Fifth Fleet headquarters), Kuwait, and Jordan, while declaring the Strait of Hormuz closed and threatening to halt all Middle East energy exports.",
+      "why": "This is a severe military escalation that directly threatens global energy markets. The closure of the Strait of Hormuz, through which approximately one-fifth of the world's oil and gas flows, along with direct attacks on U.S. bases in Gulf nations, expands the conflict into a broader regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and iran exchange major overnight military strikes as strait",
+      "date": "2026-07-15"
     }
   ]
 }
