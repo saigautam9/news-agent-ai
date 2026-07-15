@@ -619,6 +619,56 @@
       "mode": "monitor",
       "fp": "u s reimposes naval blockade on iran and launches new",
       "date": "2026-07-15"
+    },
+    {
+      "headline": "US and Iran in a Standoff that's Making the World Nervous",
+      "summary": "The US has stopped all ships from leaving Iranian ports and attacked some targets near a very important waterway called the Strait of Hormuz. Iran fought back, hitting a ship from Kuwait and aiming missiles at US bases. Now, Iran is saying it might block the whole waterway, which is like a highway for oil ships.",
+      "why": "If this highway gets blocked, the price of oil will go up a lot, and that means we'll all pay more for gas and groceries.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and iran in a standoff that s making the",
+      "date": "2026-07-15"
+    },
+    {
+      "headline": "Heatwaves and El Ni\u00f1o Could Make Food More Expensive Until 2028",
+      "summary": "It's getting really hot and dry in many parts of the world, which is ruining crops. In Uganda, people are already starving because of a lack of rain. The UN is asking for help to deal with the crisis. Experts think that this weather pattern, called El Ni\u00f1o, will make food prices go up a lot.",
+      "why": "This isn't just about hot weather; it means we might have to pay more for food for a long time \u2013 maybe two years.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "heatwaves and el ni o could make food more expensive",
+      "date": "2026-07-15"
+    },
+    {
+      "headline": "EU Tries to Stop Sudan's Civil War by Cutting Off its Gold Money",
+      "summary": "The European Union has stopped buying gold from Sudan and won't let ships bring in chemicals to help mine gold. Sudan's leaders, who are fighting each other, use gold to buy weapons. The EU hopes that if they cut off the money, the fighting will stop.",
+      "why": "By taking away the money for the war, the EU is trying to end a very bad conflict that's left millions of people without enough food.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "eu tries to stop sudan s civil war by cutting",
+      "date": "2026-07-15"
+    },
+    {
+      "headline": "New York Stops New AI Data Centers to Protect its Power Grid",
+      "summary": "The governor of New York has said that big computer centers for AI can't be built for a year. These centers use a lot of electricity and water. The state wants to make sure they don't cause problems with the power grid or make people's electricity bills too high.",
+      "why": "This is the first time a state has slowed down AI development to think about the power grid and the environment.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "new york stops new ai data centers to protect its",
+      "date": "2026-07-15"
+    },
+    {
+      "headline": "Gibraltar and Spain Remove Old Border Fence After Brexit",
+      "summary": "A very old fence on the border of Gibraltar and Spain has been taken down. This fence was there for 100 years and made it hard for people to cross the border to work. Now, people can walk through freely, like in many other European countries.",
+      "why": "It removes a big physical barrier and shows that even when countries disagree, they can find a peaceful solution.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "gibraltar and spain remove old border fence after brexit",
+      "date": "2026-07-15"
     }
   ]
 }
