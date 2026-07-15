@@ -469,6 +469,56 @@
       "mode": "monitor",
       "fp": "us and iran exchange major overnight military strikes as strait",
       "date": "2026-07-15"
+    },
+    {
+      "headline": "US and Iran in big fight, war worries grow",
+      "summary": "The US and Iran are firing at each other, and US President Trump said he'll bomb Iran's power grid if they don't talk. Iran is hitting back with drone attacks on US bases, which is making it really hard to ship goods in the Middle East. Oil prices are going up fast because of this.",
+      "why": "If these two countries go to full war, it could hurt trade all around the world and make energy really expensive for everyone.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and iran in big fight war worries grow",
+      "date": "2026-07-15"
+    },
+    {
+      "headline": "Ebola and Marburg virus outbreaks collide in Central Africa",
+      "summary": "There's a deadly Ebola outbreak in the Congo and Uganda that's killed over 400 people. Uganda also just reported a death from Marburg, a virus similar to Ebola. The US is keeping travel restrictions tight to stop it from spreading.",
+      "why": "Fighting two deadly outbreaks at once in a troubled region could cause a huge humanitarian disaster.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "ebola and marburg virus outbreaks collide in central africa",
+      "date": "2026-07-15"
+    },
+    {
+      "headline": "New Fed boss warns interest rates will stay high",
+      "summary": "The new head of the Federal Reserve, Kevin Warsh, told Congress he won't let prices get too high. He warned that problems in the Middle East could make prices keep going up, and he's not being clear about what he'll do next to keep Wall Street guessing. This means borrowing money for homes, cars, and credit cards will still be expensive.",
+      "why": "The central bank is taking a tough and unpredictable approach, meaning cheap money isn't coming back soon.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "new fed boss warns interest rates will stay high",
+      "date": "2026-07-15"
+    },
+    {
+      "headline": "China purges top space and tech leader in corruption crackdown",
+      "summary": "China has removed Ma Xingrui, a top leader who used to run the country's space program, for taking bribes and using his power for personal gain. He's the third top leader to be removed in a year as President Xi Jinping tightens control over the military and tech sectors.",
+      "why": "It shows that corruption is a big problem in China's high-tech and defense industries, which it needs to compete with the West.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "china purges top space and tech leader in corruption crackdown",
+      "date": "2026-07-15"
+    },
+    {
+      "headline": "New York pauses giant AI data centers to save the grid",
+      "summary": "New York has stopped building huge computer centers for AI for one year. These centers use as much electricity as 50,000 homes and a lot of water to keep computers cool. The state wants to make sure these centers don't use too much power or make electricity bills too high for regular people.",
+      "why": "This is the first big test of how much power our grids can handle with all the AI growth.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "new york pauses giant ai data centers to save the",
+      "date": "2026-07-15"
     }
   ]
 }
