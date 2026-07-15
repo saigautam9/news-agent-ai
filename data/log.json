@@ -529,6 +529,16 @@
       "mode": "monitor",
       "fp": "us and iran exchange heavy strikes as vital oil chokepoint",
       "date": "2026-07-15"
+    },
+    {
+      "headline": "U.S. and Iran Exchange Heavy Strikes as Conflict Escalates Across Middle East",
+      "summary": "Things are heating up fast between the US and Iran. Today, the US launched a massive wave of daytime airstrikes on Iranian military targets, right after a heavy seven-hour overnight bombing run. In response, Iran fired missiles and drones at US bases in Jordan, Bahrain, and Kuwait. Iran is also threatening to shut down all oil and gas exports from the region because the US has set up a naval blockade around its ports.",
+      "why": "This is a massive deal because the war is spilling over into neighboring countries like Jordan, Kuwait, and Bahrain, which could spark a much bigger regional conflict. Even worse, the Strait of Hormuz, which is now blocked and under fire, is a vital pipeline carrying a fifth of the world's energy. If Iran follows through on its threat to choke off all oil and gas from the Gulf, we could see energy prices skyrocket and a major global economic shock.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran exchange heavy strikes as conflict escalates",
+      "date": "2026-07-15"
     }
   ]
 }
