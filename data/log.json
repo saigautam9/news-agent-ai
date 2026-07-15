@@ -589,6 +589,16 @@
       "mode": "afternoon",
       "fp": "britain and europe scrap border checks at gibraltar",
       "date": "2026-07-15"
+    },
+    {
+      "headline": "U.S. launches fresh strikes on Iran as regional conflict escalates with missile attacks on Jordan, Kuwait, and Bahrain",
+      "summary": "The United States military has intensified its campaign against Iran by launching a new wave of airstrikes and reimposing a naval blockade in the Strait of Hormuz. In retaliation, Iran launched missile and drone strikes targeting Jordan, Kuwait, and Bahrain, while threatening to completely shut down regional energy export corridors.",
+      "why": "This is a severe military escalation that risks turning into a full-scale war in the Middle East, directly affecting multiple nations and putting a significant portion of the world's energy supply at risk.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s launches fresh strikes on iran as regional conflict",
+      "date": "2026-07-15"
     }
   ]
 }
