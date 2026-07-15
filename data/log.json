@@ -519,6 +519,16 @@
       "mode": "morning",
       "fp": "new york pauses giant ai data centers to save the",
       "date": "2026-07-15"
+    },
+    {
+      "headline": "US and Iran exchange heavy strikes as vital oil chokepoint is shut down",
+      "summary": "The US has restarted a naval blockade on all Iranian ports after a brief truce collapsed. In response, Iran shut down the Strait of Hormuz, which is the main highway for the world's oil. Iran also launched missile and drone attacks at US military bases in Jordan, Kuwait, and Bahrain. Meanwhile, the US carried out another round of heavy airstrikes on Iranian targets, and President Trump warned he would bomb Iran's power plants and bridges next week if they do not negotiate.",
+      "why": "This is a massive military escalation that could spark an all-out war. Closing the Strait of Hormuz chokes off a fifth of the world's oil and gas supply, threatening global energy markets and bringing the Middle East to the brink of a much larger conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and iran exchange heavy strikes as vital oil chokepoint",
+      "date": "2026-07-15"
     }
   ]
 }
