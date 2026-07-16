@@ -779,6 +779,56 @@
       "mode": "monitor",
       "fp": "u s iran war escalates with strikes near tehran and",
       "date": "2026-07-16"
+    },
+    {
+      "headline": "The US and Iran are on the edge of a big shipping crisis",
+      "summary": "The US attacked some targets near an Iranian island, making their quiet conflict much worse. Iran got angry and said it might block a very important waterway called the Strait of Hormuz. They also told their friends in Yemen to block another important sea route if things get worse.",
+      "why": "If these waterways get blocked, it's like someone clogged the world's main fuel pipes. This will make energy prices go up very quickly.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "the us and iran are on the edge of a",
+      "date": "2026-07-16"
+    },
+    {
+      "headline": "The US starts a new trade fight with Brazil",
+      "summary": "The US government put a big 25% tax on most things they import from Brazil. They say Brazil is being unfair and hurting the environment. Brazil is very upset and said they will put taxes on US goods too.",
+      "why": "This trade fight will cause problems for big supply chains that bring food and other important things to people in the Americas. This will hurt people's wallets.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "the us starts a new trade fight with brazil",
+      "date": "2026-07-16"
+    },
+    {
+      "headline": "Canadian wildfire smoke makes Detroit's air very bad",
+      "summary": "Thick smoke from big wildfires in Canada crossed the US border and covered the Midwest. Detroit's air became very polluted, making it the most polluted air on Earth. Millions of people had to stay inside.",
+      "why": "It shows that disasters caused by climate change can affect people in other countries, making wildfires a recurring health hazard for people far away.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "canadian wildfire smoke makes detroit s air very bad",
+      "date": "2026-07-16"
+    },
+    {
+      "headline": "Europe and Ukraine team up to make a strong defense with drones",
+      "summary": "The EU just agreed to give Ukraine \u20ac1 billion to make high-tech drones together. They will make these drones in European factories that are safe from Russian attacks.",
+      "why": "By combining Ukraine's experience in war with Europe's big industry, the continent is getting ready for a long, high-tech fight.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "europe and ukraine team up to make a strong defense",
+      "date": "2026-07-16"
+    },
+    {
+      "headline": "Google faces a setback in the AI race",
+      "summary": "Google delayed the release of their new AI model, Gemini 3.5 Pro, because it's not working as well as they hoped. Other companies like OpenAI keep releasing new AI models, and Google's engineers are feeling the pressure.",
+      "why": "This delay shows that even with a lot of money, building super-smart AI is really hard and has some big challenges.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "google faces a setback in the ai race",
+      "date": "2026-07-16"
     }
   ]
 }
