@@ -829,6 +829,26 @@
       "mode": "evening",
       "fp": "google faces a setback in the ai race",
       "date": "2026-07-16"
+    },
+    {
+      "headline": "The U.S. and Iran trade direct strikes as the Middle East war sharply escalates",
+      "summary": "A fragile truce has completely shattered, and the U.S. has launched heavy airstrikes deeper inside Iran\u2014including near Tehran\u2014for the fifth straight night. Washington claims it is degrading Iran's ability to threaten shipping and has disabled an oil tanker to enforce a strict naval blockade. However, Tehran has slammed the strikes as 'barbaric' and retaliated by launching missiles and drones at Gulf states hosting U.S. bases. Iran is now threatening to destroy the region's power grids and infrastructure if the U.S. targets its own, while its Houthi allies are threatening Saudi oil facilities.",
+      "why": "This is a severe, direct military escalation in the Strait of Hormuz, a vital choke point handling a fifth of the world's oil supply. With both sides trading direct strikes and widening their target lists, the risk of an all-out regional war and a massive global energy crisis has spiked dramatically.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "the u s and iran trade direct strikes as the",
+      "date": "2026-07-16"
+    },
+    {
+      "headline": "Catastrophic, record-breaking floods swamp the Texas Hill Country",
+      "summary": "Relentless downpours of up to 20 inches have triggered life-threatening flash flood emergencies across south-central Texas. Rivers like the Guadalupe have surged over 30 feet in just a few hours, swamping roads and forcing emergency crews to conduct dozens of high-stakes water rescues. Governor Greg Abbott has declared a state of disaster across 59 counties as mandatory evacuations get underway, and at least one death has been confirmed.",
+      "why": "This is a fast-moving, record-shattering natural disaster that is actively unfolding. The extreme flooding has cut off entire communities, triggered urgent search-and-rescue operations, and threatened thousands of lives in a region still scarred by last year's deadly summer floods.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "catastrophic record breaking floods swamp the texas hill country",
+      "date": "2026-07-16"
     }
   ]
 }
