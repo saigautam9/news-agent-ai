@@ -759,6 +759,16 @@
       "mode": "afternoon",
       "fp": "washington imposes new 25 tax on brazil",
       "date": "2026-07-16"
+    },
+    {
+      "headline": "U.S. Expands Strikes to Northern Iran, Disables Tanker as Strait of Hormuz Conflict Escalates",
+      "summary": "The United States launched its fifth consecutive day of airstrikes against Iran, expanding targets to the capital, Tehran, and northern regions, while also firing on an oil tanker attempting to run the U.S. naval blockade in the Strait of Hormuz. In response, Iran launched retaliatory drone and missile strikes targeting Gulf allies including Kuwait, Bahrain, and Jordan, and warned the Houthis to prepare to close the Red Sea if the U.S. strikes Iranian civilian energy infrastructure.",
+      "why": "This represents a sharp and dangerous military escalation in the Middle East, threatening to cut off the world's two most critical energy shipping lanes (the Strait of Hormuz and the Red Sea) and potentially sparking a broader regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s expands strikes to northern iran disables tanker as",
+      "date": "2026-07-16"
     }
   ]
 }
