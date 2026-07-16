@@ -769,6 +769,16 @@
       "mode": "monitor",
       "fp": "u s expands strikes to northern iran disables tanker as",
       "date": "2026-07-16"
+    },
+    {
+      "headline": "U.S.-Iran War Escalates with Strikes Near Tehran and Threats to Block the Red Sea",
+      "summary": "The U.S. and Iran are trading heavy blows. The U.S. just expanded its airstrikes deep into northern Iran, even hitting near Tehran, and disabled a tanker trying to break its blockade. Iran fired back with missiles and drones targeting American military bases in Jordan, Kuwait, and Bahrain. To make matters worse, Iran reportedly told its Houthi allies in Yemen to get ready to block the Red Sea shipping route if the U.S. goes after Iranian power grids.",
+      "why": "This is a massive military flare-up that could choke global trade. The Strait of Hormuz is already closed because of this war. If the Houthis shut down the Red Sea too, it would block the Middle East's two biggest oil highways at the same time. This would send oil prices through the roof and trigger a massive global energy crisis.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s iran war escalates with strikes near tehran and",
+      "date": "2026-07-16"
     }
   ]
 }
