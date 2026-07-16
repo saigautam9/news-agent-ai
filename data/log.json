@@ -709,6 +709,56 @@
       "mode": "monitor",
       "fp": "u s expands strikes deeper into iran and enforces blockade",
       "date": "2026-07-16"
+    },
+    {
+      "headline": "US and Iran go back to war with big attacks in the Gulf",
+      "summary": "The short peace between the US and Iran is over. The US launched big air attacks on Iranian targets in the Strait of Hormuz. Now, Iran might block important shipping routes in the Red Sea.",
+      "why": "This could easily turn into a big regional war and make energy prices go up a lot.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us and iran go back to war with big attacks",
+      "date": "2026-07-16"
+    },
+    {
+      "headline": "Canadian wildfire smoke causes \"Code Red\" for 100 million people",
+      "summary": "Thick smoke from Canadian wildfires has moved south and is making the air bad in the US Midwest and Northeast. Many cities are under emergency alerts, warning people that breathing the air outside is not safe.",
+      "why": "It's a clear reminder of how climate change and hot summers are making it hard for people to stay healthy.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "canadian wildfire smoke causes code red for 100 million people",
+      "date": "2026-07-16"
+    },
+    {
+      "headline": "Europe and Ukraine team up on drones as missiles hit Kyiv",
+      "summary": "The EU and Ukraine have signed a big deal to build advanced military drones together. This happened as Russia launched new missile strikes on Kyiv.",
+      "why": "This binds Europe closer to Ukraine's defense and shows that the conflict is turning into a long-term, high-tech war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "europe and ukraine team up on drones as missiles hit",
+      "date": "2026-07-16"
+    },
+    {
+      "headline": "Over 500 Rohingya refugees feared dead after boats sink",
+      "summary": "Two boats with over 500 Rohingya refugees on board have sunk in the Bay of Bengal. They were trying to escape from bad conditions in Myanmar and Bangladesh during strong monsoon storms.",
+      "why": "It's one of the worst sea disasters in years. It shows how desperate these families are to get away from a violent conflict.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "over 500 rohingya refugees feared dead after boats sink",
+      "date": "2026-07-16"
+    },
+    {
+      "headline": "Washington imposes new 25% tax on Brazil",
+      "summary": "The Trump administration has announced a 25% tax on some Brazilian imports starting next week. This is a bold move after a previous tax attempt was blocked.",
+      "why": "This sudden trade dispute might disrupt global supply chains and make everyday items more expensive for regular shoppers.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "washington imposes new 25 tax on brazil",
+      "date": "2026-07-16"
     }
   ]
 }
