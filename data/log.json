@@ -699,6 +699,16 @@
       "mode": "monitor",
       "fp": "u s and iran launch deep mutual strikes in major",
       "date": "2026-07-16"
+    },
+    {
+      "headline": "U.S. Expands Strikes Deeper into Iran and Enforces Blockade as Tehran Retaliates in the Gulf",
+      "summary": "The U.S. military has stepped up its fight with Iran [2.1.3]. It launched heavy airstrikes deeper into northern Iran, even hitting areas near the capital, Tehran. The U.S. also used missiles to disable an oil tanker to keep its naval blockade going. Iran didn't back down. It fired missiles and drones at U.S. bases and allies in Jordan, Bahrain, and Kuwait. Both sides are trading heavy blows, pushing the region closer to an all-out war.",
+      "why": "This is a massive military escalation between two heavily armed powers. They are trading direct blows, enforcing blockades, and launching missiles across several Middle Eastern countries. This conflict directly threatens the Strait of Hormuz, which could choke off global oil supplies and trigger a massive economic shock.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s expands strikes deeper into iran and enforces blockade",
+      "date": "2026-07-16"
     }
   ]
 }
