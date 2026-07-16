@@ -689,6 +689,16 @@
       "mode": "monitor",
       "fp": "us strikes deep in iran and disables tanker shattering fragile",
       "date": "2026-07-16"
+    },
+    {
+      "headline": "U.S. and Iran Launch Deep Mutual Strikes in Major Military Escalation",
+      "summary": "The United States has dramatically intensified its military strikes on Iran, hitting targets near Tehran and northern Iran for the first time in this round of fighting, and using Hellfire missiles to disable an oil tanker attempting to bypass a newly reimposed U.S. naval blockade. In response, Iran has launched retaliatory drone and missile attacks directly targeting U.S. military bases in Kuwait, Bahrain, and Jordan.",
+      "why": "This marks a severe, direct military escalation between two heavily armed nations. The hostilities have shattered a previous peace framework, closed the vital Strait of Hormuz shipping lane, and significantly increased the risk of an all-out regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran launch deep mutual strikes in major",
+      "date": "2026-07-16"
     }
   ]
 }
