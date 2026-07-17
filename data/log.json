@@ -939,6 +939,56 @@
       "mode": "monitor",
       "fp": "u s and iran trade massive strikes across middle east",
       "date": "2026-07-17"
+    },
+    {
+      "headline": "The US and Iran Are in a Fierce Fight That's Blocking a Key Oil Route",
+      "summary": "The US and Iran are in a heated battle. The US has launched airstrikes on Iranian bases, and Iran has fired missiles at US allies. Because of a US naval blockade, no ships are passing through the Strait of Hormuz, which is a vital oil shipping route.",
+      "why": "This waterway carries a lot of the world's oil, and blocking it is like cutting off a major vein of the global economy, causing energy prices to rise.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "the us and iran are in a fierce fight that",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "Trump Raises Doubts About US Elections in Prized Speech",
+      "summary": "President Donald Trump gave a national address saying that US voting systems are not secure and that China stole voter files. He released some documents to support his claims, but experts say they don't show any actual cheating. Democrats think Trump is trying to lay the groundwork to dispute the upcoming election results.",
+      "why": "By using the White House to cast doubt on voting, Trump is keeping the country's politics very heated before a major election.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "trump raises doubts about us elections in prized speech",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "Ukraine's President Fires Popular Defense Minister, Sparking Big Protests",
+      "summary": "Ukraine's President Volodymyr Zelenskyy fired his Defense Minister, Mykhailo Fedorov, after a disagreement with top generals. Fedorov was known for creating Ukraine's successful 'Army of Drones.' His sudden exit has made many people angry, and thousands have protested in the streets.",
+      "why": "This leadership change is creating uncertainty for Ukraine's military at a critical time, which is a distraction during a war.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "ukraine s president fires popular defense minister sparking big protests",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "Europe Is Easing Up on Climate Rules to Help Its Struggling Factories",
+      "summary": "Europe is relaxing its plan to make polluters pay. The European Union is slowing down its plan to reduce carbon emissions and giving big industries free pollution permits until 2038. This is a change for a region that's usually a leader in fighting climate change.",
+      "why": "This decision shows that even governments that care about the environment will prioritize jobs at factories when times get tough.",
+      "domain": "Climate",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "europe is easing up on climate rules to help its",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "Hundreds of Rohingya Refugees Feared Dead After Double Shipwreck",
+      "summary": "Two boats carrying Rohingya refugees are believed to have sunk off the coast of Myanmar. The refugees were trying to escape war and poor conditions in camps. The seas were very rough because of monsoon season, making the journey extremely dangerous.",
+      "why": "This is one of the worst refugee disasters at sea in years, showing how desperate the Rohingya are as the war in Myanmar gets worse.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "hundreds of rohingya refugees feared dead after double shipwreck",
+      "date": "2026-07-17"
     }
   ]
 }
