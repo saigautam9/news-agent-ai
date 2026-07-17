@@ -1009,6 +1009,56 @@
       "mode": "monitor",
       "fp": "andy burnham declared uk labour leader set to become prime",
       "date": "2026-07-17"
+    },
+    {
+      "headline": "US and Iran fighting gets worse as peace talks fail",
+      "summary": "The US attacked southern Iran with lots of air power, damaging important roads and train bridges. This was to force Iran to open up a key waterway for ships to pass through. Iran hit back at US friends in the Middle East, even hurting a very important power and water plant in Kuwait.",
+      "why": "This makes a big conflict near a very important place for the world's oil even more dangerous.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and iran fighting gets worse as peace talks fail",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "Andy Burnham is going to be the UK's new Prime Minister",
+      "summary": "The former Mayor of Manchester, Andy Burnham, was chosen to lead the Labour Party. He will become the Prime Minister on Monday. He is replacing Keir Starmer, who had to leave because his party didn't support him anymore.",
+      "why": "This is a big change for Britain. Burnham wants to move economic power from London to other parts of the country that are struggling.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "andy burnham is going to be the uk s new",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "Ukraine has a big political problem after a minister gets fired",
+      "summary": "The President of Ukraine, Zelenskyy, fired his popular and tech-smart defense minister, Mykhailo Fedorov. This made a lot of people in Kyiv very upset and they protested in the streets. Fedorov was good at making drones for Ukraine's military, but he disagreed with other military leaders.",
+      "why": "Firing the person who made Ukraine's drone strategy could hurt their chances of defending against Russia when they were starting to do better.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ukraine has a big political problem after a minister gets",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "Many African countries agree to work together on water",
+      "summary": "Leaders from 14 African countries signed an important agreement in N'Djamena to protect and share their water. This deal will help get hundreds of millions of dollars to build better water systems and prevent crops from failing.",
+      "why": "In a world that's getting warmer, this helps millions of people in areas that often have droughts get the food, water, and survival they need.",
+      "domain": "Climate",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "many african countries agree to work together on water",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "China's leader wants global rules for AI",
+      "summary": "Chinese President Xi Jinping said that no one country should control artificial intelligence. He said this at a big tech meeting in Shanghai. He also criticized the US for limiting China's access to computer chips, saying it's an excuse to hold China back.",
+      "why": "It shows that the competition between the US and China for tech power is now about who gets to make the rules for AI in the future.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "china s leader wants global rules for ai",
+      "date": "2026-07-17"
     }
   ]
 }
