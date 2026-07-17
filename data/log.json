@@ -919,6 +919,16 @@
       "mode": "monitor",
       "fp": "u s and iran exchange massive strikes shutting down major",
       "date": "2026-07-17"
+    },
+    {
+      "headline": "U.S. airstrikes in Iran escalate as peace deal falls apart, squeezing global oil routes",
+      "summary": "The U.S. has just finished its sixth straight night of bombing in southern Iran, this time hitting key bridges and an airport. This sharp escalation comes after a fragile ceasefire collapsed last week [2.2.9]. Iran is fighting back by launching missiles at U.S. bases in neighboring countries like Bahrain and Kuwait. They are also threatening to shut down the Strait of Hormuz, which acts as a highway for a fifth of the world's oil.",
+      "why": "This is a direct and dangerous military escalation between two heavily armed powers. If they block the main oil shipping lane, it will choke off global energy supplies and send fuel prices skyrocketing.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s airstrikes in iran escalate as peace deal falls",
+      "date": "2026-07-17"
     }
   ]
 }
