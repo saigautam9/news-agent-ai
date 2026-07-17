@@ -849,6 +849,16 @@
       "mode": "monitor",
       "fp": "catastrophic record breaking floods swamp the texas hill country",
       "date": "2026-07-16"
+    },
+    {
+      "headline": "US-Iran Conflict Explodes Into Major Warfare Over Strait of Hormuz",
+      "summary": "The US and Iran are trading heavy blows after their ceasefire completely collapsed. The US just finished its sixth night of airstrikes, hitting critical infrastructure like bridges, an airport, and a railway in Iran. The US has also blocked all Iranian ports and is boarding ships to stop them. Iran is firing back with missiles targeting US bases and neighboring Gulf countries. Now, ships are avoiding the Strait of Hormuz, a super-important shipping lane, which has the head of the International Energy Agency worried about a global energy crisis.",
+      "why": "This is a massive military escalation that looks like a full-blown war. By choking off the Strait of Hormuz\u2014which is like the main artery for the world's oil\u2014this fight could quickly spike global energy prices and drag the whole Middle East into a wider conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us iran conflict explodes into major warfare over strait of",
+      "date": "2026-07-17"
     }
   ]
 }
