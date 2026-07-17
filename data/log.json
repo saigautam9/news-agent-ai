@@ -859,6 +859,56 @@
       "mode": "monitor",
       "fp": "us iran conflict explodes into major warfare over strait of",
       "date": "2026-07-17"
+    },
+    {
+      "headline": "The U.S.-Iran war heats up again",
+      "summary": "A temporary truce between the U.S. and Iran has broken down. The U.S. military has been attacking northern Iran for six nights in a row. Iran is now threatening to block ships in the Red Sea. Both sides say they don't want a full-scale war, but peace talks in the region are in trouble.",
+      "why": "If Iran blocks major shipping routes, it could cause a big delay in global trade and make oil prices go up, which would affect everyone's wallet.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "the u s iran war heats up again",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "Canada's wildfires affect North American cities",
+      "summary": "There are over 800 wildfires in Canada. Thousands of people have had to leave their homes, and some communities have been destroyed. The smoke is so bad that major U.S. cities like New York and Philadelphia have very poor air quality. Officials are telling people to stay inside because the air is toxic.",
+      "why": "This shows that climate change is not just a problem for the future; it's already affecting the health and daily lives of millions of people living in cities.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "canada s wildfires affect north american cities",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "Trump questions American election security",
+      "summary": "President Trump said on TV that U.S. voting systems are not safe. He released some documents to support his claim. This has caused a big argument just before the midterm elections. However, the documents don't show any actual cheating with votes. Trump wants new laws to make elections more secure.",
+      "why": "If people doubt that votes are counted fairly, it shakes the foundation of the United States, which is one of the world's most powerful democracies.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "trump questions american election security",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "Zelenskyy sparks a political storm in Ukraine by firing his defense chief",
+      "summary": "The President of Ukraine, Volodymyr Zelenskyy, fired his popular defense minister, Mykhailo Fedorov. Fedorov had built a high-tech drone army. Zelenskyy says he needs to focus on other important things, but people are very upset. Some worry that this change will hurt the military's progress.",
+      "why": "Changing the leader of Ukraine's drone program during a brutal war is a big risk that could make it harder for Ukraine to defend itself against Russia.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "zelenskyy sparks a political storm in ukraine by firing his",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "Messi and Spain's teen star set up a dream World Cup final",
+      "summary": "The World Cup is ending with a final match between Argentina and Spain this Sunday. The exciting part is that the famous 39-year-old Lionel Messi will play against 19-year-old Spanish star Lamine Yamal. In a cool coincidence, they met when Yamal was a baby in a famous 2007 charity photo.",
+      "why": "The World Cup is a huge event that brings people together and is a big money-maker for the countries involved.",
+      "domain": "Society",
+      "severity": "LOW",
+      "mode": "morning",
+      "fp": "messi and spain s teen star set up a dream",
+      "date": "2026-07-17"
     }
   ]
 }
