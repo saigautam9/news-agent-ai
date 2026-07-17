@@ -929,6 +929,16 @@
       "mode": "monitor",
       "fp": "u s airstrikes in iran escalate as peace deal falls",
       "date": "2026-07-17"
+    },
+    {
+      "headline": "U.S. and Iran Trade Massive Strikes across Middle East as Ceasefire Collapses",
+      "summary": "The fragile truce between the United States and Iran has completely collapsed. Following a sixth straight night of U.S. airstrikes targeting Iranian infrastructure\u2014including bridges, an airport, and a port tower\u2014Iran's Islamic Revolutionary Guard Corps (IRGC) retaliated with heavy ballistic missile and drone attacks. The Iranian strikes hit major U.S. military installations across the region, including Al Udeid Air Base in Qatar, and damaged a critical water desalination plant in Kuwait.",
+      "why": "This is a massive military escalation that marks a return to direct, all-out war between the U.S. and Iran. The conflict threatens global energy supplies by shutting down the crucial Strait of Hormuz shipping lane and risks drawing several Middle Eastern nations into a wider regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trade massive strikes across middle east",
+      "date": "2026-07-17"
     }
   ]
 }
