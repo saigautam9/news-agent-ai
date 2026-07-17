@@ -1059,6 +1059,36 @@
       "mode": "evening",
       "fp": "china s leader wants global rules for ai",
       "date": "2026-07-17"
+    },
+    {
+      "headline": "7.3 Magnitude Earthquake Shakes Mexico and Guatemala",
+      "summary": "A massive 7.3 magnitude earthquake just hit off the coast of Mexico and Guatemala. The ground shook hard across Central America, and officials immediately put out tsunami warnings.",
+      "why": "A 7.3 quake is a beast. It's a major natural disaster that can trigger destructive waves and cause massive damage to coastal towns.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "7 3 magnitude earthquake shakes mexico and guatemala",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "Andy Burnham Named UK's Next Prime Minister",
+      "summary": "Andy Burnham was just crowned the new leader of the UK's ruling Labour Party. Since nobody ran against him, he's set to become Britain's next Prime Minister on Monday.",
+      "why": "This is a big-deal government change. Britain is getting its seventh leader in ten years after the last guy, Keir Starmer, got pushed out by his own team.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "andy burnham named uk s next prime minister",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "U.S. and Iran Trade Strikes in Major Escalation",
+      "summary": "Things are getting really hot in the Middle East. Iran shot a missile at a U.S. base in Qatar. It got intercepted, but falling metal hurt a kid. This happened right after U.S. airstrikes killed seven people in southern Iran.",
+      "why": "This is a scary military escalation. When countries start trading missiles at major bases, they are one misstep away from a full-blown war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trade strikes in major escalation",
+      "date": "2026-07-17"
     }
   ]
 }
