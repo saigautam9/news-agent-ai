@@ -989,6 +989,26 @@
       "mode": "afternoon",
       "fp": "hundreds of rohingya refugees feared dead after double shipwreck",
       "date": "2026-07-17"
+    },
+    {
+      "headline": "US Escalates Airstrikes in Iran as Retaliatory Missiles Strike Gulf Bases and Allied Infrastructure",
+      "summary": "The US conducted its sixth consecutive night of heavy airstrikes on Iran, widening its targets to include critical infrastructure like southern bridges and a key port tower [2.1.6]. In direct retaliation, Iran's Revolutionary Guard Corps fired ballistic missiles and drones at US military bases in Jordan and Qatar, while also striking a water desalination plant in Kuwait and targeting assets in Bahrain.",
+      "why": "This is a sharp, dangerous escalation in a direct conflict between the US and Iran. By expanding targets to civilian infrastructure and attacking US bases across multiple Middle Eastern countries, the situation is pushing closer to an all-out regional war and threatening global energy security through the Strait of Hormuz.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us escalates airstrikes in iran as retaliatory missiles strike gulf",
+      "date": "2026-07-17"
+    },
+    {
+      "headline": "Andy Burnham Declared UK Labour Leader, Set to Become Prime Minister on Monday",
+      "summary": "Former Manchester Mayor Andy Burnham was officially declared the leader of the governing Labour Party on Friday. He will succeed Keir Starmer, who formally resigns on Monday, officially making Burnham the UK's next Prime Minister.",
+      "why": "This represents a major government and policy transition for a G7 nation. Burnham's rise marks the UK's seventh prime minister in a decade and promises a significant left-wing policy shift away from decades of economic centralization toward regional devolution and public ownership.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "andy burnham declared uk labour leader set to become prime",
+      "date": "2026-07-17"
     }
   ]
 }
