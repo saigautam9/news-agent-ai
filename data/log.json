@@ -909,6 +909,16 @@
       "mode": "morning",
       "fp": "messi and spain s teen star set up a dream",
       "date": "2026-07-17"
+    },
+    {
+      "headline": "U.S. and Iran Exchange Massive Strikes, Shutting Down Major Global Oil Route",
+      "summary": "The fragile Middle East truce is completely dead. Last night, the U.S. launched its sixth straight night of heavy airstrikes on Iran, destroying key bridges, an airport, and a tower at a major port [2.4.9]. Iran has fired back with missiles and drones targeting U.S. bases across Bahrain, Kuwait, Qatar, and Jordan. This heavy back-and-forth has completely choked off shipping in the Strait of Hormuz, which acts as the main highway for the world's oil supply.",
+      "why": "This is a direct, heavy clash between the U.S. and Iran that is threatening to spin into an all-out regional war. Blocking the Strait of Hormuz is like pinching the global economy's main fuel line, which is already sending energy prices spiking.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran exchange massive strikes shutting down major",
+      "date": "2026-07-17"
     }
   ]
 }
