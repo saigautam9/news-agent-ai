@@ -1089,6 +1089,16 @@
       "mode": "monitor",
       "fp": "u s and iran trade strikes in major escalation",
       "date": "2026-07-17"
+    },
+    {
+      "headline": "U.S. and Iran Direct Conflict Reaches Boiling Point with Infrastructure and Base Strikes",
+      "summary": "The direct military conflict between the United States and Iran has escalated drastically as the U.S. launched its seventh consecutive night of airstrikes on critical Iranian infrastructure, including bridges and a port control tower. Iran retaliated with a barrage of missiles and drones targeting U.S. military bases across Jordan, Qatar, Bahrain, Saudi Arabia, and Kuwait, where a key power and water desalination plant was damaged and several U.S. troops were injured. Shipping through the Strait of Hormuz has ground to a standstill.",
+      "why": "This represents a sharp military escalation and direct war between the U.S. and Iran, threatening a wider regional conflict, bringing global energy shipping in the Strait of Hormuz to a halt, and risking a global energy crisis.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran direct conflict reaches boiling point with",
+      "date": "2026-07-18"
     }
   ]
 }
