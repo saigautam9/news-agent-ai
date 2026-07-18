@@ -1199,6 +1199,16 @@
       "mode": "monitor",
       "fp": "us iran conflict escalates to seven straight nights of airstrikes",
       "date": "2026-07-18"
+    },
+    {
+      "headline": "U.S. and Iran trade massive strikes as month-old peace deal completely falls apart",
+      "summary": "The U.S. just finished its seventh straight night of bombing inside Iran, hitting key bridges and roads to block a major port. In response, Iran launched a massive wave of missiles and drones at U.S. bases and allies in the Gulf. They hit an oil facility and a drinking-water plant in Kuwait, while Bahrain and Jordan scrambled to shoot down incoming fire. Iran also officially announced they are ripping up the peace deal they signed with the U.S. just last month. Both sides are now basically ignoring past red lines, and Iran is warning of a 'full-scale' clash if the U.S. doesn't back down.",
+      "why": "This is a massive military escalation that could easily turn into a full-blown war. With the brand-new peace deal dead in the water, both countries are actively hitting critical infrastructure. By targeting things like oil facilities and water plants in neighboring countries, the conflict is spilling across the Middle East and threatens to choke off the Strait of Hormuz\u2014the world's most important choke point for oil.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trade massive strikes as month old",
+      "date": "2026-07-18"
     }
   ]
 }
