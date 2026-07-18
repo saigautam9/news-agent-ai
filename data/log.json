@@ -1189,6 +1189,16 @@
       "mode": "monitor",
       "fp": "massive 7 3 magnitude earthquake strikes off the pacific coast",
       "date": "2026-07-18"
+    },
+    {
+      "headline": "US-Iran Conflict Escalates to Seven Straight Nights of Airstrikes as Bahrain Intercepts Retaliatory Attacks",
+      "summary": "The United States conducted its seventh consecutive night of heavy airstrikes against Iran, targeting transport infrastructure such as bridges and port facilities to break Iran's grip on the Strait of Hormuz. In response, Iran launched retaliatory aerial attacks across the region; on July 18, 2026, Bahrain's military announced it had intercepted and destroyed multiple Iranian drones and missiles targeting the kingdom.",
+      "why": "This is a major military escalation that has effectively collapsed a recent June truce and pushed the U.S. and Iran back to the brink of all-out war. The hostilities have choked off shipping in the Strait of Hormuz\u2014the world's most critical transit route for oil and gas\u2014raising immediate global energy security alarms as daily commercial transits drop to nearly zero.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us iran conflict escalates to seven straight nights of airstrikes",
+      "date": "2026-07-18"
     }
   ]
 }
