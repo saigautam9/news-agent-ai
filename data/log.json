@@ -1099,6 +1099,16 @@
       "mode": "monitor",
       "fp": "u s and iran direct conflict reaches boiling point with",
       "date": "2026-07-18"
+    },
+    {
+      "headline": "U.S. and Iran trade heavy airstrikes for a seventh night as Middle East conflict boils over",
+      "summary": "The shaky peace talks between the U.S. and Iran have collapsed into a direct shooting war [2.3.7]. For seven nights straight, U.S. forces have bombed Iranian bridges, power grids, and military hubs. Iran has responded by launching waves of missiles and suicide drones directly targeting U.S. military bases in Jordan, Kuwait, and Bahrain. To prepare for a massive escalation, the U.S. is now rushing extra F-15, F-16, and F-35 fighter jets and aerial tankers to the region.",
+      "why": "This is a direct, active military conflict between the U.S. and Iran rather than a proxy battle. It threatens to permanently shut down the Strait of Hormuz, which is the world's most critical choke point for oil shipping, and could drag the entire Middle East into a massive, uncontrolled war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trade heavy airstrikes for a seventh",
+      "date": "2026-07-18"
     }
   ]
 }
