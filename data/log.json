@@ -1209,6 +1209,56 @@
       "mode": "monitor",
       "fp": "u s and iran trade massive strikes as month old",
       "date": "2026-07-18"
+    },
+    {
+      "headline": "Direct U.S.-Iran Conflict Closes Critical Strait of Hormuz",
+      "summary": "The U.S. launched a seventh night of airstrikes hitting Iranian port infrastructure, triggering retaliatory Iranian missile attacks on key water and oil facilities in Gulf states like Kuwait and Bahrain. Global shipping through the Strait of Hormuz has plummeted to almost zero, with only three commodity vessels transiting the vital waterway in a 24-hour period.",
+      "why": "Disrupting this primary global oil transit route threatens a major global energy shock and risks drawing the Middle East into a full-scale war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "direct u s iran conflict closes critical strait of hormuz",
+      "date": "2026-07-18"
+    },
+    {
+      "headline": "Powerful 7.3-Magnitude Earthquake Strikes Mexico-Guatemala Border",
+      "summary": "A major 7.3-magnitude earthquake hit the Pacific coast of southern Mexico near Chiapas, sending tremors through Guatemala City and Mexico City. The quake forced widespread evacuations across both countries, and local authorities are currently monitoring coastal areas for potential tsunami threats.",
+      "why": "Large earthquakes in this seismically active border region can devastate fragile infrastructure and displace vulnerable communities.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "powerful 7 3 magnitude earthquake strikes mexico guatemala border",
+      "date": "2026-07-18"
+    },
+    {
+      "headline": "Zelensky Sparks Massive Protests by Firing Ukraine\u2019s Defense Minister",
+      "summary": "Large crowds have taken to the streets in Kyiv and other Ukrainian cities to protest President Volodymyr Zelensky's dismissal of Defense Minister Mykhailo Fedorov. Fedorov, a popular tech reformer who spearheaded Ukraine's drone and electronic warfare programs, was ousted after clashing with the military's old-guard leadership.",
+      "why": "This political crisis fractures Ukraine\u2019s domestic unity and threatens to undermine its technology-led defense strategies against Russia.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "zelensky sparks massive protests by firing ukraine s defense minister",
+      "date": "2026-07-18"
+    },
+    {
+      "headline": "Extreme Wildfire Crises Trigger Severe Air Quality Alerts Across the U.S. and Europe",
+      "summary": "Toxic smoke from ongoing Canadian wildfires has drifted south to blanket the Upper Midwest and Northeast, triggering hazardous air quality warnings in 19 U.S. states. Meanwhile, Spain is battling its largest wildfire of the season, marking a highly active and dangerous wildfire summer across both continents.",
+      "why": "The sheer scale of these wildfires highlights how climate change is posing an immediate threat to global public health and the environment.",
+      "domain": "Climate",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "extreme wildfire crises trigger severe air quality alerts across the",
+      "date": "2026-07-18"
+    },
+    {
+      "headline": "EU Backtracks on Carbon Emission Cut Pace to Protect Industry",
+      "summary": "The European Commission is preparing an overhaul of its carbon market that will slow down emission reduction targets for heavy industries over the next decade. The shift is designed to give companies breathing room to adopt clean tech while surviving high energy costs and global competition from the U.S. and China.",
+      "why": "This move exposes the difficult trade-offs governments face when balancing immediate economic survival with long-term climate goals.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "eu backtracks on carbon emission cut pace to protect industry",
+      "date": "2026-07-18"
     }
   ]
 }
