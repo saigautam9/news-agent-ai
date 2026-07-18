@@ -1269,6 +1269,16 @@
       "mode": "monitor",
       "fp": "us iran war escalates as gulf allies and infrastructure are",
       "date": "2026-07-18"
+    },
+    {
+      "headline": "Two US troops killed in Jordan as US-Iran conflict escalates",
+      "summary": "Two American soldiers were killed and another went missing after Iran launched a ballistic missile and drone attack on a military base in Jordan. This comes after the US finished its seventh straight night of heavy airstrikes on Iranian targets. A fragile ceasefire agreed upon last month has completely shattered, and both sides are trading heavy blows across the Middle East.",
+      "why": "This is a major military escalation. These are the first US combat deaths since the brief peace deal collapsed, putting the US and Iran back on the path to an all-out regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "two us troops killed in jordan as us iran conflict",
+      "date": "2026-07-18"
     }
   ]
 }
