@@ -1159,6 +1159,16 @@
       "mode": "morning",
       "fp": "trump threatens canada with tariffs over wildfire smoke",
       "date": "2026-07-18"
+    },
+    {
+      "headline": "U.S. and Iran trade heavy military strikes as Strait of Hormuz conflict escalates",
+      "summary": "The U.S. has completed its seventh straight night of heavy airstrikes against Iranian port infrastructure and weapons depots. Iran retaliated by launching missiles and drones at U.S. military targets in Kuwait, Jordan, and Bahrain. On top of that, Iran claims two oil tankers just exploded after hitting sea mines in the Strait of Hormuz.",
+      "why": "This is a direct, open war between the U.S. and Iran. The Strait of Hormuz is like the main artery for the global energy trade. Choking it off could send world oil prices through the roof and drag the entire region into a massive, uncontrolled conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trade heavy military strikes as strait",
+      "date": "2026-07-18"
     }
   ]
 }
