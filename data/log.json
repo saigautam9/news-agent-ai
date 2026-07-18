@@ -1109,6 +1109,56 @@
       "mode": "monitor",
       "fp": "u s and iran trade heavy airstrikes for a seventh",
       "date": "2026-07-18"
+    },
+    {
+      "headline": "US and Iran trade heavy fire as oil route shuts down",
+      "summary": "The US military just wrapped up a seventh straight night of airstrikes on Iran to force open the Strait of Hormuz shipping route. In response, Iran has launched missiles and drones hitting US military bases and civilian water facilities in Kuwait, Bahrain, and Jordan. With both sides dug in, shipping through the vital strait has frozen up and global oil prices are shooting up.",
+      "why": "This showdown is happening in the world's most critical oil pipeline, and a full-scale war here could choke off global energy supplies and trigger a massive economic crisis.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and iran trade heavy fire as oil route shuts",
+      "date": "2026-07-18"
+    },
+    {
+      "headline": "Russian court demands Euroclear pay $230 billion over frozen assets",
+      "summary": "A Russian appeals court has ordered Euroclear, the Belgian bank holding most of Russia's frozen funds, to pay $230 billion in damages. While Western courts won't enforce this, Russia plans to go after Euroclear's assets in friendly nations like China and the UAE.",
+      "why": "This legal battle moves the fight over frozen assets to a global stage, risking a major disruption to the hidden plumbing of the international banking system.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "russian court demands euroclear pay 230 billion over frozen assets",
+      "date": "2026-07-18"
+    },
+    {
+      "headline": "Powerful 7.4-magnitude earthquake strikes the Mexico-Guatemala border",
+      "summary": "A major earthquake hit off the Pacific coast of southern Mexico, triggering panic and evacuation orders from Mexico City down to El Salvador. While the initial tsunami alerts have been lifted, several strong aftershocks continue to shake the region.",
+      "why": "A tremor of this scale in a vulnerable area threatens millions of lives, disrupts critical infrastructure, and tests the region's disaster preparedness.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "powerful 7 4 magnitude earthquake strikes the mexico guatemala border",
+      "date": "2026-07-18"
+    },
+    {
+      "headline": "America\u2019s biggest housing bill in decades quietly becomes law",
+      "summary": "A massive bipartisan plan called the 'ROAD to Housing Act' has officially become law without President Trump\u2019s signature. The new law aims to lower housing costs and build more homes. Most notably, it stops giant private equity firms from buying up single-family houses.",
+      "why": "This is the biggest shakeup to the US housing market in thirty years, aimed at giving ordinary families a fair shot against Wall Street investors.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "america s biggest housing bill in decades quietly becomes law",
+      "date": "2026-07-18"
+    },
+    {
+      "headline": "Trump threatens Canada with tariffs over wildfire smoke",
+      "summary": "Hundreds of out-of-control Canadian wildfires are blowing thick, toxic smoke into the US, putting 100 million Americans under air quality alerts. In response, President Trump has threatened to slap heavy tariffs on Canadian goods to make them pay for the pollution.",
+      "why": "It shows how extreme climate events are now sparking real-world trade wars and dividing close economic allies.",
+      "domain": "Climate",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "trump threatens canada with tariffs over wildfire smoke",
+      "date": "2026-07-18"
     }
   ]
 }
