@@ -1259,6 +1259,16 @@
       "mode": "evening",
       "fp": "eu backtracks on carbon emission cut pace to protect industry",
       "date": "2026-07-18"
+    },
+    {
+      "headline": "US-Iran War Escalates as Gulf Allies and Infrastructure are Hit",
+      "summary": "The fragile ceasefire between the US and Iran has totally collapsed. After seven straight nights of US airstrikes on Iranian infrastructure, Iran fired back on July 18, 2026. They launched missiles and drones at US allies in the Gulf. Kuwait got hit hard, suffering damage to a key water desalination plant and an oil facility, which forced its international airport to shut down. Other countries like Jordan and Bahrain had to shoot down incoming missiles. Both sides are now trading heavy blows, and Iran's leader is promising to teach the US 'unforgettable lessons.'",
+      "why": "This is a major military escalation. The two sides are sliding back into an all-out war. It directly threatens the Strait of Hormuz, which is like the world's main pipeline for oil and gas. If it gets blocked, energy prices across the globe will shoot up.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us iran war escalates as gulf allies and infrastructure are",
+      "date": "2026-07-18"
     }
   ]
 }
