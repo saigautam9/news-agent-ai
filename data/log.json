@@ -1169,6 +1169,26 @@
       "mode": "monitor",
       "fp": "u s and iran trade heavy military strikes as strait",
       "date": "2026-07-18"
+    },
+    {
+      "headline": "U.S.-Iran War escalates sharply with seventh night of airstrikes and retaliatory strikes across the Gulf",
+      "summary": "The conflict between the United States and Iran has reached a dangerous flashpoint as the U.S. conducted a seventh consecutive night of heavy airstrikes targeting critical southern Iranian infrastructure, including bridges, roads, and port facilities near the Strait of Hormuz. In retaliation, Iran launched missile and drone attacks targeting Gulf nations hosting U.S. bases, hitting vital power and water desalination facilities in Kuwait and triggering air defense alarms in Bahrain.",
+      "why": "This is a direct, heavy military escalation between two powerful nations that has effectively pushed them into a state of war. The conflict threatens to draw in multiple Middle Eastern states and has nearly halted shipping in the Strait of Hormuz, threatening a massive global energy crisis.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s iran war escalates sharply with seventh night of",
+      "date": "2026-07-18"
+    },
+    {
+      "headline": "Massive 7.3-magnitude earthquake strikes off the Pacific coast of Mexico and Guatemala",
+      "summary": "A powerful 7.3-magnitude earthquake struck off the southern Pacific coast of Mexico near the border with Guatemala. The strong tremor prompted widespread evacuations, caused structural damage to buildings, and triggered brief tsunami warnings along the Pacific coast of Central America before threats were lifted.",
+      "why": "A 7.3-magnitude earthquake is a major natural disaster that poses an immediate threat to human life and critical infrastructure across multiple Central American nations.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "massive 7 3 magnitude earthquake strikes off the pacific coast",
+      "date": "2026-07-18"
     }
   ]
 }
