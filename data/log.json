@@ -1529,6 +1529,16 @@
       "mode": "monitor",
       "fp": "u s iran conflict escalates to brink of all out",
       "date": "2026-07-19"
+    },
+    {
+      "headline": "The U.S. and Iran trade heavy military strikes as Middle East conflict escalates",
+      "summary": "The U.S. military has launched its eighth consecutive night of airstrikes on Iran. This escalation follows an Iranian drone and missile strike in Jordan that killed two American service members and left another missing. A third soldier was also killed in Iraq by a downed drone. In response, Iran has launched missiles and drones toward U.S. allies including Kuwait, Bahrain, and Jordan, forcing them to activate their air defenses. The U.S. is sending more advanced fighter jets to the region as both sides brace for potential all-out war.",
+      "why": "This is a massive, direct military confrontation between the world's largest military and a major regional power. With direct combat deaths of U.S. troops, strikes on key infrastructure, and threatened choke points in global oil shipping lanes like the Strait of Hormuz, this conflict has a high risk of spiraling into a devastating global crisis.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "the u s and iran trade heavy military strikes as",
+      "date": "2026-07-19"
     }
   ]
 }

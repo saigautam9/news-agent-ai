@@ -1,6 +1,6 @@
 {
   "date": "2026-07-19",
-  "gemini": 15,
+  "gemini": 16,
   "groq": 3,
-  "warned": false
+  "warned": true
 }
