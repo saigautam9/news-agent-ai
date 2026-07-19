@@ -1519,6 +1519,16 @@
       "mode": "evening",
       "fp": "canadian wildfire smoke sparks a bitter trade feud",
       "date": "2026-07-19"
+    },
+    {
+      "headline": "U.S.-Iran Conflict Escalates to Brink of All-Out War Following New Strikes and Troop Deaths",
+      "summary": "The United States launched a new wave of retaliatory airstrikes across Iran following the deaths of U.S. service members in Jordan. The strikes targeted Iranian military assets, though Tehran claimed an under-construction nuclear power facility was also hit. In response, Iran fired missiles toward Jordan that risk spilling over into Israel, and targeted critical infrastructure in Kuwait, marking the complete collapse of last month's ceasefire.",
+      "why": "This represents a sharp and dangerous escalation of direct warfare between the U.S. and Iran, threatening to pull Israel and other Gulf nations into a massive regional conflict and severely disrupt global energy corridors like the Strait of Hormuz.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s iran conflict escalates to brink of all out",
+      "date": "2026-07-19"
     }
   ]
 }
