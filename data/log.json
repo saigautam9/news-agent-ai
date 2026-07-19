@@ -1289,6 +1289,16 @@
       "mode": "monitor",
       "fp": "us troops killed in jordan airbase attack igniting major us",
       "date": "2026-07-19"
+    },
+    {
+      "headline": "US Launches Fresh Airstrikes on Iran Following Deadly Attack on US Troops in Jordan",
+      "summary": "At the direction of the President, U.S. forces launched a new wave of airstrikes against Iran's Islamic Revolutionary Guard Corps (IRGC) on July 18. This action was taken in response to a deadly Iranian ballistic missile and drone strike on a military base in Jordan that killed two U.S. service members and left another missing. This marks the first American combat fatalities in the U.S.-Iran conflict since their fragile ceasefire collapsed earlier this month.",
+      "why": "This is a direct, sharp military escalation between the United States and Iran, moving beyond proxy conflicts into direct, lethal engagements on sovereign territories and regional bases, which risks triggering an all-out war and shutting down the vital Strait of Hormuz shipping corridor.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us launches fresh airstrikes on iran following deadly attack on",
+      "date": "2026-07-19"
     }
   ]
 }
