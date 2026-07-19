@@ -1429,6 +1429,26 @@
       "mode": "afternoon",
       "fp": "china clashes with the uk over nationalized steel plant",
       "date": "2026-07-19"
+    },
+    {
+      "headline": "U.S. and Iran trading heavy blows after American troops are killed in Jordan base strike",
+      "summary": "A drone and missile strike by Iran on a military base in Jordan killed two American soldiers and left one missing. The U.S. fought back with its eighth straight night of heavy airstrikes targeting Iran's Revolutionary Guard. Now, the conflict is dragging in neighbors. Kuwait and Bahrain have activated their air sirens and rocket defenses to block incoming Iranian strikes, and oil shipping in the Strait of Hormuz is completely stuck.",
+      "why": "This is a major military escalation. The tentative peace deal has completely fallen apart. We are now seeing direct combat deaths of American troops and a rapidly widening war that could choke off a fifth of the world's oil supply.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trading heavy blows after american troops",
+      "date": "2026-07-19"
+    },
+    {
+      "headline": "Russia hits Kyiv with its biggest ballistic missile barrage of the war",
+      "summary": "Russia launched a massive five-hour attack on Ukraine's capital overnight. They fired about 40 heavy ballistic and hypersonic missiles along with over 120 drones. At least one person died, dozens were hurt, and the attack caved in a metro station ceiling. It is the most intense single-night ballistic bombardment Kyiv has faced since Russia invaded over four years ago.",
+      "why": "This is a massive step up in the war. Russia is taking advantage of Ukraine's dwindling supply of air defense rockets to rain down their most advanced and destructive missiles directly on the capital city.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "russia hits kyiv with its biggest ballistic missile barrage of",
+      "date": "2026-07-19"
     }
   ]
 }
