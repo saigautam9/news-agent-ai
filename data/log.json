@@ -1279,6 +1279,16 @@
       "mode": "monitor",
       "fp": "two us troops killed in jordan as us iran conflict",
       "date": "2026-07-18"
+    },
+    {
+      "headline": "US Troops Killed in Jordan Airbase Attack, Igniting Major US Retaliation and Fears of Full War with Iran",
+      "summary": "Two US soldiers were killed and another is missing after Iran hit a military base in Jordan with missiles and drones [2.2.4]. The US fired back immediately, launching a massive wave of airstrikes on Iran. This marks the eighth consecutive night of American bombing, which began after a fragile truce between the two countries fell apart last week.",
+      "why": "This is a major military escalation because it is the first time American troops have been killed since the fighting flared up again. It moves the US and Iran from tense standoffs directly into an active, deadly shooting war, threatening to drag the entire Middle East into conflict and choke off vital global energy routes.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us troops killed in jordan airbase attack igniting major us",
+      "date": "2026-07-19"
     }
   ]
 }
