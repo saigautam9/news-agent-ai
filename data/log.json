@@ -1349,6 +1349,16 @@
       "mode": "morning",
       "fp": "deadly landslides and massive floods sweep southern china",
       "date": "2026-07-19"
+    },
+    {
+      "headline": "U.S. and Iran Trade Heavy Strikes After Two American Troops Killed in Jordan Base Attack",
+      "summary": "Two U.S. service members were killed and one went missing after an Iranian missile and drone strike on a base in Jordan [2.2.2]. In response, the U.S. launched massive retaliatory airstrikes across Iran to knock out radar and missile sites. The fighting has also spilled over, with Iran bombing vital water and oil plants in neighboring Kuwait.",
+      "why": "This is a severe military escalation that pushes the U.S. and Iran closer to an all-out regional war. It marks the first U.S. combat deaths since a recent ceasefire collapsed, and the widening attacks on crucial infrastructure in the Gulf threaten global stability.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trade heavy strikes after two american",
+      "date": "2026-07-19"
     }
   ]
 }
