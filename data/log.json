@@ -1369,6 +1369,16 @@
       "mode": "monitor",
       "fp": "u s launches eighth consecutive night of airstrikes on iran",
       "date": "2026-07-19"
+    },
+    {
+      "headline": "U.S. and Iran Exchange Heavy Strikes After American Troops Killed in Jordan",
+      "summary": "Two U.S. soldiers were killed and another went missing when Iranian missiles hit an airbase in Jordan. The U.S. retaliated with an eighth night of airstrikes, wrecking Iranian bridges and water plants. Now, Iran is hitting back at U.S. allies\u2014striking a water and power plant in Kuwait, triggering sirens in Bahrain, and threatening to bomb major airports and ports in Dubai and Abu Dhabi if the U.S. doesn't stop.",
+      "why": "This is a massive military escalation that could drag the whole Middle East into a full-scale war. By targeting vital lifelines like drinking water plants and threatening major global trade hubs like Dubai, this conflict is rapidly moving from a local fight to a massive global crisis.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran exchange heavy strikes after american troops",
+      "date": "2026-07-19"
     }
   ]
 }
