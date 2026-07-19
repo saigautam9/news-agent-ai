@@ -1359,6 +1359,16 @@
       "mode": "monitor",
       "fp": "u s and iran trade heavy strikes after two american",
       "date": "2026-07-19"
+    },
+    {
+      "headline": "U.S. launches eighth consecutive night of airstrikes on Iran after American troops killed in Jordan",
+      "summary": "The U.S. military has unleashed another wave of airstrikes against Iran's Revolutionary Guard, marking the eighth straight night of bombings. The strikes are direct retaliation for an Iranian missile and drone attack on a military base in Jordan that killed two U.S. service members and left one missing. Adding to the chaos, the U.S. Embassy in Jordan issued an urgent security alert warning of a 'specific and credible threat' at the Red Sea port and airport in Aqaba.",
+      "why": "This represents a major military escalation in the Middle East. With the fragile June ceasefire completely dead and direct American combat deaths now confirmed, the U.S. and Iran are sliding into a full-scale war that directly threatens global oil supplies passing through the Strait of Hormuz.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s launches eighth consecutive night of airstrikes on iran",
+      "date": "2026-07-19"
     }
   ]
 }
