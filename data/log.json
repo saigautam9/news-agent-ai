@@ -1469,6 +1469,56 @@
       "mode": "monitor",
       "fp": "u s iran conflict escalates horrificially with troop deaths airstrikes",
       "date": "2026-07-19"
+    },
+    {
+      "headline": "US and Iran Go Toe-to-Toe in the Gulf",
+      "summary": "The US has bombed Iranian targets for eight nights straight after a drone strike killed two American soldiers in Jordan [1.3.7]. In response, Iran is threatening to shut down the Strait of Hormuz and the Red Sea, which act like the main highways for the world\u2019s oil. This has already sent fuel prices ticking up and forced giant cargo ships to take massive detours.",
+      "why": "Shunning these critical shipping lanes could trigger a painful global energy crisis and push the world into a much wider war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and iran go toe to toe in the gulf",
+      "date": "2026-07-19"
+    },
+    {
+      "headline": "SpaceX Suffers a Historic $1 Trillion Stock Meltdown",
+      "summary": "Just weeks after its record-breaking stock market debut, Elon Musk's rocket company has lost a staggering $1 trillion in market value. Investors panicked after a high-profile Starship launch was delayed, and early backers are getting ready to dump their shares next month. The massive crash has officially stripped Musk of his brief title as the world's first trillionaire.",
+      "why": "It is a sharp warning that even the most hyped 'future-of-humanity' companies cannot escape the gravity of basic market reality.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "spacex suffers a historic 1 trillion stock meltdown",
+      "date": "2026-07-19"
+    },
+    {
+      "headline": "Ukraine Launches a Massive Retaliatory Drone Swarm Into Russia",
+      "summary": "Ukraine launched nearly 380 drones deep into Russia, striking major warehouses and factories near Moscow. This massive raid was payback for recent Russian missile strikes that broke through Ukraine's air defenses. The attack sparked huge fires at facilities making drone parts, showing that Kyiv can now hit back hard on Russian soil.",
+      "why": "It escalates the war to a new level by proving Ukraine can strike deep inside Russia at will, making the conflict much harder to contain.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ukraine launches a massive retaliatory drone swarm into russia",
+      "date": "2026-07-19"
+    },
+    {
+      "headline": "A New Chinese AI Model Shocks Global Markets",
+      "summary": "A Chinese startup just launched Kimi K3, a new AI model that is nearly as smart as America's best but six times cheaper to run. Crucially, it doesn't rely on the ultra-expensive computer chips that US companies have been hoarding. This shocked Wall Street, wiping out billions of dollars from chipmakers like Nvidia because investors realize AI might not need to be so expensive after all.",
+      "why": "It means the U.S. monopoly on AI hardware is cracking, which could completely rewrite the economics of the future tech industry.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "a new chinese ai model shocks global markets",
+      "date": "2026-07-19"
+    },
+    {
+      "headline": "Canadian Wildfire Smoke Sparks a Bitter Trade Feud",
+      "summary": "Toxic orange haze from hundreds of Canadian wildfires has choked the US Midwest and Northeast, forcing over 100 million people to stay indoors. President Trump has threatened to hit Canada with heavy trade tariffs, accusing them of sending 'filthy, polluted air' over the border. Canadian officials fired back, calling the threats an unfair blow from a neighboring country during a natural disaster.",
+      "why": "It proves that climate change is no longer just an environmental issue\u2014it is now actively breaking down international trade and alliances.",
+      "domain": "Climate",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "canadian wildfire smoke sparks a bitter trade feud",
+      "date": "2026-07-19"
     }
   ]
 }
