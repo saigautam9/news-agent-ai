@@ -1449,6 +1449,16 @@
       "mode": "monitor",
       "fp": "russia hits kyiv with its biggest ballistic missile barrage of",
       "date": "2026-07-19"
+    },
+    {
+      "headline": "U.S. Launches Heavy Retaliatory Airstrikes on Iran After First American Troop Deaths",
+      "summary": "The U.S. just launched huge retaliatory airstrikes on Iranian targets. This comes after an Iranian drone and missile strike on a base in Jordan killed two American soldiers and left one missing. Now, things are boiling over: Iran says the U.S. hit an unfinished nuclear plant, Kuwait is getting hit by Iranian missiles, and Jordan has evacuated a major airport over threats.",
+      "why": "This crosses a major red line. These are the first American troops killed by direct Iranian fire since this war started. Both sides are trading heavy punches, and it looks like we are on the brink of an all-out, region-wide war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s launches heavy retaliatory airstrikes on iran after first",
+      "date": "2026-07-19"
     }
   ]
 }
