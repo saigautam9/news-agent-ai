@@ -1299,6 +1299,56 @@
       "mode": "monitor",
       "fp": "us launches fresh airstrikes on iran following deadly attack on",
       "date": "2026-07-19"
+    },
+    {
+      "headline": "America and Iran trade heavy fire as Middle East war intensifies",
+      "summary": "The U.S. has bombed Iran for eight nights straight. This comes after Iran launched drones and missiles at a U.S. airbase in Jordan, killing two American soldiers and leaving one missing. Iran is also shooting at America's allies like Kuwait and Bahrain, targeting their power and water plants.",
+      "why": "This is a full-blown regional war that could choke off the world\u2019s most important oil shipping routes, hurting everyone's wallets.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "america and iran trade heavy fire as middle east war",
+      "date": "2026-07-19"
+    },
+    {
+      "headline": "Lebanon's president takes a bold plan to disarm Hezbollah to the White House",
+      "summary": "Lebanon's president is visiting Washington for the first time in almost twenty years to meet Donald Trump. He is bringing a written plan to strip the powerful, Iran-backed militant group Hezbollah of its massive weapons cache. In return, he wants Trump to force Israeli troops to leave southern Lebanon.",
+      "why": "This is a high-stakes gamble that could either bring lasting peace to the region or trigger a bloody civil war inside Lebanon.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "lebanon s president takes a bold plan to disarm hezbollah",
+      "date": "2026-07-19"
+    },
+    {
+      "headline": "Ukrainian drones target oil tankers in the Black Sea",
+      "summary": "Ukrainian forces are using drones to attack oil tankers near a major Russian export terminal [2.1.8]. Some of these targeted ships were chartered by big American energy companies like ExxonMobil and Chevron. While oil is still flowing for now, these strikes are making the shipping lanes incredibly dangerous.",
+      "why": "Shaking up these Black Sea oil routes could trigger a massive jump in global energy prices and fuel inflation worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "ukrainian drones target oil tankers in the black sea",
+      "date": "2026-07-19"
+    },
+    {
+      "headline": "Taiwan's president warns of Beijing's \"red terror\" and legal warfare",
+      "summary": "Taiwan's president has urged his people to stand strong against China's pressure. He warned about China\u2019s new \"ethnic unity\" law, which lets Beijing target and arrest Taiwanese people even when they are traveling abroad. China refuses to talk to him, calling him a dangerous troublemaker.",
+      "why": "Any slip-up in this tense standoff could spark a war over the island that makes almost all of the world's advanced computer chips.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "taiwan s president warns of beijing s red terror and",
+      "date": "2026-07-19"
+    },
+    {
+      "headline": "Deadly landslides and massive floods sweep southern China",
+      "summary": "Torrential rains have triggered huge landslides in southwest China, burying a village, killing at least eight people, and leaving dozens missing. The rain belt is stretching across the country, forcing evacuations and shutting down major train lines. Rivers are swelling fast, threatening cities that are still rebuilding from a recent typhoon.",
+      "why": "Apart from the tragic loss of life, these massive storms are breaking key supply chains in one of the world's biggest manufacturing zones.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "deadly landslides and massive floods sweep southern china",
+      "date": "2026-07-19"
     }
   ]
 }
