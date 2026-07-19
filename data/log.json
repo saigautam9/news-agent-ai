@@ -1379,6 +1379,56 @@
       "mode": "monitor",
       "fp": "u s and iran exchange heavy strikes after american troops",
       "date": "2026-07-19"
+    },
+    {
+      "headline": "US and Iran Exchange Devastating Attacks as Ceasefire Collapses",
+      "summary": "The US and Iran are trading heavy air and missile strikes after a drone attack in Jordan killed two American soldiers. US forces have carried out eight straight nights of bombing, while Iran has targeted critical oil and water plants in Kuwait and blocked key trade routes. Both nations have completely abandoned their brief ceasefire, bringing the region to the brink of all-out war.",
+      "why": "This is a direct threat to global energy security, as the fighting is choking off the Strait of Hormuz\u2014the main highway for the world's oil.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us and iran exchange devastating attacks as ceasefire collapses",
+      "date": "2026-07-19"
+    },
+    {
+      "headline": "Ebola Outbreak in Congo Spirals Out of Control with Global Cases Rising",
+      "summary": "A deadly outbreak of the Ebola virus has infected over 2,100 people and killed more than 830 in the Democratic Republic of the Congo. The virus has spread to neighboring Uganda, and health workers are being medically evacuated as far as Germany. International aid agencies are sounding the alarm because they are short by $400 million, leaving them unable to contain the spread.",
+      "why": "If the world doesn't close this massive funding gap soon, a local health crisis could turn into a global pandemic.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ebola outbreak in congo spirals out of control with global",
+      "date": "2026-07-19"
+    },
+    {
+      "headline": "Canadian Wildfires Blanket 16 US States and Spark Diplomatic Fury",
+      "summary": "Thick orange smoke from hundreds of raging Canadian wildfires has drifted across the border, triggering severe air quality alerts for millions of people from Chicago to Washington, D.C. President Trump has blamed Canada for poor forest management and threatened to hit the country with hefty trade tariffs. US politicians are even calling for sanctions, turning a climate disaster into a bitter border dispute.",
+      "why": "It shows how climate change is no longer just an environmental issue\u2014it is now actively damaging international relations and daily public health.",
+      "domain": "Climate",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "canadian wildfires blanket 16 us states and spark diplomatic fury",
+      "date": "2026-07-19"
+    },
+    {
+      "headline": "America's Biggest Housing Reform in Decades Becomes Law Without Trump's Signature",
+      "summary": "A major bipartisan bill called the ROAD to Housing Act has officially become law, despite President Trump refusing to sign it. The law aims to lower housing costs by cutting through bureaucratic red tape to speed up construction. Crucially, it bans large corporate investors and private equity firms from buying up single-family starter homes.",
+      "why": "This is a massive shift in how the government handles the housing crisis, designed to give regular families a fighting chance against Wall Street.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "america s biggest housing reform in decades becomes law without",
+      "date": "2026-07-19"
+    },
+    {
+      "headline": "China Clashes with the UK Over Nationalized Steel Plant",
+      "summary": "The Chinese steel giant Jingye is demanding massive compensation after the UK government took operational control of British Steel to save local jobs. Beijing has lodged a formal protest, accusing Britain of ripping up international investment rules. The takeover was meant to protect British defense supply lines but has instead triggered a fierce trade fight.",
+      "why": "This dispute escalates the ongoing economic tug-of-war between China and Western nations over who controls vital industrial assets.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "china clashes with the uk over nationalized steel plant",
+      "date": "2026-07-19"
     }
   ]
 }
