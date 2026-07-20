@@ -1649,6 +1649,16 @@
       "mode": "evening",
       "fp": "spain beats argentina to win the 2026 world cup",
       "date": "2026-07-20"
+    },
+    {
+      "headline": "US and Iran Are Locked in a Full-Scale War as Strikes Intensify and Oil Prices Jump",
+      "summary": "Following the deaths of three American soldiers over the weekend, the US launched its ninth straight night of heavy airstrikes targeting Iran. Iran has retaliated by launching drone and missile attacks on US allies Kuwait and Bahrain\u2014where the US Navy's 5th Fleet is stationed\u2014and targeting tankers in the Strait of Hormuz. Iran's president declared that a 'full-scale war' is now underway.",
+      "why": "This is a massive military escalation that goes far beyond a proxy conflict. The US and Iran are trading direct, heavy military blows that have drawn in neighboring Gulf countries, shut down one of the world's most critical oil shipping routes, and sent global energy prices surging.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and iran are locked in a full scale war",
+      "date": "2026-07-20"
     }
   ]
 }
