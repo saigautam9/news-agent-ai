@@ -1539,6 +1539,16 @@
       "mode": "monitor",
       "fp": "the u s and iran trade heavy military strikes as",
       "date": "2026-07-19"
+    },
+    {
+      "headline": "US and Iran Trade Heavy Strikes as Ceasefire Collapses and Oil Tankers Explode in Strait of Hormuz",
+      "summary": "The United States and Iran exchanged intense military strikes for a ninth consecutive night, marking a sharp escalation in their ongoing conflict. The US launched airstrikes targeting military assets across eight Iranian cities following the deaths of American service members, while Iran retaliated by launching a new wave of missiles from Lorestan province, targeting US bases in Kuwait and Syria, and declaring the Strait of Hormuz completely closed after two oil tankers exploded. Neighboring Gulf states like Bahrain and Kuwait activated air defense systems, and global oil prices spiked above $90 a barrel due to the shipping disruptions.",
+      "why": "This represents a major and direct military escalation between the US and Iran. The targeting of tankers and the effective closure of the Strait of Hormuz\u2014a crucial global energy transit chokepoint\u2014poses an immediate threat to global economic stability and risks triggering a wider regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and iran trade heavy strikes as ceasefire collapses and",
+      "date": "2026-07-20"
     }
   ]
 }
