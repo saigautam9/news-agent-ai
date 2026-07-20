@@ -1549,6 +1549,16 @@
       "mode": "monitor",
       "fp": "us and iran trade heavy strikes as ceasefire collapses and",
       "date": "2026-07-20"
+    },
+    {
+      "headline": "U.S. and Iran Trade Heavy Airstrikes as Gulf Conflict Drastically Escalates",
+      "summary": "The U.S. military conducted its ninth consecutive night of airstrikes inside Iran, targeting missile bases and nuclear-adjacent areas following the death of another American service member. Iran retaliated by launching drone and missile attacks against U.S. assets in Bahrain and Kuwait, while disabling commercial oil tankers in the critical Strait of Hormuz, driving global oil prices past $90 a barrel.",
+      "why": "This represents a sharp, direct military escalation between two heavily armed nations, expanding the conflict into neighboring Gulf states, disrupting global energy shipping corridors, and threatening to spark an all-out regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trade heavy airstrikes as gulf conflict",
+      "date": "2026-07-20"
     }
   ]
 }
