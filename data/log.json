@@ -1599,6 +1599,56 @@
       "mode": "monitor",
       "fp": "andy burnham officially becomes the uk s new prime minister",
       "date": "2026-07-20"
+    },
+    {
+      "headline": "The U.S.-Iran conflict is sliding toward all-out war",
+      "summary": "America has launched a ninth consecutive night of airstrikes on Iran following the death of another U.S. service member, raising the total military death toll to 17. In response, Iran has targeted American bases in Kuwait and Bahrain and effectively choked off transit through the Strait of Hormuz.",
+      "why": "This bottleneck handles a fifth of the world's oil and gas, meaning a prolonged blockade will spike energy prices and hit global economies hard.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "the u s iran conflict is sliding toward all out",
+      "date": "2026-07-20"
+    },
+    {
+      "headline": "A surprise Chinese AI breakthrough triggers a global tech panic",
+      "summary": "Chinese startup Moonshot AI released 'Kimi K3,' a massive, cheap, and open-weight AI model that performs on par with Silicon Valley's absolute best. The launch caught investors completely off guard, sparking a deep selloff in U.S. tech and semiconductor stocks.",
+      "why": "It shows China is aggressively closing the technology gap, challenging the U.S. monopoly on advanced artificial intelligence.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "a surprise chinese ai breakthrough triggers a global tech panic",
+      "date": "2026-07-20"
+    },
+    {
+      "headline": "Trump threatens Canada with heavy tariffs over wildfire smoke",
+      "summary": "With nearly 1,000 active wildfires in Canada sending toxic plumes of smoke into major American cities, President Donald Trump is demanding compensation. He is threatening to slap severe trade tariffs on Canadian imports, accusing Prime Minister Mark Carney's government of negligent forest management.",
+      "why": "This weaponizes the physical impacts of climate change into international trade policy, threatening one of the most vital economic partnerships on Earth.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "trump threatens canada with heavy tariffs over wildfire smoke",
+      "date": "2026-07-20"
+    },
+    {
+      "headline": "The UK gets its seventh Prime Minister in ten years",
+      "summary": "Andy Burnham, the popular former Mayor of Greater Manchester, has been sworn in as the UK\u2019s new leader after Keir Starmer resigned. Burnham is promising a massive shakeup to shift power and funding away from London to struggling regional towns.",
+      "why": "Britain has been trapped in a political revolving door for a decade, and this new leadership represents a major gamble on whether the nation can finally find economic stability.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "the uk gets its seventh prime minister in ten years",
+      "date": "2026-07-20"
+    },
+    {
+      "headline": "Spain beats Argentina to win the 2026 World Cup",
+      "summary": "Spain defeated Argentina 1-0 in extra time to win the soccer tournament hosted across North America. Despite intense security, political drama, and high ticket prices, the final game provided a rare moment of distraction and relief, even for people living in war zones like Gaza.",
+      "why": "Beyond the sport itself, the World Cup is a massive multi-billion dollar financial machine that dictates global advertising, tourism, and national pride.",
+      "domain": "Society",
+      "severity": "LOW",
+      "mode": "evening",
+      "fp": "spain beats argentina to win the 2026 world cup",
+      "date": "2026-07-20"
     }
   ]
 }
