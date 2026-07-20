@@ -1559,6 +1559,26 @@
       "mode": "monitor",
       "fp": "u s and iran trade heavy airstrikes as gulf conflict",
       "date": "2026-07-20"
+    },
+    {
+      "headline": "U.S.-Iran Conflict Spirals Into Direct Warfare with Airstrikes and Tanker Explosions in the Strait of Hormuz",
+      "summary": "Following the recent deaths of three American service members, the U.S. carried out its ninth consecutive night of airstrikes targeting Iranian military bases [2.2.2]. In response, Iran targeted U.S. allies Bahrain and Kuwait with missile strikes. Furthermore, the Iranian Revolutionary Guard Corps (IRGC) announced that two oil tankers exploded and were disabled in the strategic Strait of Hormuz, warning that the vital maritime artery is no longer secure for any oil or gas shipments.",
+      "why": "This is a direct and dangerous military escalation between the U.S. and Iran that threatens to expand into a full-scale regional war. It has severely disrupted global energy security by choking off the Strait of Hormuz, driving Brent crude oil prices past $90 a barrel.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s iran conflict spirals into direct warfare with airstrikes",
+      "date": "2026-07-20"
+    },
+    {
+      "headline": "Andy Burnham Becomes the United Kingdom's Seventh Prime Minister in a Decade",
+      "summary": "Andy Burnham, the former Mayor of Greater Manchester, has officially succeeded Keir Starmer as the UK's Prime Minister after being asked by King Charles III to form a new government. Burnham took office promising a radical 'circuit breaker' to shift power away from Westminster, nationalize or heavily regulate key public services, and rebuild a stagnant economy.",
+      "why": "This marks a major political transition and leadership change for a major Western power and G7 nation, highlighting the ongoing political instability in the UK, which has now seen seven prime ministers in the last ten years.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "andy burnham becomes the united kingdom s seventh prime minister",
+      "date": "2026-07-20"
     }
   ]
 }
