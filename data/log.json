@@ -1579,6 +1579,26 @@
       "mode": "monitor",
       "fp": "andy burnham becomes the united kingdom s seventh prime minister",
       "date": "2026-07-20"
+    },
+    {
+      "headline": "U.S. and Iran Trade Direct Strikes in Huge Gulf Escalation",
+      "summary": "The U.S. launched a ninth straight night of airstrikes on Iran after three American soldiers were killed. Iran hit back, firing drones and missiles directly at U.S. military bases in Kuwait and Bahrain. At the same time, Yemen's Houthis blocked key oil shipping lanes in the Red Sea.",
+      "why": "This is a massive, direct clash between two heavily armed powers, pushing them to the brink of all-out war. It also threatens to choke off the world's oil supply as major shipping routes are shut down.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trade direct strikes in huge gulf",
+      "date": "2026-07-20"
+    },
+    {
+      "headline": "Andy Burnham Officially Becomes the UK's New Prime Minister",
+      "summary": "Andy Burnham was officially sworn in by King Charles III as Britain's new Prime Minister. He took over today following the formal resignation of Keir Starmer, making him the UK's seventh leader in just ten years.",
+      "why": "This is a major political reset for a global power and nuclear-armed nation, bringing in a new leader who is promising a complete shift in Britain's economic and political direction.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "andy burnham officially becomes the uk s new prime minister",
+      "date": "2026-07-20"
     }
   ]
 }
