@@ -1889,6 +1889,56 @@
       "mode": "monitor",
       "fp": "houthis block saudi oil routes as us iran escalation deepens",
       "date": "2026-07-21"
+    },
+    {
+      "headline": "U.S.-Iran Military Conflict Escalates Near Key Oil Route",
+      "summary": "The U.S. launched a tenth consecutive night of airstrikes on Iranian targets, while Iran attacked another tanker in the Strait of Hormuz. Ships are now largely avoiding the narrow waterway, driving global crude oil prices close to ninety dollars a barrel.",
+      "why": "Squeezing this narrow sea lane cuts off global oil supplies like a kinked hose, threatening to drive up fuel and grocery prices for people everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "u s iran military conflict escalates near key oil route",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "U.S. Announces 50 Percent Tariffs on Canadian Imports",
+      "summary": "The U.S. government announced a 50 percent tax on roughly twenty billion dollars worth of Canadian goods, including electrical equipment and heavy machinery. The trade penalties will take effect in thirty days, reopening a bitter trade dispute between the neighboring allies.",
+      "why": "Slapping huge taxes on trade between close partners acts like a toll booth on supply lines, making goods more expensive for businesses and shoppers alike.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "u s announces 50 percent tariffs on canadian imports",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "Britain Gets Seventh Prime Minister in a Decade",
+      "summary": "Andy Burnham took over as Britain's new Prime Minister following the departure of Keir Starmer. Burnham immediately reshuffled his cabinet and promised a ten-year strategy to rebuild British manufacturing and cut daily living costs.",
+      "why": "Rotating leaders so frequently makes it tough for a country to set stable rules, confusing businesses and delaying long-term economic relief.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "britain gets seventh prime minister in a decade",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "Mass Youth Protests Block New Delhi Over Leaked Exams",
+      "summary": "Thousands of students flooded central New Delhi to protest repeated leaks of national exam papers that forced crucial test cancellations. Demonstrators blocked streets and demanded the resignation of the country's education minister.",
+      "why": "When a nation's youth lose trust in the test system that decides their careers, it leaves millions of energetic young people stranded and fuels deep social anger.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "mass youth protests block new delhi over leaked exams",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "UN Food Report Finds Healthy Diets Out of Reach for Billions",
+      "summary": "The United Nations released its flagship food report, showing world hunger dropped slightly for a third straight year. However, researchers cautioned that the price of nutritious, healthy food remains dangerously unaffordable for millions of families.",
+      "why": "When healthy meals cost too much, families are forced to buy cheap filler food, creating a quiet health crisis that drains public resources down the road.",
+      "domain": "Health",
+      "severity": "MEDIUM",
+      "mode": "evening",
+      "fp": "un food report finds healthy diets out of reach for",
+      "date": "2026-07-21"
     }
   ]
 }
