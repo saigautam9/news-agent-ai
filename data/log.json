@@ -1699,6 +1699,56 @@
       "mode": "monitor",
       "fp": "andy burnham becomes uk prime minister after starmer s resignation",
       "date": "2026-07-21"
+    },
+    {
+      "headline": "The U.S. and Iran are on the brink of an all-out war as oil routes get blocked",
+      "summary": "The U.S. just finished its tenth night of airstrikes against Iranian targets, and Iran is hitting back by attacking U.S. bases in Jordan and Kuwait. To make things worse, Yemen\u2019s Houthis have blocked Saudi oil ships in the Red Sea, cutting off the main backup route for global oil.",
+      "why": "If both major sea highways in the Middle East stay blocked, global oil prices will skyrocket, triggering a massive energy crisis that everyone will feel at the gas pump.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "the u s and iran are on the brink of",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "Trump slaps massive 50% tariffs on Canada, starting a trade war",
+      "summary": "President Donald Trump has suddenly announced a massive 50% tax on most Canadian imports like cars, dairy, and alcohol, set to start in a month. Trump claims Canada is treating U.S. goods unfairly and even blamed Canada's wildfire smoke for the move.",
+      "why": "Canada is America's biggest trading partner, so this shock move could screw up global supply chains, drive up prices for everyday items, and spark a major economic feud.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "trump slaps massive 50 tariffs on canada starting a trade",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "A violent clash in the South China Sea drags the U.S. and China closer to conflict",
+      "summary": "Tensions have boiled over after Chinese coast guard officers allegedly attacked Philippine sailors with batons, seriously injuring a marine. Both countries have summoned each other's ambassadors, and the U.S. has quickly stepped in to condemn China's actions.",
+      "why": "This fight at sea isn't just a local dispute; it could easily trigger a defense treaty that forces the U.S. military to step in and fight China directly.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "a violent clash in the south china sea drags the",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "Huge protests in Ukraine spark a major military crisis",
+      "summary": "Thousands of Ukrainians are protesting in the streets after President Zelenskyy fired his popular, tech-focused defense minister, Mykhailo Fedorov. The sudden firing has exposed a bitter rift between modern drone-warfare innovators and old-school generals, forcing Zelenskyy to consider a massive shakeup of his top army command.",
+      "why": "This public anger and internal division threaten Ukraine's unity at a time when they are fighting for survival against Russia.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "huge protests in ukraine spark a major military crisis",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "Andy Burnham becomes the UK\u2019s seventh Prime Minister in ten years",
+      "summary": "Keir Starmer has stepped down after just two years, and former Manchester Mayor Andy Burnham is the new British leader. He has promised a complete reset of British politics, pledging to shift power away from London and bring basic services like transport back under public control.",
+      "why": "The UK is hoping to finally end years of political chaos, but Burnham has to do this while navigating a tricky relationship with a hostile Trump administration.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "andy burnham becomes the uk s seventh prime minister in",
+      "date": "2026-07-21"
     }
   ]
 }
