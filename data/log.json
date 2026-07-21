@@ -1749,6 +1749,26 @@
       "mode": "morning",
       "fp": "andy burnham becomes the uk s seventh prime minister in",
       "date": "2026-07-21"
+    },
+    {
+      "headline": "US-Iran War Escalates Across the Gulf as Houthis Impose Maritime Blockade on Saudi Arabia",
+      "summary": "The ongoing conflict between the US and Iran has taken a major leap. The US executed its tenth consecutive night of airstrikes on Iran, while Iran's Revolutionary Guard (IRGC) launched retaliatory drone and missile strikes directly hitting US military bases in Bahrain and Kuwait. Amplifying the crisis, Yemen's Houthi rebels declared an immediate naval blockade on Saudi Arabia. This move targets the Bab el-Mandeb Strait, threatening to choke off the Red Sea shipping route that Saudi Arabia was using to bypass the already-disrupted Strait of Hormuz.",
+      "why": "This is a massive, multi-nation military escalation at the heart of global trade. By threatening both the Strait of Hormuz and the Red Sea simultaneously, the conflict is choking off the world's most critical oil transit routes, causing global oil and gasoline prices to skyrocket and pushing the region toward all-out war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us iran war escalates across the gulf as houthis impose",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "Andy Burnham Becomes UK Prime Minister Following Keir Starmer's Resignation",
+      "summary": "Andy Burnham has officially taken office as the Prime Minister of the United Kingdom, replacing Keir Starmer who resigned after only two years. Burnham, the former Mayor of Greater Manchester, accepted King Charles's invitation to form a new government, appointing John Healey as Chancellor of the Exchequer and naming a new cabinet. He promised to break a decade-long cycle of political volatility with a new ten-year plan for Britain.",
+      "why": "This is a major and sudden government transition in a G7 country and nuclear-armed UN Security Council member, resetting British domestic and foreign policy\u2014including its approach to the US, EU, and ongoing global conflicts\u2014during a period of intense international instability.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "andy burnham becomes uk prime minister following keir starmer s",
+      "date": "2026-07-21"
     }
   ]
 }
