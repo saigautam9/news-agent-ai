@@ -1659,6 +1659,26 @@
       "mode": "monitor",
       "fp": "us and iran are locked in a full scale war",
       "date": "2026-07-20"
+    },
+    {
+      "headline": "Andy Burnham is the UK's new Prime Minister",
+      "summary": "Keir Starmer stepped down, and Andy Burnham has officially taken over as the UK's leader. Burnham, the former mayor of Manchester, is promising to shake up British politics, give more power back to local communities, and tackle the country's cost-of-living crisis.",
+      "why": "A change of leadership in a major nation like the UK is a big deal. It alters how one of the world's largest economies will be run and shifts its stance on global issues.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "andy burnham is the uk s new prime minister",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "US-Iran conflict boils over as Kuwait intercepts a barrage of missiles",
+      "summary": "The war between the US and Iran just took a dangerous turn. Kuwait's military had to shoot down multiple waves of Iranian drones and missiles aimed at US military bases and local utilities. This comes after an Iranian strike killed US troops in Jordan, prompting the US to launch ten straight nights of retaliatory airstrikes.",
+      "why": "This is a serious escalation of an active war. Bringing Kuwait directly into the crossfire increases the risk of a massive, region-wide conflict that could disrupt global stability and choke off energy supplies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us iran conflict boils over as kuwait intercepts a barrage",
+      "date": "2026-07-21"
     }
   ]
 }
