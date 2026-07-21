@@ -1769,6 +1769,36 @@
       "mode": "monitor",
       "fp": "andy burnham becomes uk prime minister following keir starmer s",
       "date": "2026-07-21"
+    },
+    {
+      "headline": "U.S. and Iran trade heavy blows as Strait of Hormuz war escalates",
+      "summary": "The U.S. launched its tenth consecutive night of airstrikes on Iran. In response, Iran struck a commercial oil tanker in the vital Strait of Hormuz, forcing the crew to flee, and hit power plants in Kuwait. This escalation follows the recent deaths of three American soldiers.",
+      "why": "This is a direct, sharp military escalation in an active war. It has shut down shipping in one of the world's most critical oil choke points, pushing global crude prices toward $90 a barrel.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s and iran trade heavy blows as strait of",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "Trump slaps 50% tariffs on Canada, sparking fears of a trade war",
+      "summary": "U.S. President Donald Trump signed orders to hit Canada with 50% tariffs on about $20 billion worth of goods, including dairy, lumber, and alcohol, starting August 19. Canada's Prime Minister Mark Carney criticized the move but said he is ready to talk.",
+      "why": "This is a massive and sudden policy change targeting America's closest ally and top trade partner. It threatens to disrupt major supply chains and trigger a full-blown trade war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "trump slaps 50 tariffs on canada sparking fears of a",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "Andy Burnham becomes the UK's new Prime Minister",
+      "summary": "Andy Burnham has officially taken over as the UK\u2019s Prime Minister, replacing Keir Starmer who resigned. Burnham is the UK\u2019s seventh prime minister in ten years. He immediately announced a tax cut on electricity bills to help with living costs.",
+      "why": "This is a major change of government in a G7 nation. Burnham's rise marks a big shift in British politics from London-centric policies to more regional, northern-focused leadership.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "andy burnham becomes the uk s new prime minister",
+      "date": "2026-07-21"
     }
   ]
 }
