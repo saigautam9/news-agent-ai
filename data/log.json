@@ -1869,6 +1869,16 @@
       "mode": "monitor",
       "fp": "president trump hits canada with unprecedented 50 tariffs using great",
       "date": "2026-07-21"
+    },
+    {
+      "headline": "U.S.-Iran conflict escalates as Houthis launch Red Sea oil blockade",
+      "summary": "The U.S. launched a 10th straight night of airstrikes against Iranian targets, while Iran retaliated with strikes in Bahrain and Jordan [1.3.7]. At the same time, Iran-backed Houthi rebels announced a blockade on Saudi oil tankers moving through the Red Sea's Bab el-Mandeb Strait.",
+      "why": "This represents a sharp military escalation between major global powers. Blocking critical ocean routes like the Red Sea and the Strait of Hormuz threatens nearly 10 percent of the world's daily oil supply and risks dragging the region deeper into open war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s iran conflict escalates as houthis launch red sea",
+      "date": "2026-07-21"
     }
   ]
 }
