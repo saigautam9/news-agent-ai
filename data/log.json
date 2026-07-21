@@ -1879,6 +1879,16 @@
       "mode": "monitor",
       "fp": "u s iran conflict escalates as houthis launch red sea",
       "date": "2026-07-21"
+    },
+    {
+      "headline": "Houthis Block Saudi Oil Routes as US-Iran Escalation Deepens",
+      "summary": "Yemen's Houthis declared a naval blockade on Saudi Arabia, causing oil tankers carrying crude to Asia to turn back in the Red Sea. At the same time, the US launched fresh overnight airstrikes inside Iran, while Iran targeted US bases across Bahrain, Kuwait, and Jordan.",
+      "why": "This is a severe military escalation that directly threatens two of the world's most critical energy supply routes: the Red Sea and the Strait of Hormuz. Disruption at these key bottlenecks endangers global oil supplies and risks dragging the wider region into a full-scale war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "houthis block saudi oil routes as us iran escalation deepens",
+      "date": "2026-07-21"
     }
   ]
 }
