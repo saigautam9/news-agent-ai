@@ -1799,6 +1799,56 @@
       "mode": "monitor",
       "fp": "andy burnham becomes the uk s new prime minister",
       "date": "2026-07-21"
+    },
+    {
+      "headline": "Red Sea blockade explodes U.S.-Iran war into a global energy crisis",
+      "summary": "After ten days of heavy U.S. airstrikes inside Iran and tragic American troop casualties, Yemen\u2019s Houthi rebels have declared a naval blockade against Saudi Arabia. This blocks the Bab el-Mandeb Strait, shutting down the main backup route for Saudi oil exports while the primary route\u2014the Strait of Hormuz\u2014is already jammed. Global oil markets are in a panic as over seven percent of the world's oil supply is now in jeopardy.",
+      "why": "Choking off two of the world's most vital shipping lanes at the same time could send global energy prices skyrocketing, triggering painful inflation for everyday people.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "red sea blockade explodes u s iran war into a",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "UN warns Africa has become the world's new hunger epicenter",
+      "summary": "A major United Nations report released today shows that while global hunger is slowly falling, Africa has officially overtaken Asia as the region with the most starving people. Over 309 million Africans are now facing hunger, and a staggering two-thirds of the continent's population cannot afford a healthy diet. The disaster is being supercharged by severe U.S. foreign aid cuts, worsening climate shocks, and blockaded shipping lanes that have made food and fertilizer too expensive.",
+      "why": "This shows that global progress on ending hunger is deeply broken, leaving millions of the world's most vulnerable people to bear the brunt of geopolitical wars.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "un warns africa has become the world s new hunger",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "Trump slaps Canada with a massive 50% tariff, sparking a trade war",
+      "summary": "President Donald Trump has ordered a 50% tariff on a huge range of Canadian imports, from cars and dairy to plywood and toilet paper, starting next month. Trump claims Canada is unfairly blocking American exports like alcohol and dairy. Canadian Prime Minister Mark Carney called the move illegal under their trade pact, but both sides have agreed to start emergency talks.",
+      "why": "This sudden tax wall threatens to wreck the world's largest trading relationship, driving up shopping bills for families and pushing both economies toward a recession.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "trump slaps canada with a massive 50 tariff sparking a",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "Zelenskyy faces a major political crisis as Ukrainians protest military sackings",
+      "summary": "Angry protests have erupted across Ukrainian cities for five straight days after President Volodymyr Zelenskyy fired his young, reform-minded Defense Minister, Mykhailo Fedorov. Fedorov was highly popular for modernizing the military, but he crashed hard against the army\u2019s old-school top generals who resisted his anti-corruption and tech reforms. Now, protesters are demanding the head of the military step down, creating the worst political divide in the country since the Russian invasion began.",
+      "why": "If Ukraine's political leadership and military commanders are fighting each other at home, it could deeply hurt their ability to hold off Russia on the front lines.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "zelenskyy faces a major political crisis as ukrainians protest military",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "China chips away at U.S. tech dominance with a surprise breakthrough in AI",
+      "summary": "While Silicon Valley giant Google is struggling with delays on its new Gemini model, a Chinese startup named Moonshot has launched a powerful, free AI model called Kimi K3 that has tech experts stunned. To keep this advantage, Beijing is now considering strict export limits to prevent Western companies from copying their cutting-edge AI code and chips.",
+      "why": "It shows that despite heavy U.S. sanctions and chip bans, China's tech sector is rapidly closing the gap, threatening America's lead in the global AI race.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "china chips away at u s tech dominance with a",
+      "date": "2026-07-21"
     }
   ]
 }
