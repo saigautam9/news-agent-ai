@@ -1849,6 +1849,26 @@
       "mode": "afternoon",
       "fp": "china chips away at u s tech dominance with a",
       "date": "2026-07-21"
+    },
+    {
+      "headline": "US-Iran conflict escalates with 10th consecutive night of airstrikes and new Red Sea blockade",
+      "summary": "The United States launched its 10th consecutive night of airstrikes targeting military infrastructure inside Iran following the deaths of three US soldiers and nearly 100 injuries over the last two weeks. In retaliation, Iran targeted U.S. allies Jordan, Bahrain, and Kuwait, striking Kuwaiti desalination and power plants. Concurrently, Yemen's Houthi rebels declared a naval blockade against Saudi Arabia, threatening to choke off the Bab el-Mandeb Strait in the Red Sea as shipping through the Strait of Hormuz has already ground to a near-halt.",
+      "why": "This is a sharp, direct military escalation between the U.S. and Iran, resulting in active combat, American military casualties, and a multi-front maritime blockade that threatens to freeze a massive portion of the world's oil and natural gas shipments.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us iran conflict escalates with 10th consecutive night of airstrikes",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "President Trump hits Canada with unprecedented 50% tariffs using Great Depression-era law",
+      "summary": "President Donald Trump signed proclamations imposing a massive 50% tariff on a wide array of Canadian goods, including motor vehicles, dairy, and alcohol, targeting up to $28 billion of annual trade. To enact these tariffs, the administration utilized Section 338 of the Smoot-Hawley Tariff Act of 1930\u2014a trade weapon that has never been used by any previous U.S. president\u2014unilaterally bypassing the USMCA trade agreement.",
+      "why": "This represents an extraordinary and sudden economic policy shift that threatens to completely dismantle the free trade framework between the U.S. and Canada, shock North American supply chains, and ignite a massive trade war with one of America's closest allies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "president trump hits canada with unprecedented 50 tariffs using great",
+      "date": "2026-07-21"
     }
   ]
 }
