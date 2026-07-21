@@ -1679,6 +1679,26 @@
       "mode": "monitor",
       "fp": "us iran conflict boils over as kuwait intercepts a barrage",
       "date": "2026-07-21"
+    },
+    {
+      "headline": "US-Iran War Escalates as Houthis Blockade Saudi Arabia and IRGC Strikes Gulf Bases",
+      "summary": "Tensions in the Middle East have dramatically surged as Yemen's Houthi rebels declared a maritime embargo on Saudi Arabia, threatening to close the Bab el-Mandeb strait to Saudi oil shipping. Simultaneously, Iran's Revolutionary Guard (IRGC) launched missile and drone strikes against US military facilities in Kuwait and Bahrain, following ten consecutive nights of US airstrikes on Iran.",
+      "why": "This represents a sharp escalation in an active, direct war between the US and Iran, which now threatens to choke off the world's most vital maritime oil transport corridors (the Strait of Hormuz and the Bab el-Mandeb strait) and drag Saudi Arabia back into active conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us iran war escalates as houthis blockade saudi arabia and",
+      "date": "2026-07-21"
+    },
+    {
+      "headline": "Andy Burnham Becomes UK Prime Minister After Starmer's Resignation",
+      "summary": "Andy Burnham has been officially appointed as the United Kingdom's new Prime Minister. Burnham, the former Mayor of Greater Manchester, was invited by King Charles III to form a government following the resignation of Keir Starmer after barely two years in office. Burnham has promised a major restructuring of the British economic and political system.",
+      "why": "This is a major leadership change in a G7 nation and nuclear power, representing the UK's seventh Prime Minister in ten years and a significant shift in British economic and foreign policy direction.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "andy burnham becomes uk prime minister after starmer s resignation",
+      "date": "2026-07-21"
     }
   ]
 }
