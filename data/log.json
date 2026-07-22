@@ -2059,6 +2059,16 @@
       "mode": "monitor",
       "fp": "us escalates war threats against iranian civilian infrastructure",
       "date": "2026-07-22"
+    },
+    {
+      "headline": "US Launches 11th Consecutive Night of Air Strikes on Iran as Conflict Escalates",
+      "summary": "The United States military carried out another round of air strikes across Iran, hitting drone storage facilities, hangars, and military hubs [1.1.6]. Iran retaliated by launching drone attacks at US bases in Jordan, Bahrain, and Kuwait. US leaders also warned they may soon target a key underground Iranian nuclear enrichment site.",
+      "why": "This is a direct military clash between major powers involving heavy air strikes, base attacks across multiple countries, and potential actions against nuclear facilities.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us launches 11th consecutive night of air strikes on iran",
+      "date": "2026-07-22"
     }
   ]
 }
