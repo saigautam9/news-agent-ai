@@ -2039,6 +2039,16 @@
       "mode": "afternoon",
       "fp": "u s and china lay groundwork for high stakes summit",
       "date": "2026-07-22"
+    },
+    {
+      "headline": "U.S. threatens strike on Iranian underground nuclear site amidst escalating air campaign",
+      "summary": "The U.S. completed an 11th straight night of strikes against Iranian military targets. President Donald Trump warned that American forces will likely strike Pickaxe Mountain, a heavily fortified underground nuclear facility in Iran, and vowed to hit Iranian power plants or bridges for attacks in the Strait of Hormuz. Tehran warned that striking its nuclear sites would unleash a major expansion of the war.",
+      "why": "Directly targeting a nation's fortified nuclear infrastructure marks a severe military escalation that threatens to ignite a wider regional war and shut down crucial global energy shipping lanes.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s threatens strike on iranian underground nuclear site amidst",
+      "date": "2026-07-22"
     }
   ]
 }
