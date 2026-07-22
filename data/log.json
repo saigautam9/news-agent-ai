@@ -2049,6 +2049,16 @@
       "mode": "monitor",
       "fp": "u s threatens strike on iranian underground nuclear site amidst",
       "date": "2026-07-22"
+    },
+    {
+      "headline": "US Escalates War Threats Against Iranian Civilian Infrastructure",
+      "summary": "President Trump announced that the US will bomb an Iranian bridge or power plant\u2014including targets in Tehran\u2014for every ship attacked in the Strait of Hormuz. The threat comes as the US completed an 11th night of airstrikes and Iran targeted US bases in Jordan, Kuwait, and Bahrain with drones and missiles.",
+      "why": "This is a sharp military escalation in the Middle East conflict, expanding potential strike targets from strictly military installations to vital civilian infrastructure.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us escalates war threats against iranian civilian infrastructure",
+      "date": "2026-07-22"
     }
   ]
 }
