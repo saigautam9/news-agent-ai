@@ -1939,6 +1939,56 @@
       "mode": "evening",
       "fp": "un food report finds healthy diets out of reach for",
       "date": "2026-07-21"
+    },
+    {
+      "headline": "US airstrikes on Iran escalate over key trade routes",
+      "summary": "The US military launched an 11th straight night of airstrikes against Iranian targets as a recent ceasefire broke down. Iran and its regional allies have attacked commercial ships in the Strait of Hormuz, pushing crude oil prices above $92 a barrel [1.2.6].",
+      "why": "A clogged Strait of Hormuz acts like a blocked artery for world oil, raising fuel and grocery costs for people everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us airstrikes on iran escalate over key trade routes",
+      "date": "2026-07-22"
+    },
+    {
+      "headline": "Rising war and energy costs fuel global food crisis",
+      "summary": "Global health and economic agencies warn that war, rising fuel costs, and blocked shipping lanes have made healthy food unaffordable for billions. Escalating maritime threats in key waterways are driving up the cost of transporting grain and essential goods.",
+      "why": "When basic food becomes too expensive, millions face hunger, creating economic stress and instability around the world.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "rising war and energy costs fuel global food crisis",
+      "date": "2026-07-22"
+    },
+    {
+      "headline": "US approves nuclear technology deal with Saudi Arabia",
+      "summary": "President Donald Trump approved a new agreement granting Saudi Arabia access to nuclear technology. The deal comes as Washington seeks to shore up regional alliances while countering Iran.",
+      "why": "Sharing nuclear capabilities with Saudi Arabia shifts the Middle East's balance of power and carries long-term security implications.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "us approves nuclear technology deal with saudi arabia",
+      "date": "2026-07-22"
+    },
+    {
+      "headline": "Ukraine overhauls top military leadership during heavy battles",
+      "summary": "Ukrainian President Volodymyr Zelenskyy replaced several top military commanders following political tension and public protests. The command overhaul aims to reset strategy as heavy fighting against Russian forces continues on the front lines.",
+      "why": "Changing military leadership during an intense war directly affects battlefield coordination and national defense.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "ukraine overhauls top military leadership during heavy battles",
+      "date": "2026-07-22"
+    },
+    {
+      "headline": "France approves social media ban for kids under 15",
+      "summary": "French lawmakers passed new legislation banning children under 15 years old from using social media. Under the new rules, tech companies must enforce strict age verification or face heavy fines.",
+      "why": "France's move sets a groundbreaking precedent that could push other governments to strictly limit tech platforms for young kids.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "france approves social media ban for kids under 15",
+      "date": "2026-07-22"
     }
   ]
 }
