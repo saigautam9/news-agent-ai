@@ -2089,6 +2089,16 @@
       "mode": "monitor",
       "fp": "us signs landmark civil nuclear deal with saudi arabia",
       "date": "2026-07-23"
+    },
+    {
+      "headline": "U.S. airstrikes in Iran intensify as Houthi forces target Red Sea oil tankers",
+      "summary": "The U.S. launched its 12th straight night of airstrikes against targets in Iran, using heavy B-1 bombers for the first time in this campaign [2.2.2]. At the same time, Houthi rebels in Yemen hit two Saudi oil tankers in the Red Sea, forcing major shipping routes to re-route.",
+      "why": "This is a sharp escalation in an active war that threatens global oil supplies and vital shipping choke points in both the Red Sea and the Strait of Hormuz.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s airstrikes in iran intensify as houthi forces target",
+      "date": "2026-07-23"
     }
   ]
 }
