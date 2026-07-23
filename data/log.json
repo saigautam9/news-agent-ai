@@ -2099,6 +2099,56 @@
       "mode": "monitor",
       "fp": "u s airstrikes in iran intensify as houthi forces target",
       "date": "2026-07-23"
+    },
+    {
+      "headline": "Middle East Shipping War Spreads as Red Sea Tankers Hit",
+      "summary": "Houthi forces launched missile attacks against two Saudi oil tankers in the Red Sea, prompting threats of major military retaliation from the U.S. President. The strikes extend the ongoing conflict from the Persian Gulf into a second vital global shipping gateway. Oil prices surged as Gulf nations rushed to plan costly alternative pipelines around the chokepoint.",
+      "why": "Disrupting these key ocean routes risks driving up energy and food prices for everyday families worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "middle east shipping war spreads as red sea tankers hit",
+      "date": "2026-07-23"
+    },
+    {
+      "headline": "High-Stakes Peace Talks Begin Amid Ukraine Leadership Reset",
+      "summary": "Top U.S. and Russian diplomats held rare face-to-face talks in Asia as Ukraine shuffled its military leadership following public protests over a minister's firing. At the same time, continuous Russian strikes on power grids are forcing Ukraine to race against time to secure its energy supplies before winter. U.S. officials acknowledged that while diplomacy has resumed, finding a quick compromise remains difficult.",
+      "why": "The stability of Europe and global food supplies depend heavily on how this long-running conflict ends.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "high stakes peace talks begin amid ukraine leadership reset",
+      "date": "2026-07-23"
+    },
+    {
+      "headline": "World Bank Estimates Venezuela Quake Damage at $20 Billion",
+      "summary": "A global assessment revealed that last month's earthquake in Venezuela caused nearly $20 billion in direct physical damage, destroying homes and power grids. The World Bank warned that without fast international help, rebuilding will take over a decade and leave the nation stuck in deep poverty. Half of all the destruction occurred in and around the capital city.",
+      "why": "This severe economic blow risks triggering a prolonged humanitarian crisis across South America.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "world bank estimates venezuela quake damage at 20 billion",
+      "date": "2026-07-23"
+    },
+    {
+      "headline": "U.S. House Approves $95 Billion Defense Package",
+      "summary": "Lawmakers in Washington narrowly passed a $95 billion emergency spending plan to fund military operations and restock depleted weapon inventories. Defense contractors are rapidly ramping up factory production as U.S. stockpiles drop after months of heavy missile usage. Critics argued the huge budget should have been directed toward lowering everyday living costs for families.",
+      "why": "Redirecting huge taxpayer funds to foreign wars impacts national debt and shifts resources away from local domestic needs.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "u s house approves 95 billion defense package",
+      "date": "2026-07-23"
+    },
+    {
+      "headline": "U.S. and Saudi Arabia Sign Civil Nuclear Deal",
+      "summary": "The United States signed a landmark cooperation agreement to share nuclear energy technology with Saudi Arabia. In exchange, Washington is pressing the kingdom to normalize diplomatic relations with Israel under a broader regional alliance. The agreement aims to help the kingdom transition toward cleaner power while maintaining atomic safety standards.",
+      "why": "It reshapes Middle Eastern alliances and alters how the world's largest oil exporter powers its future economy.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "u s and saudi arabia sign civil nuclear deal",
+      "date": "2026-07-23"
     }
   ]
 }
