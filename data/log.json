@@ -2079,6 +2079,16 @@
       "mode": "monitor",
       "fp": "u s iran conflict escalates with 12th night of strikes",
       "date": "2026-07-23"
+    },
+    {
+      "headline": "US Signs Landmark Civil Nuclear Deal with Saudi Arabia",
+      "summary": "The United States and Saudi Arabia signed a major civil nuclear cooperation agreement. It lets Saudi Arabia build nuclear power plants using American technology and potentially enrich its own uranium.",
+      "why": "This is a major shift in nuclear policy. Giving Saudi Arabia a path to enrich nuclear fuel without standard snap inspection rules changes Middle East security dynamics and risks sparking a regional nuclear arms race.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us signs landmark civil nuclear deal with saudi arabia",
+      "date": "2026-07-23"
     }
   ]
 }
