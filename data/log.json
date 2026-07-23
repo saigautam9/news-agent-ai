@@ -2149,6 +2149,16 @@
       "mode": "afternoon",
       "fp": "u s and saudi arabia sign civil nuclear deal",
       "date": "2026-07-23"
+    },
+    {
+      "headline": "Red Sea attacks on oil tankers spur US war threats and send crude over $100",
+      "summary": "Iran-backed Houthi rebels attacked two Saudi oil tankers in the Red Sea, opening a dangerous new front in the Middle East conflict. President Trump warned of major military punishment against both the Houthis and Iran. The threat to vital shipping routes pushed crude oil prices past $100 a barrel for the first time in months.",
+      "why": "This is a sharp military escalation in a key global trade corridor. Expanding direct military action to Iran over Red Sea shipping risks pulling more countries into full-scale war and triggering a severe global energy shock.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "red sea attacks on oil tankers spur us war threats",
+      "date": "2026-07-23"
     }
   ]
 }
