@@ -2069,6 +2069,16 @@
       "mode": "monitor",
       "fp": "us launches 11th consecutive night of air strikes on iran",
       "date": "2026-07-22"
+    },
+    {
+      "headline": "U.S.-Iran Conflict Escalates with 12th Night of Strikes and Infrastructure Threats",
+      "summary": "The U.S. military launched its 12th consecutive night of airstrikes across Iran, striking targets near the Iraq border. Tensions spiked after an oil tanker caught fire in the Strait of Hormuz. President Donald Trump warned that the U.S. will destroy an Iranian bridge or power plant for every commercial ship attacked in the strait. In response, Iran vowed an 'eye for an eye' retaliation against regional energy and public infrastructure.",
+      "why": "This represents a sharp military escalation directly threatening vital global shipping chokepoints and civilian infrastructure, putting global energy supplies and trade at severe risk.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s iran conflict escalates with 12th night of strikes",
+      "date": "2026-07-23"
     }
   ]
 }
