@@ -2159,6 +2159,16 @@
       "mode": "monitor",
       "fp": "red sea attacks on oil tankers spur us war threats",
       "date": "2026-07-23"
+    },
+    {
+      "headline": "US Threatens 'Massive Attack' as War with Iran Spreads to Red Sea and Oil Spikes Past $100",
+      "summary": "The military conflict between the US and Iran escalated on July 23 as US forces launched a 12th consecutive night of airstrikes against Iranian targets. President Donald Trump announced he is close to deciding on a massive attack, bigger than any previous strike, after Iran-backed Houthi forces attacked two Saudi oil tankers in the Red Sea. With Iran's Revolutionary Guard declaring the Strait of Hormuz blocked to uncoordinated vessels, global crude oil prices surged back above $100 a barrel.",
+      "why": "This represents a sharp military escalation in a spreading regional war. By threatening two of the world's most critical energy shipping chokepoints\u2014the Strait of Hormuz and the Red Sea\u2014the conflict directly threatens global trade and has driven oil prices past $100 a barrel, posing an immediate shock to the world economy.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us threatens massive attack as war with iran spreads to",
+      "date": "2026-07-23"
     }
   ]
 }
