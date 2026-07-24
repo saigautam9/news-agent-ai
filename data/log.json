@@ -2169,6 +2169,26 @@
       "mode": "monitor",
       "fp": "us threatens massive attack as war with iran spreads to",
       "date": "2026-07-23"
+    },
+    {
+      "headline": "US Escalates Military Strikes on Iranian Military Infrastructure",
+      "summary": "The US military completed a 13th consecutive night of heavy airstrikes against Iranian military command centers, drone facilities, and naval sites to protect shipping routes in the Strait of Hormuz. Following the operations, air raid sirens sounded in Jordan, explosions were reported near US military bases in Kuwait, and Iran officially rejected a US ceasefire proposal.",
+      "why": "Direct combat operations between the US and Iran in a vital trade corridor carry a high risk of escalating into a wider regional war and causing major disruptions to global energy supplies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us escalates military strikes on iranian military infrastructure",
+      "date": "2026-07-24"
+    },
+    {
+      "headline": "US Imposes Sweeping Tariffs on 60 Trading Partners",
+      "summary": "The US government enacted new tariffs ranging from 10% to 12.5% on goods from 60 economies\u2014including China, India, Canada, Mexico, and the European Union\u2014citing forced labor violations. The broad trade enforcement action replaces expiring tariff duties and immediately impacts international trade rules.",
+      "why": "This is a major global economic policy shift that directly reshapes trade terms and supply chains across many of the world's largest economies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us imposes sweeping tariffs on 60 trading partners",
+      "date": "2026-07-24"
     }
   ]
 }
