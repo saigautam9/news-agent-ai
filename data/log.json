@@ -3219,6 +3219,56 @@
       "mode": "monitor",
       "fp": "us and iran trade direct military strikes in the gulf",
       "date": "2026-09-09"
+    },
+    {
+      "headline": "Persian Gulf clashes send oil prices past $100",
+      "summary": "Fighting between the US and Iran escalated around the Strait of Hormuz, with strikes on tankers and shipping choking the world's most vital energy bottleneck. Iran hit back at commercial vessels after the US military targeted Iranian ships, pushing crude prices back into triple digits. Think of Hormuz as the kitchen sink pipe of the global economy; when it gets clogged, everyone's bill goes up.",
+      "why": "Expensive oil acts like an immediate tax hike on almost every family on Earth, driving up the cost of groceries, travel, and electricity.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "persian gulf clashes send oil prices past 100",
+      "date": "2026-09-09"
+    },
+    {
+      "headline": "Peace talks stall as Russia and Ukraine trade massive strikes",
+      "summary": "US peace envoys wrapped up meetings in Moscow and Kyiv without a breakthrough, leaving the two sides as far apart as ever. Immediately following the talks, Russia pounded Ukrainian cities with hundreds of drones and missiles, while Ukraine launched waves of deep-strike drones into Russian territory. Both armies are swinging harder in an attempt to grab extra bargaining chips before anyone sits down at a negotiation table.",
+      "why": "The failure to find common ground means Europe's deadliest war is expanding its reach into everyday civilian life rather than winding down.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "peace talks stall as russia and ukraine trade massive strikes",
+      "date": "2026-09-09"
+    },
+    {
+      "headline": "AI safety departures trigger fresh alarm over out-of-control models",
+      "summary": "Key researchers quit leading AI lab Anthropic, warning publicly that companies are running too fast toward super-smart systems without safety brakes. The departing scientists argue that competitive pressure is pushing firms to gamble with high-consequence technology before they know how to control it. It is like building a supersonic race car while skipping tests on the steering wheel.",
+      "why": "If insider warnings lead to emergency government limits, the pace of technological change across schools, workplaces, and businesses could suddenly shift gears.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ai safety departures trigger fresh alarm over out of control",
+      "date": "2026-09-09"
+    },
+    {
+      "headline": "US and Canada slide into an escalating trade battle",
+      "summary": "The US rolled out fresh bans on Canadian dairy, alcohol, and motorbikes, and Canada hit back with retaliatory duties of its own. Decades of smooth cross-border commerce are cracking as both sides swap punitive trade penalties. It is like two friendly next-door neighbors locking the shared garden gate and charging each other a toll to borrow sugar.",
+      "why": "These two economies are tied at the hip, meaning new trade barriers will raise prices on store shelves and shake factory jobs on both sides of the border.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "us and canada slide into an escalating trade battle",
+      "date": "2026-09-09"
+    },
+    {
+      "headline": "Global AI hardware hunger fuels a major Chinese export surge",
+      "summary": "China posted stronger-than-expected trade figures, carried largely by huge global demand for computer chips, servers, and tech hardware needed for the artificial intelligence boom. Even with geopolitical tensions and tariff friction in the air, factories in China are running hot to supply the world's digital overhaul. The appetite to build computing infrastructure is currently stronger than political rivalries.",
+      "why": "Strong factory demand shows that the worldwide race to build artificial intelligence has become the primary engine keeping global manufacturing alive.",
+      "domain": "Technology",
+      "severity": "MEDIUM",
+      "mode": "evening",
+      "fp": "global ai hardware hunger fuels a major chinese export surge",
+      "date": "2026-09-09"
     }
   ]
 }
