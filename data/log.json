@@ -3269,6 +3269,16 @@
       "mode": "evening",
       "fp": "global ai hardware hunger fuels a major chinese export surge",
       "date": "2026-09-09"
+    },
+    {
+      "headline": "US strikes destroy Iranian tankers and Houthi barrages hit Saudi refineries, driving oil past $100",
+      "summary": "The US military destroyed five Iranian oil tankers after attacks on an American warship, while Iran-backed Houthis launched drone and missile strikes that set Saudi oil facilities ablaze and injured over 70 people. Iran and allied forces also targeted commercial tankers in the Persian Gulf, choking traffic along critical shipping lanes and sending Brent crude spiking back above $100 a barrel.",
+      "why": "This is a sharp military escalation that directly targets oil shipping and production infrastructure, threatening global energy supply lines and escalating the risk of a wider direct confrontation between the US, its Gulf allies, and Iran.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us strikes destroy iranian tankers and houthi barrages hit saudi",
+      "date": "2026-09-09"
     }
   ]
 }
