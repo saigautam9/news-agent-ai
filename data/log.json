@@ -3269,6 +3269,56 @@
       "mode": "afternoon",
       "fp": "white house floats 5 000 voter payouts ahead of us",
       "date": "2026-09-10"
+    },
+    {
+      "headline": "US and Iran trade strikes near Persian Gulf as oil tops $100",
+      "summary": "The US military attacked Iranian tankers and naval positions in the Strait of Hormuz, prompting Iran to launch ballistic missiles at an American base in Jordan. Iran is now preparing an exclusion zone to control shipping through the strait, which immediately sent crude oil prices past $100 a barrel. Both sides are walking on the edge of a wider war that neither can easily contain.",
+      "why": "Squeezing the world's primary oil artery is like pinching a garden hose, driving up the cost of food, fuel, and electricity across the globe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and iran trade strikes near persian gulf as oil",
+      "date": "2026-09-10"
+    },
+    {
+      "headline": "Earth posts hottest month on record as Indonesian forests burn",
+      "summary": "Climate monitors announced that August was the warmest month ever measured on the planet. At the same time, massive wildfires in Kalimantan and Sumatra released roughly 20 million tons of carbon in just seven days. Thick, hazardous haze is now sweeping across Southeast Asia, disrupting schools and hospital systems.",
+      "why": "Setting back-to-back global heat records shows that extreme weather is arriving faster than governments and crops can adapt.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "earth posts hottest month on record as indonesian forests burn",
+      "date": "2026-09-10"
+    },
+    {
+      "headline": "Ukraine reveals $27 billion funding hole, testing European support",
+      "summary": "Kyiv surprised European leaders by announcing an immediate $27 billion gap in its defense budget. European capitals are now squabbling over whether to fast-track loans or touch frozen Russian bank assets to bridge the shortfall. The cash squeeze hits right as Russian forces ramp up aerial attacks on cities and border checkpoints.",
+      "why": "If funding runs dry, front-line defenses crack, forcing Europe to decide between paying a massive bill today or facing a wider security crisis tomorrow.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ukraine reveals 27 billion funding hole testing european support",
+      "date": "2026-09-10"
+    },
+    {
+      "headline": "Houthi forces capture Mocha, threatening Red Sea shipping routes",
+      "summary": "Houthi fighters in Yemen took control of the strategic port city of Mocha, tightening their grip on the mouth of the Red Sea. The port sits right next to the Bab al-Mandab strait, a vital bottleneck that connects Asian factories to European consumers. Commercial shipping firms are already preparing to reroute vessels thousands of miles around Africa.",
+      "why": "Closing this marine shortcut adds weeks to supply chains, acting like an invisible tax on global trade.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "houthi forces capture mocha threatening red sea shipping routes",
+      "date": "2026-09-10"
+    },
+    {
+      "headline": "US and China scramble to set rules ahead of high-stakes summit",
+      "summary": "Negotiators from Washington and Beijing are setting the ground rules for an upcoming face-to-face summit between Donald Trump and Xi Jinping. The talks are focused on fragile compromises around farm imports and critical minerals, rather than a sweeping peace deal. Both sides want to stop sudden export bans and tariffs from derailing factory supply lines.",
+      "why": "When the world's two largest economies bump against each other, even small friction shakes up global manufacturing, jobs, and prices.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "us and china scramble to set rules ahead of high",
+      "date": "2026-09-10"
     }
   ]
 }
