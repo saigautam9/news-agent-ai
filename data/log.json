@@ -3219,6 +3219,56 @@
       "mode": "morning",
       "fp": "insider warnings spark renewed push for ai guardrails",
       "date": "2026-09-10"
+    },
+    {
+      "headline": "Yemeni Rebels Seize Key Red Sea Port as US-Iran Clashes Intensify",
+      "summary": "Houthi forces took control of the strategic port town of Mocha along Yemen's coast, giving them greater leverage over vital shipping lanes. At the same time, direct military exchanges between the United States and Iran continue to escalate across the region. Regional energy corridors and maritime traffic now face their most severe danger in months.",
+      "why": "If ships cannot safely squeeze through this narrow marine doorway, global trade grinds to a crawl and everyday goods become much more expensive everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "yemeni rebels seize key red sea port as us iran",
+      "date": "2026-09-10"
+    },
+    {
+      "headline": "Crude Oil Tops $100 a Barrel After Strikes on Middle East Facilities",
+      "summary": "Global oil prices surged past $100 a barrel following fresh military hits on regional energy facilities and rising threats to tankers. The price jump immediately squeezed energy-importing nations and unsettled financial markets. Central bankers warn that prolonged high fuel costs will undo recent progress on cooling consumer inflation.",
+      "why": "Surging oil acts like a surprise worldwide tax, quietly driving up the price of everything from groceries and shipping to factory electricity.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "crude oil tops 100 a barrel after strikes on middle",
+      "date": "2026-09-10"
+    },
+    {
+      "headline": "Ukraine Strikes Deep into Russia's Arctic Gas Heartland",
+      "summary": "Ukrainian long-range drones struck energy facilities inside Russia's far northern Arctic, reaching infrastructure once considered untouchable. The attack targets the financial lifeblood that funds Moscow's war effort just as major powers push both sides toward ceasefire talks. Russia warned that attacking remote energy lifelines crosses a perilous new boundary.",
+      "why": "Hitting remote Arctic fuel hubs threatens Russia's main money machine and dramatically raises the stakes for any future peace settlement.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ukraine strikes deep into russia s arctic gas heartland",
+      "date": "2026-09-10"
+    },
+    {
+      "headline": "Western Allies Impose Fresh Sanctions on Israeli Settlements",
+      "summary": "European governments and Canada introduced coordinated sanctions against West Bank settlements, drawing a notably quiet response from Washington. At the same time, disagreements over postwar security and governance continue to delay rebuilding efforts across Gaza. The measures signal growing distance between traditional Western partners on how to resolve the conflict.",
+      "why": "Deeper diplomatic fractures among allies weaken international cooperation, leaving millions of displaced people trapped in political and humanitarian limbo.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "western allies impose fresh sanctions on israeli settlements",
+      "date": "2026-09-10"
+    },
+    {
+      "headline": "White House Floats $5,000 Voter Payouts Ahead of US Midterms",
+      "summary": "A proposal offering $5,000 cash dividends to Americans if the governing party wins the midterm elections has triggered fierce debate. Independent economists warn that pumping hundreds of billions of dollars into consumer hands risks reigniting stubborn inflation. The move marks an aggressive shift in how political campaigns use direct financial promises to influence voting.",
+      "why": "How the world's biggest economy manages its spending and debt ripples outward, directly altering interest rates and currency values worldwide.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "white house floats 5 000 voter payouts ahead of us",
+      "date": "2026-09-10"
     }
   ]
 }
