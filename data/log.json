@@ -1,136 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Israel Rejects US-Backed Gaza Disarmament Plan",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu rejected a 15-point peace proposal for Gaza supported by the United States. The plan asked Hamas to hand over its weapons in stages while Israeli troops pulled back, but Israel insists its military will not leave until all weapons are surrendered first. Hamas had agreed to move forward with the deal, highlighting a growing public clash between Washington and Israeli leadership.",
-      "why": "Without an agreement, millions of civilians in Gaza remain trapped in severe danger with no clear path toward peace.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "israel rejects us backed gaza disarmament plan",
-      "date": "2026-08-10"
-    },
-    {
-      "headline": "Ukrainian Drone Attack Hits Deep Inside Russia",
-      "summary": "A Ukrainian drone strike hit the industrial city of Nizhnekamsk deep inside Russia, killing at least 12 people. Meanwhile, Russian forces continue to push forward in eastern Ukraine, capturing ground near key defense cities. Ukraine has been using long-range strikes to target factories and military hubs far behind the front lines.",
-      "why": "Deeper strikes inside Russia show how the war is spreading beyond the main battlefront, raising the stakes for both nations.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "ukrainian drone attack hits deep inside russia",
-      "date": "2026-08-10"
-    },
-    {
-      "headline": "US and Iran Negotiate Over Vital Oil Route",
-      "summary": "The US and Iran are using Oman to help negotiate a deal over the Strait of Hormuz. Iran is using its power over the narrow sea route as leverage while demanding relief from US economic pressure. Both sides are trying to avoid a bigger military clash in the region.",
-      "why": "About twenty percent of the world's oil passes through this single waterway, meaning any disruption can quickly send global fuel prices soaring.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "us and iran negotiate over vital oil route",
-      "date": "2026-08-10"
-    },
-    {
-      "headline": "Wildfires and Superstorms Cause Mass Evacuations Globally",
-      "summary": "Extreme weather is hitting multiple parts of the world all at once. Huge wildfires in Canada are forcing thousands of people to evacuate, while Europe suffers through record summer heatwaves. Over in Asia, Typhoon Dolphin has forced massive evacuations along China's eastern coastline.",
-      "why": "These simultaneous natural disasters are stretching emergency rescue teams thin and threatening global energy and transportation systems.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "wildfires and superstorms cause mass evacuations globally",
-      "date": "2026-08-10"
-    },
-    {
-      "headline": "Saudi Arabia, Turkey, and Pakistan Sign Major Defense Pact",
-      "summary": "Saudi Arabia, Turkey, and Pakistan signed a joint defense agreement to boost military cooperation and share defense technology. The deal was struck right as fresh missile attacks hit regional targets around the Arabian Peninsula. It signals that these countries want to protect each other without relying entirely on Western partners.",
-      "why": "This new alliance reshapes security in the Middle East and South Asia by creating a powerful new military partnership.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "saudi arabia turkey and pakistan sign major defense pact",
-      "date": "2026-08-10"
-    },
-    {
-      "headline": "Iran refuses to reopen the Strait of Hormuz without U.S. concessions",
-      "summary": "Iran announced it will keep the Strait of Hormuz blocked until the U.S. lifts sanctions and ends its naval blockade. The narrow waterway normally carries about a fifth of the world's daily oil supply.",
-      "why": "Choking off this key oil highway drives up energy costs worldwide and risks sparking a broader military conflict.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "iran refuses to reopen the strait of hormuz without u",
-      "date": "2026-08-10"
-    },
-    {
-      "headline": "Israel rejects U.S.-backed peace plan for Gaza",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu publicly turned down a 15-point peace deal backed by the U.S. that called for a phased ceasefire. Netanyahu insists Israeli troops will not leave Gaza until Hamas surrenders every weapon first.",
-      "why": "This public clash between U.S. and Israeli leadership halts ceasefire momentum and prolongs a severe humanitarian crisis.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "israel rejects u s backed peace plan for gaza",
-      "date": "2026-08-10"
-    },
-    {
-      "headline": "Powerful 7.4-magnitude earthquake strikes Colombia and Ecuador",
-      "summary": "A massive 7.4-magnitude earthquake struck western Colombia, shaking buildings across the region and prompting evacuations into neighboring Ecuador and Panama. Emergency teams are assessing structural damage and searching for survivors.",
-      "why": "A disaster of this size threatens thousands of lives and risks damaging crucial infrastructure across northern South America.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "powerful 7 4 magnitude earthquake strikes colombia and ecuador",
-      "date": "2026-08-10"
-    },
-    {
-      "headline": "Ukrainian drone strike hits oil refinery deep inside Russia",
-      "summary": "Ukrainian long-range drones struck a major oil refinery in Tatarstan, over 600 miles inside Russian territory. The attack killed at least 12 people and injured dozens, marking one of Ukraine's deepest strikes of the war.",
-      "why": "Ukraine is increasingly targeting Russia's energy infrastructure far behind the front line to weaken Moscow's war economy.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "ukrainian drone strike hits oil refinery deep inside russia",
-      "date": "2026-08-10"
-    },
-    {
-      "headline": "Record heat and wildfires force mass evacuations in North America and Europe",
-      "summary": "Historic summer heat and severe drought are feeding huge wildfires in Washington state and British Columbia, forcing tens of thousands to evacuate. Across Western Europe, record temperatures are setting off fires and putting heavy pressure on power grids.",
-      "why": "Intensifying climate extremes are displacing entire communities, straining emergency services, and damaging global economic stability.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "record heat and wildfires force mass evacuations in north america",
-      "date": "2026-08-10"
-    },
-    {
-      "headline": "Major 7.4-magnitude earthquake strikes western Colombia, killing dozens",
-      "summary": "A powerful 7.4-magnitude earthquake hit western Colombia near San Jose Del Palmar [1.2.5]. Strong shaking collapsed buildings across major cities like Cali and Pereira, killing at least 73 people and leaving many more trapped or injured.",
-      "why": "This is a major natural disaster. The violent quake destroyed buildings across multiple populated cities, resulting in severe casualties and widespread devastation.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "major 7 4 magnitude earthquake strikes western colombia killing dozens",
-      "date": "2026-08-10"
-    },
-    {
-      "headline": "Powerful 7.4-magnitude earthquake strikes western Colombia, killing over 100 people",
-      "summary": "A massive 7.4-magnitude earthquake struck western Colombia early Monday morning, centered in the Choc\u00f3 region. The tremor collapsed dozens of buildings across major cities like Cali and Pereira, killing at least 111 people and injuring many more. Rescue teams are working through heavy rubble to pull out survivors, and the government has declared a state of national emergency.",
-      "why": "This is a major natural disaster causing widespread building collapses, a significant loss of human life, and a nationwide emergency declaration.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "powerful 7 4 magnitude earthquake strikes western colombia killing over",
-      "date": "2026-08-10"
-    },
-    {
-      "headline": "Powerful 7.4 Magnitude Earthquake Hits Western Colombia",
-      "summary": "A massive 7.4 magnitude earthquake struck western Colombia today, shaking major cities like Cali, Pereira, and Manizales. The quake flattened buildings, killed at least 111 people, and injured dozens more. Six airports suspended operations while rescue workers searched through collapsed rubble.",
-      "why": "This is a major natural disaster involving a high loss of human life, widespread urban damage, and a national emergency declaration.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "powerful 7 4 magnitude earthquake hits western colombia",
-      "date": "2026-08-10"
-    },
-    {
       "headline": "A powerful 7.4 magnitude earthquake hits western Colombia",
       "summary": "A huge 7.4 magnitude earthquake struck western Colombia early Monday, killing at least 111 people and injuring dozens more. It collapsed around 60 buildings and damaged over 1,600 structures across several cities. Colombia's president declared a national disaster to speed up emergency rescue efforts and funding.",
       "why": "This is a sudden, major natural disaster that killed over a hundred people, destroyed key infrastructure, and forced a national emergency declaration.",
@@ -3279,6 +3149,26 @@
       "mode": "monitor",
       "fp": "us strikes destroy iranian tankers and houthi barrages hit saudi",
       "date": "2026-09-09"
+    },
+    {
+      "headline": "Ukrainian Drones Hit Russia's Arctic Gas Heartland for the First Time",
+      "summary": "Ukrainian long-range drones flew roughly 3,000 kilometers into northern Siberia, striking an energy facility in Novy Urengoy. It is the deepest strike Kyiv has ever carried out inside Russian territory.",
+      "why": "This is a major military escalation that shows Russia's energy crown jewels are no longer out of reach. Opening up the Arctic as a battleground puts immense pressure on global gas supplies and significantly widens the conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "ukrainian drones hit russia s arctic gas heartland for the",
+      "date": "2026-09-10"
+    },
+    {
+      "headline": "Crude Oil Surpasses $100 a Barrel as US-Iran Clashes Threaten Hormuz Shipping",
+      "summary": "Brent crude spiked past the symbolic $100 per barrel mark after clashes between the US and Iran escalated around the Strait of Hormuz, with new restrictions slapped on shipping and attacks hitting maritime routes.",
+      "why": "Roughly a fifth of the world's oil passes through this single maritime bottleneck. Surpassing $100 a barrel is a massive economic red flag that threatens to send global inflation soaring and squeeze everyday consumers worldwide.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "crude oil surpasses 100 a barrel as us iran clashes",
+      "date": "2026-09-10"
     }
   ]
 }
