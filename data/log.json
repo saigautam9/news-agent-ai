@@ -3169,6 +3169,56 @@
       "mode": "monitor",
       "fp": "crude oil surpasses 100 a barrel as us iran clashes",
       "date": "2026-09-10"
+    },
+    {
+      "headline": "Drone Strikes Batter Ukrainian Cities and Energy Networks",
+      "summary": "Intense Russian missile and drone bombardments struck urban centers and electrical facilities across Ukraine, inflicting civilian casualties and widespread power cuts. On the battlefield, both sides are leaning heavily on automated drones, turning the conflict into an exhausting technological war of attrition. European leaders are warning that sustaining power and heating through the coming winter will require urgent new support.",
+      "why": "Beyond the human tragedy, a breakdown in Ukraine's energy grid risks triggering another massive refugee wave and deeper European energy instability.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "drone strikes batter ukrainian cities and energy networks",
+      "date": "2026-09-10"
+    },
+    {
+      "headline": "Tensions Spike Around the Strait of Hormuz",
+      "summary": "Iran announced plans for new maritime restrictions in the Strait of Hormuz following repeated military skirmishes and missile strikes with the United States. Energy markets reacted immediately, pushing crude oil prices to a four-month high as commercial shippers hesitated to send tankers through the narrow channel. Regional mediators from Qatar and Oman are racing to keep the waterway open before traffic grinds to a halt.",
+      "why": "Think of this strait as the world economy's main artery; when it gets pinched, fuel and grocery bills go up everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "tensions spike around the strait of hormuz",
+      "date": "2026-09-10"
+    },
+    {
+      "headline": "Record Heatwaves Strain Food and Power Grids",
+      "summary": "Climate monitoring agencies confirmed the summer of 2026 was the hottest on record across North America and Southern Europe. Prolonged blistering heat dried up reservoirs, battered grain crops, and pushed electrical grids close to emergency blackouts. City planners and farmers are now facing the reality that seasonal cooling infrastructure is failing to keep pace.",
+      "why": "Extreme heat is shifting from an occasional summer nuisance into a direct threat to basic water, food, and electricity supplies.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "record heatwaves strain food and power grids",
+      "date": "2026-09-10"
+    },
+    {
+      "headline": "Washington and Beijing Maneuver Ahead of Crucial Trade Talks",
+      "summary": "Top trade negotiators from the United States and China are squaring off over technology tariffs, critical minerals, and export restrictions ahead of planned leadership meetings. Both nations want to shield their own factories and tech supply chains without triggering an all-out trade war that could tank growth. European and Asian allies are caught in the middle, scrambling to secure their own deals so they do not get squeezed out.",
+      "why": "The economic rules being hammered out right now decide where essential electronics get built and what households pay for them.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "washington and beijing maneuver ahead of crucial trade talks",
+      "date": "2026-09-10"
+    },
+    {
+      "headline": "Insider Warnings Spark Renewed Push for AI Guardrails",
+      "summary": "Former researchers from major artificial intelligence labs publicly warned that next-generation models are developing autonomous capabilities faster than safety teams can test them. Lawmakers in Washington and Brussels are weighing mandatory safety checks before powerful new models can be launched to the public. Tech firms contend that strict slowdowns will merely hand the technological lead to foreign rivals.",
+      "why": "Handing complex, high-stakes tasks to autonomous systems without proven safety brakes could create systemic failures before humans can step in.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "insider warnings spark renewed push for ai guardrails",
+      "date": "2026-09-10"
     }
   ]
 }
