@@ -3199,6 +3199,56 @@
       "mode": "monitor",
       "fp": "houthis seize key red sea island and choke off bab",
       "date": "2026-09-11"
+    },
+    {
+      "headline": "Yemen\u2019s Houthis seize Red Sea island, threatening global shipping",
+      "summary": "Houthi forces advanced along Yemen's coast and took control of a strategic island near key maritime choke points. Western navies and Gulf neighbors are scrambling as shipping companies fear fresh missile and drone attacks on cargo vessels. Oil prices are hovering near triple digits as tankers reroute around Africa to stay safe.",
+      "why": "If ships cannot safely pass through this narrow sea bottleneck, shipping costs surge and everyday goods get pricier everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "yemen s houthis seize red sea island threatening global shipping",
+      "date": "2026-09-11"
+    },
+    {
+      "headline": "Summer 2026 confirmed as the hottest ever recorded",
+      "summary": "Climate agencies in North America and Europe confirmed this past summer broke all-time temperature records, even surpassing America's Dust Bowl era. Months of relentless heat dried out farmland, strained power grids, and triggered prolonged heatwaves across multiple continents. Weather officials warn that these dangerous temperatures are becoming the new normal rather than freak events.",
+      "why": "Extreme heat directly threatens the food we grow, strains electric grids, and drains drinking water reservoirs millions rely on.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "summer 2026 confirmed as the hottest ever recorded",
+      "date": "2026-09-11"
+    },
+    {
+      "headline": "US inflation jumps again, putting interest rate hikes back on the table",
+      "summary": "New government data shows prices in America jumped faster than expected last month, driven by higher energy bills and service costs. That caught markets off guard and ended hopes that price increases had finally cooled down. Investors now expect the Federal Reserve to raise borrowing rates at its meeting next week.",
+      "why": "Higher interest rates act like a tax on borrowing, making home loans, car payments, and business credit more expensive worldwide.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us inflation jumps again putting interest rate hikes back on",
+      "date": "2026-09-11"
+    },
+    {
+      "headline": "AI companies warn models are being probed for bioweapons and hacking",
+      "summary": "Leading AI developers revealed they had to block several attempts to use frontier models for bioweapon research and foreign cyberattacks. The disclosure prompted urgent warnings from researchers that self-improving code is moving faster than security guardrails. Lawmakers are now facing pressure to pass strict regulations before advanced systems become harder to control.",
+      "why": "Once software is capable of helping rogue actors engineer biological threats, containment becomes nearly impossible.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ai companies warn models are being probed for bioweapons and",
+      "date": "2026-09-11"
+    },
+    {
+      "headline": "British parliament votes down assisted dying bill after fierce debate",
+      "summary": "Lawmakers in London rejected a historic proposal that would have allowed terminally ill adults to legally end their lives. The decision came after passionate nationwide debate between patients demanding compassionate choice and doctors worried about risks to vulnerable people. The defeat puts an end to legal reform in England and Wales for the near future.",
+      "why": "The vote settles a deeply personal question about how modern healthcare balances patient autonomy against the duty to protect human life.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "british parliament votes down assisted dying bill after fierce debate",
+      "date": "2026-09-11"
     }
   ]
 }
