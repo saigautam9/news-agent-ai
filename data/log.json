@@ -3189,6 +3189,16 @@
       "mode": "morning",
       "fp": "hong kong courts jail tiananmen vigil leaders extinguishing organized public",
       "date": "2026-09-11"
+    },
+    {
+      "headline": "Houthis seize key Red Sea island and choke off Bab al-Mandeb shipping route",
+      "summary": "Iran-backed Houthi forces swept down Yemen's Red Sea coast and took control of Perim Island right at the narrow entrance of the Bab al-Mandeb Strait. Yemeni government troops pulled back, giving the rebels physical control over both sides of the passage that links Asia and Europe.",
+      "why": "This is a massive military escalation at one of the world's most sensitive trade bottlenecks. With the Strait of Hormuz already disrupted, closing or threatening this second maritime doorway hands Iran leverage over global oil flows and has quickly pushed crude prices back over one hundred dollars a barrel.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "houthis seize key red sea island and choke off bab",
+      "date": "2026-09-11"
     }
   ]
 }
