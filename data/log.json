@@ -3249,6 +3249,56 @@
       "mode": "afternoon",
       "fp": "british parliament votes down assisted dying bill after fierce debate",
       "date": "2026-09-11"
+    },
+    {
+      "headline": "Russia and Ukraine escalate long-range attacks on energy infrastructure",
+      "summary": "Ukrainian long-range drones struck major Russian oil refineries deep inland, while Russian forces retaliated with jet-powered drone strikes against fuel networks in Kyiv. Both countries have shifted to systematically hitting the refineries and power depots that keep the other running. These mutual strikes threaten power systems just as colder weather approaches.",
+      "why": "Crippling energy networks turns the war into an economic chokehold that directly endangers winter heating and global fuel markets.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "russia and ukraine escalate long range attacks on energy infrastructure",
+      "date": "2026-09-11"
+    },
+    {
+      "headline": "Summer 2026 sets new global heat records",
+      "summary": "Global climate monitoring agencies confirmed that the past three months made up the hottest summer ever recorded on the planet. Severe, unbroken heatwaves baked both North America and Europe, drying out major rivers and shattering temperature marks from the 1930s Dust Bowl era. The extreme conditions pushed municipal water systems, farming yields, and power grids to their limits.",
+      "why": "Relentless extreme heat acts like a silent economic drain, driving up food prices, triggering blackouts, and straining healthcare systems.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "summer 2026 sets new global heat records",
+      "date": "2026-09-11"
+    },
+    {
+      "headline": "Tension and talks collide over Middle East oil routes",
+      "summary": "The United States and Iran are locked in a tense standoff around the Strait of Hormuz following tanker strikes, even as Washington explores tentative trade talks. Oil prices are climbing toward $100 a barrel as shippers worry about safe passage through the vital waterway. Both sides are testing each other's limits while trying to avoid a full-scale regional war.",
+      "why": "When shipping lanes in the Gulf choke up, higher fuel prices ripple through grocery bills, shipping fees, and travel costs everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "tension and talks collide over middle east oil routes",
+      "date": "2026-09-11"
+    },
+    {
+      "headline": "Canada rolls out retaliatory tariffs against US industrial goods",
+      "summary": "Canada put new tariffs into effect targeting imports of American metals and machinery after Washington imposed fresh cross-border trade barriers. While US officials downplayed the move, Canadian authorities argue the retaliatory taxes are essential to protect domestic industries. The dispute tests the stability of North American manufacturing supply chains.",
+      "why": "Trade penalties function like an extra tax on everyday businesses, raising production costs and making consumer goods more expensive on both sides.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "canada rolls out retaliatory tariffs against us industrial goods",
+      "date": "2026-09-11"
+    },
+    {
+      "headline": "Global leaders mark 25 years since 9/11 amid shifting alliances",
+      "summary": "Memorial ceremonies marked a quarter-century since the September 11 attacks, with solemn commemorations held across the US and internationally. The milestone comes at a time of renewed debate over foreign military interventions, economic sanctions, and shifting global partnerships. World leaders used the moment to re-evaluate their long-term counterterrorism strategies and defense spending.",
+      "why": "The strategic choices sparked by 9/11 still dictate how major powers spend trillions on defense and decide where to deploy their forces.",
+      "domain": "Society",
+      "severity": "MEDIUM",
+      "mode": "evening",
+      "fp": "global leaders mark 25 years since 9 11 amid shifting",
+      "date": "2026-09-11"
     }
   ]
 }
