@@ -3139,6 +3139,56 @@
       "mode": "evening",
       "fp": "us and china scramble to set rules ahead of high",
       "date": "2026-09-10"
+    },
+    {
+      "headline": "Houthi forces capture Yemen's Red Sea coast, choking global shipping lanes",
+      "summary": "Houthi fighters have taken control of the strategic port of Mocha, securing Yemen's entire Red Sea coastline and the narrow Bab al-Mandeb strait. Saudi jets hit the local airport in response, while Iran reported striking an American robotic patrol vessel nearby. With coastal launch sites secured, the group now holds a direct line of sight over commercial vessels moving through the corridor.",
+      "why": "It works like a padlock on a global shipping lane: when container ships are forced to detour around Africa, everyday fuel and grocery prices jump across the world.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "houthi forces capture yemen s red sea coast choking global",
+      "date": "2026-09-11"
+    },
+    {
+      "headline": "White House envoys shuttle between Moscow and Kyiv to revive peace talks",
+      "summary": "U.S. envoys Jared Kushner and Steve Witkoff held back-to-back meetings with Vladimir Putin in Moscow and Volodymyr Zelenskyy in Kyiv to restart trilateral negotiations. The war has settled into a grinding, high-tech war of attrition dominated by drone swarms on both sides. While the envoys called the talks substantive, big hurdles remain over territorial control and Ukraine's long-term security guarantees.",
+      "why": "This is the first major diplomatic attempt in months to explore an exit ramp for Europe's deadliest conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "white house envoys shuttle between moscow and kyiv to revive",
+      "date": "2026-09-11"
+    },
+    {
+      "headline": "BRICS summit opens in New Delhi to build trade networks outside Western control",
+      "summary": "Leaders of the expanded 11-nation BRICS group, including Russia's Vladimir Putin and Iran's Masoud Pezeshkian, have arrived in India for high-level meetings hosted by Narendra Modi. The summit is focused on linking domestic payment systems and trading in local currencies rather than the U.S. dollar. Member states are trying to deepen trade ties even as conflicts in the Middle East and Ukraine strain global markets.",
+      "why": "These countries represent nearly half the world's population and are laying separate economic pipes so Western sanctions cannot cut off their trade.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "brics summit opens in new delhi to build trade networks",
+      "date": "2026-09-11"
+    },
+    {
+      "headline": "Report shows Yemeni weapons cell used commercial AI to build guided missiles",
+      "summary": "A newly released security report revealed that a weapons cell in northern Yemen used Anthropic's Claude AI model to help write guidance software for ballistic missiles and rockets. The inquiry found threat actors also tried tapping AI tools for naval targeting, digital surveillance, and cyber intrusions before access was cut off. The findings highlight how quickly advanced software models are being adapted by armed groups on the ground.",
+      "why": "Engineering knowledge that once required elite military laboratories is now being generated through everyday digital tools, creating a major new proliferation risk.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "report shows yemeni weapons cell used commercial ai to build",
+      "date": "2026-09-11"
+    },
+    {
+      "headline": "Hong Kong courts jail Tiananmen vigil leaders, extinguishing organized public dissent",
+      "summary": "A Hong Kong court sentenced three veteran pro-democracy figures to up to seven years in prison under the Beijing-imposed national security law. The activists had led the annual candlelight vigils commemorating the 1989 Tiananmen crackdown for three decades, which judges ruled amounted to subversion. The decision wraps up one of the territory's final high-profile security trials.",
+      "why": "It permanently erases the last legal space for political remembrance under Chinese rule, sealing the financial hub's full transition to Beijing's tight control.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "hong kong courts jail tiananmen vigil leaders extinguishing organized public",
+      "date": "2026-09-11"
     }
   ]
 }
