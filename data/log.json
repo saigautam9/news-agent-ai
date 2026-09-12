@@ -3349,6 +3349,16 @@
       "mode": "evening",
       "fp": "middle east war and fuel spikes rattle the u s",
       "date": "2026-09-12"
+    },
+    {
+      "headline": "Drone Strike Shuts Vital Saudi Oil Pipeline as Houthis Seize Red Sea Chokepoint",
+      "summary": "Drones launched from Iraq struck Saudi Arabia's East-West oil pipeline, forcing the kingdom to shut down its primary alternative export route. At the exact same time, Houthi forces captured Perim Island and seized control of the narrow Bab al-Mandeb strait off Yemen's coast.",
+      "why": "With the Strait of Hormuz already crippled by war, this pipeline and the Red Sea were the world's emergency detour for oil. Hitting the pipeline while seizing the waterway effectively clamps down on both exits at once, sharply escalating the regional conflict and threatening a severe global energy shock.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "drone strike shuts vital saudi oil pipeline as houthis seize",
+      "date": "2026-09-12"
     }
   ]
 }
