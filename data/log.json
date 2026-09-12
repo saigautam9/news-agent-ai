@@ -3249,6 +3249,56 @@
       "mode": "monitor",
       "fp": "saudi arabia shuts major oil pipeline as houthis seize strategic",
       "date": "2026-09-12"
+    },
+    {
+      "headline": "Drone strikes shut key Saudi oil pipeline as Houthis seize Red Sea choke point",
+      "summary": "Drone strikes launched from Iraq hit Saudi Arabia's main East-West pipeline, forcing the world's top oil exporter to pause five million barrels of daily crude flow. At the same time, Houthi fighters took control of strategic islands and coastal towns along the Bab al-Mandeb shipping channel. Oil prices immediately spiked past $100 a barrel because the world just lost both of its main detour routes around Persian Gulf waters.",
+      "why": "When the world's main fuel highways get blocked at the same time, petrol, diesel, and grocery delivery costs rise for nearly everyone on the planet.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "drone strikes shut key saudi oil pipeline as houthis seize",
+      "date": "2026-09-12"
+    },
+    {
+      "headline": "Tens of thousands flee as combat sweeps Yemen's western coast",
+      "summary": "Nearly 50,000 civilians were forced to flee their homes as heavy ground fighting swept the Red Sea coastal belt. Critical supply paths feeding food and medicine to southern Yemen have been cut off by rapid military advances. Local relief groups say makeshift camps are overflowing and quickly running out of clean water.",
+      "why": "This sudden displacement pushes hundreds of thousands of already starving families into an immediate humanitarian freefall.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "tens of thousands flee as combat sweeps yemen s western",
+      "date": "2026-09-12"
+    },
+    {
+      "headline": "AI labs rush to block models from aiding biological weapon design",
+      "summary": "Major artificial intelligence labs scrambled to add new guardrails after researchers demonstrated how advanced models could assist in synthesizing dangerous biological agents. The revelations kicked off emergency regulatory meetings in Washington and Brussels over mandatory security limits. Officials are torn between clamping down to prevent disaster and moving fast to avoid losing ground to China.",
+      "why": "Stopping automated software from turning deadly biological blueprints into real-world recipes is quickly becoming a make-or-break test for human safety.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ai labs rush to block models from aiding biological weapon",
+      "date": "2026-09-12"
+    },
+    {
+      "headline": "BRICS summit in New Delhi pushes for non-Western trade and UN reform",
+      "summary": "Leaders from eleven nations, including India, China, Russia, and Iran, met in New Delhi to sign the New Delhi Declaration. The coalition agreed to fast-track non-dollar trade settlements and demanded a structural overhaul of global bodies like the UN Security Council. It marked another major step by rising economies to build their own financial safety nets against Western sanctions.",
+      "why": "As half the world's population starts trading outside Western systems, the economic influence of the US dollar slowly weakens.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "brics summit in new delhi pushes for non western trade",
+      "date": "2026-09-12"
+    },
+    {
+      "headline": "Soaring oil costs threaten fresh round of global interest rate hikes",
+      "summary": "Climbing crude and diesel prices pushed inflation figures higher in both the US and Europe. Central bankers are now warning that interest rate cuts are off the table, with fresh rate hikes back under discussion to tame price spikes. At the same time, politicians are floating cash subsidies to calm angry voters, which economists worry could fuel the fire.",
+      "why": "Sticky inflation and higher borrowing rates mean everyday people pay far more on mortgages, credit cards, and business loans.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "soaring oil costs threaten fresh round of global interest rate",
+      "date": "2026-09-12"
     }
   ]
 }
