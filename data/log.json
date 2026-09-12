@@ -3299,6 +3299,56 @@
       "mode": "afternoon",
       "fp": "soaring oil costs threaten fresh round of global interest rate",
       "date": "2026-09-12"
+    },
+    {
+      "headline": "Drone Strike Knocks Out Saudi Arabia's Main Backup Oil Pipeline",
+      "summary": "Drones launched from Iraq struck Saudi Arabia's East-West pipeline, forcing the kingdom to turn off its main emergency oil route. With the nearby Strait of Hormuz already choked by war with Iran, this pipe was the only way Saudi oil could reach world buyers by sea. Baghdad admits the drones took off from Iraqi soil and is desperately trying to calm its neighbors.",
+      "why": "It is like blocking the only detour around a highway wreck, meaning everyday fuel and heating prices could jump worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "drone strike knocks out saudi arabia s main backup oil",
+      "date": "2026-09-12"
+    },
+    {
+      "headline": "Russian Strikes Batter Ukraine as Putin Issues Direct Warning to Europe",
+      "summary": "Russia fired swarms of jet drones and missiles into Ukrainian cities, tearing through apartment blocks, fuel depots, and power plants. At the same time, Vladimir Putin warned that if European governments send troops into Ukraine, they will step straight into a direct war with Russia. The air raids aim to knock out the heat and lights just as cold weather approaches.",
+      "why": "It pushes Russia and European nations closer to an outright military collision that neither side could easily control.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "russian strikes batter ukraine as putin issues direct warning to",
+      "date": "2026-09-12"
+    },
+    {
+      "headline": "Houthi Fighters Grab Yemen's Coast and Red Sea Waterway",
+      "summary": "Houthi rebels in Yemen have pushed through coastal towns and seized Perim Island, right at the narrow entrance to the Red Sea. The sudden advance forced nearly fifty thousand people to flee their homes overnight. With their boots firmly on the shoreline, the fighters now hold direct leverage over one of the world's busiest cargo lanes.",
+      "why": "Controlling this tiny sea gate lets them hold a big chunk of global trade hostage while sparking another humanitarian disaster.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "houthi fighters grab yemen s coast and red sea waterway",
+      "date": "2026-09-12"
+    },
+    {
+      "headline": "Canada and U.S. Trade Battle Hits Everyday Goods",
+      "summary": "Canada has triggered heavy retaliatory tariffs on twenty billion dollars of American goods after talks with Washington broke down. Canadian Prime Minister Mark Carney answered Donald Trump's fifty percent duties dollar-for-dollar, declaring Canada must stop depending on America. The duties hit everything from steel and dairy to everyday supermarket items on both sides of the border.",
+      "why": "It is like two longtime business partners burning their own bridges, leaving ordinary shoppers to foot the bill through higher prices.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "canada and u s trade battle hits everyday goods",
+      "date": "2026-09-12"
+    },
+    {
+      "headline": "Middle East War and Fuel Spikes Rattle the U.S. Midterms",
+      "summary": "Rocketing oil prices from the Middle East conflict are squeezing household budgets and rattling the White House ahead of midterm elections. Donald Trump has pitched a five-thousand-dollar voter dividend, but his team is struggling to explain how the government could ever fund it without raising taxes. The clash shows how foreign conflicts can quickly hit home and reshape national politics.",
+      "why": "Whoever wins Congress will decide whether America keeps fighting costly trade wars or changes course entirely.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "middle east war and fuel spikes rattle the u s",
+      "date": "2026-09-12"
     }
   ]
 }
