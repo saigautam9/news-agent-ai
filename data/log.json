@@ -3239,6 +3239,16 @@
       "mode": "monitor",
       "fp": "saudi arabia halts main oil pipeline after drone strikes while",
       "date": "2026-09-12"
+    },
+    {
+      "headline": "Saudi Arabia shuts major oil pipeline as Houthis seize strategic Red Sea island",
+      "summary": "Saudi Arabia halted its East-West pipeline after drone attacks from Iraq struck pumping facilities. At the same time, Houthi fighters seized Perim Island right at the narrow entrance to the Red Sea.",
+      "why": "This sharply escalates the regional conflict and threatens global energy supplies. The pipeline was Saudi Arabia's main backup route to bypass the blocked Strait of Hormuz, moving nearly 5% of world oil. With the pipeline down and the Red Sea mouth captured, both shipping exits around the Arabian Peninsula are squeezed, immediately driving global oil prices higher.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "saudi arabia shuts major oil pipeline as houthis seize strategic",
+      "date": "2026-09-12"
     }
   ]
 }
