@@ -1,76 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Massive 7.4-magnitude earthquake hits Colombia, killing hundreds",
-      "summary": "A huge earthquake struck Colombia, knocking down buildings and leaving over 250 people dead [1.3.8]. Emergency crews are racing to dig survivors out of the rubble.",
-      "why": "This is a major natural disaster that caused widespread destruction and heavy loss of human life.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "massive 7 4 magnitude earthquake hits colombia killing hundreds",
-      "date": "2026-08-12"
-    },
-    {
-      "headline": "U.S. military fires missiles at commercial ship in Iran conflict",
-      "summary": "A U.S. Navy helicopter shot missiles into a cargo ship's engine room after it tried to break a U.S. naval blockade on Iranian ports. The ship had ignored orders to turn back.",
-      "why": "This is a sharp military escalation involving direct armed strikes against commercial shipping during an active conflict.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s military fires missiles at commercial ship in iran",
-      "date": "2026-08-12"
-    },
-    {
-      "headline": "Ebola Outbreak in Central Africa Rapidly Spreads with Over 2,000 Dead",
-      "summary": "A fast-spreading strain of Ebola in the Democratic Republic of the Congo has killed over 2,000 people. Most patients are dying at home in rural villages long before health workers can reach them. Scientists are now rushing to test new vaccines in the field to slow the outbreak down.",
-      "why": "Without quick action, this deadly virus could cross borders and trigger a major global public health crisis.",
-      "domain": "Health",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "ebola outbreak in central africa rapidly spreads with over 2",
-      "date": "2026-08-12"
-    },
-    {
-      "headline": "US-Iran Peace Talks Stall as Strait of Hormuz Fuel Shock Hits World Markets",
-      "summary": "Peace talks between the U.S. and Iran have broken down after Tehran accused Washington of breaking an interim ceasefire deal [1.4.9]. At the same time, main shipping routes through the Strait of Hormuz remain largely blocked. Global oil markets are taking a huge hit as millions of barrels of crude stay stuck in the Gulf.",
-      "why": "High fuel prices and blocked shipping lines mean bigger energy bills and rising inflation for people everywhere.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us iran peace talks stall as strait of hormuz fuel",
-      "date": "2026-08-12"
-    },
-    {
-      "headline": "Drone Attack Shuts Down Russia's Largest Petrochemical Facility",
-      "summary": "A long-range Ukrainian drone strike hit Russia's massive ZapSibNeftekhim plant in Siberia, forcing it to shut down indefinitely. The facility produces nearly half of Russia's technical liquid gas. It marks one of the most damaging hits to Russian heavy industry since the conflict started.",
-      "why": "Knocking out a major industrial engine damages Russia's war economy and cuts off vital chemical supplies.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "drone attack shuts down russia s largest petrochemical facility",
-      "date": "2026-08-12"
-    },
-    {
-      "headline": "Europe Swelters in Record Heat Wave as Rivers Dry Up and Fires Spread",
-      "summary": "A blistering heat wave is scorching Europe, pushing temperatures past 105\u00b0F in countries like Austria. Water levels in crucial transport rivers like the Danube have dropped to historic lows, stopping trade barges. Massive wildfires are also destroying homes and farmlands across Europe and North America.",
-      "why": "Extreme climate events disrupt food supplies, strain power grids, and stall vital water transportation routes.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "europe swelters in record heat wave as rivers dry up",
-      "date": "2026-08-12"
-    },
-    {
-      "headline": "New European Union Rules Force Tech Companies to Label AI Content",
-      "summary": "The European Union has begun enforcing strict new regulations for artificial intelligence under its landmark AI Act. Any organization publishing AI-generated public text or news in Europe must now explicitly label it for readers. Tech companies around the world are rushing to update their systems to follow these rules.",
-      "why": "This law sets a global precedent that helps people spot computer-generated deepfakes and fake news online.",
-      "domain": "Technology",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "new european union rules force tech companies to label ai",
-      "date": "2026-08-12"
-    },
-    {
       "headline": "US advances new tariffs on buyers of Russian oil",
       "summary": "The US Senate passed a sweeping bipartisan sanctions bill aimed at cutting off funding for Russia's military. The legislation would allow the US to place tariffs of up to 100 percent on countries, such as China and India, that continue purchasing Russian energy. It also targets the financial institutions and hidden shipping fleets helping bypass existing rules.",
       "why": "It forces major global trade partners to choose between buying discounted Russian energy or losing access to US markets.",
@@ -3299,6 +3229,16 @@
       "mode": "evening",
       "fp": "global leaders mark 25 years since 9 11 amid shifting",
       "date": "2026-09-11"
+    },
+    {
+      "headline": "Saudi Arabia halts main oil pipeline after drone strikes while Houthis capture key Red Sea island",
+      "summary": "Saudi Arabia shut down its massive East-West oil pipeline after drone attacks launched from Iraq hit the artery. At the same time, Houthi forces seized Perim Island right at the narrow entrance to the Red Sea, effectively pinching both the land and sea routes Saudi Arabia relies on to ship crude.",
+      "why": "Think of the Persian Gulf and Red Sea as the two main pipes supplying the world with oil. The Gulf was already choked off by the standoff with Iran, so this pipeline was the emergency bypass. Hitting that backup line and taking the Red Sea choke point at once removes millions of barrels of oil a day, sent prices over $100, and sharply escalates the risk of a wider regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "saudi arabia halts main oil pipeline after drone strikes while",
+      "date": "2026-09-12"
     }
   ]
 }
