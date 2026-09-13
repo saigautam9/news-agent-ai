@@ -3319,6 +3319,56 @@
       "mode": "monitor",
       "fp": "saudi arabia shuts down critical east west oil pipeline after",
       "date": "2026-09-13"
+    },
+    {
+      "headline": "Shipping strikes in the Strait of Hormuz push oil past $100",
+      "summary": "Iranian forces and the US military exchanged new strikes around the Strait of Hormuz, hitting commercial tankers and naval targets. The clashes have choked the vital waterway, sending crude oil prices above $100 a barrel. Regional leaders are rushing into emergency talks in Oman to find an alternative transit route.",
+      "why": "This narrow channel handles roughly a fifth of the world's oil and gas, so blockages instantly drive up fuel and grocery bills worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "shipping strikes in the strait of hormuz push oil past",
+      "date": "2026-09-13"
+    },
+    {
+      "headline": "Watchdogs spot heavy work at Iran\u2019s underground nuclear bunker",
+      "summary": "Satellite imagery and the UN nuclear watchdog revealed a surge of construction deep inside Pickaxe Mountain, a fortified granite site in central Iran. Officials fear Tehran is moving critical nuclear materials into chambers that standard bombs cannot damage. The US and Israel have responded by threatening strikes with specialized underground penetrator weapons.",
+      "why": "Hardening atomic sites beneath mountain granite pushes the conflict closer to an all-out war before preventive strikes become impossible.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "watchdogs spot heavy work at iran s underground nuclear bunker",
+      "date": "2026-09-13"
+    },
+    {
+      "headline": "US and Canada trade war explodes with 50 percent tariffs",
+      "summary": "Cross-border trade between the US and Canada took a sharp hit after negotiations fell apart. Washington imposed 50 percent tariffs on billions of dollars in Canadian products, and Canada retaliated with matching duties on American goods. Everyday costs for appliances, dairy, and consumer products jumped overnight on both sides of the border.",
+      "why": "Because their economies share the world's most integrated supply chains, slapping huge fees on trade acts like an immediate direct tax on families.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and canada trade war explodes with 50 percent tariffs",
+      "date": "2026-09-13"
+    },
+    {
+      "headline": "Houthis strike Saudi base and tighten grip on Red Sea shipping",
+      "summary": "Yemeni Houthi fighters carried out drone and missile attacks against a Saudi military base. At the same time, the group pushed deeper into territory overlooking the Bab-el-Mandeb strait. The push threatens to bottleneck Red Sea traffic just as the Persian Gulf is also under fire.",
+      "why": "If cargo ships cannot use either the Red Sea or the Gulf, international maritime trade between Asia and the West faces massive delays and freight rate spikes.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "houthis strike saudi base and tighten grip on red sea",
+      "date": "2026-09-13"
+    },
+    {
+      "headline": "August 2026 confirmed as Earth\u2019s hottest month on record",
+      "summary": "The European climate agency Copernicus confirmed that August 2026 was the warmest month ever measured across the globe. Extreme heat fueled massive wildfires in Indonesia and accelerated glacier melt in Europe. Average temperatures climbed roughly 1.65 degrees Celsius above pre-industrial levels.",
+      "why": "Passing these temperature thresholds makes droughts, violent storms, and crop failures far more common and severe for millions of people.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "august 2026 confirmed as earth s hottest month on record",
+      "date": "2026-09-13"
     }
   ]
 }
