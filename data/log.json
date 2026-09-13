@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US advances new tariffs on buyers of Russian oil",
-      "summary": "The US Senate passed a sweeping bipartisan sanctions bill aimed at cutting off funding for Russia's military. The legislation would allow the US to place tariffs of up to 100 percent on countries, such as China and India, that continue purchasing Russian energy. It also targets the financial institutions and hidden shipping fleets helping bypass existing rules.",
-      "why": "It forces major global trade partners to choose between buying discounted Russian energy or losing access to US markets.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us advances new tariffs on buyers of russian oil",
-      "date": "2026-08-13"
-    },
-    {
-      "headline": "A giant oil spill reaches Oman's coastline",
-      "summary": "A stranded tanker carrying nearly a million barrels of Russian crude is leaking heavily in the Arabian Sea. The spill has grown to cover over 2,000 square kilometers and has begun washing onto beaches and sensitive wildlife reserves in Oman. Strong monsoon winds and security complications are making emergency clean-up efforts very difficult.",
-      "why": "It threatens critical marine habitats and local desalination plants while highlighting the real-world dangers of unsanctioned 'shadow fleet' shipping.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "a giant oil spill reaches oman s coastline",
-      "date": "2026-08-13"
-    },
-    {
-      "headline": "Tensions spike over control of the Strait of Hormuz",
-      "summary": "Iranian officials declared full control over the Strait of Hormuz, directly challenging US statements claiming authority over the waterway. Ship traffic through the narrow passage has dropped dramatically as commercial vessel captains fear getting caught in regional conflict.",
-      "why": "Because a huge portion of the world's daily oil supply travels through this single choke point, any threat of disruption can quickly push up energy costs around the globe.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "tensions spike over control of the strait of hormuz",
-      "date": "2026-08-13"
-    },
-    {
-      "headline": "Zambia holds elections key to global mineral supply",
-      "summary": "Citizens in Zambia cast their ballots in a national election deciding the presidency and parliament. Incumbent President Hakainde Hichilema is seeking a second term on an economic recovery platform, while opposition candidate Brian Mundubile is tapping into voter frustration over high daily living costs.",
-      "why": "Zambia is a major producer of copper and critical minerals that power modern technology and green energy transitions.",
-      "domain": "Society",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "zambia holds elections key to global mineral supply",
-      "date": "2026-08-13"
-    },
-    {
-      "headline": "A rare total solar eclipse sweeps across Europe",
-      "summary": "Millions of people gathered across Greenland, Iceland, and Spain to view the first total solar eclipse visible from mainland Europe in decades. The sky show coincided with a rare planetary alignment and the peak of the Perseid meteor shower, triggering huge travel surges across the continent.",
-      "why": "Beyond the rare natural phenomenon, the sudden influx of millions of skywatchers provided a major boost to European tourism while putting real pressure on local infrastructure.",
-      "domain": "Society",
-      "severity": "MEDIUM",
-      "mode": "afternoon",
-      "fp": "a rare total solar eclipse sweeps across europe",
-      "date": "2026-08-13"
-    },
-    {
       "headline": "Attacks on tankers in Strait of Hormuz threaten global oil flows",
       "summary": "The UAE reported that two oil vessels were attacked in the Strait of Hormuz, pointing fingers at Iran. This comes as military forces face off across the region and threats of naval blockades grow. The waterway is like the world's main fuel pipe, carrying about a fifth of global petroleum.",
       "why": "Any sustained disruption to shipping in this narrow passage could trigger an instant spike in global energy and transport costs.",
@@ -3359,6 +3309,16 @@
       "mode": "monitor",
       "fp": "drone strike shuts vital saudi oil pipeline as houthis seize",
       "date": "2026-09-12"
+    },
+    {
+      "headline": "Saudi Arabia Shuts Down Critical East-West Oil Pipeline After Drone Strike as Red Sea Chokepoint Tightens",
+      "summary": "Saudi Arabia halted operations along its 745-mile East-West crude pipeline after drone strikes launched from Iraq damaged facilities and injured personnel. At the same time, Houthi fighters seized Mayyun Island and key territory near the Bab el-Mandeb Strait, putting a chokehold on Saudi tankers in the Red Sea.",
+      "why": "This pipeline serves as the world's main emergency exit for Gulf crude while the Strait of Hormuz is disrupted, carrying roughly 4 to 5 million barrels every day. Shutting it down while the Red Sea maritime passage is simultaneously squeezed is a major military escalation that directly endangers global oil flow.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "saudi arabia shuts down critical east west oil pipeline after",
+      "date": "2026-09-13"
     }
   ]
 }
