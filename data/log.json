@@ -3369,6 +3369,16 @@
       "mode": "morning",
       "fp": "fuel price shock ignites street protests across syria",
       "date": "2026-09-14"
+    },
+    {
+      "headline": "Saudi Arabia's Crucial Oil Pipeline Knocked Out for Weeks",
+      "summary": "Officials confirmed today that Saudi Arabia's East-West crude pipeline will stay largely offline for three to five weeks after drone strikes badly damaged pumping stations. Because shipping through the Strait of Hormuz is already paralyzed by regional war, this 745-mile pipeline was the kingdom's only major detour to send 4 to 5 million barrels of oil a day out through the Red Sea.",
+      "why": "This suddenly chokes off around 4% to 5% of the world's daily oil supply when alternative routes are already shut. Saudi export reserves could run dry within days, threatening a severe global energy supply shock that has already driven oil prices past $108 a barrel.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "saudi arabia s crucial oil pipeline knocked out for weeks",
+      "date": "2026-09-14"
     }
   ]
 }
