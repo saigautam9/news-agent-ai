@@ -3379,6 +3379,56 @@
       "mode": "monitor",
       "fp": "saudi arabia s crucial oil pipeline knocked out for weeks",
       "date": "2026-09-14"
+    },
+    {
+      "headline": "Oil tops $100 as US-Iran clashes squeeze the Strait of Hormuz",
+      "summary": "Crude oil prices surged past $100 a barrel after the US military destroyed Iranian tankers following an attack on an American naval vessel. In response, regional transit talks froze and Houthi fighters launched fresh strikes across Yemen and Saudi Arabia. Tanker traffic through the Persian Gulf is slowing down as shipping insurers pull coverage.",
+      "why": "When the world's main oil tap gets pinched, higher prices hit everything from pump gas to grocery deliveries within days.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "oil tops 100 as us iran clashes squeeze the strait",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "Global temperature records break again as August marks hottest month",
+      "summary": "Scientists confirmed that the past month was the hottest single month ever measured on Earth, beating out previous heat peaks. Massive wildfires in Southeast Asia and South America added tens of millions of tons of emissions in mere days, overwhelming local air quality. Farmers and energy operators worldwide are struggling to keep irrigation systems and power grids from failing under the heat.",
+      "why": "Extreme heat acts like a hidden tax on the world, spoiling harvests and driving up utility bills everywhere.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "global temperature records break again as august marks hottest month",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "Tech stocks tumble as AI founders warn of dangerous speed",
+      "summary": "Tech shares dropped sharply after bosses from Anthropic and OpenAI warned that frontier AI is advancing too fast without safeguards. Donald Trump pushed back immediately, calling the safety warnings an excuse to stifle American tech and promising zero new regulations. Investors are caught between fears of uncontrollable software and the threat of political chaos.",
+      "why": "The standoff will decide whether artificial intelligence faces guardrails or races ahead like a car without brakes.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "tech stocks tumble as ai founders warn of dangerous speed",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "Trump tells Ukraine to halt strikes on Russian fuel refineries",
+      "summary": "Donald Trump warned Ukrainian President Volodymyr Zelenskyy to stop hitting Russian fuel depots because the strikes are pushing global diesel prices too high. Meanwhile, Canada stepped forward with fresh air defense funding to shield Ukrainian cities ahead of winter. The split highlights growing friction between Western allies over how aggressively Ukraine can strike back.",
+      "why": "If Washington ties military aid to energy market calm, Kyiv will have far less room to fight on its own terms.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "trump tells ukraine to halt strikes on russian fuel refineries",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "Brazil braces for a photo-finish election between Lula and Bolsonaro",
+      "summary": "Fl\u00e1vio Bolsonaro has pulled level with President Luiz In\u00e1cio Lula da Silva in key swing states, setting the stage for a tense rematch of Brazilian ideologies. Lula is defending his social programs and environmental protections, while the younger Bolsonaro promises deregulation and aggressive law-and-order policing. The race has deeply polarized voters across Latin America's economic powerhouse.",
+      "why": "Who wins determines whether the Amazon rainforest is guarded closely or opened back up for heavy industrial expansion.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "brazil braces for a photo finish election between lula and",
+      "date": "2026-09-14"
     }
   ]
 }
