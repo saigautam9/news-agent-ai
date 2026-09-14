@@ -3319,6 +3319,56 @@
       "mode": "morning",
       "fp": "august 2026 confirmed as earth s hottest month on record",
       "date": "2026-09-13"
+    },
+    {
+      "headline": "Gulf diplomacy stalls as oil prices surge past $100",
+      "summary": "Peace talks in Oman to reopen the blocked Strait of Hormuz collapsed following fresh regional missile strikes. Western outlets warn of another inflation wave, while Middle Eastern media point to broken trust between Iran and its neighbors. With key shipping lanes and pipelines squeezed, crude oil prices jumped past $100 a barrel.",
+      "why": "When the world's main fuel pipe gets squeezed, prices go up for everyone at the gas pump and grocery checkout.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "gulf diplomacy stalls as oil prices surge past 100",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "Russian missile hits Ukrainian rail hub right on NATO's doorstep",
+      "summary": "A Russian missile strike hit a Ukrainian railway station near Poland shortly after top European officials left the area. Moscow claimed it targeted weapons shipments, while European allies saw it as a deliberate scare tactic aimed at their borders. The strike comes as fuel shortages make moving goods across the region even harder.",
+      "why": "Bombing right on NATO's fence line dramatically raises the chance that an errant missile drags neighboring nations directly into the war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "russian missile hits ukrainian rail hub right on nato s",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "White House pushes full speed ahead on AI despite safety warnings",
+      "summary": "The US administration rejected calls from AI lab founders and lawmakers who wanted a cooling-off period on powerful models. Officials argue that taking your foot off the gas pedal now would simply hand the crown to China. Top researchers warn that racing forward without seatbelts makes catastrophic accidents almost impossible to prevent.",
+      "why": "It locks the world into an unchecked tech race where speed beats safety, shaping how future generations live and work.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "white house pushes full speed ahead on ai despite safety",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "Yemen's conflict explodes again, derailing regional peace",
+      "summary": "Fierce fighting broke out in Taiz as Saudi-backed troops clashed with Houthi forces, snapping months of quiet. The rebels claimed fresh missile and drone attacks on Saudi military sites, prompting new airstrikes. Local sources say this sudden explosion of fighting directly torpedoed broader Middle East de-escalation talks.",
+      "why": "Reigniting this war puts critical shipping lanes in the crosshairs and pulls regional powers right back into a costly military quagmire.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "yemen s conflict explodes again derailing regional peace",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "Fuel price shock ignites street protests across Syria",
+      "summary": "Protesters shut down major highways and burned tires across Syrian cities after fuel prices jumped sharply overnight. The price spikes, driven by the broader regional energy crunch, have left everyday families struggling to afford basic bus fare and heating. Public anger boiled over quickly as people reached their financial breaking point.",
+      "why": "It shows how rising world energy costs act like a spark in dry grass, quickly turning into food and fuel crises in vulnerable nations.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "fuel price shock ignites street protests across syria",
+      "date": "2026-09-14"
     }
   ]
 }
