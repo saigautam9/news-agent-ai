@@ -3429,6 +3429,56 @@
       "mode": "afternoon",
       "fp": "brazil braces for a photo finish election between lula and",
       "date": "2026-09-14"
+    },
+    {
+      "headline": "Russia hammers Ukrainian power and trains ahead of winter",
+      "summary": "New waves of strikes targeted Ukrainian passenger trains and energy networks, knocking out critical parts of the power grid. Moscow issued fresh warnings to European allies helping Kyiv, while NATO insisted the attacks will not shake foreign support. The blitz aims to freeze Ukraine's civilian infrastructure just before temperatures plunge.",
+      "why": "Blacking out heating and transit during freezing months turns everyday survival into a humanitarian crisis and tests the West's staying power.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "russia hammers ukrainian power and trains ahead of winter",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "Oil spikes past $100 as Middle East peace talks collapse",
+      "summary": "Drone attacks knocked out key Saudi pipelines for several weeks, tightening oil taps right when supplies were already stretched thin. In response, Gulf states broke off crucial maritime security talks with Iran. The sudden threat to shipping chokepoints sent global crude prices surging past $100 a barrel.",
+      "why": "High oil acts like an immediate hidden tax on everything, driving up the price of your commute, your groceries, and your home heating bill.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "oil spikes past 100 as middle east peace talks collapse",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "US scraps major limits on power plant pollution",
+      "summary": "The Environmental Protection Agency repealed nationwide caps on carbon emissions from coal and gas power plants. Backers say keeping old plants running lowers electric bills and protects the grid during peak demand. Opponents argue the rollback wipes out years of climate progress and opens the door to dirty air.",
+      "why": "When the world's largest economy takes the brakes off industrial emissions, international climate targets become almost impossible to reach.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us scraps major limits on power plant pollution",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "US and Europe clash over who writes the rules for AI",
+      "summary": "Washington is leaning heavily toward ditching safety guardrails so homegrown tech firms can sprint ahead of overseas rivals. At the same time, European leaders warned their economies cannot afford to become digital satellites dependent on American or Chinese software. This split is turning cutting-edge technology into a fractured, high-stakes trade race.",
+      "why": "The countries that build and police artificial intelligence will decide how future jobs, privacy, and military weapons work across the globe.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "us and europe clash over who writes the rules for",
+      "date": "2026-09-14"
+    },
+    {
+      "headline": "Cities and states sue to halt aggressive US immigration crackdown",
+      "summary": "A coalition of state attorneys general and major city mayors filed emergency lawsuits to freeze sweeping federal immigration restrictions. The contested rule cuts off green cards for legal immigrants who rely on basic social safety nets like housing or healthcare aid. Local leaders warn the sudden changes will hurt local labor pools and swamp local clinics.",
+      "why": "Pulling the rug out from under millions of legal immigrants immediately ripples through essential industries like farming, elder care, and hospitals.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "cities and states sue to halt aggressive us immigration crackdown",
+      "date": "2026-09-14"
     }
   ]
 }
