@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Attacks on tankers in Strait of Hormuz threaten global oil flows",
-      "summary": "The UAE reported that two oil vessels were attacked in the Strait of Hormuz, pointing fingers at Iran. This comes as military forces face off across the region and threats of naval blockades grow. The waterway is like the world's main fuel pipe, carrying about a fifth of global petroleum.",
-      "why": "Any sustained disruption to shipping in this narrow passage could trigger an instant spike in global energy and transport costs.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "attacks on tankers in strait of hormuz threaten global oil",
-      "date": "2026-08-14"
-    },
-    {
-      "headline": "Devastating 7.4 magnitude earthquake strikes Colombia",
-      "summary": "A major earthquake centered in Colombia's Choc\u00f3 region has killed at least 164 people and caused widespread destruction. Historic structures and critical infrastructure suffered severe damage across multiple cities. Rescuers are racing against time in difficult terrain to reach isolated communities.",
-      "why": "The disaster leaves thousands homeless and places massive strain on the country's emergency services and economy.",
-      "domain": "Society",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "devastating 7 4 magnitude earthquake strikes colombia",
-      "date": "2026-08-14"
-    },
-    {
-      "headline": "Sudan war intensifies as battle spreads to El Obeid and Khartoum",
-      "summary": "Paramilitary forces launched renewed assaults on the strategic city of El Obeid while drones struck targets in the capital. The clashes have cut off escape routes and choked supply corridors needed for aid. Millions of civilians remain trapped with rapidly dwindling food and medical supplies.",
-      "why": "The widening conflict deepens one of the worst humanitarian and displacement crises on the planet.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "sudan war intensifies as battle spreads to el obeid and",
-      "date": "2026-08-14"
-    },
-    {
-      "headline": "Long-range strikes target energy infrastructure in Russia-Ukraine war",
-      "summary": "Ukrainian drones struck a major oil refinery deep inside Russian territory, triggering large fires and casualties. Meanwhile, heavy Russian ballistic strikes hit targets across Ukrainian cities as frontline fighting pushes forward. Both sides are increasingly targeting the fuel, power, and logistics systems that keep the other running.",
-      "why": "Targeting energy grids and refineries directly drains economic endurance and shapes the tempo of the entire war.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "long range strikes target energy infrastructure in russia ukraine war",
-      "date": "2026-08-14"
-    },
-    {
-      "headline": "NATO fighter downs drone over Latvia amid border tensions",
-      "summary": "A NATO jet scrambled and shot down an unauthorized drone that crossed into Latvian airspace. Regional officials linked the incident to Russian electronic warfare spilling across the border. Baltic allies are demanding stronger air defense shields along NATO's eastern frontier.",
-      "why": "Even accidental incursions raise the danger of a direct military clash between NATO and Russia.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "nato fighter downs drone over latvia amid border tensions",
-      "date": "2026-08-14"
-    },
-    {
       "headline": "Deadly Ebola outbreak in DR Congo spreads rapidly",
       "summary": "Health authorities report an escalating Ebola outbreak in the Democratic Republic of the Congo, with over 4,600 cases and more than 2,100 deaths recorded [1.2.6]. Early infections were misdiagnosed as malaria and typhoid, slowing containment in remote communities. Medical workers are now racing to deploy vaccines and stop the virus from spilling across porous borders.",
       "why": "Uncontained outbreaks in fragile healthcare systems can quickly jump across borders and spark an international health crisis.",
