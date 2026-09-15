@@ -3369,6 +3369,56 @@
       "mode": "afternoon",
       "fp": "brics summit pushes for new energy and payment systems",
       "date": "2026-09-15"
+    },
+    {
+      "headline": "AI labs sound the alarm on self-improving software",
+      "summary": "Leading researchers and tech CEOs warned that artificial intelligence is beginning to rewrite and upgrade its own code. Lawmakers from both parties want an immediate pause, but business leaders worry slowing down will hand an edge to foreign competitors. Global stock markets dropped as investors worried governments might slam the brakes on tech investment.",
+      "why": "If machines start teaching and upgrading themselves faster than humans can follow, we risk losing the steering wheel on our own future.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ai labs sound the alarm on self improving software",
+      "date": "2026-09-15"
+    },
+    {
+      "headline": "Federal Reserve signals rate hike, setting up a fight with Trump",
+      "summary": "The central bank signaled it is ready to raise interest rates again to keep inflation down. President Trump blasted the plan, insisting that higher borrowing costs will stall the economy. The standoff tests whether the Fed can steer money policy on its own without political interference.",
+      "why": "Higher interest rates make loans for cars, houses, and credit cards more expensive for everyday families.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "federal reserve signals rate hike setting up a fight with",
+      "date": "2026-09-15"
+    },
+    {
+      "headline": "Houthi advances in Yemen threaten key Red Sea shipping lanes",
+      "summary": "Houthi forces captured key territory along Yemen's coast, putting crucial sea trade routes back in the crosshairs. Saudi Arabia asked the United States for military support to halt the push, but the White House declined to step in. Shipping companies are already weighing longer, costlier routes around Africa to dodge attacks.",
+      "why": "When major sea routes get choked off, everything from oil to sneakers takes longer to arrive and costs more at the store.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "houthi advances in yemen threaten key red sea shipping lanes",
+      "date": "2026-09-15"
+    },
+    {
+      "headline": "Supreme Court rejects White House push to limit mail-in ballots",
+      "summary": "The Supreme Court struck down administration efforts to restrict mail-in voting across the country. The White House pushed back hard against the decision, arguing remote ballots need far tighter rules. The ruling locks in voting procedures for upcoming elections, ensuring millions of citizens can continue casting ballots by mail.",
+      "why": "Ballot rules decide who gets a voice, directly determining which leaders take power and pass laws that shape everyday life.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "supreme court rejects white house push to limit mail in",
+      "date": "2026-09-15"
+    },
+    {
+      "headline": "Canada pivots toward Europe as U.S. trade fights worsen",
+      "summary": "Prime Minister Mark Carney announced Canada will seek a major economic and security pact with the European Union. Ottawa is looking across the Atlantic after new U.S. tariffs and disputes rattled North American commerce. The shift shows close allies are building backup partnerships to shield themselves from sudden shifts in American policy.",
+      "why": "When long-time neighbors put up trade barriers, factories face higher costs to move parts, and shoppers end up footing the bill.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "canada pivots toward europe as u s trade fights worsen",
+      "date": "2026-09-15"
     }
   ]
 }
