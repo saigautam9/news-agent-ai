@@ -3319,6 +3319,56 @@
       "mode": "evening",
       "fp": "cities and states sue to halt aggressive us immigration crackdown",
       "date": "2026-09-14"
+    },
+    {
+      "headline": "NATO Jets Down Drone Over Lithuania in Dangerous Baltic Standoff",
+      "summary": "A NATO fighter shot down a drone over Lithuania shortly after a Russian warship fired flares at a Danish military helicopter. Both militaries are heavily patrolling the Baltic region with little room for error. It is like two armed neighbors pacing the property line in thick fog, where one bad call can spark an all-out brawl.",
+      "why": "A direct military clash between NATO and Russia could trigger alliance mutual-defense pacts and pull dozens of nations into a wider war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "nato jets down drone over lithuania in dangerous baltic standoff",
+      "date": "2026-09-15"
+    },
+    {
+      "headline": "August Sets Another Global Heat Record Amid Historic Wildfires",
+      "summary": "Climate scientists confirmed August 2026 was the hottest month ever recorded on Earth, breaking previous historical peaks. Massive wildfires in Southeast Asia also released staggering amounts of smoke and carbon in just a few days. Think of the planet running an unrelenting fever that dries up reservoirs, shrivels crops, and stresses electric grids to their breaking point.",
+      "why": "Persistent extreme heat threatens the global food supply, knocks out power systems, and makes outdoor labor dangerous for millions of workers.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "august sets another global heat record amid historic wildfires",
+      "date": "2026-09-15"
+    },
+    {
+      "headline": "Oil Nears $100 as Middle East Shipping Clashes Flare Up",
+      "summary": "Global oil prices jumped near $100 a barrel after clashes between the U.S. and Iran damaged tankers and squeezed key shipping routes. Fresh supply interruptions in Libya and export pauses in Saudi Arabia made the squeeze even tighter. When fuel routes narrow, refineries have to pay extra for every drop, and that price tag quickly rolls downhill to ordinary drivers.",
+      "why": "Expensive crude works like a stealth tax on everyday life, driving up the cost of groceries, commuting, and home energy around the world.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "oil nears 100 as middle east shipping clashes flare up",
+      "date": "2026-09-15"
+    },
+    {
+      "headline": "New 50% Tariffs on Canadian Goods Take Effect Across North America",
+      "summary": "The United States put aggressive 50% tariffs on Canadian imports into effect, rattling one of the largest trade relationships on Earth. Factories across the continent pass parts back and forth every day like ingredients in a shared kitchen. These taxes disrupt those tightly wound assembly lines, forcing companies to absorb heavy penalties or halt production.",
+      "why": "Massive border fees between top trading partners make everyday manufactured goods more expensive and risk widespread factory layoffs.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "new 50 tariffs on canadian goods take effect across north",
+      "date": "2026-09-15"
+    },
+    {
+      "headline": "BRICS Summit Pushes for New Energy and Payment Systems",
+      "summary": "The expanded 11-member BRICS alliance wrapped up talks in New Delhi with plans to secure critical minerals and build alternate financial pipes. The group wants backup payment networks so members do not have to depend exclusively on Western banks or the U.S. dollar. Even with messy internal rivalries, the bloc is steadily organizing trade outside traditional Western supervision.",
+      "why": "Splitting the world into rival economic tracks makes trade less flexible and reshapes where countries will buy vital resources in the future.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "brics summit pushes for new energy and payment systems",
+      "date": "2026-09-15"
     }
   ]
 }
