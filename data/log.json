@@ -3479,6 +3479,56 @@
       "mode": "afternoon",
       "fp": "belarus frees political prisoners in deal with washington",
       "date": "2026-09-16"
+    },
+    {
+      "headline": "Persian Gulf clashes send oil prices surging past $100",
+      "summary": "Direct strikes between the U.S. and Iran near the Strait of Hormuz damaged a commercial vessel and choked traffic through one of the planet's busiest sea lanes. The disruption immediately pushed crude oil past $100 a barrel and triggered a sharp sell-off in global bond markets. Governments and central banks now face a fresh surge in transport and manufacturing costs just as inflation seemed under control.",
+      "why": "When oil spikes this fast, it works like a sudden tax hike on everyday goods and heating for millions of households.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "persian gulf clashes send oil prices surging past 100",
+      "date": "2026-09-16"
+    },
+    {
+      "headline": "United States confirms its first operational space weapons launch",
+      "summary": "American defense officials officially confirmed placing armed military hardware into orbit, crossing a long-avoided strategic line. Washington argues the assets are needed to protect critical satellites, but arms control groups warn the move officially militarizes the skies. The disclosure is already pushing rival powers to accelerate their own orbital counter-weapons programs.",
+      "why": "Turning outer space into an active battlefield threatens the communications and navigation satellites that keep modern life running.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "united states confirms its first operational space weapons launch",
+      "date": "2026-09-16"
+    },
+    {
+      "headline": "Canada pivots toward Europe as U.S. trade battles deepen",
+      "summary": "Canadian Prime Minister Mark Carney is pushing forward a landmark economic and security pact with the European Union, exploring historic associate-level ties. The turn across the Atlantic comes as escalating trade disputes and tariff threats from Washington strain the old North American partnership. Both Ottawa and Brussels want to insulate their supply chains and critical industries from sudden shifts in American policy.",
+      "why": "Longtime partners are actively redesigning world trade maps so they no longer have all their eggs in the American basket.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "canada pivots toward europe as u s trade battles deepen",
+      "date": "2026-09-16"
+    },
+    {
+      "headline": "NATO steps up military aid after strikes hit near its borders",
+      "summary": "Russian missile strikes landed near Ukraine's western frontier, triggering urgent alarm in neighboring alliance capitals. In response, NATO leadership pledged immediate delivery of advanced air-defense batteries and ammunition stockpiles to Kyiv. Military planners are focused on fortifying the border zone to prevent any stray strike from pulling treaty members into open confrontation.",
+      "why": "Even a slight miscalculation along that tense frontier could rapidly pull nuclear-armed powers into direct war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "nato steps up military aid after strikes hit near its",
+      "date": "2026-09-16"
+    },
+    {
+      "headline": "Drought forces fresh transit cuts through the Panama Canal",
+      "summary": "A persistent dry spell has dropped water levels across Panama's lakes, forcing authorities to restrict the number and weight of container ships allowed through. With maritime detours in the Middle East already risky and expensive, international shipping lines are running out of easy shortcuts. The bottleneck is delaying raw materials and finished goods heading toward major consumer markets.",
+      "why": "When vital maritime shortcuts dry up, freight bills jump and consumers end up paying more for everyday items on store shelves.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "drought forces fresh transit cuts through the panama canal",
+      "date": "2026-09-16"
     }
   ]
 }
