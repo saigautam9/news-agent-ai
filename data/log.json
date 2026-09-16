@@ -3429,6 +3429,56 @@
       "mode": "monitor",
       "fp": "united states officially confirms it has deployed weapons in earth",
       "date": "2026-09-16"
+    },
+    {
+      "headline": "NATO jet shoots down explosive drone over Lithuania",
+      "summary": "A NATO fighter jet blasted an explosive drone out of the sky over Lithuania after it crossed in from Belarus. On the exact same day, a Russian warship fired warning flares right at a Danish military helicopter over the Baltic Sea. It looks like a deliberate poke-the-bear test to see how fast European air defenses react when pushed.",
+      "why": "Shooting down live weapons over NATO soil is like smoking next to an open gas tank \u2014 a single misstep can pull entire nations into direct conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "nato jet shoots down explosive drone over lithuania",
+      "date": "2026-09-16"
+    },
+    {
+      "headline": "Drone intercepted near Mecca as Red Sea fighting heats up",
+      "summary": "Saudi Arabia shot down an armed Houthi drone right near Mecca and called it a dangerous red line, though the Houthis deny aiming for the holy site. The close call came right after the rebels seized crucial territory along the Red Sea coast to choke off shipping. Both sides are playing a high-stakes game of chicken near the planet's busiest oil lanes.",
+      "why": "When fighting creeps toward Islam's holiest sanctuary and global shipping bottlenecks, the risk of an all-out regional firestorm shoots through the roof.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "drone intercepted near mecca as red sea fighting heats up",
+      "date": "2026-09-16"
+    },
+    {
+      "headline": "U.S. House votes to halt funding for war on Iran",
+      "summary": "The U.S. House voted to shut down American military action against Iran, with several Republicans crossing the aisle to join Democrats. The move came right after official budget estimates showed the campaign has burned through over $38 billion in just five months. Even if the White House resists, the vote reveals deep weariness with another open-ended foreign quagmire.",
+      "why": "Washington's patience and cash for another Middle East fight are running dangerously thin, shaking the assumptions of allies who count on American firepower.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "u s house votes to halt funding for war on",
+      "date": "2026-09-16"
+    },
+    {
+      "headline": "Former Kosovo President gets 25 years for war crimes",
+      "summary": "An international court in The Hague sentenced former Kosovo President Hashim Tha\u00e7i to 25 years in prison for war crimes and murder during the 1990s war. His supporters view him as a freedom fighter and are furious, but the judges insisted that wartime atrocities cannot be brushed aside. It breaks a long-standing Western habit of shielding former wartime allies from serious accountability.",
+      "why": "It sends a blunt message that even Western-backed leaders cannot outrun their past, while threatening to reopen raw ethnic divides across the Balkans.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "former kosovo president gets 25 years for war crimes",
+      "date": "2026-09-16"
+    },
+    {
+      "headline": "Belarus frees political prisoners in deal with Washington",
+      "summary": "Belarus released 25 jailed activists and journalists after the U.S. agreed to lift economic sanctions on two major state-run companies. The swap came out of months of back-channel talks, with American diplomats hinting that hundreds more detainees could follow. Critics worry the deal rewards a strongman for using prisoners as bargaining chips, but families are simply thrilled to have their people home.",
+      "why": "It cracks open years of Western diplomatic isolation around Moscow's closest ally and proves sanctions are still powerful chips at the bargaining table.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "belarus frees political prisoners in deal with washington",
+      "date": "2026-09-16"
     }
   ]
 }
