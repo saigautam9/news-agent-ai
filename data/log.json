@@ -3419,6 +3419,16 @@
       "mode": "evening",
       "fp": "canada pivots toward europe as u s trade fights worsen",
       "date": "2026-09-15"
+    },
+    {
+      "headline": "United States officially confirms it has deployed weapons in Earth orbit",
+      "summary": "The Pentagon publicly admitted for the first time that the U.S. Space Force has active combat weapons circling the planet. Officials said these orbital weapons are built to defend American forces from enemy attacks, while China and Russia immediately warned against turning space into a battlefield.",
+      "why": "For decades, major powers kept space weapons quiet to avoid triggering a scramble in orbit. Admitting they are already stationed up there breaks that silence wide open. It changes orbit from a shared information highway into a recognized front line, drastically raising the danger of a clash between superpowers.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "united states officially confirms it has deployed weapons in earth",
+      "date": "2026-09-16"
     }
   ]
 }
