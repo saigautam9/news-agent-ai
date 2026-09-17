@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "High-Stakes Talks Attempt to Revive Stalled Gaza Peace Plan",
-      "summary": "US envoys are holding urgent meetings with Israeli leaders after engaging Hamas representatives over a stalled 15-point roadmap. Prime Minister Netanyahu rejected portions of the mediator proposal, demanding complete militant disarmament before any Israeli troop withdrawals. Meanwhile, hundreds of thousands of civilians remain trapped in dire humanitarian conditions with fragile relief pipelines.",
-      "why": "The negotiations decide whether millions of displaced people get long-term relief and stability or remain trapped in recurring war.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "high stakes talks attempt to revive stalled gaza peace plan",
-      "date": "2026-08-17"
-    },
-    {
-      "headline": "US and Iran Miss Deadline to Finalize Peace Deal",
-      "summary": "A 60-day negotiation window between the United States and Iran has expired without a lasting agreement [1.2.6]. Both sides remain locked in a tense standoff over naval blockades, sanctions relief, and shipping access in the Strait of Hormuz. Oil markets and international shipping lanes are bracing for renewed instability as the temporary truce wears thin.",
-      "why": "A breakdown in talks risks reigniting military clashes and disrupting a chokepoint that carries a huge slice of the world's oil supply.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us and iran miss deadline to finalize peace deal",
-      "date": "2026-08-17"
-    },
-    {
-      "headline": "Ebola Outbreak in Congo Becomes Country's Deadliest on Record",
-      "summary": "Health officials confirmed that the current Ebola outbreak in the Democratic Republic of the Congo has officially become the deadliest in the nation's history. Aid groups and medical workers are struggling against supply shortages and local conflict to isolate infections and treat patients. Neighboring countries are tightening border screening to keep the virus from spilling into major regional trade hubs.",
-      "why": "Uncontrolled spread risks overwhelming fragile health systems across Central Africa and sparking a wider international health emergency.",
-      "domain": "Health",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "ebola outbreak in congo becomes country s deadliest on record",
-      "date": "2026-08-17"
-    },
-    {
-      "headline": "Devastating Earthquake Leaves Thousands Homeless in Indonesia",
-      "summary": "A powerful earthquake has killed dozens of people and flattened communities across Indonesia, turning Independence Day into a disaster response effort. Landslides and cracked infrastructure are cutting off remote villages from clean water, medical aid, and emergency shelters. Local authorities fear the casualty count will rise as heavy machinery slowly reaches isolated areas.",
-      "why": "The destruction leaves thousands exposed to hunger and illness while threatening local economies that lack the resources to rebuild quickly.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "devastating earthquake leaves thousands homeless in indonesia",
-      "date": "2026-08-17"
-    },
-    {
-      "headline": "US Scales Back Military Drills with South Korea",
-      "summary": "Washington has ordered a major reduction in joint military exercises with South Korea to pursue fresh diplomatic overtures with North Korea. The sudden shift has startled defense officials in Seoul and raised questions about Washington's long-term security commitments. Analysts warn the move gives Pyongyang leverage without locking in any firm promises in return.",
-      "why": "It shakes the core defense foundation of East Asia and creates fresh doubt among key American allies about regional deterrence.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us scales back military drills with south korea",
-      "date": "2026-08-17"
-    },
-    {
       "headline": "US-Iran Peace Window Closes as Trump Threatens Military Action Against Oman",
       "summary": "A 60-day temporary peace agreement between the United States and Iran expired without a permanent deal to end their ongoing conflict. After Iran announced a separate shipping plan with Oman for the vital Strait of Hormuz, President Trump publicly threatened to bomb Oman if it gets in the way of US operations.",
       "why": "The diplomatic window to pause the war has officially collapsed, and threatening military strikes against a neutral mediator risks pulling new countries into the conflict and choking off global oil shipping.",
