@@ -3479,6 +3479,56 @@
       "mode": "evening",
       "fp": "drought forces fresh transit cuts through the panama canal",
       "date": "2026-09-16"
+    },
+    {
+      "headline": "U.S.-Iran Conflict Widens as Drones Downed and UN Cites War Crimes",
+      "summary": "Iranian forces shot down American military drones, marking another dangerous flashpoint in the ongoing conflict between both nations. At the same time, UN investigators reported finding evidence that earlier U.S. strikes hitting civilian sites inside Iran amounted to war crimes. With both sides trading blows, international diplomats are struggling to stop the feud from spiraling into an all-out regional inferno.",
+      "why": "When two heavily armed rivals start trading direct hits, it is like lighting matches next to open fuel tanks, threatening global stability and millions of lives.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "u s iran conflict widens as drones downed and un",
+      "date": "2026-09-17"
+    },
+    {
+      "headline": "Oil Nears $100 a Barrel as Middle East Energy Routes Are Struck",
+      "summary": "Global oil prices jumped toward $100 a barrel after strikes disrupted Saudi energy infrastructure and critical maritime shipping lanes. Analysts warn that gasoline prices at the pump will jump sharply in the coming weeks, undoing recent drops in the cost of living. Major shipping routes remain tangled, with financial markets now assuming high energy costs could persist well into next year.",
+      "why": "Expensive oil acts like an unavoidable tax on nearly everything, instantly raising the cost of heating homes, commuting to work, and buying groceries.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "oil nears 100 a barrel as middle east energy routes",
+      "date": "2026-09-17"
+    },
+    {
+      "headline": "Canada Leans Toward Europe as U.S. Trade Feud Explodes",
+      "summary": "Canada has opened talks to forge an unprecedented strategic alliance and possible associate ties with the European Union after trading retaliatory tariffs with Washington. President Trump slammed the move as a hostile act, while Canadian leaders insist they must diversify away from American trade pressure. The fight marks the sharpest economic breakdown between the two neighbors in modern memory.",
+      "why": "When the world's closest trade partners put up walls, it scrambles cross-border manufacturing and leaves ordinary consumers footing the bill.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "canada leans toward europe as u s trade feud explodes",
+      "date": "2026-09-17"
+    },
+    {
+      "headline": "Global Borrowing Costs Jump as Key Interest Rates Cross 5%",
+      "summary": "Benchmark government bond yields climbed past 5% this week as sticky inflation and rising national debt spooked financial markets. Central banks meeting this month are signaling that interest rates will have to stay higher for longer to cool down price pressures. Stock markets dipped as companies and consumers brace for another stretch of painful loan terms.",
+      "why": "When baseline borrowing rates stay this high, mortgages and business loans get much heavier, putting a direct squeeze on family budgets and job creation.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "global borrowing costs jump as key interest rates cross 5",
+      "date": "2026-09-17"
+    },
+    {
+      "headline": "AI Giants Clash with Washington Over Slowing Down Powerful Tech",
+      "summary": "Leaders of top artificial intelligence labs are urging governments to pump the brakes on next-generation systems, warning that runaway tech poses severe safety risks. The White House is pushing back hard, arguing that pausing development would simply surrender technological leadership to China. Lawmakers are now caught in a fierce debate over whether to mandate guardrails or keep racing at full speed.",
+      "why": "How countries handle this tug-of-war decides whether humanity establishes rules for machine intelligence or races blindly into an uncharted technological frontier.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "ai giants clash with washington over slowing down powerful tech",
+      "date": "2026-09-17"
     }
   ]
 }
