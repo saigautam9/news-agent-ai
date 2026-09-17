@@ -3529,6 +3529,56 @@
       "mode": "afternoon",
       "fp": "ai giants clash with washington over slowing down powerful tech",
       "date": "2026-09-17"
+    },
+    {
+      "headline": "Red Sea and Gulf Bottlenecks Send Oil Over $100",
+      "summary": "Houthi fighters captured key island positions near the Red Sea just as passage through the Strait of Hormuz remains crippled by the Iran war. The twin chokepoint crisis pushed global crude back above $100 a barrel and sent fuel costs spiking worldwide. With tankers stuck, China has directly urged Iran to help calm the waters to protect critical energy supplies.",
+      "why": "When the world's two biggest maritime toll gates lock up together, the price of every shipped good and tank of gas on Earth goes up.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "red sea and gulf bottlenecks send oil over 100",
+      "date": "2026-09-17"
+    },
+    {
+      "headline": "US Borrowing Costs Jump to Their Highest Level Since 2007",
+      "summary": "Surging oil prices and stubborn inflation triggered a massive sell-off in government debt this week. The 10-year US Treasury yield jumped to heights not seen in nearly two decades as investors braced for the Federal Reserve to keep interest rates high. The jump rippled through world stock markets and rattled sovereign debt worldwide.",
+      "why": "Government bond rates act like gravity for the entire economy, so when they climb, mortgages, business loans, and credit card payments become much harder to carry.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us borrowing costs jump to their highest level since 2007",
+      "date": "2026-09-17"
+    },
+    {
+      "headline": "Ukraine Strikes Russian Refineries as Energy Truce Crumbles",
+      "summary": "Ukrainian drones set fire to Russia's Syzran oil refinery, making it clear that a rumored ceasefire on energy targets does not exist. US President Donald Trump had publicly urged Kyiv to stop targeting Russian fuel plants because American diesel prices hit a record $6 a gallon. Both nations continue to trade long-range strikes against each other's power and fuel networks ahead of winter.",
+      "why": "Diesel is the workhorse fuel of the global economy, and taking big refineries off the board makes trucking food and heating homes far more expensive.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ukraine strikes russian refineries as energy truce crumbles",
+      "date": "2026-09-17"
+    },
+    {
+      "headline": "Tech Giants Call for AI Slowdown but Trump Pushes Ahead",
+      "summary": "Top tech leaders from OpenAI, Anthropic, and Tesla asked governments to tap the brakes on training frontier AI models over severe safety and security risks. President Trump brushed off the warning, arguing that slowing American development would simply hand the race to China. Lawmakers in Washington are now sharply divided over whether to impose strict guardrails or race ahead at full speed.",
+      "why": "This is a historic tug-of-war over who controls the speed limit on a technology that is reshaping the world's workforce and balance of power.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "tech giants call for ai slowdown but trump pushes ahead",
+      "date": "2026-09-17"
+    },
+    {
+      "headline": "India-Pakistan Warship Crash Alarms Nuclear Neighbors",
+      "summary": "An Indian naval vessel and a Pakistani navy ship collided near disputed maritime boundaries in the Arabian Sea. Pakistan accused the Indian ship of intruding into its exclusive economic waters, while India insisted the collision occurred strictly in international waters. Both navies have placed local forces on alert to prevent the maritime incident from spiraling further.",
+      "why": "When two rival nuclear powers bump into each other in contested waters, a single misunderstanding can quickly turn into a major military confrontation.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "india pakistan warship crash alarms nuclear neighbors",
+      "date": "2026-09-17"
     }
   ]
 }
