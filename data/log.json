@@ -3519,6 +3519,56 @@
       "mode": "evening",
       "fp": "india pakistan warship crash alarms nuclear neighbors",
       "date": "2026-09-17"
+    },
+    {
+      "headline": "Oil breaks $100 as Middle East shipping corridors squeeze tight",
+      "summary": "Tanker traffic through key waterways like the Strait of Hormuz and the Bab el-Mandeb is slowing to a crawl following military skirmishes and strikes on commercial vessels. Even with naval patrols trying to protect trade lanes, nervous shippers are taking long detours or waiting in port. That choke on the world's fuel pipe has driven crude oil past $100 a barrel.",
+      "why": "When oil spikes this high, it acts like a hidden tax on everyone, pushing up the price of groceries, travel, and home heating.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "oil breaks 100 as middle east shipping corridors squeeze tight",
+      "date": "2026-09-18"
+    },
+    {
+      "headline": "NATO pledges deeper arms pipeline as Russian strikes edge near borders",
+      "summary": "After fresh Russian airstrikes landed near allied borders, NATO members agreed to send larger, faster shipments of military supplies into Ukraine. European capitals worry that one stray missile could easily spark a wider regional war. Neither camp is stepping back, turning the frontier into an increasingly volatile standoff.",
+      "why": "Every strike this close to allied borders raises the odds of a single mistake dragging nuclear-armed nations into direct conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "nato pledges deeper arms pipeline as russian strikes edge near",
+      "date": "2026-09-18"
+    },
+    {
+      "headline": "Tech rift widens as US tightens AI barriers against China",
+      "summary": "Washington and Western tech leaders are pushing harder rules to stop cutting-edge artificial intelligence and high-end computing gear from flowing into China. Beijing argues the curbs are an economic blockade designed to keep competitors down, while Western officials call them essential defense measures. The dispute is slicing modern technology into two separate halves.",
+      "why": "Splitting global tech into rival camps slows worldwide innovation and forces smaller nations to choose a digital master.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "tech rift widens as us tightens ai barriers against china",
+      "date": "2026-09-18"
+    },
+    {
+      "headline": "Rebuilding remains frozen in Gaza as diplomatic fight moves to the UN",
+      "summary": "Long after fighting leveled vast stretches of Gaza, reconstruction remains largely frozen due to strict border controls and funding logjams. Millions are stuck living in makeshift camps and crumbling ruins with little hope of schools or hospitals reopening soon. At the same time, diplomatic spats over official visas and aid access are spilling onto the floor of the UN General Assembly.",
+      "why": "Leaving an entire population trapped in rubble creates an enduring humanitarian tragedy and guarantees future unrest.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "rebuilding remains frozen in gaza as diplomatic fight moves to",
+      "date": "2026-09-18"
+    },
+    {
+      "headline": "US tariff friction pushes close allies to seek new trade alliances",
+      "summary": "Fresh rounds of tariffs and trade disputes are testing Washington's economic partnerships across Europe and the Americas. Key partners, including Canada under Mark Carney, are actively courting alternative foreign investors to cushion the blow. Nations are racing to protect local jobs from sudden policy whiplash across American borders.",
+      "why": "Breaking up long-standing supply chains makes everyday goods pricier and slows down global business growth.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "us tariff friction pushes close allies to seek new trade",
+      "date": "2026-09-18"
     }
   ]
 }
