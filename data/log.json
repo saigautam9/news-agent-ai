@@ -1,66 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US-Iran Peace Window Closes as Trump Threatens Military Action Against Oman",
-      "summary": "A 60-day temporary peace agreement between the United States and Iran expired without a permanent deal to end their ongoing conflict. After Iran announced a separate shipping plan with Oman for the vital Strait of Hormuz, President Trump publicly threatened to bomb Oman if it gets in the way of US operations.",
-      "why": "The diplomatic window to pause the war has officially collapsed, and threatening military strikes against a neutral mediator risks pulling new countries into the conflict and choking off global oil shipping.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us iran peace window closes as trump threatens military action",
-      "date": "2026-08-18"
-    },
-    {
-      "headline": "Persian Gulf Shipping Under Fire as Iran Conflict Spreads",
-      "summary": "A cargo ship was struck in the Strait of Hormuz, killing a crew member, while the United Arab Emirates detected incoming missiles fired from Iran [1.1.7]. Commercial traffic through the world's busiest oil choke point is facing severe disruption as regional fighting widens. Insurance rates for ships are spiking, and global energy markets are bracing for transport bottlenecks.",
-      "why": "When the world's primary oil highway gets blocked, everyday fuel, energy, and grocery prices rise across the globe.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "persian gulf shipping under fire as iran conflict spreads",
-      "date": "2026-08-18"
-    },
-    {
-      "headline": "Ukraine Swarms Moscow with Drones as Russia Warns Britain",
-      "summary": "Ukraine launched a massive swarm of attack drones deep into the Moscow region, damaging commercial and logistics facilities. In response, Russia pounded targets in eastern Ukraine and warned the United Kingdom it would face consequences for supplying long-range strike drones. The exchange marks a sharp push by Kyiv to bring the war directly to the Russian capital.",
-      "why": "Strikes deep inside Russian territory push European allies closer to a direct confrontation with Moscow.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "ukraine swarms moscow with drones as russia warns britain",
-      "date": "2026-08-18"
-    },
-    {
-      "headline": "Deadly Earthquakes Batter Colombia and Indonesia",
-      "summary": "A magnitude-7.4 earthquake ripped through Colombia's Pacific coast, killing nearly 300 people and causing roughly $10 billion in damage. The disaster closely follows a magnitude-7.7 quake off the coast of Flores, Indonesia, which left dozens dead. Emergency workers in both countries are struggling to reach remote towns cut off by landslides and collapsed bridges.",
-      "why": "Disasters on this scale wipe out entire local economies and displace hundreds of thousands of vulnerable people for years.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "deadly earthquakes batter colombia and indonesia",
-      "date": "2026-08-18"
-    },
-    {
-      "headline": "South Korea Reassesses Defense as US Scales Back Drills",
-      "summary": "South Korea's leadership is preparing for a worst-case security scenario after the US scaled back joint military drills and tied defense guarantees to trade disputes. Seoul is now taking steps to take greater independent control over its military operations. The shift comes as Washington shifts its diplomatic focus back toward direct talks with North Korea.",
-      "why": "A weaker US security umbrella in Asia could trigger a regional arms race and push allies to develop their own deterrents.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "south korea reassesses defense as us scales back drills",
-      "date": "2026-08-18"
-    },
-    {
-      "headline": "US Scraps Protections for Old-Growth National Forests",
-      "summary": "The US government began rolling back federal rules that shielded ancient, old-growth forests from commercial logging. Supporters say the change will create timber jobs and boost rural economies, while conservationists warn it will destroy vital wildlife habitats. The move opens up millions of acres of public woodland to commercial harvesting.",
-      "why": "Clearing centuries-old forests destroys nature's best carbon vaults and natural defenses against catastrophic wildfires.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us scraps protections for old growth national forests",
-      "date": "2026-08-18"
-    },
-    {
       "headline": "Standoff in the Strait of Hormuz threatens global oil flow",
       "summary": "Tensions in the Persian Gulf worsened after another cargo vessel was attacked near the Omani coast and regional defenses intercepted incoming missiles [1.1.7]. The US Navy is running escort operations to keep tankers moving through the narrow waterway, while neighboring states weigh economic sanctions. Energy markets are watching closely because a fifth of the world's daily oil supply moves through this single passage.",
       "why": "If this shipping lane gets choked off, global fuel prices will spike almost immediately and drive up the cost of living everywhere.",
