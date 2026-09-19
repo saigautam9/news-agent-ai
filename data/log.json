@@ -3569,6 +3569,26 @@
       "mode": "morning",
       "fp": "white house shuts out media outlets as midterm voting begins",
       "date": "2026-09-19"
+    },
+    {
+      "headline": "US and Denmark Strike Security Pact Over Greenland",
+      "summary": "The US and Denmark agreed on a deal giving Washington permanent security rights and larger military bases in Greenland, while leaving formal sovereignty with Denmark.",
+      "why": "Think of it like getting the permanent keys to guard someone's front yard. It reshapes Arctic defense, locks rivals like China and Russia out of strategic territory, and diffuses a bitter feud between NATO allies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us and denmark strike security pact over greenland",
+      "date": "2026-09-19"
+    },
+    {
+      "headline": "Strikes Near Riyadh Airport and Hormuz Tanker Hits Escalate Regional War",
+      "summary": "Fires and smoke broke out near Riyadh's international airport, triggering major flight delays, while two commercial oil tankers were struck in the Strait of Hormuz.",
+      "why": "Hitting a capital city's primary airport and choking the world's most critical oil transit route is a sharp jump in military escalation that risks an all-out regional explosion and severe energy shocks.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "strikes near riyadh airport and hormuz tanker hits escalate regional",
+      "date": "2026-09-19"
     }
   ]
 }
