@@ -3519,6 +3519,56 @@
       "mode": "morning",
       "fp": "us tariff friction pushes close allies to seek new trade",
       "date": "2026-09-18"
+    },
+    {
+      "headline": "US Confirms Armed Weapons Are Circling in Earth's Orbit",
+      "summary": "The US military admitted for the first time that it has active, combat-ready weapons deployed in orbit. China and Russia immediately cried foul, warning that Washington is turning space into a shooting range. The decades-old unwritten rule to keep space peaceful has essentially vanished overnight.",
+      "why": "If orbital combat knocks out satellites, everyday life\u2014from the maps on your phone to global financial networks\u2014could suddenly go dark.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us confirms armed weapons are circling in earth s orbit",
+      "date": "2026-09-19"
+    },
+    {
+      "headline": "Middle East Warfare Flares as Saudi Pipeline Closes",
+      "summary": "Spreading combat across the region and clashes involving Iran and Yemen have pushed energy corridors to the brink, forcing Saudi Arabia to shut down key oil pipelines. Global crude prices jumped sharply as markets panicked over disrupted supply routes. Regional leaders and global powers are scrambling to keep the confrontation from blowing into an all-out global energy crisis.",
+      "why": "When oil flow stops in the Gulf, it acts like a sudden tax hike on every driver and grocery shopper in the world.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "middle east warfare flares as saudi pipeline closes",
+      "date": "2026-09-19"
+    },
+    {
+      "headline": "AI Chiefs Urge Slowdown as Governments Scramble for Control",
+      "summary": "Top tech rivals took the rare step of asking governments to hit the brakes on training more advanced artificial intelligence systems over weapon risks. Politicians are fiercely debating emergency guardrails, but rival nations like China rejected the warnings as a ploy to slow them down. It has set off an intense struggle between public safety and military dominance.",
+      "why": "Trying to pause AI development right now is like trying to install seatbelts while every country is racing to build faster sports cars.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "ai chiefs urge slowdown as governments scramble for control",
+      "date": "2026-09-19"
+    },
+    {
+      "headline": "Super El Ni\u00f1o Breaches Dangerous Two-Degree Threshold",
+      "summary": "Global weather agencies announced that the Pacific Ocean has crossed the extreme two-degree warming mark, triggering an official Super El Ni\u00f1o. The monster system is already driving erratic storms and intense droughts across multiple continents. Farmers from South America to Southeast Asia are bracing for sharp drops in crop harvests over the coming seasons.",
+      "why": "When weather superstorms wipe out staple crops worldwide, food supplies shrink and grocery bills spike for everyday families.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "super el ni o breaches dangerous two degree threshold",
+      "date": "2026-09-19"
+    },
+    {
+      "headline": "White House Shuts Out Media Outlets as Midterm Voting Begins",
+      "summary": "The Trump administration barred several legacy news outlets from White House briefings, citing biased reporting and sparking swift legal and constitutional challenges. The confrontation arrives right as the very first voters cast ballots in Virginia for the midterm elections. Critics warn the clampdown chips away at democratic oversight during a pivotal political race.",
+      "why": "When a government gets to pick and choose who can ask it questions, citizens lose the clear mirror they need to judge their own leaders.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "white house shuts out media outlets as midterm voting begins",
+      "date": "2026-09-19"
     }
   ]
 }
