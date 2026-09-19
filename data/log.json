@@ -3589,6 +3589,56 @@
       "mode": "monitor",
       "fp": "strikes near riyadh airport and hormuz tanker hits escalate regional",
       "date": "2026-09-19"
+    },
+    {
+      "headline": "Israeli Troops Push Forward into Southern Lebanon",
+      "summary": "Israeli forces shelled border villages and pushed into southern Lebanon, prompting a tense standoff with Lebanese troops. Explosions damaged local towns and left several people wounded, threatening to expand ground hostilities beyond recent limits. Both sides remain locked in a dangerous confrontation that could ignite a wider regional conflict.",
+      "why": "Heavier ground fighting puts thousands of civilians in harm's way and risks pulling national armies into open war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "israeli troops push forward into southern lebanon",
+      "date": "2026-09-19"
+    },
+    {
+      "headline": "US Law Threatens 100% Tariffs on Russian Oil Buyers",
+      "summary": "President Donald Trump signed a sweeping sanctions law aimed at choking off funding for Russia's war in Ukraine. The bill allows the US to slap tariffs as high as 100% on goods from top buyers of Russian crude, taking direct aim at giants like India and China. While Kyiv celebrated the move, trade experts worry about sudden economic shockwaves.",
+      "why": "If Washington uses this weapon, it could disrupt world energy flows and drive up the price of fuel and everyday goods everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us law threatens 100 tariffs on russian oil buyers",
+      "date": "2026-09-19"
+    },
+    {
+      "headline": "US Reaches Arctic Security Deal Over Greenland",
+      "summary": "The US, Denmark, and Greenland struck an agreement giving the American military deeper security control over the island while locking out Russian and Chinese investments. Danish officials made clear that Greenland is not ceding its sovereignty, but the pact lets the Pentagon expand its Arctic footprint. It turns the northern territory into a fortified buffer against foreign rivals.",
+      "why": "As polar ice melts, control over Greenland secures critical future shipping lanes and rich deposits of strategic minerals.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us reaches arctic security deal over greenland",
+      "date": "2026-09-19"
+    },
+    {
+      "headline": "Saudi-Led Fleet Prepares to Guard Red Sea Shipping",
+      "summary": "A 14-country naval alliance led by Saudi Arabia has readied its forces to patrol vital choke points in the Red Sea and Bab al-Mandeb Strait. The coalition brings together regional partners like Pakistan and Turkey to shield commercial tankers from rebel attacks. Think of it as a neighborhood watch on water, trying to keep sea lanes safe and traffic moving.",
+      "why": "Keeping this waterway open is critical because long shipping detours around Africa make almost everything we buy more expensive.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "saudi led fleet prepares to guard red sea shipping",
+      "date": "2026-09-19"
+    },
+    {
+      "headline": "Federal Court Halts Plan to Deport Migrants to Third Countries",
+      "summary": "A US federal court blocked a White House policy that sought to deport asylum seekers to third-party countries where they have no personal ties. The judge ruled that migrants must have a chance to show whether being sent to an unfamiliar country puts their lives in danger. The ruling acts as an emergency brake on executive immigration powers.",
+      "why": "It directly affects the safety of thousands of asylum seekers and reinforces legal limits on presidential authority.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "federal court halts plan to deport migrants to third countries",
+      "date": "2026-09-19"
     }
   ]
 }
