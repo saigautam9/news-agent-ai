@@ -3639,6 +3639,56 @@
       "mode": "afternoon",
       "fp": "federal court halts plan to deport migrants to third countries",
       "date": "2026-09-19"
+    },
+    {
+      "headline": "US passes harsh penalties on buyers of Russian oil",
+      "summary": "President Trump signed a major bipartisan sanctions bill into law targeting Russia and Iran [2.2.1]. The new rules allow Washington to place tariffs as high as 100 percent on major nations like China and India that purchase Russian crude. It is like threatening to shut your storefront to anyone who shops at your rival's market.",
+      "why": "If enforced against giants like India and China, these penalties could shatter global trade partnerships and send energy prices soaring.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us passes harsh penalties on buyers of russian oil",
+      "date": "2026-09-19"
+    },
+    {
+      "headline": "Russia steps up strikes on Ukrainian rail networks and sea routes",
+      "summary": "Russian forces launched a wave of over 170 drones and advanced missiles targeting Ukraine's transportation system and Black Sea cargo vessels. The strikes specifically aimed to cripple trains and port terminals that keep civilian transport and trade alive. Damaging these lines is like cutting off the main highways that keep food, power, and medical aid moving.",
+      "why": "Choking Ukraine's rail and maritime transport threatens to paralyze its domestic economy and disrupt international grain supplies.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "russia steps up strikes on ukrainian rail networks and sea",
+      "date": "2026-09-19"
+    },
+    {
+      "headline": "Persian Gulf conflict keeps global energy routes on edge",
+      "summary": "Ongoing military clashes between the US, its allies, and Iran continue to threaten regional stability and shipping lanes. Exchanges involving drones and missiles have hit military sites and commercial tankers around key waterways. Think of the Persian Gulf as the world's primary fuel line, where any spark risks shutting down the pump.",
+      "why": "Escalation directly jeopardizes international oil supplies, which affects the price of everything from gas to groceries worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "persian gulf conflict keeps global energy routes on edge",
+      "date": "2026-09-19"
+    },
+    {
+      "headline": "Trump and Xi set to meet for high-stakes Washington talks",
+      "summary": "Chinese President Xi Jinping travels to Washington next week for face-to-face negotiations with Donald Trump. Their agenda covers heavy topics, including competition over artificial intelligence, fentanyl precursor bans, and looming trade tariffs. It is like the two biggest rival companies sitting down to negotiate terms before an all-out price war.",
+      "why": "How these two leaders handle trade and technology will steer the global economy and dictate where goods are made for years to come.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "trump and xi set to meet for high stakes washington",
+      "date": "2026-09-19"
+    },
+    {
+      "headline": "Cuba plunged into darkness after another total grid failure",
+      "summary": "Cuba suffered another nationwide blackout that shut off power across most of the island, including Havana. Officials blamed damaged transmission equipment and severe fuel shortages deepened by US energy restrictions. When the power drops out completely, everyday life freezes: tap water stops flowing, and food rots in warm refrigerators.",
+      "why": "Six major blackouts in one year show a nation running out of fuel and equipment, pushing millions toward a humanitarian breaking point.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "cuba plunged into darkness after another total grid failure",
+      "date": "2026-09-19"
     }
   ]
 }
