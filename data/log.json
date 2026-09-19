@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Standoff in the Strait of Hormuz threatens global oil flow",
-      "summary": "Tensions in the Persian Gulf worsened after another cargo vessel was attacked near the Omani coast and regional defenses intercepted incoming missiles [1.1.7]. The US Navy is running escort operations to keep tankers moving through the narrow waterway, while neighboring states weigh economic sanctions. Energy markets are watching closely because a fifth of the world's daily oil supply moves through this single passage.",
-      "why": "If this shipping lane gets choked off, global fuel prices will spike almost immediately and drive up the cost of living everywhere.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "standoff in the strait of hormuz threatens global oil flow",
-      "date": "2026-08-19"
-    },
-    {
-      "headline": "mRNA skin cancer vaccine clears major clinical milestone",
-      "summary": "A late-stage trial showed that an mRNA vaccine from Moderna and Merck significantly cuts the risk of melanoma returning in high-risk patients. The shot trains a person's immune system like a targeted search dog, teaching white blood cells to hunt down hidden tumor cells before they grow back. Doctors see this as a breakthrough that could soon be adapted to fight other stubborn cancers.",
-      "why": "This brings medicine one step closer to turning aggressive, deadly cancers into preventable and treatable conditions.",
-      "domain": "Health",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "mrna skin cancer vaccine clears major clinical milestone",
-      "date": "2026-08-19"
-    },
-    {
-      "headline": "Russia and Western allies lock horns over long-range weapons",
-      "summary": "Britain pledged to maintain defense aid to Ukraine despite Moscow issuing fresh warnings of direct retaliation over long-range drone strikes inside Russian borders. Meanwhile, missile strikes continue to pound infrastructure across eastern Europe, and European police arrested a second suspect in the Nord Stream sabotage. Both camps are digging in, showing no appetite for a freeze in the conflict.",
-      "why": "Deeper strikes and direct warnings push NATO allies and Russia closer to a direct military confrontation.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "russia and western allies lock horns over long range weapons",
-      "date": "2026-08-19"
-    },
-    {
-      "headline": "Deadly strikes in Gaza as regional peace talks stall",
-      "summary": "New air strikes hit crowded refugee zones and administrative centers in Gaza as international ceasefire talks failed to produce an agreement. Aid agencies warn that food and medical networks are collapsing under renewed bombardment and supply blockades. At the same time, skirmishes along neighboring borders keep the wider Middle East on a knife's edge.",
-      "why": "A prolonged diplomatic breakdown leaves millions of civilians without safety and keeps the threat of an all-out regional war alive.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "deadly strikes in gaza as regional peace talks stall",
-      "date": "2026-08-19"
-    },
-    {
-      "headline": "US and Canada agree on trade deal to avert tariffs",
-      "summary": "Washington and Ottawa reached a last-minute trade compromise that halts threatened cross-border import taxes. The agreement protects duty-free access for major agricultural goods and industrial parts, while reigniting talks on cross-border energy projects. Both sides stepped back from the brink of a trade fight that would have tangled billions of dollars in daily commerce.",
-      "why": "Avoiding a tariff war keeps everyday grocery and manufacturing costs from jumping for consumers across North America.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "us and canada agree on trade deal to avert tariffs",
-      "date": "2026-08-19"
-    },
-    {
       "headline": "US national debt climbs past $40 trillion",
       "summary": "America's total federal debt has doubled in less than a decade, driven by tax cuts, big relief packages, and steep interest rates. Critics on one side argue public investment is needed to keep the economy afloat, while fiscal hawks warn the government is drowning in its own tab. It works like carrying a maxed-out credit card into a storm \u2014 paying just the monthly interest eats up money meant for schools, roads, and healthcare.",
       "why": "Higher borrowing costs in the world's largest economy pull money away from public services and push interest rates up globally.",
