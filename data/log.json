@@ -3679,6 +3679,56 @@
       "mode": "monitor",
       "fp": "ukraine hits moscow with largest drone barrage of the war",
       "date": "2026-09-20"
+    },
+    {
+      "headline": "Ukraine Hits Moscow with Its Largest Drone Attack",
+      "summary": "Ukraine launched over a thousand drones deep into Russia, aiming hundreds at Moscow during the final day of Russia's parliamentary voting. Strikes set fire to Moscow's main oil refinery, killing at least two people and disrupting regional fuel supplies. Kyiv relied on domestically built drones and cruise missiles to demonstrate that it can strike the heart of Russia's economy.",
+      "why": "The attack proves cheap, long-range drones can bypass heavy defenses to cripple critical energy infrastructure inside a nuclear power's capital.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ukraine hits moscow with its largest drone attack",
+      "date": "2026-09-20"
+    },
+    {
+      "headline": "US-Iran Tanker Strikes Threaten Global Energy Supplies",
+      "summary": "The US and Iran stepped up attacks on each other's oil tankers in the Persian Gulf, sending crude oil prices surging toward 100 dollars a barrel. The strikes have disrupted critical maritime trade lanes that carry a big slice of the world's fuel. It is like two neighbors throwing rocks at each other's delivery trucks, leaving the whole block short on supplies.",
+      "why": "Choking off Gulf oil routes quickly raises the price of gasoline, heating, and everyday goods around the world.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us iran tanker strikes threaten global energy supplies",
+      "date": "2026-09-20"
+    },
+    {
+      "headline": "The Federal Reserve Defies the White House and Raises Rates",
+      "summary": "The Federal Reserve raised its benchmark interest rate to fight stubborn inflation driven by higher fuel costs, brushing off demands from President Trump for immediate cuts. Fed Chair Kevin Warsh warned that borrowing costs might climb even higher if prices do not settle down. The central bank is essentially tapping the brakes on the economy, even as political pressure mounts to hit the gas.",
+      "why": "Higher rates make everyday borrowing for homes, cars, and credit cards more expensive while testing whether the Fed can stay truly independent.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "the federal reserve defies the white house and raises rates",
+      "date": "2026-09-20"
+    },
+    {
+      "headline": "The United States Confirms It Put Weapons in Space",
+      "summary": "The Pentagon confirmed publicly for the first time that the military operates active weapons in Earth orbit to protect American satellites. Defense leaders said the disclosure is designed to deter aggression from China and Russia, while both rival nations warned the move will spark an orbital arms race. Space is no longer just a lookout post for watching enemies, but an active battleground.",
+      "why": "Turning Earth orbit into an armed conflict zone risks the commercial and military satellites that power global navigation, banking, and communications for millions of people. ",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "the united states confirms it put weapons in space",
+      "date": "2026-09-20"
+    },
+    {
+      "headline": "Far-Right Electoral Surge Shakes Germany's Government",
+      "summary": "The far-right Alternative for Germany party scored a historic victory in the state of Mecklenburg-Western Pomerania, while Chancellor Friedrich Merz's ruling conservatives collapsed to five percent of the vote. Merz called the outcome a disaster but vowed to remain in power and push through painful economic reforms. German voters are increasingly abandoning mainstream parties over high living costs and immigration.",
+      "why": "Political paralysis in Europe's largest economy weakens the entire European Union at a moment when it faces severe economic and security strain.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "far right electoral surge shakes germany s government",
+      "date": "2026-09-20"
     }
   ]
 }
