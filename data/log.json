@@ -3549,6 +3549,26 @@
       "mode": "monitor",
       "fp": "yemen s houthis launch missile and drone strikes on riyadh",
       "date": "2026-09-20"
+    },
+    {
+      "headline": "Ukraine launches record 1,000-drone wave targeting Moscow",
+      "summary": "Ukraine fired over 1,000 drones into Russia overnight, sending hundreds straight toward Moscow. Russian officials called it the biggest drone assault on the capital to date, reporting damage to an oil refinery and homes while parliamentary voting wrapped up.",
+      "why": "It marks a sharp military escalation. Hitting the heart of Russia's capital at this scale shows Ukraine can now overwhelm air defenses deep behind the front line.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "ukraine launches record 1 000 drone wave targeting moscow",
+      "date": "2026-09-20"
+    },
+    {
+      "headline": "Houthis target Saudi capital Riyadh in ballistic missile assault",
+      "summary": "Yemen's Houthi forces fired ballistic missiles and drones at Riyadh and oil facilities in Yanbu. Saudi air defenses intercepted incoming fire, but smoke rose near Riyadh's international airport, flights ground to a halt, and Washington warned of rapid regional escalation.",
+      "why": "This is a direct military escalation against the Saudi capital. Striking Riyadh's doorstep shatters Gulf calm and threatens to pull Saudi Arabia back into heavy open combat.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "houthis target saudi capital riyadh in ballistic missile assault",
+      "date": "2026-09-20"
     }
   ]
 }
