@@ -3669,6 +3669,16 @@
       "mode": "afternoon",
       "fp": "race tightens to break china s lock on rare earth",
       "date": "2026-09-20"
+    },
+    {
+      "headline": "Ukraine hits Moscow with largest drone barrage of the war, setting major refinery ablaze",
+      "summary": "Ukraine launched over 1,000 drones and cruise missiles deep into Russia, with hundreds targeted directly at Moscow. The strikes hit the Gazpromneft Moscow Oil Refinery\u2014a crucial fuel supplier for the capital\u2014sparking massive fires and grounding flights at all major Moscow airports just as Russia concluded parliamentary elections.",
+      "why": "This represents a sharp military escalation. Striking the capital's central energy infrastructure at an unprecedented volume brings the war directly to Russia's political core and threatens Moscow's daily fuel supplies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "ukraine hits moscow with largest drone barrage of the war",
+      "date": "2026-09-20"
     }
   ]
 }
