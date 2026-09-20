@@ -3569,6 +3569,56 @@
       "mode": "monitor",
       "fp": "houthis target saudi capital riyadh in ballistic missile assault",
       "date": "2026-09-20"
+    },
+    {
+      "headline": "Middle East Conflict Drives Oil Past $100 After Missile Hits Saudi Fuel Depot",
+      "summary": "Yemen's Houthis launched a ballistic missile attack that ignited a major fuel depot near Riyadh's airport, sharply escalating tensions across the Gulf. The strike coincides with direct military friction between the United States and Iran, prompting Turkey to offer Saudi Arabia defense support. Global crude oil prices jumped past $100 per barrel as shipping lanes in the region faced growing threats.",
+      "why": "High oil prices act like a hidden tax on everyone, quickly driving up the cost of everyday groceries, transport, and electricity worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "middle east conflict drives oil past 100 after missile hits",
+      "date": "2026-09-20"
+    },
+    {
+      "headline": "Ukraine Launches 1,000-Drone Swarm Into Russia as US Approves Air Defenses",
+      "summary": "Ukraine carried out its largest automated air assault yet, firing about 1,000 long-range drones into Russian territory, including strikes reaching the capital, Moscow. The attack caused casualties and knocked out local infrastructure, while Washington greenlit a new $2.7 billion air defense sale to Kyiv. The conflict is increasingly moving beyond trench lines into deep, industrial-scale drone warfare.",
+      "why": "It marks a turning point where cheap, mass-produced robotic weapons can consistently hit critical assets thousands of miles away from any traditional battlefield.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "ukraine launches 1 000 drone swarm into russia as us",
+      "date": "2026-09-20"
+    },
+    {
+      "headline": "DR Congo Rolls Out Emergency Vaccines to Fight Record Ebola Outbreak",
+      "summary": "Health workers in eastern Democratic Republic of the Congo began receiving emergency vaccines to stem the fastest-spreading Ebola epidemic on record. The outbreak has already infected more than 7,400 people and killed over 3,600 across seven provinces. Because this outbreak is driven by the less common Bundibugyo strain, doctors are racing to see if existing vaccines will protect frontline workers.",
+      "why": "Without an approved cure for this specific virus strain, letting it spread unchecked risks sparking a runaway public health emergency across Central Africa and beyond.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "dr congo rolls out emergency vaccines to fight record ebola",
+      "date": "2026-09-20"
+    },
+    {
+      "headline": "Cuba Plunges Into Darkness in Seventh Total Grid Collapse This Year",
+      "summary": "Cuba suffered another nationwide blackout that left roughly 10 million citizens without electricity, running water, or refrigeration. The breakdown was caused by failing high-voltage lines on an already crumbling grid, starved of fuel amid a tight US energy embargo. By Sunday, power crews had only managed to restore electricity to pockets of Havana and emergency centers.",
+      "why": "When a country's power grid repeatedly turns off like a blown fuse, hospitals cannot run safely and millions of families watch their scarce food spoil.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "cuba plunges into darkness in seventh total grid collapse this",
+      "date": "2026-09-20"
+    },
+    {
+      "headline": "US Reaches Greenland Security Agreement, Shifting Control of the Arctic",
+      "summary": "The United States announced a security agreement to secure permanent military and strategic access in Greenland after intense diplomatic pressure. Leaders in Greenland and Denmark expressed cautious optimism about local economic guarantees, but critics worry about the island's long-term independence. The deal is aimed at securing rare minerals and vital Arctic sealanes against rival powers.",
+      "why": "As polar ice recedes, the race to control Arctic trade routes and raw materials will shape global geopolitical power for decades.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us reaches greenland security agreement shifting control of the arctic",
+      "date": "2026-09-20"
     }
   ]
 }
