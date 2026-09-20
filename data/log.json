@@ -3619,6 +3619,56 @@
       "mode": "morning",
       "fp": "us reaches greenland security agreement shifting control of the arctic",
       "date": "2026-09-20"
+    },
+    {
+      "headline": "Ukraine hits Moscow oil refinery in record drone swarm",
+      "summary": "Ukraine launched over 1,000 drones and missiles across Russia overnight, hitting a major oil refinery right outside Moscow. Local officials reported fires, airport disruption, and several casualties in the capital region. It worked like an aerial swarm designed to punch through defense nets and choke Russia's fuel reserves.",
+      "why": "Knocking out domestic refineries directly drains the fuel and cash Moscow needs to keep its war machine running.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ukraine hits moscow oil refinery in record drone swarm",
+      "date": "2026-09-20"
+    },
+    {
+      "headline": "Houthi missile sparks fuel blaze near Riyadh airport",
+      "summary": "Yemen's Houthi forces fired ballistic missiles and drones into Saudi Arabia, causing a fire at an Aramco fuel depot near Riyadh's airport. Saudi air defenses intercepted several incoming warheads, but falling debris still disrupted flights and shook the capital. The strike brings the wider regional conflict right back to the doorsteps of Gulf energy infrastructure.",
+      "why": "Spreading the conflict into Gulf energy hubs risks spiking global fuel costs and dragging major regional powers back into open war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "houthi missile sparks fuel blaze near riyadh airport",
+      "date": "2026-09-20"
+    },
+    {
+      "headline": "Pentagon weighs pulling one-third of U.S. troops from Europe",
+      "summary": "The Pentagon is studying proposals to withdraw between 25,000 and 40,000 U.S. troops from bases across Europe, especially in Germany, Italy, and Spain. Washington wants European nations to shoulder their own defense bills instead of relying on American security guarantees. European allies warn that rolling back the American umbrella right now could leave the continent dangerously vulnerable.",
+      "why": "This would mark the biggest shakeup of Western security since the Cold War and force Europe to rapidly build its own defense system.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "pentagon weighs pulling one third of u s troops from",
+      "date": "2026-09-20"
+    },
+    {
+      "headline": "North Korea fires ballistic missiles in quick double test",
+      "summary": "North Korea launched two ballistic missiles into the sea off its east coast within just three hours. Neighboring militaries tracked the high-speed tests, which came alongside ramped-up rhetoric directed at Washington. Pyongyang is using a distracted world to quietly test and sharpen its missile systems without major pushback.",
+      "why": "Accelerating missile tests in East Asia raises the chance that a single miscalculation sparks a regional military crisis.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "north korea fires ballistic missiles in quick double test",
+      "date": "2026-09-20"
+    },
+    {
+      "headline": "Race tightens to break China's lock on rare earth metals",
+      "summary": "Western nations and mineral producers are accelerating deals to build supply chains for rare earth elements outside of China. Beijing currently refines the vast majority of the specialized metals required for microchips, electric motors, and advanced defense gear. Treating these minerals like the new crude oil, governments are trying to build backups before export bottlenecks hit.",
+      "why": "Whoever controls the processing of these metals effectively holds the off switch for next-generation technology and clean energy manufacturing.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "race tightens to break china s lock on rare earth",
+      "date": "2026-09-20"
     }
   ]
 }
