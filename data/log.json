@@ -1,156 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US national debt climbs past $40 trillion",
-      "summary": "America's total federal debt has doubled in less than a decade, driven by tax cuts, big relief packages, and steep interest rates. Critics on one side argue public investment is needed to keep the economy afloat, while fiscal hawks warn the government is drowning in its own tab. It works like carrying a maxed-out credit card into a storm \u2014 paying just the monthly interest eats up money meant for schools, roads, and healthcare.",
-      "why": "Higher borrowing costs in the world's largest economy pull money away from public services and push interest rates up globally.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us national debt climbs past 40 trillion",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "Massive Russian strikes hit Kyiv power grid and civilian areas",
-      "summary": "Russia launched one of its heaviest missile barrages in months against Kyiv and regional centers, killing civilians and damaging energy infrastructure. Moscow claims it aimed at military support targets, while Ukrainian officials and Western allies call it a deliberate attempt to freeze the population. This barrage lands right as Kyiv reshuffles top officials to crack down on internal corruption and keep troops supplied.",
-      "why": "Knocking out basic utilities before winter threatens millions of lives and tests whether foreign allies can sustain basic support for Ukraine.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "massive russian strikes hit kyiv power grid and civilian areas",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "US tightens economic squeeze on Iran amid Gulf standoff",
-      "summary": "Washington launched a sweeping new campaign to cut off Iran's remaining trade and financial lifelines after nuclear diplomacy stalled [1.2.2]. The White House sees this as a non-military way to force Tehran to the table, but Gulf neighbors worry it could trigger retaliatory strikes on shipping lanes. It is like tightening the lid on a boiling pot, with energy markets bracing for steam to blow out elsewhere.",
-      "why": "Any disruption to Gulf trade and fuel routes immediately hits the price of gas, food, and shipping worldwide.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us tightens economic squeeze on iran amid gulf standoff",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "mRNA skin cancer vaccine clears crucial late-stage trial",
-      "summary": "Moderna and Merck announced that their custom-made cancer shot successfully cut the chance of melanoma returning in high-risk patients. The vaccine acts like handing the patient's own immune system a wanted poster, teaching white blood cells to hunt down hidden tumor cells before they grow back. Doctors view the success as the first solid proof that pandemic-era mRNA tools can beat long-standing killer diseases.",
-      "why": "It confirms that personalized gene vaccines work in real patients, paving the way for targeted treatments against many other cancers.",
-      "domain": "Health",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "mrna skin cancer vaccine clears crucial late stage trial",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "Ebola death outside known hot zone triggers alarm in Congo",
-      "summary": "Health officials in the Democratic Republic of Congo confirmed an Ebola death in a province previously thought clear of the virus. Local clinics are already drained by fighting between rebel groups and bare-bones budgets, making contact tracing very difficult. Finding the virus in a new area is like spotting a new ember miles past a wildfire line.",
-      "why": "If a deadly virus breaks out of containment in a conflict area, it can quickly turn into a cross-border public health emergency.",
-      "domain": "Health",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "ebola death outside known hot zone triggers alarm in congo",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "Heavy Russian air barrages pound Kyiv and Ukraine's power grid",
-      "summary": "Russia launched heavy missile and drone strikes on Kyiv and regional hubs, damaging critical infrastructure and causing civilian casualties. The renewed assault comes as political unity faces strain in Ukraine over wartime governance and defense needs. European allies are rushing emergency repairs to secure the energy grid before colder months arrive.",
-      "why": "Knocking out basic utilities threatens the daily survival of millions and tests the endurance of European security.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "heavy russian air barrages pound kyiv and ukraine s power",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "Humanitarian crisis deepens in Gaza as truce talks stall",
-      "summary": "Intense military operations in Gaza continue to displace civilian families into ever-shrinking pockets with scarce food, clean water, and medicine. Regional mediators in Qatar are struggling to secure a breakthrough for a lasting ceasefire. Aid groups warn that public health and basic survival systems are near complete collapse.",
-      "why": "Beyond the massive human toll, the ongoing violence keeps the entire region on a hair-trigger for wider conflict.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "humanitarian crisis deepens in gaza as truce talks stall",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "US ramps up economic pressure campaign against Iran",
-      "summary": "The US has launched a massive economic push targeting countries and shippers dealing with Iran. Oil routes through the Persian Gulf are on edge as both sides trade warnings and maritime tensions rise. Key allies and markets are caught in the middle, bracing for supply chain fallout and volatile energy prices.",
-      "why": "It threatens the world's main oil highway, which directly drives up what everyday people pay for fuel and groceries.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us ramps up economic pressure campaign against iran",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "US juries find major social platforms liable for youth addiction",
-      "summary": "Courts delivered landmark verdicts holding tech companies liable for designing addictive features that harmed children's mental health. The rulings weaken the long-standing legal shields that previously protected social media giants from liability over platform harm. Regulators and tech companies now face intense pressure to fundamentally rethink algorithmic feeds.",
-      "why": "It could force big tech to redesign how apps work, reshaping the digital environment for billions of young users.",
-      "domain": "Technology",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "us juries find major social platforms liable for youth addiction",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "China sentences Evergrande founder to life in prison",
-      "summary": "A Chinese court handed a life sentence and massive fines to the founder of property giant Evergrande for financial fraud. The company collapsed under a mountain of debt, leaving millions of unfinished apartments across the country. Beijing wants to show strong accountability, but the broader property slump still drags down consumer confidence.",
-      "why": "When China's giant housing market stumbles, the whole global economy feels the chill through slower growth and weaker trade.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "china sentences evergrande founder to life in prison",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "US national debt crosses $40 trillion",
-      "summary": "The United States government officially passed forty trillion dollars in public debt, reaching the milestone years ahead of official forecasts [1.2.5]. The total has doubled in less than a decade, driven by accelerating borrowing and sharp interest payments. Rising debt servicing costs are now competing directly with spending on basic infrastructure and social programs.",
-      "why": "When the world's anchor economy runs on a heavily strained credit card, higher borrowing costs and inflation risks spill over into every global market.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us national debt crosses 40 trillion",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "US-Iran confrontation deepens around Persian Gulf",
-      "summary": "The United States ramped up pressure on Tehran with threats of total economic isolation and intensified naval enforcement around the Strait of Hormuz. Regional trade partners including the UAE moved to sever financial links, while maritime transport through key shipping lanes remains heavily disrupted. Iran dismissed the pressure and warned it will maintain an aggressive posture against foreign naval intervention.",
-      "why": "Squeezing the world's most critical oil transit choke point threatens global energy supplies and keeps the risk of an all-out regional war on a hair trigger.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us iran confrontation deepens around persian gulf",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "Russian strikes on Kyiv spill near NATO borders",
-      "summary": "A heavy Russian missile and drone barrage hit the Ukrainian capital, killing at least 16 people and knocking out vital municipal infrastructure. Debris and explosive drones from the overnight raid were detected across the border in neighboring Romania and Moldova. Both sides continue to trade massive long-range drone attacks as formal diplomatic peace efforts remain stalled.",
-      "why": "Attacks bleeding into the territory of border states sharply increase the danger of accidental escalation between Russia and NATO.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "russian strikes on kyiv spill near nato borders",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "Record Ebola outbreak triggers emergency response in Congo",
-      "summary": "The Democratic Republic of the Congo is facing its deadliest Bundibugyo Ebola outbreak to date, with hundreds dying before reaching medical care. The United Nations and health agencies rushed 70,000 vaccine doses to the region to protect frontline workers. Teams have set up emergency screening corridors along the 1,700-kilometer Congo River to block the virus from traveling between major population hubs.",
-      "why": "Containing a fast-moving lethal pathogen along major river transit routes is essential to prevent a wider public health disaster across central Africa.",
-      "domain": "Health",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "record ebola outbreak triggers emergency response in congo",
-      "date": "2026-08-20"
-    },
-    {
-      "headline": "Evergrande founder gets life sentence in China real estate crackdown",
-      "summary": "A Chinese court sentenced Evergrande founder Hui Ka Yan to life in prison for large-scale financial fraud, embezzlement, and bribery. Authorities also handed down billions of dollars in penalties to the developer's corporate entities. The landmark ruling represents Beijing's most aggressive legal reckoning yet with the debt-driven property bubble that destabilized its economy.",
-      "why": "The harsh punishment signals a definitive end to unchecked corporate borrowing and reshapes how Beijing manages risk in the world's second-largest economy.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "evergrande founder gets life sentence in china real estate crackdown",
-      "date": "2026-08-20"
-    },
-    {
       "headline": "Worsening Ebola Outbreak Strains Central Africa",
       "summary": "The World Health Organization warned that a rapidly spreading Ebola outbreak in the Democratic Republic of the Congo has killed more than 2,000 people. Local violence and rugged terrain are making it hard for doctors to deliver vaccines and trace contacts in time. International aid groups are calling for an immediate surge in medical funding to prevent the virus from jumping across borders.",
       "why": "A runaway virus in a fragile, war-torn region can quickly become a deadly cross-border health crisis.",
@@ -3689,6 +3539,16 @@
       "mode": "evening",
       "fp": "cuba plunged into darkness after another total grid failure",
       "date": "2026-09-19"
+    },
+    {
+      "headline": "Yemen's Houthis Launch Missile and Drone Strikes on Riyadh and Saudi Oil Hubs",
+      "summary": "Yemen's Houthi forces fired ballistic missiles and drones into the heart of Saudi Arabia, targeting the capital city of Riyadh and oil facilities in Yanbu. Saudi air defenses intercepted incoming missiles, but explosions and plumes of thick black smoke were reported near fuel depots by Riyadh's international airport, triggering flight disruptions and emergency air-raid alerts across the capital.",
+      "why": "This marks a sharp military escalation that brings active warfare directly to the Saudi capital and critical energy infrastructure. It breaks past localized border clashes, raises the immediate risk of wider regional war, and threatens global energy transport corridors.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "yemen s houthis launch missile and drone strikes on riyadh",
+      "date": "2026-09-20"
     }
   ]
 }
