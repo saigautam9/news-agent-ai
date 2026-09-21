@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Worsening Ebola Outbreak Strains Central Africa",
-      "summary": "The World Health Organization warned that a rapidly spreading Ebola outbreak in the Democratic Republic of the Congo has killed more than 2,000 people. Local violence and rugged terrain are making it hard for doctors to deliver vaccines and trace contacts in time. International aid groups are calling for an immediate surge in medical funding to prevent the virus from jumping across borders.",
-      "why": "A runaway virus in a fragile, war-torn region can quickly become a deadly cross-border health crisis.",
-      "domain": "Health",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "worsening ebola outbreak strains central africa",
-      "date": "2026-08-21"
-    },
-    {
-      "headline": "Heavy Missile Strikes Hammer Ukrainian Infrastructure",
-      "summary": "Russian forces unleashed large-scale overnight missile and drone strikes targeting Kyiv and essential utility networks. Emergency workers are scrambling to patch up power lines and water systems as air defense crews face steady pressure. The strikes aim to wear down public utilities ahead of changing seasonal conditions.",
-      "why": "Knocking out basic power grids puts millions of civilians at risk and tests the world's ability to keep aid flowing.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "heavy missile strikes hammer ukrainian infrastructure",
-      "date": "2026-08-21"
-    },
-    {
-      "headline": "US Launches Stricter Economic Clampdown on Iran",
-      "summary": "Washington rolled out aggressive new economic measures designed to choke off Iran's trade networks and penalize countries doing business with Tehran [3.1.7]. The push comes as tensions around Middle Eastern shipping routes and regional security reach a boiling point. Major global powers like China and Russia are pushing back, turning the dispute into a diplomatic tug-of-war.",
-      "why": "Squeezing one of the world's major energy producers risks jolting global fuel prices and hitting everyday consumers at the gas pump.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us launches stricter economic clampdown on iran",
-      "date": "2026-08-21"
-    },
-    {
-      "headline": "Fresh Attacks and Piracy Threaten Vital Shipping Lanes",
-      "summary": "Commercial vessels near Yemen and the Horn of Africa are facing renewed attacks and hijack attempts by armed groups. Shipping companies are rerouting cargo ships thousands of miles around southern Africa to keep crews safe. The longer voyages have quickly bumped up freight insurance and shipping fees.",
-      "why": "When ocean shipping takes longer detour routes, it works like a hidden tax that makes everyday store items more expensive.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "fresh attacks and piracy threaten vital shipping lanes",
-      "date": "2026-08-21"
-    },
-    {
-      "headline": "Bangladesh Elects Veteran Leader Amid Youth Protests",
-      "summary": "Lawmakers in Bangladesh elected Mirza Fakhrul Islam Alamgir as president to fill the void left by a sudden resignation. The country's new leadership is trying to calm street protests led by young people demanding jobs and fair governance. Regional neighbors are monitoring the transition closely to see if calm can return to the manufacturing hub.",
-      "why": "Political stability in this massive garment-producing nation is crucial for keeping global clothing supplies steady and South Asia secure.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "bangladesh elects veteran leader amid youth protests",
-      "date": "2026-08-21"
-    },
-    {
       "headline": "Russia and Ukraine Trade Massive Strikes as Peace Talks Stall",
       "summary": "A fierce round of missile and drone attacks has struck deep inside both Ukraine and Russia, targeting fuel refineries and city centers. Ceasefire discussions mediated by foreign powers remain deadlocked over borders and long-term security guarantees. Both sides are focusing on damaging each other's war economy rather than backing down.",
       "why": "The continued fighting keeps Europe's security on edge and threatens international grain and energy routes.",
