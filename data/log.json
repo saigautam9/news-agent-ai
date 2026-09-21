@@ -3679,6 +3679,56 @@
       "mode": "evening",
       "fp": "far right electoral surge shakes germany s government",
       "date": "2026-09-20"
+    },
+    {
+      "headline": "Unprecedented El Ni\u00f1o shatters global climate records early",
+      "summary": "Global temperatures have broken heat records months before this El Ni\u00f1o cycle was expected to peak. Scorching heat is already overwhelming electrical grids, disrupting daily life, and baking urban infrastructure across multiple regions. Think of it like a furnace firing at full blast before summer even arrives.",
+      "why": "Shattering heat records this early threatens crop harvests, strains power networks, and warns of severe droughts and storms ahead.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "unprecedented el ni o shatters global climate records early",
+      "date": "2026-09-21"
+    },
+    {
+      "headline": "Ukraine launches massive Moscow drone attack during Russian vote",
+      "summary": "Ukraine carried out its largest drone attack to date targeting Moscow as Russia held parliamentary elections. The strikes rattled the capital and shut down air transit while the Kremlin used the vote to install dozens of combat veterans into parliament. It shows the battlefield cannot be kept away from ordinary Russian citizens.",
+      "why": "Striking deep inside the Russian capital while militarizing parliament locks both sides into a grinding, indefinite war of attrition.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ukraine launches massive moscow drone attack during russian vote",
+      "date": "2026-09-21"
+    },
+    {
+      "headline": "US threatens to ground all Iranian airlines worldwide",
+      "summary": "Washington announced plans to bar Iranian passenger planes from landing at airports worldwide starting Wednesday [1.1.2]. The move comes amid severe fuel shortages inside Iran, while Qatari diplomats rush between both capitals to defuse the standoff. It effectively cuts off a nation's last commercial bridges to the wider world.",
+      "why": "Cutting off civilian air routes strays into total economic isolation and dramatically raises the risk of direct confrontation between two heavily armed states.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us threatens to ground all iranian airlines worldwide",
+      "date": "2026-09-21"
+    },
+    {
+      "headline": "Paramount settles state lawsuits to clear Warner Bros mega-merger",
+      "summary": "Paramount reached a settlement with state attorneys general, removing the last major hurdle to acquiring Warner Bros Discovery. The combined behemoth will bring legendary film studios, major news networks, and massive streaming catalogs under single ownership. It is like having two of the world's largest bookstores merge into one mega-chain.",
+      "why": "Handing that much entertainment, news, and sports to a single boardroom shrinks consumer choice and gives one company outsized influence over global culture.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "paramount settles state lawsuits to clear warner bros mega merger",
+      "date": "2026-09-21"
+    },
+    {
+      "headline": "News outlets sue White House and halt pool coverage over press ban",
+      "summary": "Major outlets including CNN and Politico filed a federal lawsuit after the administration stripped their reporters of press credentials. In solidarity, major television networks refused to broadcast official White House pool footage. It marks an unprecedented standoff between government leaders and the journalists tasked with covering them.",
+      "why": "When the public loses independent eyes and ears inside the halls of power, accountability vanishes and rumors replace verified facts.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "news outlets sue white house and halt pool coverage over",
+      "date": "2026-09-21"
     }
   ]
 }
