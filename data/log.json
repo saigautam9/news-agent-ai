@@ -3729,6 +3729,56 @@
       "mode": "afternoon",
       "fp": "news outlets sue white house and halt pool coverage over",
       "date": "2026-09-21"
+    },
+    {
+      "headline": "US and Iran Edge Closer to War as Diplomacy Stalls",
+      "summary": "The US announced it will ground Iranian airlines worldwide while tightening trade sanctions, and Iran's military warned it is prepared to deploy new secret weapons across the region if struck again. Behind the scenes, Qatari diplomats are scrambling between Washington and Tehran to set up emergency talks before direct fighting breaks out.",
+      "why": "If clashes flare up around the Persian Gulf, global oil shipments could choke overnight, sending everyday energy prices through the roof worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and iran edge closer to war as diplomacy stalls",
+      "date": "2026-09-21"
+    },
+    {
+      "headline": "Ukraine Strikes Moscow Refinery in Huge Drone Swarm",
+      "summary": "Ukraine launched over a thousand drones deep into Russia, damaging a major oil refinery on the edge of Moscow as Russian parliamentary elections concluded. Russian air defenses intercepted hundreds of drones, but the strike still ignited fuel processing units and killed several people in the surrounding region.",
+      "why": "Hitting Moscow's own fuel supply proves Kyiv can strike deep into the heart of Russia, but it raises the risk of even heavier Russian retaliatory barrages.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ukraine strikes moscow refinery in huge drone swarm",
+      "date": "2026-09-21"
+    },
+    {
+      "headline": "World Leaders Gather at UN Amid Deepening Paralysis",
+      "summary": "Heads of state are arriving in New York for the annual UN General Assembly, but discussions are overshadowed by expanding global conflicts. Outgoing Secretary-General Ant\u00f3nio Guterres warned that Security Council gridlock has crippled international problem-solving, just as the hunt begins for his replacement.",
+      "why": "When the world's main referee is frozen by big-power vetoes, halting cross-border wars and managing shared crises becomes almost impossible.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "world leaders gather at un amid deepening paralysis",
+      "date": "2026-09-21"
+    },
+    {
+      "headline": "Denmark and Greenland Reject US Claims of Control",
+      "summary": "Leaders in Denmark and Greenland pushed back firmly after Washington claimed a new security deal grants the US permanent strategic control over the island. Both governments stated clearly that while Arctic defense partnerships are welcome, their territorial sovereignty is non-negotiable.",
+      "why": "Melting polar ice is transforming the Arctic into a contested frontier for critical minerals and trade routes, putting pressure on longstanding Western alliances.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "denmark and greenland reject us claims of control",
+      "date": "2026-09-21"
+    },
+    {
+      "headline": "Major News Outlets Sue White House Over Press Ban",
+      "summary": "Several prominent news organizations filed a federal lawsuit against the Trump administration after being shut out of the White House briefing room. The administration claimed the outlets spread misinformation, while journalists argue the ban infringes on First Amendment press protections.",
+      "why": "The outcome will set a lasting legal standard for whether the government can pick and choose which reporters are allowed inside the room to ask questions.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "major news outlets sue white house over press ban",
+      "date": "2026-09-21"
     }
   ]
 }
