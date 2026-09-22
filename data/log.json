@@ -3769,6 +3769,56 @@
       "mode": "afternoon",
       "fp": "world leaders open divided un assembly in new york",
       "date": "2026-09-22"
+    },
+    {
+      "headline": "U.S. and Iran clash over high-stakes ultimatum at UN",
+      "summary": "At the UN General Assembly, the U.S. warned it is reaching a fork in the road with Iran, demanding a new deal while threatening harsh military strikes. Behind closed doors, envoys held urgent sideline talks to keep the peace. Both sides are essentially playing high-stakes poker, trying to project strength without accidentally sparking a regional war.",
+      "why": "A breakdown in diplomacy could disrupt vital Middle East shipping lanes overnight and send energy bills soaring around the world.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "u s and iran clash over high stakes ultimatum at",
+      "date": "2026-09-22"
+    },
+    {
+      "headline": "Global central banks hike interest rates as energy costs jump",
+      "summary": "Major central banks, led by the U.S. Federal Reserve, have pivoted back to raising interest rates after fresh energy spikes reignited inflation fears. Instead of easing borrowing costs as consumers hoped, policymakers are tapping the brakes to keep prices from running wild. Think of it like taking your foot off the gas pedal just when the car was finally cruising smoothly.",
+      "why": "Costlier loans hit everyday household budgets and heighten the risk of a widespread economic slowdown.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "global central banks hike interest rates as energy costs jump",
+      "date": "2026-09-22"
+    },
+    {
+      "headline": "U.S. signs deal with Denmark to build Arctic bases in Greenland",
+      "summary": "The United States finalized a landmark agreement with Denmark and Greenland to build two major military outposts in the Arctic. As polar ice melts, northern waters are opening valuable shipping shortcuts and access to critical minerals. Washington is staking its claim early to make sure rivals like Russia and China cannot dominate the top of the globe.",
+      "why": "The pact redraws northern defense maps and accelerates the global scramble for control over Arctic trade routes.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "u s signs deal with denmark to build arctic bases",
+      "date": "2026-09-22"
+    },
+    {
+      "headline": "Fierce Super El Ni\u00f1o triggers Pacific storms and emergency alerts",
+      "summary": "An unusually intense El Ni\u00f1o pattern has stirred up powerful Pacific storms, including Category 5 Hurricane Polo, prompting California to declare an emergency. Oddly enough, the same weather shift has left the Atlantic unusually calm, breaking a 100-year lull record. Nature has essentially turned the usual weather script upside down, shifting extreme floods and droughts to unexpected regions.",
+      "why": "Violent weather swings threaten food crops and drive up rebuilding and insurance costs for millions living on coastlines.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "fierce super el ni o triggers pacific storms and emergency",
+      "date": "2026-09-22"
+    },
+    {
+      "headline": "Moldova declares national crisis over water and energy shocks",
+      "summary": "Moldova announced a 60-day state of emergency as severe drought dried up its two largest rivers alongside soaring regional power prices. The country faces empty water taps and electric bills its citizens can barely afford to pay. It is a prime example of what happens when extreme weather and volatile global markets squeeze a small nation at the same time.",
+      "why": "The double crunch exposes how easily resource shortages can push vulnerable frontline countries into sudden instability.",
+      "domain": "Climate",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "moldova declares national crisis over water and energy shocks",
+      "date": "2026-09-22"
     }
   ]
 }
