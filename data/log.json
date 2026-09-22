@@ -3719,6 +3719,56 @@
       "mode": "morning",
       "fp": "china expels two top generals in widening military purge",
       "date": "2026-09-22"
+    },
+    {
+      "headline": "Middle East Tension Drives Oil Past $100 as Mediators Race",
+      "summary": "Attacks on regional pipelines and tankers have pushed crude oil prices over $100 a barrel, threatening the narrow Strait of Hormuz. Think of this waterway as the world's main fuel pipe; if it gets choked, gas pumps and power plants everywhere feel the squeeze. Qatari envoys are rushing between Washington and Tehran with compromise plans to keep commercial shipping moving before direct clashes widen.",
+      "why": "When global fuel arteries get pinched, families around the world instantly face higher bills for food, electricity, and transport.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "middle east tension drives oil past 100 as mediators race",
+      "date": "2026-09-22"
+    },
+    {
+      "headline": "Huge Moscow Drone Wave Sets Stage for UN War Talks",
+      "summary": "Ukraine sent an unprecedented wave of more than 1,600 long-range drones into the Moscow region, rattling Russia's capital and its power systems. The strikes landed right as Ukrainian President Volodymyr Zelenskyy arrived in New York to discuss emergency energy ceasefires with President Donald Trump. Both countries are trading punishing hits on infrastructure to gain maximum bargaining chips before serious talks start.",
+      "why": "Both militaries are driving the war to a fever pitch to grab leverage before winter cold sets in.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "huge moscow drone wave sets stage for un war talks",
+      "date": "2026-09-22"
+    },
+    {
+      "headline": "US and China Negotiate AI Hotline to Prevent Accidental War",
+      "summary": "Senior officials from Washington and Beijing are meeting in New York to hammer out trade rules and set up an emergency military hotline for artificial intelligence. Both countries are spending fortunes to put algorithms on the battlefield, but both worry a computer hallucination could trigger real shooting. Just like the old Cold War red telephone, this creates an instant human off-ramp before automated systems spiral out of hand.",
+      "why": "Installing a shared kill switch keeps a rogue machine glitch from sparking an unintended world war.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us and china negotiate ai hotline to prevent accidental war",
+      "date": "2026-09-22"
+    },
+    {
+      "headline": "US Reopens Cold War Bases Under New Arctic Security Deal",
+      "summary": "The United States, Denmark, and Greenland agreed to reopen shuttered military outposts and expand the American defense footprint near the North Pole. Melting ice caps are rapidly turning frozen Arctic waters into valuable shortcut shipping lanes for world trade. The pact lets Washington secure strategic northern waterways against foreign rivals while officially promising to respect Greenland's local rights.",
+      "why": "It permanently shifts military power across the Arctic just as melting ice turns the region into a vital global shipping lane.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us reopens cold war bases under new arctic security deal",
+      "date": "2026-09-22"
+    },
+    {
+      "headline": "World Leaders Open Divided UN Assembly in New York",
+      "summary": "More than 120 world leaders have landed in New York for the 81st UN General Assembly during an era of deep mistrust. Instead of working together on big problems like rogue technology and climate change, big powers are treating the summit like speed dating to cut private side deals. Traditional diplomacy is taking a back seat while rival political camps test each other's resolve.",
+      "why": "The world's main meeting hall is splintering into rival clubs at the exact moment global crises require everyone at the table.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "world leaders open divided un assembly in new york",
+      "date": "2026-09-22"
     }
   ]
 }
