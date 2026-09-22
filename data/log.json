@@ -3669,6 +3669,56 @@
       "mode": "evening",
       "fp": "major news outlets sue white house over press ban",
       "date": "2026-09-21"
+    },
+    {
+      "headline": "Iran Offers Hormuz Reopening as Standoff Threatens Global Oil",
+      "summary": "Tensions between the US and Iran have reached a fever pitch, choking off traffic through the Strait of Hormuz. Tehran has offered to reopen the vital shipping channel within days if Washington scales back military pressure, even as Iranian commanders warn of wider retaliation if attacked. Meanwhile, Saudi Arabia is scrambling to restart overland pipelines to bypass the bottleneck and keep crude moving.",
+      "why": "About a fifth of the world's oil moves through this single passage, so any prolonged disruption will rapidly hike fuel and grocery prices worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "iran offers hormuz reopening as standoff threatens global oil",
+      "date": "2026-09-22"
+    },
+    {
+      "headline": "World Leaders Open High-Stakes UN Summit Under Threat of Wider War",
+      "summary": "The United Nations General Assembly opened in New York with heads of state confronting escalating wars in the Middle East and Ukraine. Donald Trump and other world leaders are slated to address an increasingly divided assembly that is struggling to mediate active conflicts. Frustration with inaction has also triggered calls from countries like Turkey to scrap the veto power held by permanent Security Council members.",
+      "why": "The global diplomatic framework built after World War II is fraying, leaving fewer reliable tools to stop regional wars from snowballing into global ones.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "world leaders open high stakes un summit under threat of",
+      "date": "2026-09-22"
+    },
+    {
+      "headline": "Putin's Ruling Party Sweeps Russian Elections to Lock In War Footing",
+      "summary": "Russia's United Russia party claimed a crushing supermajority in parliamentary elections, cementing the Kremlin's domestic power. The win gives Vladimir Putin unchecked legislative support even as the conflict in Ukraine drags on and economic pressure mounts on ordinary families. With parliament firmly locked down, the government can push through war budgets and mobilization measures without political debate.",
+      "why": "It guarantees that Russia stays geared for a grinding, long-term war, virtually shutting the door on any domestic political pressure for peace.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "putin s ruling party sweeps russian elections to lock in",
+      "date": "2026-09-22"
+    },
+    {
+      "headline": "Twenty Countries Propose a Global Watchdog for AI Risks",
+      "summary": "A coalition of twenty governments introduced a plan at the UN to establish an international body to police dangerous artificial intelligence. The group wants clear global safety rules and inspection powers to detect severe runaway risks before powerful models are deployed. Backers view the proposal like the atomic energy agency, but tailored for software algorithms instead of enriched uranium.",
+      "why": "Without common international guardrails, an unchecked tech race could produce automated cyber weapons and autonomous systems that no single country can control.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "twenty countries propose a global watchdog for ai risks",
+      "date": "2026-09-22"
+    },
+    {
+      "headline": "China Expels Two Top Generals in Widening Military Purge",
+      "summary": "Beijing expelled two high-ranking military commanders from the Communist Party and the armed forces, citing disloyalty and corruption. The sudden ouster is one of the highest-level cleanouts of the People's Liberation Army leadership in recent memory. It reflects President Xi Jinping's drive to eliminate rival factions and ensure absolute party control over the armed forces.",
+      "why": "Rapid turnover at the top of China's military creates internal friction and command uncertainty at a time of rising friction across the Pacific.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "china expels two top generals in widening military purge",
+      "date": "2026-09-22"
     }
   ]
 }
