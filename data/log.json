@@ -3869,6 +3869,16 @@
       "mode": "morning",
       "fp": "us signs strategic arctic deal with greenland and denmark",
       "date": "2026-09-23"
+    },
+    {
+      "headline": "South Sudan's President Dissolves Transitional Government Ahead of Elections",
+      "summary": "President Salva Kiir dissolved South Sudan's power-sharing unity government and fired all five vice presidents, including his main rival Riek Machar. New legal tweaks let Kiir steer the ship completely alone ahead of planned December elections, ditching earlier requirements for a finished constitution and national census.",
+      "why": "This scraps the fragile 2018 peace deal that stopped South Sudan's brutal civil war. Sweeping away his rivals to rule solo puts the country back on a political knife-edge, sharply raising the risk of fresh fighting.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "south sudan s president dissolves transitional government ahead of elections",
+      "date": "2026-09-23"
     }
   ]
 }
