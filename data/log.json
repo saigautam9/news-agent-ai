@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "European Allies Move to Boost Ukraine's Long-Range Arms Production",
-      "summary": "Western partners gathered in Kyiv to bolster Ukraine's depleted air defenses as the conflict grinds past another independence anniversary. As part of the support package, the UK agreed to share blueprints so Ukraine can produce long-range missiles domestically. The move aims to make Ukraine's defense industry more self-reliant over the long haul.",
-      "why": "Shifting to local missile production deepens Europe's long-term defense network and alters deterrence against Russia.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "european allies move to boost ukraine s long range arms",
-      "date": "2026-08-24"
-    },
-    {
-      "headline": "US and Canada Slap Heavy Tariffs on Each Other as Trade Talks Collapse",
-      "summary": "Trade negotiations between Washington and Ottawa fell apart, prompting the US to slap 50% tariffs on around $20 billion of Canadian goods [1.2.4]. Canada immediately vowed to hit back with matching duties, signaling a sharp escalation between the two close neighbors. Both governments are digging in for what could become a long economic fight.",
-      "why": "It threatens to drive up grocery and manufacturing costs across North America while shaking global supply chains.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "us and canada slap heavy tariffs on each other as",
-      "date": "2026-08-24"
-    },
-    {
-      "headline": "US-Iran Standfall Deepens as Truce Window Closes Near Strait of Hormuz",
-      "summary": "A 60-day diplomatic window between the US and Iran expired without an extension, prompting Washington to threaten sweeping new economic measures. The standoff over shipping lanes in the Strait of Hormuz remains unresolved, keeping regional waterways tense. Global energy markets are closely tracking the friction as crude oil prices swing.",
-      "why": "Any prolonged pinch on Gulf shipping routes directly impacts world fuel prices and global inflation.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "us iran standfall deepens as truce window closes near strait",
-      "date": "2026-08-24"
-    },
-    {
-      "headline": "Israel and Syria Hold Rare Backchannel Talks to Defuse Clashes",
-      "summary": "Officials from Israel and Syria engaged in US-mediated talks following a spate of cross-border airstrikes and drone attacks. The quiet dialogue aims to establish clear ground rules and prevent localized skirmishes from spiraling. Both sides are testing whether fragile diplomacy can cool down the volatile frontier.",
-      "why": "Direct communication between old adversaries lowers the risk of a wider Middle Eastern war dragging in regional allies.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "israel and syria hold rare backchannel talks to defuse clashes",
-      "date": "2026-08-24"
-    },
-    {
-      "headline": "Iceland Weighs Historic Vote on Reopening European Union Talks",
-      "summary": "Iceland is holding a key referendum on whether to restart negotiations to join the European Union. Voters are balancing the promise of stronger economic stability against longstanding fears of losing control over their fishing waters. The debate reflects broader anxiety among smaller nations seeking shelter in uncertain times.",
-      "why": "A pivot toward Brussels would reshape Arctic trade and signal changing strategic alignments in northern Europe.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "iceland weighs historic vote on reopening european union talks",
-      "date": "2026-08-24"
-    },
-    {
       "headline": "US rolls out sweeping global sanctions against Iran",
       "summary": "Washington launched a major economic pressure campaign targeting any international bank or country doing business with Tehran [1.2.8]. The new secondary sanctions aim to choke off Iran's oil revenue and isolate its financial system.",
       "why": "It threatens to disrupt global energy markets and forces trade partners in Asia and Europe to choose between American markets and Iranian oil.",
@@ -3879,6 +3829,16 @@
       "mode": "monitor",
       "fp": "south sudan s president dissolves transitional government ahead of elections",
       "date": "2026-09-23"
+    },
+    {
+      "headline": "War reignites in northern Ethiopia as Tigrayan forces seize airports and battle federal troops",
+      "summary": "Tigrayan forces announced they have entered a new war against Ethiopia's federal government after heavy clashes broke out across the region. Tigrayan fighters took control of regional airports, including the capital Mekelle, forcing Ethiopian Airlines to halt flights. Ground fighting has quickly spread into neighbouring Afar and Amhara regions, blowing apart the fragile 2022 peace deal.",
+      "why": "This is a catastrophic military escalation in Africa's second most populous nation. The previous civil war between these two sides cost roughly 600,000 lives. Starting that fire again threatens massive bloodshed, millions of displaced people, and could pull neighboring countries into a wider regional conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "war reignites in northern ethiopia as tigrayan forces seize airports",
+      "date": "2026-09-24"
     }
   ]
 }
