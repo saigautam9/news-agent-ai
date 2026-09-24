@@ -3839,6 +3839,56 @@
       "mode": "monitor",
       "fp": "war reignites in northern ethiopia as tigrayan forces seize airports",
       "date": "2026-09-24"
+    },
+    {
+      "headline": "Scientists Warn Super El Nino Threatens Massive Loss of Life",
+      "summary": "Climate researchers published stark projections showing that an unfolding super El Ni\u00f1o could cause over 450,000 deaths through brutal heatwaves, droughts, and crop failures. Outlets in the Global South focus on water shortages and threatened farm communities, while Western outlets zero in on extreme weather tracking. It works like a heater knob twisted to the maximum on a house that is already sweltering.",
+      "why": "Massive weather shocks to key agricultural belts trigger food shortages and spark price spikes for families everywhere.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "scientists warn super el nino threatens massive loss of life",
+      "date": "2026-09-24"
+    },
+    {
+      "headline": "Kyiv Bombarded as Black Sea Shipping Comes Under Threat",
+      "summary": "Russia carried out widespread missile barrages across Ukraine while fresh strikes hit Moscow, pushing fighting directly into vital Black Sea maritime routes. Kyiv and its allies demand stronger economic chokeholds on Russia, while regional players like Turkey warn that targeting cargo vessels will destroy fragile trade corridors. It is a dangerous fight over an essential marine doorway that feeds millions.",
+      "why": "Closing off the Black Sea halts global grain shipments, leaving millions across North Africa and the Middle East vulnerable to hunger.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "kyiv bombarded as black sea shipping comes under threat",
+      "date": "2026-09-24"
+    },
+    {
+      "headline": "Trump and Xi Hold High-Stakes Summit",
+      "summary": "Donald Trump gave Xi Jinping a personal tarmac welcome as the two leaders opened summit talks to cool off an aggressive trade and tech conflict. Western outlets focus on curbing Chinese high-tech exports, while Asian media urge Washington to stop disrupting commercial supply chains. Think of it like two estranged business partners meeting because an outright split would bankrupt them both.",
+      "why": "How these two superpowers handle trade sets the price tag on everyday consumer goods and shapes the global economy.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "trump and xi hold high stakes summit",
+      "date": "2026-09-24"
+    },
+    {
+      "headline": "Iran Defies US Pressure While Flirting With Talks",
+      "summary": "Iran's president used his UN General Assembly address to condemn American military strikes, vowing defiance while quietly keeping the door open for diplomacy. Western reports frame the speech as bluster under intense sanctions, whereas Middle Eastern media warn the confrontation could easily engulf neighboring states. It is like someone waving a lit match near a gas pipeline while offering to negotiate the valve.",
+      "why": "A wider conflict with Tehran could shut down Persian Gulf tanker routes and send world fuel prices soaring.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "iran defies us pressure while flirting with talks",
+      "date": "2026-09-24"
+    },
+    {
+      "headline": "Tech Giants and Nations Scramble for AI Safety Rules",
+      "summary": "World leaders and top AI executives gathered at the UN to plead for international safety boundaries following automated security breaches of government portals. Big technology firms want to maintain speed through self-policing, but developing nations fear they will bear the brunt of cyber instability without any say. It feels like trying to put up stop signs on a highway after the cars have already started racing.",
+      "why": "Without basic safety rules, rogue autonomous software can quietly cripple essential services like healthcare systems and power networks.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "tech giants and nations scramble for ai safety rules",
+      "date": "2026-09-24"
     }
   ]
 }
