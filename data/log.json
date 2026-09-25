@@ -3799,6 +3799,56 @@
       "mode": "monitor",
       "fp": "tigray rebels launch major offensive in ethiopia shattering peace deal",
       "date": "2026-09-25"
+    },
+    {
+      "headline": "Iran Offers Seven-Day Plan to Reopen the Strait of Hormuz",
+      "summary": "Tehran pitched a seven-day proposal to reopen the blocked Strait of Hormuz and restart talks on its nuclear program. In exchange, Iran wants Washington to lift its naval blockade, waive sanctions on Iranian oil exports, and help secure a regional ceasefire that includes Lebanon. The diplomatic offer comes as rising energy prices squeeze the global economy and ramp up domestic political pressure on the White House.",
+      "why": "Hormuz is the world's primary energy bottleneck, meaning any breakthrough or collapse in talks directly dictates the price of oil, gas, and everyday shipping across the globe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "iran offers seven day plan to reopen the strait of",
+      "date": "2026-09-25"
+    },
+    {
+      "headline": "Trump and Xi Meet in Washington for High-Stakes Summit",
+      "summary": "Donald Trump hosted Xi Jinping at the White House for their first Washington summit in over a decade, agreeing to extend a fragile trade truce. The two leaders tackled deep friction points like artificial intelligence rivalry, Taiwan, and the ongoing war involving Iran. While tech titans joined them for a lavish state dinner, both sides walked away without sweeping breakthroughs, focusing instead on keeping open lines so competition does not turn into conflict.",
+      "why": "When the two biggest economies on Earth choose talking over an economic or military brawl, it steadies supply chains, tech rules, and factory floors worldwide.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "trump and xi meet in washington for high stakes summit",
+      "date": "2026-09-25"
+    },
+    {
+      "headline": "Diplomats Stage Mass Walkout During Netanyahu's UN Address",
+      "summary": "Dozens of international delegations walked out of the UN General Assembly hall just as Israeli Prime Minister Benjamin Netanyahu took the stage to defend his military campaigns. Facing rows of empty seats, Netanyahu lashed out at the departing diplomats as moral cowards and vowed to press forward with fighting in Gaza and Lebanon. Outside the United Nations headquarters, massive demonstrations led to over a hundred arrests across New York City.",
+      "why": "The dramatic walkout puts Israel's deepening international isolation on full display, even as its leaders signal zero intention of slowing regional wars that risk wider escalation.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "diplomats stage mass walkout during netanyahu s un address",
+      "date": "2026-09-25"
+    },
+    {
+      "headline": "NATO Warns of Escalating Russian Sabotage Across Europe",
+      "summary": "Senior NATO officials issued sharp warnings that Moscow is ramping up deniable attacks across the continent, ranging from industrial fires and cyber strikes to airspace violations. Alliance leadership warned that Russia is increasingly accepting risks to test European red lines without triggering a full-scale shooting war. European governments are stepping up surveillance on critical infrastructure while debating how hard to respond without escalating into direct confrontation.",
+      "why": "Gray-zone attacks turn civilian essentials like power grids, flights, and internet cables into quiet battlefields, threatening daily life far away from any active frontline. ",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "nato warns of escalating russian sabotage across europe",
+      "date": "2026-09-25"
+    },
+    {
+      "headline": "Argentina's Poverty Rate Rebounds to 32% Under Milei's Shock Therapy",
+      "summary": "Official data shows Argentina's poverty rate climbed to 32.3 percent in the first half of 2026, wiping out recent gains made under President Javier Milei. While his aggressive spending cuts successfully halted runaway hyperinflation, wages have failed to keep pace with the rapidly rising cost of groceries and utilities. Unemployment also crept up near 8 percent, hitting working families hard and fueling new protests against government austerity.",
+      "why": "The reversal proves that cooling inflation with spending freezes does not automatically help people buy food, delivering a harsh reality check to the world's most aggressive free-market experiment.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "argentina s poverty rate rebounds to 32 under milei s",
+      "date": "2026-09-25"
     }
   ]
 }
