@@ -1,66 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Deadly Flash Flood Hits Nepal-Tibet Border",
-      "summary": "A sudden, massive flash flood along the mountainous border between Nepal and Tibet has killed more than 150 people and left hundreds of locals and tourists missing, washing away roads and bridges.",
-      "why": "This is a major natural disaster causing sudden mass casualties, widespread destruction, and an urgent international emergency response.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "deadly flash flood hits nepal tibet border",
-      "date": "2026-08-26"
-    },
-    {
-      "headline": "U.S. and Iran Escalate Standoff Over Vital Oil Routes",
-      "summary": "The United States rolled out strict new financial penalties to choke off Iranian oil revenues and warned foreign partners to stop trading with Tehran [1.1.7]. Iran struck back by blacklisting foreign oil tankers passing through the narrow Strait of Hormuz, pushing its own currency to record lows. The clash puts a chokehold on one of the world's most crowded sea gates.",
-      "why": "If shipping through Hormuz shuts down, energy prices around the world could quickly spike.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "u s and iran escalate standoff over vital oil routes",
-      "date": "2026-08-26"
-    },
-    {
-      "headline": "Russia Takes Over Hit Facilities as Ukraine Attacks Deep Inside Border",
-      "summary": "Ukraine launched hundreds of long-range drones into Russian territory, hitting warehouses and supply lines. In response, the Kremlin signed a decree letting the state take control of damaged private businesses, while Russian missiles pounded Ukrainian border crossings to block grain exports into Europe.",
-      "why": "It marks a major shift toward total wartime nationalization inside Russia while choking Ukraine's economic lifeline.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "russia takes over hit facilities as ukraine attacks deep inside",
-      "date": "2026-08-26"
-    },
-    {
-      "headline": "Deadly Himalayan Flash Floods Tear Through Nepal Border",
-      "summary": "Massive flash floods hit the mountain frontier between Nepal and Tibet, killing over 150 people and leaving hundreds missing. The surge washed away homes, roads, and key bridges, stranding thousands of locals and travelers in rugged terrain.",
-      "why": "It shows how climate extremes are devastating vulnerable mountain communities that lack basic emergency infrastructure.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "deadly himalayan flash floods tear through nepal border",
-      "date": "2026-08-26"
-    },
-    {
-      "headline": "Fragile Gaza Ceasefire Reaches a Breaking Point",
-      "summary": "International mediators warned that the truce between Israel and Hamas is at a point of no return as talks over disarmament stall. Both sides are accusing each other of violating key terms, slowing desperately needed humanitarian aid. Without a breakthrough, relief operations and rebuilding plans are grinding to a halt.",
-      "why": "A complete collapse risks pulling the entire region back into open, devastating war.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "fragile gaza ceasefire reaches a breaking point",
-      "date": "2026-08-26"
-    },
-    {
-      "headline": "Meta Reaches Landmark $18 Billion Youth Safety Settlement",
-      "summary": "Meta agreed to pay up to $18 billion to resolve massive lawsuits claiming its social networks harmed children's mental well-being. The company must also roll out stricter age checks and change platform algorithms to curb addictive features.",
-      "why": "This deal sets a legal benchmark that will force big tech companies to redesign how algorithms interact with kids.",
-      "domain": "Technology",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "meta reaches landmark 18 billion youth safety settlement",
-      "date": "2026-08-26"
-    },
-    {
       "headline": "Catastrophic Glacial Collapse Triggers Massive Flooding Across Nepal-China Border",
       "summary": "A sudden glacial lake collapse triggered violent flash floods and mudslides along the border region between Nepal and Tibet, leaving more than 160 people confirmed dead and over 1,300 people missing as entire villages and critical infrastructure were swept away.",
       "why": "This is a major natural disaster causing severe loss of life, mass civilian displacement, and widespread destruction of vital cross-border transport and economic corridors.",
