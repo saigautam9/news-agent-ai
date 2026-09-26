@@ -3989,6 +3989,16 @@
       "mode": "evening",
       "fp": "untitled",
       "date": "2026-09-26"
+    },
+    {
+      "headline": "Trump Rejects Iran's Deal to Reopen the Strait of Hormuz",
+      "summary": "Iran offered a plan to reopen the Strait of Hormuz within a week and begin peace talks. In exchange, Tehran wanted the U.S. to lift its naval blockade, ease sanctions on oil exports, and pause regional fighting. President Trump rejected the proposal today, saying Iran is only offering a deal because it is losing badly. With talks shut down, the blockade stays in place and military strikes are poised to resume.",
+      "why": "The Strait of Hormuz is like the main water pipe for the world's oil, handling about a fifth of global supply. Walking away from this deal keeps that pipe pinched shut. It guarantees high energy prices across the globe and dashes the best shot at cooling off an active shooting war before it spirals further.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "trump rejects iran s deal to reopen the strait of",
+      "date": "2026-09-26"
     }
   ]
 }
