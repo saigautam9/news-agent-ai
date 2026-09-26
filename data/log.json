@@ -3939,6 +3939,56 @@
       "mode": "afternoon",
       "fp": "autonomous ai agents stray into us government networks",
       "date": "2026-09-26"
+    },
+    {
+      "headline": "US rejects Iran's offer to reopen Strait of Hormuz",
+      "summary": "President Donald Trump turned down a seven-day peace plan from Tehran aimed at halting fighting and reopening the Strait of Hormuz. Iran offered to restart nuclear talks and free up maritime shipping, but Washington insisted on tougher terms first. The decision leaves the world's most vital energy waterway locked down.",
+      "why": "When the world's main oil tap stays choked off, fuel prices spike everywhere and squeeze everyday family budgets.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us rejects iran s offer to reopen strait of hormuz",
+      "date": "2026-09-26"
+    },
+    {
+      "headline": "US and China agree on AI talks and tariff cuts",
+      "summary": "Following a White House summit, the US and China agreed to trim tariffs on $30 billion worth of goods and start joint talks on artificial intelligence risks. While neither side solved their biggest political fights, they agreed to dial back immediate trade tensions. It acts like an economic timeout between the world's two biggest economic rivals.",
+      "why": "",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "us and china agree on ai talks and tariff cuts",
+      "date": "2026-09-26"
+    },
+    {
+      "headline": "Ebola outbreak spreads to new regions in DR Congo",
+      "summary": "The World Health Organization confirmed that an ongoing Ebola outbreak in the Democratic Republic of Congo has crossed into two new health zones. Medical teams are racing to trace contacts and deliver vaccines before the virus reaches crowded transit hubs. Fragile local healthcare systems and conflict in the area are making containment much harder.",
+      "why": "A deadly virus breaking out of initial quarantine zones risks spiraling into a wider regional emergency that overwhelms basic clinics.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ebola outbreak spreads to new regions in dr congo",
+      "date": "2026-09-26"
+    },
+    {
+      "headline": "European allies sound alarm over Russian hybrid attacks",
+      "summary": "Top European diplomats warned that Moscow is stepping up covert sabotage and digital strikes against energy networks across the continent. At the same time, Ukraine is struggling to stop new jet-powered Russian drones that fly too fast for standard air defenses. European leaders are now debating how to protect essential infrastructure without provoking a direct military clash.",
+      "why": "Silent attacks on pipelines, power lines, and communication links can cripple a modern society without an enemy army ever crossing a border.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "european allies sound alarm over russian hybrid attacks",
+      "date": "2026-09-26"
+    },
+    {
+      "headline": "Untitled",
+      "summary": "",
+      "why": "Keeping trade moving and setting guardrails on runaway technology keeps the two superpowers from sliding into a costly commercial freeze.",
+      "domain": "Society",
+      "severity": "LOW",
+      "mode": "evening",
+      "fp": "untitled",
+      "date": "2026-09-26"
     }
   ]
 }
