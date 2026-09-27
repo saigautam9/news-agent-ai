@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US-Canada Trade Battle Escalates with Dollar-for-Dollar Tariffs",
-      "summary": "Canada announced sweeping retaliatory tariffs on goods like steel, electronics, and farm tools after talks over steep US import taxes collapsed. Both countries are now trading direct economic blows across one of the busiest trade borders on earth. Factories and farmers on both sides are bracing for higher costs and disrupted supply lines.",
-      "why": "Cross-border trade between these neighbors powers basic manufacturing, so these extra taxes will hit ordinary consumer prices and industrial jobs.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "us canada trade battle escalates with dollar for dollar tariffs",
-      "date": "2026-08-29"
-    },
-    {
       "headline": "US Moves to Secure Major Oil Stake in Venezuela",
       "summary": "The US unveiled a controversial framework aimed at taking substantial control over vast oil reserves in Venezuela. The move has sparked fierce pushback from regional leaders and Venezuelan opposition groups who view it as overreach. Analysts say the shift could reshape Western Hemisphere energy control and global crude flows.",
       "why": "Controlling the tap on some of the planet's largest oil reserves dramatically alters global fuel security and diplomatic leverage in the Americas.",
@@ -3998,6 +3988,16 @@
       "severity": "HIGH",
       "mode": "evening",
       "fp": "brazil freezes online gambling on the eve of a tense",
+      "date": "2026-09-27"
+    },
+    {
+      "headline": "Serbian President Aleksandar Vu\u010di\u0107 Resigns to Seek Prime Minister Post",
+      "summary": "Aleksandar Vu\u010di\u0107 formally resigned as president of Serbia seven months before the end of his term, handing temporary presidential powers to parliamentary speaker Ana Brnabi\u0107. Barred by the constitution from seeking a third presidential mandate, Vu\u010di\u0107 is stepping down to lead the ruling Serbian Progressive Party's ticket in the October 25 snap parliamentary elections in a bid to reclaim the prime minister seat.",
+      "why": "Vu\u010di\u0107 has dominated Serbia's political system for twelve years. His sudden exit from the head-of-state role amid nearly two years of intense youth-led anti-corruption protests represents a major government restructuring in the Western Balkans, reshaping the country's executive leadership in an attempt to prolong his political control.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "serbian president aleksandar vu i resigns to seek prime minister",
       "date": "2026-09-27"
     }
   ]
