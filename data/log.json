@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Russia Steps Up Strikes on Ukrainian Grid as Diplomatic Talks Stall",
-      "summary": "Russian forces have launched widespread missile and drone barrages targeting Ukrainian power grids, transport hubs, and cities after peace discussions broke down. Ukraine has fired long-range drone counterstrikes into Russian territory, marking one of the largest aerial escalations of the year. Both militaries are digging in for prolonged fighting as autumn approaches.",
-      "why": "Wrecking energy infrastructure right before the colder months leaves millions of civilians at risk of blackouts and freezes any near-term path toward ending the war.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "russia steps up strikes on ukrainian grid as diplomatic talks",
-      "date": "2026-08-28"
-    },
-    {
-      "headline": "Escalating US-Canada Tariff Fight Puts Factory Jobs and Supply Chains at Risk",
-      "summary": "A mounting trade dispute between Washington and Ottawa is forcing businesses on both sides of the border to scramble and rethink how they build products. Steep new tariffs are hitting closely linked sectors like manufacturing, energy, and agriculture, prompting companies to pull production local to avoid extra costs. Business leaders warn the stand-off could wipe out tens of thousands of jobs if new exemptions are not negotiated.",
-      "why": "Splitting two economies that are built to work like interlocking puzzle pieces drives up manufacturing costs and makes everyday goods pricier for shoppers on both sides.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "escalating us canada tariff fight puts factory jobs and supply",
-      "date": "2026-08-28"
-    },
-    {
-      "headline": "US Nears Landmark Energy Deal to Operate Venezuelan Oil Fields",
-      "summary": "The United States is wrapping up a deal that would allow American energy companies to directly manage and develop several Venezuelan oilfields. Under the proposed arrangement, the extracted crude will be funneled directly to US refineries to shore up long-term domestic supply. The move represents a major foreign policy pivot driven by ongoing volatility in Middle Eastern oil shipping.",
-      "why": "Tapping the world's largest known crude reserves reshapes Latin American politics and gives Western refineries a vital buffer against global oil price shocks.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "us nears landmark energy deal to operate venezuelan oil fields",
-      "date": "2026-08-28"
-    },
-    {
-      "headline": "Push to Reopen Vital Oil Shipping Route in Strait of Hormuz",
-      "summary": "Regional mediators are racing to finalize a deal with Iran and Oman to clear mines and open a temporary shipping corridor through the Strait of Hormuz. Washington is pushing harsh economic sanctions to isolate Tehran, while major buyers like China refuse to cut off trade. If negotiations stall, global energy supplies and maritime trade remain at serious risk.",
-      "why": "This narrow waterway carries a massive slice of the world's daily oil, so any blockages quickly drive up fuel and grocery bills everywhere.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "push to reopen vital oil shipping route in strait of",
-      "date": "2026-08-29"
-    },
-    {
-      "headline": "Deadly Flash Floods Devastate Nepal and Himalayan Region",
-      "summary": "Massive monsoon floods and mudslides swept through mountain villages across Nepal and neighboring Tibet, leaving nearly two thousand people missing. Emergency teams are struggling to reach cut-off valleys as roads, bridges, and power lines wash away. The disaster marks one of the most severe climate-driven flood events in the region in years.",
-      "why": "It shows how vulnerable Himalayan mountain communities are to sudden extreme weather, displacing thousands of families with little infrastructure to protect them.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "deadly flash floods devastate nepal and himalayan region",
-      "date": "2026-08-29"
-    },
-    {
       "headline": "US-Canada Trade Battle Escalates with Dollar-for-Dollar Tariffs",
       "summary": "Canada announced sweeping retaliatory tariffs on goods like steel, electronics, and farm tools after talks over steep US import taxes collapsed. Both countries are now trading direct economic blows across one of the busiest trade borders on earth. Factories and farmers on both sides are bracing for higher costs and disrupted supply lines.",
       "why": "Cross-border trade between these neighbors powers basic manufacturing, so these extra taxes will hit ordinary consumer prices and industrial jobs.",
@@ -3998,6 +3948,56 @@
       "severity": "HIGH",
       "mode": "afternoon",
       "fp": "uk police arrest five outside airbase used for us middle",
+      "date": "2026-09-27"
+    },
+    {
+      "headline": "US-Iran Truce Talks Stall as Oil Route Stays Choked",
+      "summary": "Iran offered to reopen the Strait of Hormuz and halt fighting if the US eases sanctions and frees frozen cash. Washington rejected the proposal, insisting on deeper nuclear concessions before any deal is signed. With the vital shipping lane still disrupted and security tight at allied airfields, regional hostilities show little sign of cooling down.",
+      "why": "The Strait of Hormuz is like the main fuel pipe for the global economy, and keeping it tangled threatens supply shocks for everyone.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us iran truce talks stall as oil route stays choked",
+      "date": "2026-09-27"
+    },
+    {
+      "headline": "Deadly Strikes Hit Kyiv as Drones Airdrop Aid to Cut-Off Towns",
+      "summary": "Russian missile and drone attacks struck apartment buildings and civilian spots in Kyiv, killing multiple residents and injuring dozens. Meanwhile, Ukrainian teams are flying drones to drop emergency food to starving civilians trapped in occupied southern towns. The contrast highlights how deeply the grinding war continues to wreck daily civilian life.",
+      "why": "Endless strikes on everyday infrastructure keep millions in survival mode and deepen a humanitarian crisis on Europe's doorstep.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "deadly strikes hit kyiv as drones airdrop aid to cut",
+      "date": "2026-09-27"
+    },
+    {
+      "headline": "Global Growth Stumbles as Middle East Conflict Drives Fuel Costs",
+      "summary": "A new report from the OECD shows that the Middle East conflict has triggered a fresh energy shock around the world. Higher oil prices are reigniting inflation across more than half of the G20 countries just as national fuel buffers run thin. This leaves central banks trapped between rising living costs and sluggish overall growth.",
+      "why": "When fuel gets expensive, everything from grocery delivery to home heating costs more, squeezing regular household budgets across the planet.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "global growth stumbles as middle east conflict drives fuel costs",
+      "date": "2026-09-27"
+    },
+    {
+      "headline": "Bill Gates Sounds the Alarm for Stronger AI Guardrails",
+      "summary": "Bill Gates made a public push for urgent government oversight of advanced artificial intelligence, warning of severe global dangers if systems go unchecked. He cautioned that a simple software kill switch will not be enough to prevent runaway risks. Gates is seeking talks with top leaders to build binding safety rules before the technology outpaces human oversight.",
+      "why": "The guardrails governments build today will decide whether super-smart algorithms work like helpful assistants or dangerous loose cannons.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "bill gates sounds the alarm for stronger ai guardrails",
+      "date": "2026-09-27"
+    },
+    {
+      "headline": "Brazil Freezes Online Gambling on the Eve of a Tense Vote",
+      "summary": "Brazil's government ordered an immediate freeze on online betting deposits just days ahead of a tight national election. Officials acted after digital betting platforms sucked billions of dollars out of low-income families and worsened household debt. Lawmakers must now review the emergency measure to decide if the ban stays permanently.",
+      "why": "Stopping the gambling drain protects family savings in Latin America's largest economy, where pocketbook pain often decides elections.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "brazil freezes online gambling on the eve of a tense",
       "date": "2026-09-27"
     }
   ]
