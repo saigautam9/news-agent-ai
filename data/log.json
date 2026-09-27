@@ -1,76 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Catastrophic Glacial Collapse Triggers Massive Flooding Across Nepal-China Border",
-      "summary": "A sudden glacial lake collapse triggered violent flash floods and mudslides along the border region between Nepal and Tibet, leaving more than 160 people confirmed dead and over 1,300 people missing as entire villages and critical infrastructure were swept away.",
-      "why": "This is a major natural disaster causing severe loss of life, mass civilian displacement, and widespread destruction of vital cross-border transport and economic corridors.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "catastrophic glacial collapse triggers massive flooding across nepal china border",
-      "date": "2026-08-27"
-    },
-    {
-      "headline": "Catastrophic Glacier Collapse Triggers Deadly Himalayan Flash Floods in Nepal and Tibet",
-      "summary": "A massive piece of a glacier collapsed near the Nepal-Tibet border, sending a wall of water, mud, and boulders roaring down river valleys. The disaster has killed nearly 400 people, destroyed entire villages, and left over 1,400 people missing, including hundreds of foreign tourists and pilgrims.",
-      "why": "This is a major natural disaster with an exceptionally high and rising casualty toll, severe cross-border destruction, and an urgent ongoing search-and-rescue operation across remote mountainous terrain.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "catastrophic glacier collapse triggers deadly himalayan flash floods in nepal",
-      "date": "2026-08-27"
-    },
-    {
-      "headline": "Deadly Himalayan floods expose growing mountain climate risks",
-      "summary": "Massive flash floods tore through mountain valleys across Nepal and southern Tibet, killing hundreds and leaving over a thousand people missing [1.2.6]. Rescue teams are racing to reach cut-off villages while watching swollen lakes that could burst at any moment.",
-      "why": "It shows how melting glaciers and violent weather make mountain regions dangerous for millions living downstream.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "deadly himalayan floods expose growing mountain climate risks",
-      "date": "2026-08-27"
-    },
-    {
-      "headline": "US and Iran trade warnings as regional peace talks stall",
-      "summary": "Tensions between the United States and Iran flared again as regional diplomats scrambled to prevent direct military clashes. Both sides are digging in their heels over maritime security and economic pressure.",
-      "why": "A wider fight in the Gulf could choke vital shipping lanes and send fuel prices climbing worldwide.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us and iran trade warnings as regional peace talks stall",
-      "date": "2026-08-27"
-    },
-    {
-      "headline": "Russia targets critical energy networks supplying Europe",
-      "summary": "Heavy strikes hit major gas and energy infrastructure in Ukraine, disrupting key transit corridors. European partners are rushing emergency repair equipment and shoring up air defenses ahead of the colder months.",
-      "why": "Damaged pipeline networks threaten fuel reserves and make energy supplies far more volatile for neighboring countries.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "russia targets critical energy networks supplying europe",
-      "date": "2026-08-27"
-    },
-    {
-      "headline": "World ocean temperatures hit unprecedented records",
-      "summary": "Global sea surface temperatures reached the hottest levels ever recorded, stressing marine life and destabilizing ecosystems. Meteorologists warn that the trapped ocean heat is already feeding unusually erratic weather patterns worldwide.",
-      "why": "Hotter seas act like rocket fuel for severe storms and threaten food supplies for millions of coastal residents.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "world ocean temperatures hit unprecedented records",
-      "date": "2026-08-27"
-    },
-    {
-      "headline": "US cracks down on covert AI chip smuggling to China",
-      "summary": "Federal prosecutors charged tech workers for secretly routing banned artificial intelligence hardware to Chinese firms. Regulators are plugging export loopholes to stop advanced processors from crossing borders through middlemen.",
-      "why": "Controlling high-end chips determines who builds the smartest systems and leads the next era of computing power.",
-      "domain": "Technology",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "us cracks down on covert ai chip smuggling to china",
-      "date": "2026-08-27"
-    },
-    {
       "headline": "Catastrophic Flash Floods Strike Nepal and Tibet Border",
       "summary": "Massive flash floods and mudflows triggered by a suspected glacial collapse have swept through the Nepal-China border region [1.2.5]. Over 400 people are confirmed dead and more than 1,300 remain missing as floodwaters wash away homes, bridges, and infrastructure.",
       "why": "This is a major natural disaster causing hundreds of confirmed deaths and a massive international humanitarian and rescue crisis.",
@@ -3999,6 +3929,16 @@
       "mode": "monitor",
       "fp": "trump rejects iran s deal to reopen the strait of",
       "date": "2026-09-26"
+    },
+    {
+      "headline": "Trump Rejects Iran's 7-Day Plan to Reopen the Strait of Hormuz and End War",
+      "summary": "Iran offered a fast seven-day roadmap to reopen the blocked Strait of Hormuz and restart nuclear negotiations if the United States lifts its naval blockade and oil sanctions. Donald Trump rejected the deal, claiming Tehran only offered it out of desperation because it is losing. Iranian officials warned that conflict will drag on without diplomacy.",
+      "why": "The Strait of Hormuz is the world's most vital maritime oil artery. Sinking this ceasefire roadmap prolongs an active military conflict, keeps critical shipping lanes choked off, and threatens to trigger severe worldwide energy shortages.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "trump rejects iran s 7 day plan to reopen the",
+      "date": "2026-09-27"
     }
   ]
 }
