@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US Moves to Secure Major Oil Stake in Venezuela",
-      "summary": "The US unveiled a controversial framework aimed at taking substantial control over vast oil reserves in Venezuela. The move has sparked fierce pushback from regional leaders and Venezuelan opposition groups who view it as overreach. Analysts say the shift could reshape Western Hemisphere energy control and global crude flows.",
-      "why": "Controlling the tap on some of the planet's largest oil reserves dramatically alters global fuel security and diplomatic leverage in the Americas.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us moves to secure major oil stake in venezuela",
-      "date": "2026-08-29"
-    },
-    {
-      "headline": "Global Government Cyber Sweep Dismantles Covert Hacking Networks",
-      "summary": "US authorities seized major hacking systems used to secretly infiltrate sensitive state departments, energy labs, and central banking networks. Investigators say the hidden server networks hijacked thousands of everyday internet devices to conceal high-level espionage. Officials warn that state-linked groups are increasingly embedding themselves inside foundational public digital networks.",
-      "why": "Modern power grids, water systems, and banking networks run on this digital plumbing, making these invisible intrusions a major risk to everyday safety.",
-      "domain": "Technology",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "global government cyber sweep dismantles covert hacking networks",
-      "date": "2026-08-29"
-    },
-    {
-      "headline": "Catastrophic Himalayan Flash Floods Kill Over 600, With Nearly 3,000 Missing in Nepal and Tibet",
-      "summary": "Massive flash floods and mudslides triggered by a glacial collapse along the Trishuli River have devastated border communities across Nepal and Tibet. The confirmed death toll has climbed past 630, while roughly 3,000 people remain missing. Rescue workers and soldiers are racing to dig through deep mud to reach dozens of workers trapped inside a buried hydropower tunnel, while newly formed glacial lakes create fears of secondary floods.",
-      "why": "This is an enormous natural disaster with massive loss of life, thousands missing, destroyed regional infrastructure, and an urgent international humanitarian emergency requiring multi-nation disaster rescue support.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "catastrophic himalayan flash floods kill over 600 with nearly 3",
-      "date": "2026-08-29"
-    },
-    {
-      "headline": "Middle East Conflict Drives Global Supply Chain and Inflation Risks",
-      "summary": "The expanding conflict involving the U.S., Israel, and Iran continues to disrupt vital shipping routes and energy corridors across the Persian Gulf. World leaders and central bankers are warning that sustained disruptions are driving up shipping costs and threatening renewed inflation. Governments are racing to offer economic buffers while seeking diplomatic off-ramps to prevent wider escalation.",
-      "why": "When trade bottlenecks and energy supplies choke at the source, ordinary families everywhere end up paying more for groceries, heating, and basic goods.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "middle east conflict drives global supply chain and inflation risks",
-      "date": "2026-08-29"
-    },
-    {
-      "headline": "Deadly Flooding and Landslides Devastate Nepal and Border Regions",
-      "summary": "Catastrophic monsoon floods and landslides across Nepal and neighboring border areas have killed hundreds and left thousands missing. Entire mountain communities and transit links have been washed away, severely hampering international rescue and relief efforts. Authorities are struggling to reach cut-off zones as climate-driven extreme weather worsens across South Asia.",
-      "why": "Beyond the immediate human tragedy, it exposes the rising vulnerability of fragile mountain populations to extreme weather disasters.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "deadly flooding and landslides devastate nepal and border regions",
-      "date": "2026-08-29"
-    },
-    {
       "headline": "Intense Drone Strikes and Escalation Hit Critical Infrastructure in Ukraine",
       "summary": "A series of heavy drone and missile strikes struck key logistics hubs and storage sites across Ukraine, causing substantial casualties and supply disruptions. At the same time, naval surveillance and tensions in European maritime passages have flared as neighboring nations increase alerts. The developments signal a grinding and intensified phase of the war that continues to test regional defense resolve.",
       "why": "Sustained attacks on vital infrastructure keep regional security on edge and threaten long-term stability and reconstruction across Eastern Europe.",
@@ -3999,6 +3949,56 @@
       "mode": "monitor",
       "fp": "serbian president aleksandar vu i resigns to seek prime minister",
       "date": "2026-09-27"
+    },
+    {
+      "headline": "Hormuz Standoff Deepens as US-Iran Ceasefire Proposal Hits a Wall",
+      "summary": "The United States rejected an Iranian proposal to reopen the Strait of Hormuz within seven days, keeping the world's most critical oil corridor choked off amid ongoing hostilities. While Qatari and Omani mediators in New York are scrambling to set up fresh indirect talks, fuel prices have surged and Saudi Arabia has had to reroute crude through overland pipelines. Diesel prices are already touching multi-year highs as ships avoid the strait.",
+      "why": "Choking this single waterway acts like a tourniquet on global shipping, driving up the cost of food, fuel, and manufactured goods across the planet.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "hormuz standoff deepens as us iran ceasefire proposal hits a",
+      "date": "2026-09-28"
+    },
+    {
+      "headline": "Global Bond Markets Slump as Energy Inflation Pushes Yields to 20-Year Highs",
+      "summary": "Long-term government bond yields in the US and Europe jumped to their highest levels in roughly two decades as investors dumped debt. The selloff is fueled by fears that Gulf conflict oil spikes and heavy government deficits will force central banks to keep interest rates elevated for much longer. Yields on 30-year US Treasuries climbed past 5.4%, rattling stock markets and currency desks worldwide.",
+      "why": "When long-term government rates jump like this, it acts as a global financial brake, making mortgages, business investment, and credit cards significantly more expensive.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "global bond markets slump as energy inflation pushes yields to",
+      "date": "2026-09-28"
+    },
+    {
+      "headline": "Russian Strikes Hammer Kyiv's Digital Backbone and Data Centers",
+      "summary": "A coordinated overnight wave of Russian drone and missile strikes hit the Ukrainian capital, directly targeting major data centers and the corporate headquarters of Kyivstar, the country's largest telecom carrier. The strikes caused severe fires and knocked out mobile communication and digital networks for thousands of residents and businesses. The bombardment represents an intensified effort to cripple Ukraine's communication grid alongside its energy infrastructure.",
+      "why": "Disabling national telecommunications paralyzes emergency response, banking, and civil administration just as civilian infrastructure faces winter strains.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "russian strikes hammer kyiv s digital backbone and data centers",
+      "date": "2026-09-28"
+    },
+    {
+      "headline": "US and China Extend Trade Truce with Targeted Tariff Cuts",
+      "summary": "Following high-level talks, Washington and Beijing unveiled reciprocal lists of goods targeted for tariff cuts and agreed to extend their trade truce into 2027. The agreement delays aggressive new duties on roughly $30 billion worth of products while negotiations continue over technology and mineral access. Though deep rivalries remain, both sides chose to step back from an immediate escalation.",
+      "why": "It keeps factories moving and prevents an immediate wave of price hikes on everyday electronics and retail goods between the world's two biggest economies.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "us and china extend trade truce with targeted tariff cuts",
+      "date": "2026-09-28"
+    },
+    {
+      "headline": "Looming Cattle Herd Collapse Threatens Global Food Inflation",
+      "summary": "Agricultural reports show cattle herds in top beef-producing nations have dwindled to historic lows following multi-year droughts and soaring feed prices. Ranchers forced to cull breeding stock are finding it too expensive to rebuild their herds under high interest rates and transportation costs. Because cattle take years to raise and replace, the supply crunch is expected to stretch well into the coming years.",
+      "why": "A biological bottleneck in livestock herds guarantees that everyday grocery bills will face sustained upward pressure, squeezing family budgets worldwide.",
+      "domain": "Climate",
+      "severity": "MEDIUM",
+      "mode": "morning",
+      "fp": "looming cattle herd collapse threatens global food inflation",
+      "date": "2026-09-28"
     }
   ]
 }
