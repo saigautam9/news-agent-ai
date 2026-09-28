@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Intense Drone Strikes and Escalation Hit Critical Infrastructure in Ukraine",
-      "summary": "A series of heavy drone and missile strikes struck key logistics hubs and storage sites across Ukraine, causing substantial casualties and supply disruptions. At the same time, naval surveillance and tensions in European maritime passages have flared as neighboring nations increase alerts. The developments signal a grinding and intensified phase of the war that continues to test regional defense resolve.",
-      "why": "Sustained attacks on vital infrastructure keep regional security on edge and threaten long-term stability and reconstruction across Eastern Europe.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "intense drone strikes and escalation hit critical infrastructure in ukraine",
-      "date": "2026-08-29"
-    },
-    {
-      "headline": "U.S. Announces Major Oil Pact Involving Venezuela",
-      "summary": "The United States announced a sweeping agreement involving Venezuela's vast energy sector, aiming to secure access to tens of billions of barrels of crude reserves [1.2.7]. The move marks a sudden pivot from years of sanctions toward direct resource deals to lower domestic energy prices. Global energy markets and regional diplomats are scrambling to see how the agreement will be enforced on the ground.",
-      "why": "Shifting control over massive oil reserves can dramatically alter world fuel prices, geopolitical alliances, and the global transition to cleaner energy.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "u s announces major oil pact involving venezuela",
-      "date": "2026-08-29"
-    },
-    {
-      "headline": "European Natural Gas Reserves Plunge Ahead of Winter",
-      "summary": "European natural gas storage levels have dropped to their lowest point in over a decade due to supply squeeze and high global competition. Officials fear that an early cold snap could trigger sharp spikes in household utility bills and force energy-intensive factories to slow down. Governments are reviewing emergency power-sharing plans and fast-tracking alternative imports.",
-      "why": "Tight winter energy stockpiles put direct pressure on factory output, jobs, and household budgets across the entire continent.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "european natural gas reserves plunge ahead of winter",
-      "date": "2026-08-29"
-    },
-    {
-      "headline": "Catastrophic Glacial Flash Floods Devastate Nepal and Tibet",
-      "summary": "A massive glacial collapse and ice-rock avalanche triggered catastrophic flash floods sweeping downstream through central Nepal and border regions of Tibet, leaving more than 660 confirmed dead and nearly 3,000 people missing as entire villages and critical infrastructure were washed away.",
-      "why": "This represents a massive, sudden natural disaster with an extremely high and rapidly escalating casualty toll, widespread destruction of communities, and a critical ongoing humanitarian emergency.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "catastrophic glacial flash floods devastate nepal and tibet",
-      "date": "2026-08-29"
-    },
-    {
-      "headline": "Catastrophic Floods Sweep Nepal and Tibet, Leaving Hundreds Dead and Over 2,400 Missing",
-      "summary": "A massive wall of water and debris tore through mountain valleys in Nepal and Tibet. It wiped out villages, smashed hydroelectric dams, and left more than 580 confirmed dead with over 2,400 people still unaccounted for.",
-      "why": "This is a massive cross-border natural disaster with thousands of casualties, wiping out critical power infrastructure and displacing entire communities in the Himalayas.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "catastrophic floods sweep nepal and tibet leaving hundreds dead and",
-      "date": "2026-08-29"
-    },
-    {
       "headline": "Catastrophic Flooding Devastates Nepal and Southwest China",
       "summary": "Severe torrential rains triggered catastrophic flash floods and landslides across border regions of Nepal and southwestern China, leaving thousands of people missing and causing widespread destruction.",
       "why": "This is a massive humanitarian disaster with thousands missing, extensive damage to critical infrastructure, and emergency rescue operations underway across international borders.",
@@ -3998,6 +3948,56 @@
       "severity": "MEDIUM",
       "mode": "morning",
       "fp": "looming cattle herd collapse threatens global food inflation",
+      "date": "2026-09-28"
+    },
+    {
+      "headline": "US-Iran Deadlock Keeps the Strait of Hormuz Choked",
+      "summary": "President Trump turned down Tehran\u2019s offer for a seven-day pause to reopen the crucial Strait of Hormuz, demanding big concessions on Iran\u2019s nuclear program first. Mediators from Qatar are scrambling in New York to keep talks alive, but crude oil shot above $107 a barrel. Think of the strait as the world's main fuel pipe; with it pinched, shipping costs and gas prices are feeling the heat.",
+      "why": "If oil tankers cannot safely pass through this narrow doorway, energy bills and shipping costs across the globe stay painfully high.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us iran deadlock keeps the strait of hormuz choked",
+      "date": "2026-09-28"
+    },
+    {
+      "headline": "Russia Pounds Ukrainian Cities and Power Grids Before Winter",
+      "summary": "Russian forces launched thousands of drones and glide bombs over the past week, hitting residential towers, telecom hubs, and the National Academy of Sciences in Kyiv. The barrages killed and wounded dozens while knocking out critical power and communication lines. European defense ministers met in Brussels right away to rush billions of euros for Patriot missile defense systems to shield Ukrainian cities.",
+      "why": "Wrecking heating, energy, and communications right before cold weather sets in aims to break civilian life and forces allies to drain budgets to replace ruined grids.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "russia pounds ukrainian cities and power grids before winter",
+      "date": "2026-09-28"
+    },
+    {
+      "headline": "Deadly Ebola Outbreak in DR Congo Crosses 8,000 Cases",
+      "summary": "The Democratic Republic of the Congo has recorded over 8,000 Ebola cases and nearly 4,000 deaths in the country\u2019s worst outbreak to date. Aid workers face steep hurdles because this outbreak involves the Bundibugyo strain, which lacks an approved vaccine or standard cure. Recent fighting near displacement camps is scattering families, making the virus far harder for medical teams to track and contain.",
+      "why": "Without existing vaccines or peace on the ground, a fast-moving virus with a 48% death rate risks spilling across borders into a wider humanitarian catastrophe.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "deadly ebola outbreak in dr congo crosses 8 000 cases",
+      "date": "2026-09-28"
+    },
+    {
+      "headline": "Foiled Plot at British Air Base Used by US Military",
+      "summary": "British counterterrorism police arrested five men carrying suspected explosives near RAF Fairford, a base used by American bombers. Investigators are looking into whether the suspects were acting on orders to retaliate against Western operations in the Middle East. It shows how quickly a overseas war can send shockwaves directly toward domestic soil.",
+      "why": "Any successful attack on a major Western military installation would drastically widen current conflicts and drag European territory directly into the crosshairs.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "foiled plot at british air base used by us military",
+      "date": "2026-09-28"
+    },
+    {
+      "headline": "US and China Trim Tariffs on $60 Billion in Everyday Goods",
+      "summary": "Fresh off a bilateral summit in Washington, the US and China agreed to drop tariffs on $30 billion worth of products moving in each direction. The deal covers everyday items like toys, kitchenware, American farm crops, and medical supplies. It works like opening a small relief valve on a pressurized cooker, giving shoppers and farmers a welcome break ahead of the holidays.",
+      "why": "While it leaves big technology disputes untouched, it eases trade tensions between the world's two largest economies and helps keep retail prices in check.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "us and china trim tariffs on 60 billion in everyday",
       "date": "2026-09-28"
     }
   ]
