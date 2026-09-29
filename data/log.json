@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Catastrophic Flooding Devastates Nepal and Southwest China",
-      "summary": "Severe torrential rains triggered catastrophic flash floods and landslides across border regions of Nepal and southwestern China, leaving thousands of people missing and causing widespread destruction.",
-      "why": "This is a massive humanitarian disaster with thousands missing, extensive damage to critical infrastructure, and emergency rescue operations underway across international borders.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "catastrophic flooding devastates nepal and southwest china",
-      "date": "2026-08-30"
-    },
-    {
-      "headline": "Sudan's War Expands Deeper into Kordofan",
-      "summary": "Paramilitary forces attacked towns across North Kordofan, killing civilians and sending thousands fleeing from their homes. The fighting between rival generals is spreading into previously stable farming regions, cutting off vital trade routes. Aid agencies warn that this new push is making the country's severe hunger crisis even harder to contain.",
-      "why": "When fighting spills into breadbasket and crossroads towns, it cuts off the last remaining food lines for millions facing famine.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "sudan s war expands deeper into kordofan",
-      "date": "2026-08-30"
-    },
-    {
-      "headline": "Deadly Flash Flooding Tears Through the Nepal-China Border",
-      "summary": "Intense mountain downpours triggered massive flash floods and landslides across Nepal's northern districts and into southern Tibet. Over 800 people have died, and entire villages along steep valleys were swept away within hours. Rescue crews are struggling to reach cut-off communities because key mountain highways and bridges have vanished.",
-      "why": "Himalayan mountain valleys are warming and flooding faster than infrastructure can adapt, threatening key trans-border trade corridors and vulnerable mountain towns.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "deadly flash flooding tears through the nepal china border",
-      "date": "2026-08-30"
-    },
-    {
-      "headline": "Rebel Soldiers Clash at Niger's Presidential Palace",
-      "summary": "Soldiers launched an attack on the presidential palace and a key airbase in Niamey, shaking the military junta that took power three years ago [1.1.9]. The government claims it has contained the mutiny, but heavy fighting and dozens of arrests point to deep cracks inside the armed forces. This comes while the country is already battling regional insurgencies and political isolation.",
-      "why": "Niger sits on major uranium reserves and acts as a security linchpin in the Sahel, so any civil crackup risks creating a giant power vacuum in West Africa.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "rebel soldiers clash at niger s presidential palace",
-      "date": "2026-08-30"
-    },
-    {
-      "headline": "Passenger Ferry Sinks in Eastern Mediterranean",
-      "summary": "A ferry carrying nearly 270 people capsized in rough waters while traveling between Cyprus and Turkey. International and local rescue teams saved over 230 passengers, but several people have died and others remain missing. Maritime authorities are now investigating whether overcrowding or sudden hull failure caused the rapid sinking.",
-      "why": "The disaster puts intense scrutiny on commercial ferry safety standards and emergency coordination across politically divided waters.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "passenger ferry sinks in eastern mediterranean",
-      "date": "2026-08-30"
-    },
-    {
       "headline": "Russia and China Fast-Track Giant Gas Pipeline Talks",
       "summary": "Leaders from Moscow and Beijing are preparing to finalize key terms for the Power of Siberia 2 pipeline ahead of the upcoming regional summit. The deal aims to redirect vast gas supplies that once went to Europe straight into Chinese factories. While Beijing is driving a hard bargain on price, Moscow needs the revenue to keep its wartime economy running.",
       "why": "It locks the world's biggest energy exporter and its biggest manufacturer into a multi-decade embrace that permanently bypasses Western energy markets.",
@@ -3999,6 +3949,56 @@
       "mode": "afternoon",
       "fp": "us and china trim tariffs on 60 billion in everyday",
       "date": "2026-09-28"
+    },
+    {
+      "headline": "US and Iran Teeter Between Peace Talks and Wider War",
+      "summary": "Diplomatic efforts are hanging by a thread as Washington and Tehran trade offers and threats over their monthslong conflict. Military flare-ups near vital Persian Gulf shipping routes have sent oil prices swinging and spiked global borrowing costs. Mediators are rushing to New York to restart talks, but both sides warn the window for a peaceful deal is closing fast.",
+      "why": "A spark here could shut down the world's main oil faucet, driving up the price of gas, groceries, and heating for families worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "us and iran teeter between peace talks and wider war",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "SpaceX Starship Reaches Orbit for the First Time",
+      "summary": "The largest rocket ever built successfully reached Earth orbit, clearing a massive technical hurdle even as its mission ended slightly early. Reaching space with a fully reusable super-heavy vehicle is the space equivalent of inventing a reusable cargo ship instead of throwing the vessel away after every voyage. This milestone dramatically cuts the cost of launching communications satellites, scientific probes, and future lunar hardware.",
+      "why": "Slashing the price of getting into orbit will reshape global communications, navigation networks, and the future space economy.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "spacex starship reaches orbit for the first time",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "Attacks on Middle East Pipelines and Ships Squeeze Global Supply Chains",
+      "summary": "Fresh strikes on critical pipelines and cargo ships around the Arabian Peninsula have forced fleets to detour thousands of miles around Africa. The rerouting adds weeks to delivery schedules, burns millions of barrels of extra bunker fuel, and clogs sea traffic. Factories across Europe and Asia are already reporting delays for essential parts and raw materials.",
+      "why": "When maritime shortcuts shut down, freight costs ripple through the economy, making everyday imported goods more expensive on store shelves.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "attacks on middle east pipelines and ships squeeze global supply",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "Top US Court Takes Up Landmark Climate Damage Lawsuits",
+      "summary": "The US Supreme Court is moving to decide whether local governments can force energy companies to pay for damages from extreme weather like floods and wildfires. Cities argue that energy producers should help foot the cleanup bills, while oil firms warn that liability could crush the energy sector. The eventual decision will determine whether taxpayers or corporate balance sheets pay for mounting climate destruction.",
+      "why": "This outcome will decide who pays trillions of dollars to rebuild broken communities, which will directly alter energy prices and local tax bills.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "top us court takes up landmark climate damage lawsuits",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "Global Pandemic Treaty Stalls at the United Nations",
+      "summary": "Negotiations for a binding worldwide treaty to fight future pandemics hit a wall at the UN General Assembly after major governments refused to sign on. Poorer nations wanted firm promises for shared vaccines and medicines, while wealthier countries pushed back against mandatory patent and technology sharing. Without an agreed rulebook, international cooperation on viral outbreaks remains broken and improvised.",
+      "why": "Without a shared plan, the world risks repeating the same deadly scramble for medicine and hospital gear when the next superbug arrives.",
+      "domain": "Health",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "global pandemic treaty stalls at the united nations",
+      "date": "2026-09-29"
     }
   ]
 }
