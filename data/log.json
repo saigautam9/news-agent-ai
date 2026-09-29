@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US Strikes Iranian Rocket Launchers in Strait of Hormuz",
-      "summary": "U.S. forces struck Iranian Revolutionary Guard rocket sites along the Strait of Hormuz after tracking preparations to launch sea-mine-equipped rockets into the shipping corridor, prompting immediate vows of retaliation from Tehran [1.1.1].",
-      "why": "The Strait of Hormuz is the world's most critical oil transit chokepoint. Direct military engagement and threats of naval mining there risk immediate escalation into wider regional warfare and severe global energy market disruptions.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us strikes iranian rocket launchers in strait of hormuz",
-      "date": "2026-08-30"
-    },
-    {
-      "headline": "U.S. and Iran trade direct missile and airstrikes around the Persian Gulf, raising fears of wider conflict",
-      "summary": "Hostilities between the U.S. and Iran flared sharply after U.S. forces struck missile launchers on Iran's Larak Island. Iran responded with ballistic missile strikes against U.S. airbases in Jordan and maritime targets near the Strait of Hormuz, prompting the U.S. administration to threaten retaliatory strikes on Iran's critical Kharg Island oil infrastructure.",
-      "why": "This represents a direct military clash between major powers in a vital global energy transit route, threatening global oil supplies and risking full-scale war across the region.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s and iran trade direct missile and airstrikes around",
-      "date": "2026-08-31"
-    },
-    {
-      "headline": "Massive mountain floods kill over 900 across Nepal and China",
-      "summary": "Extreme monsoon rainfall triggered catastrophic flash floods and landslides across Nepal and southern China. Over 900 people are confirmed dead, with emergency crews racing to save hundreds of workers trapped inside flooded hydropower tunnels. The disaster washed away roads, bridges, and power lines across the Himalayas.",
-      "why": "The wreckage of major dams cuts off power for millions and shows how vulnerable critical energy networks are to climate shocks.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "massive mountain floods kill over 900 across nepal and china",
-      "date": "2026-08-31"
-    },
-    {
-      "headline": "US and Iran trade missile strikes near vital oil shipping route",
-      "summary": "The US military bombed Iranian rocket sites near the Strait of Hormuz, and Iran quickly fired back [1.1.6]. Both governments are now threatening key energy hubs, putting global shipping lanes on high alert. It is like two rivals throwing sparks near a gas station.",
-      "why": "If tanker traffic through that narrow sea passage stalls, fuel and grocery prices will quickly rise across the world.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us and iran trade missile strikes near vital oil shipping",
-      "date": "2026-08-31"
-    },
-    {
-      "headline": "Xi and Putin meet as Moscow leans harder on Beijing's economy",
-      "summary": "Vladimir Putin and Xi Jinping met at a regional summit in Central Asia to lock in closer trade, energy, and military cooperation. Squeezed by Western sanctions and domestic refinery strikes, Russia is selling discounted crude to China in exchange for manufactured parts and tech. The dynamic leaves Beijing holding most of the cards in their relationship.",
-      "why": "This growing partnership fractures world trade into two separate economic camps and blunts the power of global financial sanctions.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "xi and putin meet as moscow leans harder on beijing",
-      "date": "2026-08-31"
-    },
-    {
       "headline": "Ammunition blast near Kyiv kills 37 and levels nearby homes",
       "summary": "A Russian strike hit a munitions depot outside Kyiv, triggering huge secondary blasts that wrecked roughly 50 residential buildings and killed at least 37 people. Ukrainian officials launched a criminal inquiry into why explosives were stored right beside neighborhoods. The blast forced hundreds of residents out of their ruined apartments.",
       "why": "It highlights the deadly civilian danger when wartime armies stockpile heavy ammunition inside crowded urban zones.",
@@ -3998,6 +3948,56 @@
       "severity": "CRITICAL",
       "mode": "monitor",
       "fp": "spacex starship reaches earth orbit for the first time",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "Standoff over the Strait of Hormuz keeps oil on edge",
+      "summary": "Talks between the United States and Iran hit a wall after Washington turned down Tehran's proposal to reopen the vital shipping route. Iranian officials stated they have no immediate plans for direct talks, leaving Qatari mediators scrambling to keep diplomacy alive. With tankers blocked from moving freely, global crude supplies remain tight and energy prices continue to push higher.",
+      "why": "About a fifth of the planet's oil moves through this single narrow waterway, meaning any prolonged bottleneck makes everyday fuel and electricity pricier across the world.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "standoff over the strait of hormuz keeps oil on edge",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "Allies rush to shield Saudi oil ports from Houthi strikes",
+      "summary": "Yemen's Houthi forces launched fresh drone and missile attacks on Saudi Aramco energy hubs, prompting pipeline shutdowns and air raid alerts. France announced it is deploying air defense batteries to the Saudi port of Yanbu, while regional allies called emergency defense talks. At the same time, fighting near Yemen's coast is threatening cargo traffic through the Bab al-Mandab Strait.",
+      "why": "Attacks on major oil hubs and shipping lanes act like a roadblock on global commerce, raising shipping insurance costs and delaying basic goods.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "allies rush to shield saudi oil ports from houthi strikes",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "Renewed air strikes slam Kyiv as Ukraine pleads for air defense",
+      "summary": "Russian missiles and drones struck residential and commercial areas in Kyiv and industrial centers across Ukraine early Tuesday. Ukrainian leaders wrapped up discussions at the UN General Assembly with urgent calls to Western allies for more interceptor batteries. The relentless bombardment continues to batter the country's power grid as winter approaches.",
+      "why": "Wrecking Ukraine's energy network puts millions of regular families at risk of freezing conditions and tests Western political stamina.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "renewed air strikes slam kyiv as ukraine pleads for air",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "US and China agree to a temporary trade truce",
+      "summary": "Donald Trump and Xi Jinping finished high-stakes meetings in Washington, agreeing to extend a tariff ceasefire and trim duties on tens of billions in goods. They also set up a bilateral trade council and agreed to talk about artificial intelligence guardrails. Tough issues like bans on advanced computer chips were left off the table, giving both sides breathing room rather than a final peace.",
+      "why": "When the world's two economic heavyweights pause their trade fight, it prevents supply chains from snapping and calms global markets.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "us and china agree to a temporary trade truce",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "American troops complete their departure from Iraq",
+      "summary": "The United States is handing over its last military bases in Iraq ahead of the formal September 30 withdrawal deadline. The exit wraps up more than twenty years of coalition military operations under an agreement negotiated two years ago. Baghdad now has to police its own airspace and territory amid simmering regional friction.",
+      "why": "Removing the US military shield creates a power vacuum that could allow regional rivals and militant remnants to expand their reach.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "american troops complete their departure from iraq",
       "date": "2026-09-29"
     }
   ]
