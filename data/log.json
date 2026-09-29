@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Russia and China Fast-Track Giant Gas Pipeline Talks",
-      "summary": "Leaders from Moscow and Beijing are preparing to finalize key terms for the Power of Siberia 2 pipeline ahead of the upcoming regional summit. The deal aims to redirect vast gas supplies that once went to Europe straight into Chinese factories. While Beijing is driving a hard bargain on price, Moscow needs the revenue to keep its wartime economy running.",
-      "why": "It locks the world's biggest energy exporter and its biggest manufacturer into a multi-decade embrace that permanently bypasses Western energy markets.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "russia and china fast track giant gas pipeline talks",
-      "date": "2026-08-30"
-    },
-    {
       "headline": "US Strikes Iranian Rocket Launchers in Strait of Hormuz",
       "summary": "U.S. forces struck Iranian Revolutionary Guard rocket sites along the Strait of Hormuz after tracking preparations to launch sea-mine-equipped rockets into the shipping corridor, prompting immediate vows of retaliation from Tehran [1.1.1].",
       "why": "The Strait of Hormuz is the world's most critical oil transit chokepoint. Direct military engagement and threats of naval mining there risk immediate escalation into wider regional warfare and severe global energy market disruptions.",
@@ -3998,6 +3988,16 @@
       "severity": "HIGH",
       "mode": "evening",
       "fp": "global pandemic treaty stalls at the united nations",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "SpaceX Starship Reaches Earth Orbit for the First Time",
+      "summary": "SpaceX launched Starship, the largest and most powerful rocket ever built, into Earth orbit for the first time on its 14th test flight, successfully deploying operational satellites into space before splashing down in the Pacific Ocean.",
+      "why": "Reaching orbit proves the massive, reusable launch system works in space. It marks a major technological leap that drastically lowers the cost of carrying heavy cargo to orbit and clears a critical milestone for returning humans to the Moon.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "spacex starship reaches earth orbit for the first time",
       "date": "2026-09-29"
     }
   ]
