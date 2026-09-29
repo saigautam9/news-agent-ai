@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Ammunition blast near Kyiv kills 37 and levels nearby homes",
-      "summary": "A Russian strike hit a munitions depot outside Kyiv, triggering huge secondary blasts that wrecked roughly 50 residential buildings and killed at least 37 people. Ukrainian officials launched a criminal inquiry into why explosives were stored right beside neighborhoods. The blast forced hundreds of residents out of their ruined apartments.",
-      "why": "It highlights the deadly civilian danger when wartime armies stockpile heavy ammunition inside crowded urban zones.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "ammunition blast near kyiv kills 37 and levels nearby homes",
-      "date": "2026-08-31"
-    },
-    {
-      "headline": "Military mutiny in Niger exposes cracks in Russia's African security push",
-      "summary": "Troops in Niger revolted against their commanders, laying bare severe infighting within the military junta and its Russian-backed Africa Corps. Moscow stepped in to replace Western troops in the region, but local soldiers are struggling to push back insurgent fighters. The unrest reveals growing frustration among local units over poor safety and broken promises.",
-      "why": "Instability in the Sahel threatens key cross-desert transport corridors and risks creating fresh refugee movements toward neighboring regions.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "military mutiny in niger exposes cracks in russia s african",
-      "date": "2026-08-31"
-    },
-    {
-      "headline": "Catastrophic Glacial Collapse and Flooding Hits Nepal and China",
-      "summary": "A massive glacial collapse triggered severe flash floods across the border regions of Nepal and China, killing over 950 people and trapping hundreds inside damaged hydropower tunnels.",
-      "why": "This is a mass-casualty natural disaster that has caused extreme loss of life and wiped out critical regional energy and transport infrastructure.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "catastrophic glacial collapse and flooding hits nepal and china",
-      "date": "2026-08-31"
-    },
-    {
-      "headline": "US and Iran Trade Direct Missile Strikes, Ending Month-Long Pause",
-      "summary": "US forces hit Iranian rocket launchers in the Strait of Hormuz, and Iran fired back with ballistic missiles at US-linked bases in Jordan and the UAE. President Trump warned that the US plans to hit Iran back hard.",
-      "why": "This breaks a four-week lull in direct combat between the two militaries, sharply escalating the risk of a broader regional war and threatening oil transit through the world's most critical energy chokepoint.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us and iran trade direct missile strikes ending month long",
-      "date": "2026-09-01"
-    },
-    {
-      "headline": "US Army Secretary Resigns Amid Pentagon Clashes Over Military Purges",
-      "summary": "Army Secretary Dan Driscoll resigned after ongoing disputes with Defense Secretary Pete Hegseth over the firing of several top military generals and the direction of Army modernization.",
-      "why": "The resignation leaves the United States Army without Senate-confirmed top civilian leadership during an active military conflict in the Middle East.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us army secretary resigns amid pentagon clashes over military purges",
-      "date": "2026-09-01"
-    },
-    {
       "headline": "US and Iran trade strikes around vital oil shipping routes",
       "summary": "The United States launched fresh strikes on Iranian positions near the Strait of Hormuz to stop naval minelaying, prompting Iran to fire missiles back at regional bases. Regional mediators are scrambling to restore a shaky ceasefire, but both sides remain on a hair-trigger over shipping lanes and sanctions. The standoff has jittery global markets worried about oil supplies being choked off.",
       "why": "If this narrow shipping corridor gets blocked, energy bills around the world could jump overnight like gas prices during an oil embargo.",
@@ -3998,6 +3948,56 @@
       "severity": "CRITICAL",
       "mode": "morning",
       "fp": "american troops complete their departure from iraq",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "U.S. and Iran Reach High-Stakes Impasse Over Persian Gulf War",
+      "summary": "Fragile back-channel ceasefire talks in New York stalled as Iranian diplomats prepared to leave the United Nations without a deal. Iran offered to reopen the vital Strait of Hormuz in exchange for sanctions relief and an end to the U.S. naval blockade, but President Trump publicly rejected the terms. The standoff leaves roughly a fifth of the world's oil traffic bottled up, keeping fuel prices dangerously high.",
+      "why": "If talks collapse into wider strikes, energy supplies around the globe could choke and send everyday living costs skyrocketing.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "u s and iran reach high stakes impasse over persian",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "Ethiopia Slides Back Toward All-Out Civil War",
+      "summary": "Intense fighting has flared across northern Ethiopia as a coalition of regional fighters clashed with federal troops, shattering a four-year peace accord. Government forces moved into key border towns while neighboring Eritrean troops reportedly crossed into the fight. Aid convoys are completely blocked, leaving millions of vulnerable civilians cut off from food and electricity.",
+      "why": "Renewed conflict in Africa's second most populous nation could unleash mass famine and drag the entire Horn of Africa into chaos.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ethiopia slides back toward all out civil war",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "Sudan's Humanitarian Crisis Triggers Fiery Clash at the UN",
+      "summary": "Sudan's war took center stage on the closing day of the UN General Assembly as delegates traded bitter accusations over foreign weapon shipments fueling the violence. Fighting between the national army and rival paramilitaries has displaced millions and caused extreme hunger across the country. Diplomats warned that outside nations are treating the war like a proxy playground while ignoring the suffering of ordinary families.",
+      "why": "Sudan is enduring the world's worst displacement crisis, and endless foreign meddling is pushing the country toward total collapse.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "sudan s humanitarian crisis triggers fiery clash at the un",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "Pentagon Moves to Cut Top Generals and Admirals by 20 Percent",
+      "summary": "Defense Secretary Pete Hegseth ordered a 20 percent reduction in top-tier four-star generals and admirals across the U.S. military. Hegseth says the move trims a bloated corporate-style headquarters and puts battlefield officers back in charge. Critics and defense experts warn that purging dozens of senior commanders risks politicizing the armed forces and losing decades of wartime experience.",
+      "why": "It marks the biggest shake-up of American military leadership in generations, happening right as the nation juggles multiple overseas conflicts.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "pentagon moves to cut top generals and admirals by 20",
+      "date": "2026-09-29"
+    },
+    {
+      "headline": "Australia Hikes Rates to 15-Year High as Energy Shocks Stoke Inflation",
+      "summary": "Australia's central bank unexpectedly lifted its benchmark interest rate to 4.60 percent, the highest level seen since 2011. Officials blamed stubborn local price pressures and surging global oil costs driven by Middle East shipping disruptions. The move warns that central banks everywhere may keep borrowing costs high for much longer than people hoped.",
+      "why": "It shows how distant geopolitical shocks quickly hit ordinary families at home through steeper mortgage payments and stubborn store prices.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "australia hikes rates to 15 year high as energy shocks",
       "date": "2026-09-29"
     }
   ]
