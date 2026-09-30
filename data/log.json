@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "U.S. Military Launches New Wave of Strikes Against Iranian Forces",
-      "summary": "U.S. Central Command confirmed it began striking Islamic Revolutionary Guard Corps targets inside Iran around midday, retaliating against Iranian drone strikes and attempts to place mines in the Strait of Hormuz.",
-      "why": "This is a direct military confrontation between two heavily armed states over the world's most vital energy transit corridor, creating an immediate risk of wider war and energy market disruptions.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s military launches new wave of strikes against iranian",
-      "date": "2026-09-01"
-    },
-    {
-      "headline": "Death Toll Tops 1,000 in Devastating Nepal-China Glacial Floods",
-      "summary": "Mass burials are underway across the Himalayas after the death toll from catastrophic glacial collapse and flash floods crossed 1,000, with more than 4,000 people still missing.",
-      "why": "This is a major humanitarian disaster that has obliterated mountain communities, crippled critical hydropower infrastructure, and claimed thousands of lives.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "death toll tops 1 000 in devastating nepal china glacial",
-      "date": "2026-09-01"
-    },
-    {
-      "headline": "Missile and Mine Strikes in Hormuz Threaten Global Oil Flow",
-      "summary": "Two oil tankers were struck near the Strait of Hormuz, prompting fresh US military strikes against Iranian targets. The clashes are choking the world's most critical maritime bottleneck and jolting energy markets worldwide. Governments and central banks are already preparing for another wave of inflation as shipping costs climb.",
-      "why": "A prolonged disruption in this narrow channel acts like a blocked fuel line for the world economy, driving up prices for everything from gas to groceries.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "missile and mine strikes in hormuz threaten global oil flow",
-      "date": "2026-09-01"
-    },
-    {
-      "headline": "Massive Floods in Nepal Leave Over 1,000 Dead",
-      "summary": "Catastrophic monsoon flooding and landslides swept across Nepal, washing away villages and trapping hundreds of workers in collapsed hydropower tunnels. Emergency crews are racing against time, but destroyed roads and severed power lines have cut off entire regions. Aid agencies warn the disaster has overwhelmed local rescue systems and left thousands homeless.",
-      "why": "It highlights how vulnerable mountain communities and clean-energy infrastructure are to increasingly severe climate shocks.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "massive floods in nepal leave over 1 000 dead",
-      "date": "2026-09-01"
-    },
-    {
-      "headline": "Germany Blames Russia for Drone Sabotage on European Infrastructure",
-      "summary": "German officials formally accused Russia of launching drone attacks against Leipzig airport and sabotaging key power lines in Brandenburg. The incidents mark a sharp escalation in suspected hybrid warfare deep inside NATO territory. European leaders are now tightening border controls and scrambling to protect critical energy and transit grids.",
-      "why": "It shows modern warfare is spilling out of Ukraine and directly targeting the everyday systems that keep Europe running.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "germany blames russia for drone sabotage on european infrastructure",
-      "date": "2026-09-01"
-    },
-    {
       "headline": "Russian Strikes Zero In on Ukraine's Rail Network",
       "summary": "Russian forces launched a coordinated barrage targeting Ukraine's central railway lines and transport hubs. The rail system serves as the country's primary lifeline for moving food, civilians, and military supplies. The strikes threaten to paralyze domestic travel and choke essential trade routes connecting Ukraine to Europe.",
       "why": "Severing the railways cuts off the main circulatory system keeping Ukraine's economy and defense supplied.",
@@ -3998,6 +3948,56 @@
       "severity": "HIGH",
       "mode": "morning",
       "fp": "us and china extend fragile trade truce ahead of summit",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "U.S. and Iran Weigh Ceasefire Over Key Oil Route",
+      "summary": "Washington sent Tehran a counterproposal to pause their seven-month conflict and gradually reopen the blocked Strait of Hormuz. While diplomats trade offers behind closed doors, Iranian military commanders publicly insist that all American troops must leave the region first. Both sides are trying to relieve economic strain on global supply chains without appearing to back down.",
+      "why": "This narrow channel moves a fifth of the world's oil, so whether these talks hold decides energy bills and inflation for every household on Earth.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "u s and iran weigh ceasefire over key oil route",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "Long-Range Drone Strikes Target Russian Energy Hubs",
+      "summary": "Mass drone barrages struck major oil processing centers deep inside Russian territory, damaging facilities near Moscow. Kyiv is deliberately targeting the industrial engines that pay for the conflict, while Moscow claims the vast majority of incoming drones were shot down. Both militaries are increasingly shifting their focus from trenches to the critical infrastructure keeping each nation running.",
+      "why": "Hitting energy infrastructure hundreds of miles from the front lines squeezes fuel supplies and threatens to trigger another round of global commodity spikes.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "long range drone strikes target russian energy hubs",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "Last U.S. Combat Forces Pull Out of Iraq",
+      "summary": "The final American military units have officially departed Iraq, fulfilling a withdrawal timetable agreed upon two years ago. Baghdad celebrated the move as a major step toward full national sovereignty, while Washington describes it as a transition to a standard diplomatic relationship. The exit leaves Iraqi forces on their own to handle regional security and manage heavy political pressure from neighboring Iran.",
+      "why": "It brings an end to over two decades of direct American military presence and decisively shifts the balance of power across the Middle East.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "last u s combat forces pull out of iraq",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "Supreme Court Allows Third-Country Deportations to Continue",
+      "summary": "The U.S. Supreme Court allowed immigration officials to keep deporting asylum seekers to third-party countries where they have zero family or cultural ties. Roughly 25,000 migrants have already been sent to about twenty unfamiliar nations while lower-court challenges play out. Human rights groups warn the practice leaves vulnerable people stranded with no support system, but officials argue it deters border crossings.",
+      "why": "It sets a radical new precedent in international migration law by disconnecting deportation from a person's actual homeland.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "supreme court allows third country deportations to continue",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "Stubborn Inflation Sparks Warnings of New Rate Hikes",
+      "summary": "Fresh government data shows inflation held flat at 3.4 percent in August rather than cooling down as expected. Central bankers signaled that borrowing costs may need to climb even higher before the year ends to choke off price pressures. Ordinary families are still feeling the pinch on rent and food, while employers warn that costlier loans could soon freeze hiring.",
+      "why": "Higher interest rates act like a brake on the whole economy, making mortgages and credit cards far more expensive for regular people.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "stubborn inflation sparks warnings of new rate hikes",
       "date": "2026-09-30"
     }
   ]
