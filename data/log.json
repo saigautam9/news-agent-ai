@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Russian Strikes Zero In on Ukraine's Rail Network",
-      "summary": "Russian forces launched a coordinated barrage targeting Ukraine's central railway lines and transport hubs. The rail system serves as the country's primary lifeline for moving food, civilians, and military supplies. The strikes threaten to paralyze domestic travel and choke essential trade routes connecting Ukraine to Europe.",
-      "why": "Severing the railways cuts off the main circulatory system keeping Ukraine's economy and defense supplied.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "russian strikes zero in on ukraine s rail network",
-      "date": "2026-09-01"
-    },
-    {
-      "headline": "Spain Clashes With Foreign Powers Over Ceuta Border Crisis",
-      "summary": "Spanish Prime Minister Pedro S\u00e1nchez accused foreign actors of fueling a sudden migration surge and spreading disinformation at the Ceuta border enclave. The standoff has triggered emergency security measures and strained diplomatic ties across the Mediterranean. European capitals are treating the border pressure as a coordinated campaign to test EU cohesion.",
-      "why": "Weaponizing migration routes puts intense political pressure on European unity and border stability.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "spain clashes with foreign powers over ceuta border crisis",
-      "date": "2026-09-01"
-    },
-    {
-      "headline": "US launches new barrage of airstrikes against Iran near Strait of Hormuz",
-      "summary": "The US military carried out fresh airstrikes against Iranian Revolutionary Guard targets across southern Iran, including Bandar Abbas and Qeshm Island. The strikes came after renewed projectile attacks on commercial oil tankers and US bases in the region. President Trump warned of even larger attacks if Iran responds.",
-      "why": "The Strait of Hormuz is the world's most critical oil chokepoint. Direct military clashes here risk shutting down global fuel shipments and spiraling into a wider regional war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us launches new barrage of airstrikes against iran near strait",
-      "date": "2026-09-01"
-    },
-    {
-      "headline": "Death toll passes 1,000 in catastrophic Nepal-China Himalayan flood disaster",
-      "summary": "Massive flash floods and mudslides triggered by a high-altitude glacier collapse swept through mountain valleys along the Nepal-China border. Official death tolls officially passed 1,000 today, with over 4,000 people still missing across both countries.",
-      "why": "This is one of the deadliest climate-driven natural disasters in the region in decades, causing massive loss of life and destroying critical regional infrastructure.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "death toll passes 1 000 in catastrophic nepal china himalayan",
-      "date": "2026-09-01"
-    },
-    {
-      "headline": "Nepal and China flood disaster death toll surpasses 1,000",
-      "summary": "Catastrophic flash floods and mudslides across Nepal and border regions of China have killed more than 1,000 people. Emergency crews are digging through mud-filled tunnels and buried settlements searching for survivors.",
-      "why": "This is a major natural disaster causing massive loss of life and severe humanitarian destruction across the region.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "nepal and china flood disaster death toll surpasses 1 000",
-      "date": "2026-09-02"
-    },
-    {
       "headline": "U.S. Launches Fresh Direct Strikes on Targets in Iran",
       "summary": "The United States military carried out a new wave of airstrikes against Iranian targets following attacks on commercial ships in the Persian Gulf region.",
       "why": "Direct combat exchanges between major militaries in a vital oil choke point threaten a wider regional war and immediate shocks to global energy supplies.",
@@ -3998,6 +3948,56 @@
       "severity": "CRITICAL",
       "mode": "afternoon",
       "fp": "stubborn inflation sparks warnings of new rate hikes",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "Passengers Thwart Cockpit Attack on Israel-Bound Flight",
+      "summary": "A co-pilot stabbed the flight captain and attempted to crash a passenger jet flying between Dubai and Tel Aviv before crew and passengers broke into the cockpit. The airliner plunged thousands of feet in roughly a minute before crew members regained control and made an emergency landing in Saudi Arabia. The flight was diverted safely, but the incident has sparked immediate global aviation security reviews.",
+      "why": "It exposes major vulnerabilities in mental health and cockpit screening while testing delicate security diplomacy in a volatile corridor.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "passengers thwart cockpit attack on israel bound flight",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "Western Coalition Officially Ends Military Mission in Iraq",
+      "summary": "The United States, Britain, and their partners have pulled their final combat troops out of Iraq, officially concluding the anti-ISIS campaign Operation Inherent Resolve. The exit fulfills a bilateral agreement to hand full defense responsibility over to Iraqi security forces. It formally closes over a decade of direct Western ground operations in the country.",
+      "why": "It removes an international safety net, testing whether Baghdad can keep extremist cells down while caught between competing regional powers.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "western coalition officially ends military mission in iraq",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "Oil Surpasses $100 a Barrel as Middle East Shipping Clashes Flare",
+      "summary": "Global crude prices climbed back above $100 a barrel following strikes on commercial oil tankers and maritime trade routes. Heightened friction between the U.S. and Iran has forced cargo ships to take long, expensive detours. Refineries and shippers are passing along higher insurance and freight bills straight down the supply chain.",
+      "why": "When oil spikes, it acts like an automatic tax hike on almost everything people eat, buy, or use to travel.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "oil surpasses 100 a barrel as middle east shipping clashes",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "AI Expansion Triggers Fierce Fights Over Local Power and Water",
+      "summary": "Rapid construction of massive artificial intelligence data hubs is outstripping local utility networks across major economies. Power companies warn that the surge in energy and water demand from these server warehouses risks overloading neighborhood grids. Governments are now drafting emergency rules to decide who gets power priority when supplies run thin.",
+      "why": "It forces cities to choose between feeding the tech industry's insatiable appetite and keeping household electricity cheap and reliable.",
+      "domain": "Technology",
+      "severity": "MEDIUM",
+      "mode": "evening",
+      "fp": "ai expansion triggers fierce fights over local power and water",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "Canada Strikes Back With Reciprocal Tariffs on American Goods",
+      "summary": "Canada has activated retaliatory tariffs on American steel, metals, and machinery in response to trade duties levied by Washington. Trade ministers insist the counter-tariffs are necessary to shield domestic workers, even as corporate lobbies plead for calm. Border-dependent factories are already bracing for shipment delays and parts shortages.",
+      "why": "Tit-for-tat trade barriers between close trading partners drive up factory costs and leave ordinary consumers footing the bill.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "canada strikes back with reciprocal tariffs on american goods",
       "date": "2026-09-30"
     }
   ]
