@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US and Iran trade strikes around vital oil shipping routes",
-      "summary": "The United States launched fresh strikes on Iranian positions near the Strait of Hormuz to stop naval minelaying, prompting Iran to fire missiles back at regional bases. Regional mediators are scrambling to restore a shaky ceasefire, but both sides remain on a hair-trigger over shipping lanes and sanctions. The standoff has jittery global markets worried about oil supplies being choked off.",
-      "why": "If this narrow shipping corridor gets blocked, energy bills around the world could jump overnight like gas prices during an oil embargo.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us and iran trade strikes around vital oil shipping routes",
-      "date": "2026-09-01"
-    },
-    {
-      "headline": "Russia unleashes relentless six-day air assault on Ukrainian cities",
-      "summary": "Russian forces carried out heavy overnight missile and drone bombardments against Kyiv and eight other regions for a sixth straight day. The strikes hit residential neighborhoods and energy grids right as millions of children returned to school. Meanwhile, high-level diplomatic talks at the G20 showed both sides remain far apart on ending the war.",
-      "why": "Moscow is trying to grind down civilian endurance before winter, locking Europe into another long, expensive security standoff.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "russia unleashes relentless six day air assault on ukrainian cities",
-      "date": "2026-09-01"
-    },
-    {
-      "headline": "Massive Himalayan flash floods kill over a thousand in Nepal and China",
-      "summary": "Catastrophic flash floods and landslides swept through mountain valleys along the Nepal-China border, killing more than 1,000 people and leaving thousands missing. Whole villages and bridges were washed away, forcing emergency crews into mass burials while struggling to access cut-off regions. Experts say supercharged monsoon rains are rapidly overwhelming fragile mountain terrain.",
-      "why": "It is a tragic warning of how extreme weather is wiping out entire communities and vital regional infrastructure with almost no notice.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "massive himalayan flash floods kill over a thousand in nepal",
-      "date": "2026-09-01"
-    },
-    {
-      "headline": "Spiking energy costs spark a fresh wave of global inflation",
-      "summary": "New economic reports show inflation heating up again across Europe and major markets, fueled mostly by rising oil and shipping costs. Unlike the pandemic crunch, this price jump comes straight from geopolitical turmoil rattling fuel supplies. Central bankers are now warning they may have to keep interest rates high to keep prices from spiraling.",
-      "why": "When fuel gets expensive, everyday goods follow, leaving regular families squeezed and making loans much harder to afford.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "spiking energy costs spark a fresh wave of global inflation",
-      "date": "2026-09-01"
-    },
-    {
-      "headline": "US Postal Service whistleblower sounds alarm over mail voting changes",
-      "summary": "A postal whistleblower warned that rushed overhauls to comply with presidential directives could cause massive failures in mail-in ballot delivery ahead of upcoming elections. The revelation sparked fierce arguments between officials over voting rules and mail reliability. Several states are now demanding independent checks to ensure ballots do not get lost in transit.",
-      "why": "If people lose trust in how votes are delivered and counted, the results of the world's most watched elections will be disputed from day one.",
-      "domain": "Society",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "us postal service whistleblower sounds alarm over mail voting changes",
-      "date": "2026-09-01"
-    },
-    {
       "headline": "U.S. Military Launches New Wave of Strikes Against Iranian Forces",
       "summary": "U.S. Central Command confirmed it began striking Islamic Revolutionary Guard Corps targets inside Iran around midday, retaliating against Iranian drone strikes and attempts to place mines in the Strait of Hormuz.",
       "why": "This is a direct military confrontation between two heavily armed states over the world's most vital energy transit corridor, creating an immediate risk of wider war and energy market disruptions.",
@@ -3999,6 +3949,56 @@
       "mode": "afternoon",
       "fp": "australia hikes rates to 15 year high as energy shocks",
       "date": "2026-09-29"
+    },
+    {
+      "headline": "US and Coalition Troops Fully Withdraw From Iraq",
+      "summary": "The last American and British troops have officially left Iraq, ending a combat and advisory mission that lasted more than two decades. Iraqi forces are now entirely on their own to prevent extremist groups from rebounding, while neighboring Iran works quickly to expand its influence across the country. The exit marks the definitive close of America's longest post-9/11 military deployment.",
+      "why": "It completely redraws Middle Eastern security dynamics, leaving a fragile power vacuum that could determine whether the region stabilizes or slides into fresh proxy wars.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us and coalition troops fully withdraw from iraq",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "Global Bond Sell-Off Pushes Borrowing Costs to Decades-High Levels",
+      "summary": "A sharp sell-off in government bonds pushed benchmark interest yields to their highest levels in almost twenty years. Tepid demand at debt auctions combined with persistent economic strain triggered broad drops across stock markets from New York to Tokyo. Spiking yields act like a giant brake on the global economy, making every dollar borrowed costlier.",
+      "why": "When sovereign bond yields climb this high, mortgages, business loans, and national debt payments become far more expensive for ordinary people and governments alike.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "global bond sell off pushes borrowing costs to decades high",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "Tech Giants Sign White House Accord to Self-Police AI",
+      "summary": "The White House and chiefs of major technology firms signed a landmark agreement to let the tech industry police its own artificial intelligence safety. The deal relies on voluntary guardrails even as safety researchers warn that advanced models are growing too capable to manage without legal oversight. Washington chose a light-touch approach, betting that software creators can manage catastrophic risks better than regulators can.",
+      "why": "Letting companies grade their own homework will dictate how the most powerful technology in human history is controlled, protected, and rolled out to society.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "tech giants sign white house accord to self police ai",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "Cockpit Attack Diverts Tel Aviv-Bound Flight Into Saudi Arabia",
+      "summary": "A commercial flight heading to Israel made an emergency landing in Saudi Arabia after an attacker stabbed the pilot mid-air. Israeli travelers were abruptly grounded in a kingdom that still has no formal diplomatic ties with Israel, forcing emergency back-channel negotiations to coordinate their safety and evacuation. Security agencies across several nations launched joint investigations into how the assailant breached the cockpit.",
+      "why": "The rare incident tests the fragile, informal diplomatic relationship between Saudi Arabia and Israel while raising urgent alarms over commercial aviation security.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "cockpit attack diverts tel aviv bound flight into saudi arabia",
+      "date": "2026-09-30"
+    },
+    {
+      "headline": "US and China Extend Fragile Trade Truce Ahead of Summit",
+      "summary": "Washington and Beijing agreed to a two-month freeze on new tariffs just as Chinese leadership arrived in America for high-stakes talks. The temporary pause prevents immediate, punitive taxes on factory goods, metals, and consumer electronics. While both sides avoided an immediate economic collision, deep disagreements over technology controls and supply chains remain unresolved.",
+      "why": "Preventing an economic fight between the world's two largest powers keeps global supply chains from breaking and shields consumers from sharp price spikes.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "us and china extend fragile trade truce ahead of summit",
+      "date": "2026-09-30"
     }
   ]
 }
