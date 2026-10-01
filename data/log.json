@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Chevron signs multi-billion-dollar oil pact to ramp up Venezuela production",
-      "summary": "Chevron inked major long-term agreements with Venezuela to pour over seven billion dollars into the Orinoco oil belt. The deal aims to more than double output to 600,000 barrels a day under restructured fiscal and operating terms. It represents a decisive pivot by Washington to secure alternative crude supplies in the Western hemisphere.",
-      "why": "Locking in heavy crude nearby acts as a crucial safety valve against potential supply cutoffs in the volatile Middle East.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "chevron signs multi billion dollar oil pact to ramp up",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "US and Iran Trade Direct Strikes in Sharp Persian Gulf Escalation",
-      "summary": "The US military launched a major wave of airstrikes hitting Iranian air defense, radar, and naval sites near the Strait of Hormuz after accusing Iran of attempting to lay mines. Iran retaliated by firing drones and missiles toward US base locations and American allies across Kuwait, Bahrain, and Jordan, ending a month-long lull in direct fighting.",
-      "why": "This sudden exchange breaks weeks of relative calm and drags multiple neighboring Gulf countries into the line of fire. It sharply elevates the risk of a full-scale regional war and threatens shipping through the Strait of Hormuz, a critical bottleneck for world energy supplies.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us and iran trade direct strikes in sharp persian gulf",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "US and Iran trade direct military strikes across the Persian Gulf",
-      "summary": "The US launched air raids against Iranian military bases and oil tankers in response to mining threats in the Strait of Hormuz. Tehran fired back with missile strikes aimed at American bases in Jordan, Bahrain, Kuwait, and Iraq. With ships avoiding the area and European energy prices jumping, the conflict threatens the world's most critical oil highway.",
-      "why": "If this bottleneck stays shut, energy prices worldwide will shoot up like a rocket, hitting everyday gas and grocery bills almost overnight.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us and iran trade direct military strikes across the persian",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "UN admits the world will overshoot the 1.5\u00b0C climate limit",
-      "summary": "A landmark UN report conceded that global temperatures will definitely breach the Paris Agreement's 1.5\u00b0C warming cap, likely rising to at least 1.8\u00b0C. Officials say the only remaining hope is pulling massive amounts of carbon straight out of the atmosphere later this century to cool things down. It amounts to an official admission that existing pollution-cutting pledges have failed to stop dangerous warming.",
-      "why": "It means the planetary safety rails have broken, locking in severe weather shocks and forcing countries to bet on technologies that do not yet exist at scale.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "un admits the world will overshoot the 1 5 c",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "Russia targets Ukraine's railway grid in deadly new bombing wave",
-      "summary": "Russian air strikes repeatedly blasted key rail hubs across Ukraine, killing civilians and severing vital passenger and freight routes. Ukraine warned that broader regional airspace has grown hazardous as both sides exchange deeper strikes behind the front lines. The campaign targets the central transit artery keeping the country fed, supplied, and connected to Europe.",
-      "why": "Trains are Ukraine's lifeline, and knocking them out cuts ordinary families off from heat, food, and escape routes just as winter approaches.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "russia targets ukraine s railway grid in deadly new bombing",
-      "date": "2026-09-02"
-    },
-    {
       "headline": "US and Canada slide into open tariff war as talks collapse",
       "summary": "The US slapped 50% tariffs on roughly twenty billion dollars worth of Canadian goods after trade negotiations broke down. Canada announced dollar-for-dollar retaliatory taxes on American products, while the Bank of Canada froze interest rate cuts to guard against price spikes. The dispute spilled over into the G20 finance meeting, where allies warned the feud is poisoning global economic confidence.",
       "why": "Two neighbours that used to share the world's smoothest border are now slapping taxes on each other, raising costs for regular shoppers and gumming up factories on both sides.",
@@ -3998,6 +3948,56 @@
       "severity": "HIGH",
       "mode": "morning",
       "fp": "tech giants urge a slowdown in frontier ai",
+      "date": "2026-10-01"
+    },
+    {
+      "headline": "Russia Warns NATO It Could Use Nukes Over Kaliningrad",
+      "summary": "Moscow warned NATO that it is prepared to use nuclear weapons if Western allies attempt an air or naval blockade of Kaliningrad, Russia's isolated Baltic exclave. Western leaders condemned the move as reckless saber-rattling, while the Kremlin insisted the warning is a defensive response to troop buildups on its doorstep. The exchange marks a sharp spike in tensions along one of Europe's most crowded military flashpoints.",
+      "why": "When nuclear powers draw hard red lines over small patches of land, a single accident or misread radar signal can snowball into direct superpower war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "russia warns nato it could use nukes over kaliningrad",
+      "date": "2026-10-01"
+    },
+    {
+      "headline": "US Forces Leave Bases in Iraq After 23 Years",
+      "summary": "The United States has completed the withdrawal of its troops from military bases across Iraq, formally ending a deployment that began with the 2003 invasion. Iraqi officials welcomed the milestone as a restoration of full sovereignty, but regional security experts warn it leaves a major vacuum. The pullback leaves Iraq's borders vulnerable and gives both Iranian-backed militias and remnants of the Islamic State room to expand their reach.",
+      "why": "Pulling out the American military pillar reshapes the balance of power across the Middle East and tests whether Baghdad can prevent regional chaos on its own.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us forces leave bases in iraq after 23 years",
+      "date": "2026-10-01"
+    },
+    {
+      "headline": "China Leans on Iran to Halt Houthi Red Sea Attacks",
+      "summary": "Beijing has stepped in to urge Iran to rein in Yemen's Houthi rebels following direct appeals from Saudi Arabia. Houthi strikes have pushed deeper toward crucial shipping chokepoints and Saudi energy pipelines, threatening the flow of oil through the Bab el-Mandeb strait. China relies heavily on Gulf oil and cheap shipping lanes, driving it to play diplomat rather than join Western military patrols.",
+      "why": "Global supply chains cannot afford another prolonged shipping bottleneck, and China's intervention shows how securing energy is forcing Beijing to flex diplomatic muscle in foreign conflicts.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "china leans on iran to halt houthi red sea attacks",
+      "date": "2026-10-01"
+    },
+    {
+      "headline": "China Slaps 67% Tariff on Brazilian Beef",
+      "summary": "China officially triggered a steep 55% surtax on Brazilian beef after Brazil exhausted its annual import quota of 1.1 million metric tons. Combined with regular duties, the total tax hit 67%, effectively slamming the door shut on Brazil's most lucrative export market for the rest of the year. Exporters are already slowing shipments, rerouting cargo, and bracing for heavy financial losses across Latin America.",
+      "why": "Freezing the world's biggest meat trade highway threatens billions of dollars in farm revenue and risks driving up meat prices for households across Asia.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "china slaps 67 tariff on brazilian beef",
+      "date": "2026-10-01"
+    },
+    {
+      "headline": "White House Signs Voluntary AI Safety Deal with Tech Giants",
+      "summary": "President Trump joined chief executives from leading technology firms to sign a voluntary pact aimed at self-regulating artificial intelligence development. The companies agreed to share risk data and run internal security checks, while the White House avoided imposing strict legal limits on the sector. Critics argue that unenforceable promises do little to prevent deepfakes or labor disruption, while supporters claim voluntary rules keep American tech competitive against foreign rivals.",
+      "why": "Allowing companies to set their own guardrails will shape how artificial intelligence transforms jobs and daily life long before lawmakers can pass real laws.",
+      "domain": "Technology",
+      "severity": "MEDIUM",
+      "mode": "afternoon",
+      "fp": "white house signs voluntary ai safety deal with tech giants",
       "date": "2026-10-01"
     }
   ]
