@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "U.S. Launches Fresh Direct Strikes on Targets in Iran",
-      "summary": "The United States military carried out a new wave of airstrikes against Iranian targets following attacks on commercial ships in the Persian Gulf region.",
-      "why": "Direct combat exchanges between major militaries in a vital oil choke point threaten a wider regional war and immediate shocks to global energy supplies.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s launches fresh direct strikes on targets in iran",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "Direct US-Iran missile strikes ignite fears of a wider energy war",
-      "summary": "The United States and Iran traded heavy strikes overnight after a monthlong lull, hitting military targets and commercial choke points near the Strait of Hormuz. Iranian retaliation targeted regional bases and Gulf neighbors following reported civilian casualties from American airstrikes. Oil prices jumped immediately as shipping companies braced for disruptions in the world's most critical crude corridor.",
-      "why": "A full blockade or wider war in Hormuz would instantly raise gas prices and living costs across the entire planet.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "direct us iran missile strikes ignite fears of a wider",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "UN confirms Earth is set to blow past the 1.5-degree warming limit",
-      "summary": "A landmark report from the UN Environment Programme revealed that global temperatures will definitely breach the Paris Agreement's 1.5\u00b0C threshold within years. Scientists warned that the planet is entering an 'overshoot' era where dangerous extreme heat and crop failures will become the baseline normal. The report urged governments to simultaneously fund massive climate defenses while preparing expensive carbon-removal technology.",
-      "why": "It marks the official transition from trying to prevent dangerous climate change to surviving and paying for its direct damages.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "un confirms earth is set to blow past the 1",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "G20 finance chiefs isolate China over massive cheap export push",
-      "summary": "At a tense economic summit in North Carolina, 19 finance ministers backed US calls to crack down on heavily subsidized Chinese factory goods flooding world markets. Beijing stood alone in dissent, arguing its manufacturing keeps global inflation down. The meeting signals that more nations are preparing heavy tariffs to protect local jobs from a wave of diverted Chinese exports.",
-      "why": "This sets the stage for a coordinated global trade wall against Beijing, permanently splintering international supply chains.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "g20 finance chiefs isolate china over massive cheap export push",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "Spiking bond yields trigger fresh financial pain worldwide",
-      "summary": "Government borrowing costs across the US, UK, and Europe surged to new highs as investors dumped bonds over renewed inflation and oil price shocks. Stock markets dropped in response while central banks signaled interest rates may stay higher for longer. The sudden squeeze is forcing finance ministries to rethink upcoming public spending plans.",
-      "why": "When sovereign borrowing gets expensive, governments cut back on public services while ordinary people face steeper mortgage and credit rates.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "spiking bond yields trigger fresh financial pain worldwide",
-      "date": "2026-09-02"
-    },
-    {
       "headline": "Chevron signs multi-billion-dollar oil pact to ramp up Venezuela production",
       "summary": "Chevron inked major long-term agreements with Venezuela to pour over seven billion dollars into the Orinoco oil belt. The deal aims to more than double output to 600,000 barrels a day under restructured fiscal and operating terms. It represents a decisive pivot by Washington to secure alternative crude supplies in the Western hemisphere.",
       "why": "Locking in heavy crude nearby acts as a crucial safety valve against potential supply cutoffs in the volatile Middle East.",
@@ -3999,6 +3949,56 @@
       "mode": "evening",
       "fp": "canada strikes back with reciprocal tariffs on american goods",
       "date": "2026-09-30"
+    },
+    {
+      "headline": "US troops leave Iraq after 23 years",
+      "summary": "The last American soldiers packed up and left Iraq, ending a military mission that began back in 2003 [1.1.4]. Local militia groups agreed to pause attacks against ground forces, leaving the Iraqi government entirely responsible for keeping order. It is like taking the training wheels off a bicycle in heavy traffic; Baghdad now has to steer without a safety net.",
+      "why": "This sudden power vacuum forces regional rivals to either work things out together or clash for control.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us troops leave iraq after 23 years",
+      "date": "2026-10-01"
+    },
+    {
+      "headline": "Drone strikes knock out Russian oil refineries",
+      "summary": "Long-range Ukrainian drones struck several Russian refineries, sparking large fires and taking fuel plants offline. The attacks carried on despite international worries that rattling oil markets could spike prices abroad. It is like cutting the fuel line on an opponent's engine before they can pull out of the driveway.",
+      "why": "Knocking out refining capacity drains Moscow's war budget while keeping global energy supplies on edge.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "drone strikes knock out russian oil refineries",
+      "date": "2026-10-01"
+    },
+    {
+      "headline": "Pakistan and Afghanistan trade deadly border strikes",
+      "summary": "Pakistani jets bombed targets across the Afghan border to hit militant hideouts, while Afghan officials reported that women and children were killed in the blasts. Both countries are now moving heavy equipment to the frontier as tempers flare. It feels like two angry neighbors throwing rocks over the garden fence, with each throw getting heavier.",
+      "why": "A wider conflict between these two fragile states could trigger a massive refugee crisis across South Asia.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "pakistan and afghanistan trade deadly border strikes",
+      "date": "2026-10-01"
+    },
+    {
+      "headline": "Houthi pressure chokes global shipping routes",
+      "summary": "Rebel fighters are tightening their grip on critical maritime bottlenecks around the Red Sea, squeezing Saudi Arabia and threatening international cargo paths. Cargo vessels and oil tankers are taking costly detours around Africa just to stay safe. Think of it like a blockade on the main highway into a major city, making deliveries take twice as long.",
+      "why": "When international cargo takes the long route, everyday goods and fuel get more expensive for families everywhere.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "houthi pressure chokes global shipping routes",
+      "date": "2026-10-01"
+    },
+    {
+      "headline": "Tech giants urge a slowdown in frontier AI",
+      "summary": "Chiefs of major artificial intelligence labs called for a coordinated pause on developing next-generation models until better safety rules exist. They warned that these systems are growing capable much faster than human watchdogs can keep up. It is like building a rocket ship and realizing halfway up that nobody tested the parachute.",
+      "why": "How world leaders respond to this warning will decide who controls the future job market and how safe everyday tech remains.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "tech giants urge a slowdown in frontier ai",
+      "date": "2026-10-01"
     }
   ]
 }
