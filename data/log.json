@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "China Steps Into the Mideast as Western Tensions Spike",
-      "summary": "Chinese leader Xi Jinping met with Egypt's president to lock in deeper trade and infrastructure deals near the Suez Canal. While Washington is bogged down in regional military strikes, Beijing is pitching itself as a calm business partner that brings cash without political lectures. Regional governments welcome the investment, even as Western capitals worry China is locking down influence over key global trade routes.",
-      "why": "China is filling the diplomatic vacuum left by Western conflict to reshape trade partnerships and gain leverage in the Global South.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "china steps into the mideast as western tensions spike",
-      "date": "2026-09-03"
-    },
-    {
-      "headline": "A Widening Trade Rift Between the US and Key Allies",
-      "summary": "Washington is doubling down on heavy tariffs against close allies like Canada, sparking friction among global finance ministers. The White House insists import taxes protect local jobs, but partner nations warn the fight will choke cross-border supply chains. Multinational companies are putting major investments on ice because they no longer know what crossing a border will cost tomorrow.",
-      "why": "Tearing up predictable trade rules acts like a hidden tax on everyday households and threatens to reignite global inflation.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "a widening trade rift between the us and key allies",
-      "date": "2026-09-03"
-    },
-    {
-      "headline": "Russia and Germany Clash Over Alleged Airport Sabotage",
-      "summary": "Russia ordered Germany to close its cultural centers after Berlin accused Moscow of backing drone plots against German airports. European leaders called the incident state-backed sabotage, while Russian diplomats dismissed the claims as Western paranoia. Britain and European allies are stepping up security, worried that covert attacks on transit networks are multiplying.",
-      "why": "The shadow conflict between Russia and the West is moving from cyber hacks to physical transport hubs, raising the danger of a direct military spark.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "russia and germany clash over alleged airport sabotage",
-      "date": "2026-09-03"
-    },
-    {
-      "headline": "UN Inspectors Find 73 Tons of Hidden Uranium in Syria",
-      "summary": "The UN nuclear watchdog confirmed that Syria's former Assad regime hid 73 tons of uranium and an unfinished reactor. The country's new interim government voluntarily opened the doors and let inspectors seal the material. It solves a decades-old mystery about what the old government was secretly building behind closed doors.",
-      "why": "Securing the site prevents dangerous materials from slipping into the black market while Syria rebuilds.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "un inspectors find 73 tons of hidden uranium in syria",
-      "date": "2026-09-03"
-    },
-    {
-      "headline": "U.S. Inks Massive Deal for Control Over Venezuelan Oil",
-      "summary": "Washington and Caracas just finalized an agreement that hands American-backed ventures heavy operating power over Venezuela's enormous crude reserves. U.S. officials say it will lower energy bills, but critics view it like a powerful neighbor taking the keys to your pantry. It fundamentally resets relations between both nations after years of standoff.",
-      "why": "It shifts the balance of global energy supply and pulls the world's largest oil reserves into Washington's orbit.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "u s inks massive deal for control over venezuelan oil",
-      "date": "2026-09-03"
-    },
-    {
       "headline": "White House Moves to Tame Rising Conflict with Iran",
       "summary": "U.S. officials are working behind the scenes to keep strikes on Iran from blowing up into an open regional war. They are relying on heavy financial crackdowns instead of broader air campaigns to keep energy prices steady. Still, repeated hits on commercial tankers show how fragile the peace remains.",
       "why": "An all-out war would choke key sea routes and trigger an immediate price shock for consumers worldwide.",
@@ -3998,6 +3948,56 @@
       "severity": "CRITICAL",
       "mode": "monitor",
       "fp": "u s deploys third aircraft carrier to middle east as",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "American troops leave Iraq after more than two decades",
+      "summary": "U.S. forces have completed their withdrawal from military bases across Iraq, wrapping up more than twenty years of direct military presence. Immediately following the exit, major local militia groups announced a suspension of attacks against foreign forces. The exit leaves Iraq's domestic army entirely on its own to manage internal security and guard against power vacuums.",
+      "why": "It fundamentally redraws the Middle East's security map, testing whether the region can hold together without outside military backup.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "american troops leave iraq after more than two decades",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "Ebola outbreak in Central Africa surpasses 4,000 deaths",
+      "summary": "A devastating Ebola epidemic centered in the Democratic Republic of the Congo has now claimed over 4,000 lives. Medical teams are having a hard time reaching sick patients and distributing vaccines due to local armed violence and deep mistrust. Relief organizations warn that clinics across the affected provinces have been pushed past their breaking point.",
+      "why": "When a lethal virus runs loose in a conflict zone, it can easily spill over national borders and become a global health hazard.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ebola outbreak in central africa surpasses 4 000 deaths",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "G7 frees up 100 million barrels of emergency fuel",
+      "summary": "The world's richest countries agreed to open their emergency reserves to flood the market with 100 million barrels of crude and diesel. Fuel costs have shot through the roof because of war and shipping bottlenecks in the Middle East. The White House pushed hard for the deal so trucks and cars could get cheaper fuel immediately.",
+      "why": "Diesel powers almost every delivery truck and cargo ship, so cheaper fuel keeps the cost of groceries and everyday goods from spiraling.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "g7 frees up 100 million barrels of emergency fuel",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "Saudi Arabia plans offensive to reopen vital shipping chokepoint",
+      "summary": "Saudi forces are preparing a major military push in Yemen to drive Houthi fighters away from the narrow Bab al-Mandab Strait. Months of conflict have turned this vital sea gate into a dangerous bottleneck for global maritime shipping. If Saudi forces succeed, cargo ships will not have to make the costly detour around the entire African continent.",
+      "why": "Think of this waterway as a clogged artery for world commerce; clearing it cuts shipping times and stops shipping fees from driving up store prices.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "saudi arabia plans offensive to reopen vital shipping chokepoint",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "Mass riots and school shutdowns bring France to a standstill",
+      "summary": "Massive youth-led protests have paralyzed French cities for three straight days, closing down more than 500 schools and resulting in over 2,000 arrests. The demonstrations started over education grievances and living costs, quickly boiling over into clashes with riot police. The French government is now holding emergency crisis sessions while trading accusations with opposition parties.",
+      "why": "When the second-largest economy in Europe is shaken by deep civil unrest among its youth, it threatens political and economic stability across the whole continent.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "mass riots and school shutdowns bring france to a standstill",
       "date": "2026-10-02"
     }
   ]
