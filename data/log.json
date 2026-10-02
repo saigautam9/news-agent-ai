@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Catastrophic Flash Floods in Nepal Leave Over 1,200 Dead",
-      "summary": "Massive mountain floods and landslides wiped out entire villages along Nepal's river valleys, killing more than 1,200 people. Roads and bridges washed away, forcing survivors to haul medicine and food across raging waters on zip lines. Scientists and local leaders say shifting weather systems now dump violent walls of water faster than early-warning alarms can catch them.",
-      "why": "It shows how quickly climate-driven disasters can wipe out critical lifelines for fragile mountain communities.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "catastrophic flash floods in nepal leave over 1 200 dead",
-      "date": "2026-09-03"
-    },
-    {
       "headline": "China Steps Into the Mideast as Western Tensions Spike",
       "summary": "Chinese leader Xi Jinping met with Egypt's president to lock in deeper trade and infrastructure deals near the Suez Canal. While Washington is bogged down in regional military strikes, Beijing is pitching itself as a calm business partner that brings cash without political lectures. Regional governments welcome the investment, even as Western capitals worry China is locking down influence over key global trade routes.",
       "why": "China is filling the diplomatic vacuum left by Western conflict to reshape trade partnerships and gain leverage in the Global South.",
@@ -3998,6 +3988,16 @@
       "severity": "HIGH",
       "mode": "afternoon",
       "fp": "big tech and regulators clash over who writes the rulebook",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "U.S. deploys third aircraft carrier to Middle East as Iran war escalates",
+      "summary": "The U.S. is moving a third aircraft carrier strike group and roughly 9,000 troops toward the Middle East as President Trump prepares for potential new strikes against Iran. At the same time, G7 nations just announced an emergency release of 100 million barrels of oil and diesel to fight record energy prices.",
+      "why": "Putting three carrier strike groups into a war zone is a massive military escalation that risks pulling the region into a much wider conflict. It acts like pouring gasoline on an already burning fire, directly shaking global energy markets and global stability.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s deploys third aircraft carrier to middle east as",
       "date": "2026-10-02"
     }
   ]
