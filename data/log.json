@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US and Canada slide into open tariff war as talks collapse",
-      "summary": "The US slapped 50% tariffs on roughly twenty billion dollars worth of Canadian goods after trade negotiations broke down. Canada announced dollar-for-dollar retaliatory taxes on American products, while the Bank of Canada froze interest rate cuts to guard against price spikes. The dispute spilled over into the G20 finance meeting, where allies warned the feud is poisoning global economic confidence.",
-      "why": "Two neighbours that used to share the world's smoothest border are now slapping taxes on each other, raising costs for regular shoppers and gumming up factories on both sides.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "us and canada slide into open tariff war as talks",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "China's Xi lands in Egypt to deepen footprint in the Middle East",
-      "summary": "Chinese leader Xi Jinping arrived in Cairo for his first visit in a decade, pitching big investment deals right next to the Suez Canal. Egypt welcomed Beijing despite receiving massive US military aid, reflecting a broader regional drift toward non-Western partners. The trip highlights how Beijing is stepping into the vacuum while Western powers are tied up with Middle Eastern wars.",
-      "why": "Beijing is steadily rewriting global trade and security routes, locking in influence over critical sea lanes while traditional Western alliances fray.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "china s xi lands in egypt to deepen footprint in",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "Iran conflict escalates as Gulf bases and oil tankers come under attack",
-      "summary": "Tensions exploded after Tehran accused the U.S. of striking an Iranian wedding party. In response, Iranian forces launched strikes against U.S. bases in the Gulf, and two commercial tankers caught fire after hitting naval mines in the Strait of Hormuz. Think of the region as a powder keg where someone just lit a very short fuse.",
-      "why": "Closing or disrupting the world's most critical oil bottleneck can send global energy prices through the roof overnight and spark a wider war.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "iran conflict escalates as gulf bases and oil tankers come",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "UN warns global warming will blow past the 1.5-degree limit",
-      "summary": "In a landmark report, the United Nations conceded that the planet has lost its chance to avoid exceeding 1.5 degrees Celsius of warming. Instead of preventing the threshold breach, world leaders now have to manage a decades-long 'overshoot' of extreme heat, crop failures, and severe weather. The strategy has shifted from dodging the crash to surviving the impact and trying to pull temperatures back down later.",
-      "why": "It marks the end of the world's primary climate safety line, locking in sharper food shortages, rising insurance crises, and deeper displacement.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "un warns global warming will blow past the 1 5",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "Europe pushes fresh sanctions after foiled German airport attack",
-      "summary": "European officials are preparing new sanctions and travel restrictions against Moscow following an intercepted explosive incident at a German airport. Western intelligence services warn that covert sabotage against European transportation and energy networks is rising sharply. Governments across the bloc are now scrambling to protect public infrastructure from being pulled into the gray zone of the Ukraine war.",
-      "why": "It shows the confrontation with Russia is increasingly spilling into everyday European civilian transport and infrastructure.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "europe pushes fresh sanctions after foiled german airport attack",
-      "date": "2026-09-02"
-    },
-    {
       "headline": "Federal judge refuses to break up Google's advertising empire",
       "summary": "The U.S. government wanted to force Google to sell off pieces of its online advertising business to curb its monopoly power. A federal judge rejected that breakup demand, ordering the company to make its ad tools work with rivals instead. It is like telling a mega-retailer they can keep all their storefronts as long as they let outside brands rent shelf space.",
       "why": "It hands Big Tech a major legal victory and limits how far regulators can go in physically breaking apart giant digital platforms.",
@@ -3999,6 +3949,56 @@
       "mode": "afternoon",
       "fp": "white house signs voluntary ai safety deal with tech giants",
       "date": "2026-10-01"
+    },
+    {
+      "headline": "US Sends Massive Naval Force Toward Middle East War",
+      "summary": "The Pentagon is deploying a third aircraft carrier group and thousands of troops to the Middle East as the seven-month war with Iran deepens. U.S. leaders are hinting at a major military push, while attacks spread to Saudi power stations and devastate southern Lebanon. Think of it like bringing a third fire truck to a blaze, except the truck is loaded with gunpowder instead of water.",
+      "why": "A direct escalation in the Persian Gulf risks choking global oil shipments and dragging the entire region into an open, uncontrolled conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us sends massive naval force toward middle east war",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "Congo Ebola Outbreak Reaches Grim Record of 4,000 Dead",
+      "summary": "The Ebola outbreak in the Democratic Republic of the Congo has claimed more than 4,000 lives, making it the fastest-spreading wave of the virus in history. Fragile local clinics are overwhelmed, and aid workers are struggling to track infections across dense jungle corridors. It is like trying to contain a brush fire with hand buckets in high winds.",
+      "why": "If this rapidly moving outbreak breaches border checkpoints into major transport hubs, it could trigger a global public health emergency that poor nations cannot afford to fight.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "congo ebola outbreak reaches grim record of 4 000 dead",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "Ukraine Weighs Partial Truce as Russia Hits Kyiv Bridges",
+      "summary": "Russian drone strikes forced partial closures on three major river bridges in Kyiv, snarling transport in the capital. Meanwhile, Ukraine is weighing a joint proposal from the U.S., India, Turkey, and Egypt to stop attacks on power grids and grain ships. It is essentially a push to put guardrails around the war so regular people can survive the coming winter.",
+      "why": "Protecting power stations and Black Sea grain ships keeps millions of civilians from freezing and keeps bread affordable for hungry nations abroad.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "ukraine weighs partial truce as russia hits kyiv bridges",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "Ethiopia Cuts Ties With Eritrea as Horn of Africa Tensions Spike",
+      "summary": "Ethiopia closed its embassy in Eritrea and ordered ten diplomats to leave within 48 hours, alleging direct threats to its national security. The sudden diplomatic split shatters an already fragile peace between two heavily armed historic rivals. Neighbors are worried the bad blood will turn into open fighting along their disputed frontier.",
+      "why": "A fresh war between these two armies would unleash massive refugee flows and disrupt vital maritime trade along the Red Sea.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "ethiopia cuts ties with eritrea as horn of africa tensions",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "US Hiring Grinds to a Halt in September",
+      "summary": "The American economy created just 29,000 jobs last month, a sharp drop that pushed unemployment to 4.2%. Hiring across nearly every major industry flatlined, signaling that high interest rates and war fears are biting hard. It looks less like a soft landing and more like an engine sputtering on an uphill climb.",
+      "why": "When the world's largest consumer machine loses its drive, factories and exporters across Asia, Europe, and Latin America feel the pain immediately.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us hiring grinds to a halt in september",
+      "date": "2026-10-02"
     }
   ]
 }
