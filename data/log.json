@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Federal judge refuses to break up Google's advertising empire",
-      "summary": "The U.S. government wanted to force Google to sell off pieces of its online advertising business to curb its monopoly power. A federal judge rejected that breakup demand, ordering the company to make its ad tools work with rivals instead. It is like telling a mega-retailer they can keep all their storefronts as long as they let outside brands rent shelf space.",
-      "why": "It hands Big Tech a major legal victory and limits how far regulators can go in physically breaking apart giant digital platforms.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "federal judge refuses to break up google s advertising empire",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "Chinese electric cars find a backdoor into North America through Canada",
-      "summary": "Chinese electric carmakers are preparing an aggressive rollout into North America following a trade opening in Canada. The United States has used hefty import taxes to lock cheap Chinese vehicles out, but this move places them right across the northern border. It is like locking the front gate while your neighbor quietly opens the adjoining fence.",
-      "why": "Cheap, highly competitive Chinese electric vehicles arriving on the continent will pile intense pressure on Western automakers and escalate trade friction.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "chinese electric cars find a backdoor into north america through",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "Sharp Military Escalation as US Bombs Southern Iran and Iran Retaliates Across the Gulf",
-      "summary": "Following weeks of uneasy quiet, US forces carried out hours of heavy airstrikes across southern Iran near the Strait of Hormuz, where local officials report a strike hit a home during a wedding party and killed civilians. Tehran quickly answered by firing waves of missiles and drones targeting American military bases and allies across Bahrain, Kuwait, Jordan, and Iraq, with both sides warning of further strikes.",
-      "why": "This is a direct military clash between two major powers right next to the world's most important oil transit route. Striking bases across several host countries pulls an entire region into the line of fire, destroying fragile diplomatic talks and drastically raising the risk of an all-out war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "sharp military escalation as us bombs southern iran and iran",
-      "date": "2026-09-02"
-    },
-    {
-      "headline": "US-Iran Conflict Sharply Escalates as Fresh Missile and Air Strikes Spread Across the Gulf",
-      "summary": "A month-long lull in direct fighting between the United States and Iran has broken down. Following heavy American airstrikes targeting Iranian radar facilities, missile sites, and tankers along the Strait of Hormuz, Tehran launched retaliatory waves of missiles and drones across the Persian Gulf. By Thursday morning, Kuwait confirmed its air defense systems were actively intercepting incoming Iranian missiles and drones, while President Trump warned that the US is ready to strike again immediately.",
-      "why": "This represents a sharp military escalation that directly endangers commercial shipping in the Strait of Hormuz and risks dragging US Gulf allies into an open, wider regional war.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us iran conflict sharply escalates as fresh missile and air",
-      "date": "2026-09-03"
-    },
-    {
-      "headline": "The US and Iran Trade Heavy Strikes Across the Gulf",
-      "summary": "The US launched intense bombing runs inside Iran, and Tehran quickly answered by firing missiles and drones at American military bases in Kuwait. Washington says it is knocking out threats, but Tehran and its neighbors warn the conflict is spilling past its borders. Inside the Pentagon, deep disagreements over the campaign led to the Army secretary's abrupt resignation.",
-      "why": "An open war in the Gulf is like lighting a match near an oil refinery; it threatens vital shipping lanes and could send global fuel prices skyrocketing.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "the us and iran trade heavy strikes across the gulf",
-      "date": "2026-09-03"
-    },
-    {
       "headline": "Catastrophic Flash Floods in Nepal Leave Over 1,200 Dead",
       "summary": "Massive mountain floods and landslides wiped out entire villages along Nepal's river valleys, killing more than 1,200 people. Roads and bridges washed away, forcing survivors to haul medicine and food across raging waters on zip lines. Scientists and local leaders say shifting weather systems now dump violent walls of water faster than early-warning alarms can catch them.",
       "why": "It shows how quickly climate-driven disasters can wipe out critical lifelines for fragile mountain communities.",
@@ -3998,6 +3948,56 @@
       "severity": "CRITICAL",
       "mode": "morning",
       "fp": "us hiring grinds to a halt in september",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "US rushes third carrier group to Middle East as Iraq troop footprint shifts",
+      "summary": "The United States has moved a third aircraft carrier into the Middle East while finishing a planned handover of historic operating bases in Iraq. Washington calls this a show of strength to keep Iran and regional militias from widening the war, but critics across the region warn it puts more dry tinder next to an open fire. It amounts to a high-stakes swap: leaving exposed dirt outposts on the ground to pack huge strike firepower offshore.",
+      "why": "A spark here could immediately choke off global oil shipping and draw major powers into open combat.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us rushes third carrier group to middle east as iraq",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "Gaza City gets cut off as remaining aid networks pull south",
+      "summary": "Intense fighting and closed northern routes have effectively isolated Gaza City, forcing groups like the Red Cross to evacuate their teams south for safety. Diplomats keep trading ceasefire drafts in quiet rooms, but the actual siege lines are moving much faster than the negotiations. For tens of thousands of families trapped in the north, basic lifelines like tap water, flour, and working clinics have dried up entirely.",
+      "why": "It leaves a trapped civilian population without basic survival infrastructure while permanently reshaping the geography of the territory.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "gaza city gets cut off as remaining aid networks pull",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "Pentagon locks in a massive $24 billion rush to make missiles",
+      "summary": "The US military signed deals worth $24.4 billion to supercharge missile factories, aiming to build interceptors and strike weapons around the clock. Western defense officials argue the world is too dangerous to keep empty warehouses, but skeptical voices warn this simply pours fuel into a global arms race. It is like a homeowner spending their entire savings on locks and guard dogs instead of fixing the roof.",
+      "why": "Governments are betting their budgets on long-term conflict, diverting wealth away from public needs and locking industry into war production.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "pentagon locks in a massive 24 billion rush to make",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "US job growth hits a wall, flashing yellow lights for the global economy",
+      "summary": "American employers added only 29,000 jobs in September, landing miles below the 84,000 positions forecasters had penciled in. Business leaders say families and companies are exhausted by years of stubborn inflation and expensive credit, while politicians trade blame over who broke the engine. Because American shoppers buy goods made in factories from Vietnam to Germany, a sudden halt at the register hurts everyone.",
+      "why": "When the world's biggest spending machine catches a cold, manufacturing hubs and everyday workers everywhere start shivering.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us job growth hits a wall flashing yellow lights for",
+      "date": "2026-10-02"
+    },
+    {
+      "headline": "Big Tech and regulators clash over who writes the rulebook for frontier AI",
+      "summary": "Top software firms signed a voluntary safety agreement with Washington, right as European regulators began rolling out mandatory risk audits for frontier artificial intelligence models. Silicon Valley insists self-policing protects lightning-fast progress, but watchdog groups compare voluntary pledges to letting drivers set their own speed limits. Regulators and tech moguls are locked in a quiet struggle to see whether public law or private boardrooms dictate the future of computing.",
+      "why": "The guardrails built today will decide whether advanced machine intelligence enriches a handful of monopoly owners or serves the wider public.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "big tech and regulators clash over who writes the rulebook",
       "date": "2026-10-02"
     }
   ]
