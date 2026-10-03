@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US Investigates Fatal Iran Strike Amid Rising Gulf Military Tensions",
-      "summary": "The US military has opened a formal inquiry into a strike near Kuhestak during an operation targeting missile launchers in southern Iran. The strike comes after months of escalating military skirmishes that have repeatedly threatened shipping corridors in the Strait of Hormuz. With funerals underway in Iran, both capitals face intense political pressure to show strength without triggering an uncontrollable regional war.",
-      "why": "Disruptions and military missteps in the Strait of Hormuz directly threaten the world's energy supply and could drag international powers into direct conflict.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us investigates fatal iran strike amid rising gulf military tensions",
-      "date": "2026-09-04"
-    },
-    {
-      "headline": "Ukraine Targets Russian Airspace as Drone Campaign Escalates",
-      "summary": "Ukraine has broadened its long-range drone strikes to disrupt commercial flight corridors across Russia, warning global carriers to steer clear. Several foreign airlines have begun suspending routes, while drone alarms have rippled into Europe, prompting Germany and Russia to expel personnel and shutter consulates. The push marks a deliberate shift to choke transport logistics and bring the war's costs directly home to the Russian public.",
-      "why": "Grounded flight paths cut Russia off from key trade routes and heighten the risk of dangerous military encounters in European skies.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "ukraine targets russian airspace as drone campaign escalates",
-      "date": "2026-09-04"
-    },
-    {
-      "headline": "Devastating Himalayan Floods Strand Workers and Cause Billions in Damage",
-      "summary": "Violent flash floods and landslides tore through border areas between Nepal and Tibet, destroying roads, bridges, and energy projects. Emergency crews staged dramatic rescues, pulling workers alive from flooded tunnels more than a week after the disaster hit. Economic assessments now place the immediate losses at more than $2.5 billion, overwhelming local budgets and regional transit arteries.",
-      "why": "The disaster demonstrates how intensifying weather patterns can instantly wipe out billions of dollars in critical infrastructure across fragile developing nations.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "devastating himalayan floods strand workers and cause billions in damage",
-      "date": "2026-09-04"
-    },
-    {
-      "headline": "Volkswagen Slashes 50,000 Jobs in Sweeping Industrial Retooling",
-      "summary": "Volkswagen finalized a deal with union representatives to cut roughly 50,000 positions under a drastic corporate restructuring plan. The German automaker is grappling with high production overheads, sagging consumer spending, and fierce foreign competition in electric vehicles. The decision marks one of the deepest workforce contractions in modern European manufacturing history.",
-      "why": "As Europe's industrial engine cuts back, the fallout threatens thousands of suppliers and signals enduring trouble for the continent's manufacturing core.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "volkswagen slashes 50 000 jobs in sweeping industrial retooling",
-      "date": "2026-09-04"
-    },
-    {
-      "headline": "Argentina Steps Up Falklands Dispute With Oil Sanction Threats",
-      "summary": "Argentine President Javier Milei has threatened strict penalties against international energy firms drilling around the Falkland Islands. The move escalates a long-dormant sovereignty confrontation with the United Kingdom over territorial control and offshore natural resources. Buenos Aires is using shifting diplomatic signals from Washington to reassert its claims and challenge British administrative rights.",
-      "why": "Renewed friction threatens offshore energy exploration contracts and strains diplomatic ties between major Western partners in the South Atlantic.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "argentina steps up falklands dispute with oil sanction threats",
-      "date": "2026-09-04"
-    },
-    {
       "headline": "U.S.-Iran Strait of Hormuz Clashes Drive Energy Shock",
       "summary": "American forces struck Iranian patrol vessels and minelaying positions after attacks in the busy shipping strait. Iran fired back with missiles and drones toward allied bases in Kuwait and Jordan, sending diesel prices to record highs. Both sides insist they are ready to keep fighting, leaving commercial tankers navigating a live shooting gallery.",
       "why": "A chokehold on this narrow waterway threatens the world's daily fuel tank and could instantly restart runaway global inflation.",
@@ -3998,6 +3948,56 @@
       "severity": "HIGH",
       "mode": "afternoon",
       "fp": "global trade fractures as countries choose tariffs and supply walls",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "Deadly Ebola outbreak in Congo claims over 4,000 lives",
+      "summary": "A dangerous Ebola outbreak in the Democratic Republic of Congo has killed more than 4,000 people, making it the fastest-spreading wave on record. The virus hitting the area is a rare strain with no approved vaccine or specific cure. Local clinics are completely overwhelmed, while strikes by unpaid health workers and local fighting make it difficult to stop the spread.",
+      "why": "Without working treatments or enough resources to isolate cases, the virus risks spilling into neighboring countries and sparking a broader international health crisis.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "deadly ebola outbreak in congo claims over 4 000 lives",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "White House team meets at Camp David to weigh next steps on Iran",
+      "summary": "Top American national security officials held an unannounced war council at Camp David to decide their next moves in the conflict with Iran and regional fighting in Yemen. The closed-door meeting follows stern ultimatums warning of direct military expansion if ceasefire talks collapse. Officials spent hours debating military strategy, naval deployments, and regional defense arrangements.",
+      "why": "Any move toward open conflict between the U.S. and Iran could engulf the wider Middle East and disrupt vital global energy corridors.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "white house team meets at camp david to weigh next",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "Black Sea strikes choke off grain routes and push up food prices",
+      "summary": "Recent missile and drone attacks have turned the Black Sea into a danger zone, severely crippling merchant ships carrying grain out of Ukraine and Russia. Together, the two nations supply about a quarter of the world's exported wheat, but commercial ports are now struggling to move cargo. The bottleneck has already driven global wheat prices to multi-year highs.",
+      "why": "When the world's primary breadbasket gets blocked, grocery bills spike everywhere and millions of people in import-dependent countries face immediate food shortages.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "black sea strikes choke off grain routes and push up",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "G7 releases 100 million barrels of fuel to fight soaring prices",
+      "summary": "The world's wealthiest democracies agreed to release 100 million barrels of emergency crude oil and diesel to cool off surging fuel markets. Diesel powers the trucks, ships, and tractors that move goods, and its price recently hit record highs amid ongoing international conflicts. The group also agreed to avoid export bans among member countries to keep supplies flowing smoothly.",
+      "why": "Expensive fuel acts like a hidden tax on nearly everything consumers buy, so releasing stockpiles is an urgent attempt to keep transportation and daily living costs from spiraling.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "g7 releases 100 million barrels of fuel to fight soaring",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "European Union approves plan to deport rejected migrants to foreign hubs",
+      "summary": "The European Union finalized rules that allow member governments to send rejected asylum seekers to offshore return centers located outside the bloc. Five nations, including Germany and Greece, are already negotiating to set up the first hub in Africa to handle deportations. Supporters argue the system will discourage illegal migration, while human rights groups warn it undermines established refugee protections.",
+      "why": "This marks a historic shift in global asylum policy by pushing Europe's border enforcement onto third-party countries.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "european union approves plan to deport rejected migrants to foreign",
       "date": "2026-10-03"
     }
   ]
