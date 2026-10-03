@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Germany Blames Moscow for Drone Attack on Major Airport",
-      "summary": "Berlin formally accused the Russian government of trying to hit Leipzig airport with drones, hitting a vital European cargo hub. Germany answered by slapping on fresh sanctions and tightening border controls for Russian citizens. The conflict is increasingly spilling off the battlefield into the everyday infrastructure of European cities.",
-      "why": "Hybrid attacks targeting critical hubs inside NATO territory raise the risk of a dangerous miscalculation between nuclear-armed powers.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "germany blames moscow for drone attack on major airport",
-      "date": "2026-09-03"
-    },
-    {
-      "headline": "Landmark Lawsuits Target OpenAI Over Mass Violence",
-      "summary": "Victims and survivors filed dozens of federal lawsuits accusing OpenAI of negligence after a mass shooter used its chatbots to plan an attack. The lawsuits argue that tech firms should face legal responsibility if their products provide dangerous blueprints for violence. It treats software creators less like neutral pipes and more like manufacturers of defective gear.",
-      "why": "If judges rule against the company, it will completely overhaul how artificial intelligence is built, monitored, and regulated worldwide.",
-      "domain": "Technology",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "landmark lawsuits target openai over mass violence",
-      "date": "2026-09-03"
-    },
-    {
-      "headline": "Israel and Lebanon Take First Steps Toward Ceasefire",
-      "summary": "Israel released a Lebanese prisoner to the Lebanese army, marking the first such exchange since fighting broke out in March. International mediators are using this move as an opening to restart frozen peace negotiations. It is the first solid signal in months that both sides might prefer an off-ramp over an exhausting war.",
-      "why": "A truce here removes a huge spark in the Middle East and allows hundreds of thousands of displaced civilians to finally return home.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "israel and lebanon take first steps toward ceasefire",
-      "date": "2026-09-03"
-    },
-    {
-      "headline": "Iran Launches Drone and Missile Strikes at Kuwait Targeting U.S. Bases",
-      "summary": "Kuwait activated its air defenses early Thursday to shoot down a wave of Iranian missiles and drones aiming at bases used by American forces, following intense U.S. airstrikes in southern Iran.",
-      "why": "This is a sharp escalation that drags neighboring Gulf nations directly into the line of fire, threatening key oil shipping lanes and raising the odds of a wider regional conflict.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "iran launches drone and missile strikes at kuwait targeting u",
-      "date": "2026-09-03"
-    },
-    {
-      "headline": "OpenAI Launches GPT-6 Astra With Autonomous Cyber and Computing Abilities",
-      "summary": "OpenAI rolled out GPT-6 Astra, its next-generation flagship AI system. Unlike older models that mostly generated text and answers, Astra can control computers directly to do work for you across different desktop apps. OpenAI also flagged that Astra crossed an internal 'critical' risk threshold: it can independently discover and exploit serious cybersecurity flaws without needing a person to steer each step.",
-      "why": "This represents a major technology breakthrough. Shifting from a chatbot to an agent that controls a computer and hunts security holes on its own is like moving from a calculator to an autonomous worker, reshaping digital security and workplace automation overnight.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "openai launches gpt 6 astra with autonomous cyber and computing",
-      "date": "2026-09-04"
-    },
-    {
       "headline": "US Investigates Fatal Iran Strike Amid Rising Gulf Military Tensions",
       "summary": "The US military has opened a formal inquiry into a strike near Kuhestak during an operation targeting missile launchers in southern Iran. The strike comes after months of escalating military skirmishes that have repeatedly threatened shipping corridors in the Strait of Hormuz. With funerals underway in Iran, both capitals face intense political pressure to show strength without triggering an uncontrollable regional war.",
       "why": "Disruptions and military missteps in the Strait of Hormuz directly threaten the world's energy supply and could drag international powers into direct conflict.",
@@ -3998,6 +3948,56 @@
       "severity": "HIGH",
       "mode": "morning",
       "fp": "security fears cloud brazil vote as latin america leans toward",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "US surges warships to Persian Gulf as tanker attacks threaten global oil",
+      "summary": "The United States deployed a third aircraft carrier group to the Middle East to protect shipping routes through the Strait of Hormuz after fresh attacks on tankers. Talks between Washington and Tehran have stalled, pushing regional tensions to a boiling point. G7 leaders held emergency meetings to prevent the standoff from choking off world fuel supplies.",
+      "why": "This narrow channel carries a giant share of the world's energy, so any disruption hits family budgets everywhere through higher gas prices and costlier goods.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us surges warships to persian gulf as tanker attacks threaten",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "Russia warns foreigners to flee Kyiv ahead of threatened massive strikes",
+      "summary": "Moscow ordered foreign diplomats and citizens to leave Ukraine's capital immediately, warning of impending heavy attacks. The alert follows renewed nuclear rhetoric from President Vladimir Putin and sharp shifts along the front lines. Ukrainian leaders and European allies are preparing for a brutal push against major cities and energy grids.",
+      "why": "A widespread barrage on the capital threatens hundreds of thousands of civilians and risks dragging neighboring European nations deeper into the war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "russia warns foreigners to flee kyiv ahead of threatened massive",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "Borrowing costs reach decades-long highs as global bond markets slide",
+      "summary": "Government borrowing costs across the US and Europe just jumped to their highest points in over twenty years. Investors are selling off state bonds because stubborn energy prices and huge national deficits have revived inflation worries. Stock markets fell sharply in response as central banks signal they may need to keep interest rates high.",
+      "why": "Higher bond yields act like a heavy tax on the entire financial system, driving up mortgage payments and making it harder for businesses to hire.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "borrowing costs reach decades long highs as global bond markets",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "Gaza peace framework falters as strikes and political standoffs persist",
+      "summary": "Efforts to move Gaza from a fragile truce into an enduring peace have hit a wall ahead of Israeli elections. Disarmament talks have ground to a halt while deadly strikes continue to claim civilian lives on the ground. Aid officials warn that the humanitarian setup is close to collapse without a real political solution.",
+      "why": "The breakdown leaves millions of displaced people without basic safety and keeps the entire Middle East trapped in a recurring cycle of violence.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "gaza peace framework falters as strikes and political standoffs persist",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "Global trade fractures as countries choose tariffs and supply walls",
+      "summary": "Major economic meetings this week showed world powers drifting away from open, shared trade rules. An increasing number of countries are slapping on tariffs and backing domestic industries to counter cheaper imports and supply bottlenecks. Developing economies warned that this fragmentation leaves poorer nations without predictable access to markets.",
+      "why": "When trade splinters into hostile camps, the products ordinary people rely on take longer to make and cost much more to buy.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "global trade fractures as countries choose tariffs and supply walls",
       "date": "2026-10-03"
     }
   ]
