@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "White House Moves to Tame Rising Conflict with Iran",
-      "summary": "U.S. officials are working behind the scenes to keep strikes on Iran from blowing up into an open regional war. They are relying on heavy financial crackdowns instead of broader air campaigns to keep energy prices steady. Still, repeated hits on commercial tankers show how fragile the peace remains.",
-      "why": "An all-out war would choke key sea routes and trigger an immediate price shock for consumers worldwide.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "white house moves to tame rising conflict with iran",
-      "date": "2026-09-03"
-    },
-    {
-      "headline": "Xi Jinping Visits Cairo to Expand China's Middle East Clout",
-      "summary": "Chinese President Xi Jinping wrapped up his first visit to Egypt in a decade, locking in major trade and infrastructure pacts. With regional friction rising, Beijing is stepping forward like an alternative investor offering big checks with fewer lectures. Cairo is using the partnership to balance its traditional reliance on the West.",
-      "why": "It secures China a stronger strategic anchor along the vital global trade corridor running through the Suez Canal.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "xi jinping visits cairo to expand china s middle east",
-      "date": "2026-09-03"
-    },
-    {
-      "headline": "Denmark Deploys Conscripts to Greenland to Guard the Arctic",
-      "summary": "Denmark has sent young military recruits to train in Greenland for the first time in modern history. Copenhagen is answering international pressure by showing it can defend its own frozen backyard alongside NATO allies. It works like putting a visible lock on the gate to remind everyone who owns the house.",
-      "why": "It shows that the scramble for Arctic shipping lanes and raw resources is quickly turning into an active military standoff.",
-      "domain": "Geopolitics",
-      "severity": "MEDIUM",
-      "mode": "afternoon",
-      "fp": "denmark deploys conscripts to greenland to guard the arctic",
-      "date": "2026-09-03"
-    },
-    {
-      "headline": "US-Iran Clashes Threaten World Oil Chokepoint",
-      "summary": "Iran launched missile and drone strikes at bases hosting American troops in Kuwait and the UAE following US strikes near the Strait of Hormuz. Both sides are trading blows around the world's most critical sea corridor for energy. It is like tossing lit matches near a gas leak, freezing commercial shipping and rattling markets.",
-      "why": "If this narrow waterway stays choked off, oil prices will spike globally, hitting daily energy bills and shipping costs across the planet.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us iran clashes threaten world oil chokepoint",
-      "date": "2026-09-03"
-    },
-    {
-      "headline": "UN Warns Monster El Ni\u00f1o Threatens Global Food Supplies",
-      "summary": "The United Nations issued a high-level alert warning that the developing El Ni\u00f1o could be the strongest seen in decades. The Pacific ocean is acting like an overheated radiator, threatening severe droughts across parts of Asia and Africa while dumping heavy floods elsewhere. This kind of extreme swing quickly scrambles normal planting and harvest cycles.",
-      "why": "Disrupted harvests mean higher grocery bills and severe hunger risks for millions of vulnerable families worldwide.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "un warns monster el ni o threatens global food supplies",
-      "date": "2026-09-03"
-    },
-    {
       "headline": "Germany Blames Moscow for Drone Attack on Major Airport",
       "summary": "Berlin formally accused the Russian government of trying to hit Leipzig airport with drones, hitting a vital European cargo hub. Germany answered by slapping on fresh sanctions and tightening border controls for Russian citizens. The conflict is increasingly spilling off the battlefield into the everyday infrastructure of European cities.",
       "why": "Hybrid attacks targeting critical hubs inside NATO territory raise the risk of a dangerous miscalculation between nuclear-armed powers.",
@@ -3999,6 +3949,56 @@
       "mode": "evening",
       "fp": "mass riots and school shutdowns bring france to a standstill",
       "date": "2026-10-02"
+    },
+    {
+      "headline": "Federal Judge Throws Out US Law Barring Noncitizen Voting",
+      "summary": "A federal judge in Miami ruled that the federal law banning noncitizens from voting is unconstitutional. The ruling knocks out a central legal foundation used to police voter rolls just weeks before election day. The decision is headed for an immediate emergency appeal.",
+      "why": "It upends federal election ground rules on the eve of a vote, triggering massive legal battles and deep political volatility.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "federal judge throws out us law barring noncitizen voting",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "G7 Dumps 100 Million Barrels of Fuel to Cool Energy Squeeze",
+      "summary": "Major industrialized nations agreed to tap emergency stockpiles for 100 million barrels of crude and diesel, easing weeks of severe fuel shortages. Following the agreement, the White House confirmed it will not impose a ban on American diesel exports. It is like opening the town pantry because store shelves are running dangerously low.",
+      "why": "It buys short-term breathing room for truckers, farmers, and food prices, but draining reserves leaves the global economy exposed if another disruption hits.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "g7 dumps 100 million barrels of fuel to cool energy",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "Saudi Arabia Readies Red Sea Push to Break Houthi Chokehold",
+      "summary": "Saudi Arabia is preparing to back Yemeni forces in a fresh offensive to push Houthi fighters away from the Red Sea coast. Persistent drone and missile strikes have turned the narrow Bab al-Mandab strait into a danger zone, forcing cargo ships to take long, expensive detours. The United States has decided not to join the combat operation directly for now.",
+      "why": "The operation risks sparking a wider regional firestorm around a tiny waterway that carries a huge slice of world trade.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "saudi arabia readies red sea push to break houthi chokehold",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "Flydubai Cockpit Attack Exposes Glaring Hole in Aviation Safety",
+      "summary": "Crew and passengers tackled a co-pilot who attacked the captain with a crash axe during a flight over Saudi Arabia, narrowly saving the plane. Aviation authorities are now urgently reviewing crew screening and cockpit protocols across international carriers. The crisis showed that fortified cockpit doors offer no protection when danger sits inside the control seat.",
+      "why": "It forces airlines worldwide to rethink security systems built entirely to keep passengers out rather than to manage threats from the flight crew itself.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "flydubai cockpit attack exposes glaring hole in aviation safety",
+      "date": "2026-10-03"
+    },
+    {
+      "headline": "Security Fears Cloud Brazil Vote as Latin America Leans Toward China",
+      "summary": "Foreign embassies in Brasilia suspended public services over unrest risks on the eve of a razor-thin presidential election. At the same time, regional polling reveals Latin Americans now view Beijing as a more positive force than Washington. It is like an old neighborhood anchor suddenly realizing the block prefers doing business with the newcomer.",
+      "why": "The vote determines the direction of the region's largest powerhouse at a moment when traditional American influence in the Western Hemisphere is rapidly slipping.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "security fears cloud brazil vote as latin america leans toward",
+      "date": "2026-10-03"
     }
   ]
 }
