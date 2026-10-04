@@ -1,16 +1,6 @@
 {
   "entries": [
     {
-      "headline": "U.S.-Iran Strait of Hormuz Clashes Drive Energy Shock",
-      "summary": "American forces struck Iranian patrol vessels and minelaying positions after attacks in the busy shipping strait. Iran fired back with missiles and drones toward allied bases in Kuwait and Jordan, sending diesel prices to record highs. Both sides insist they are ready to keep fighting, leaving commercial tankers navigating a live shooting gallery.",
-      "why": "A chokehold on this narrow waterway threatens the world's daily fuel tank and could instantly restart runaway global inflation.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "u s iran strait of hormuz clashes drive energy shock",
-      "date": "2026-09-04"
-    },
-    {
       "headline": "Volkswagen Approves 100,000 Job Cuts in Historic Shake-up",
       "summary": "Volkswagen's leadership and unions agreed to cut 100,000 jobs worldwide and drop future vehicle guarantees for four German factories. The carmaker plans to slash its model lineup by half to urgently lower costs and survive. Aggressive competition from cheaper Chinese electric cars has pushed Europe's biggest industrial giant against the wall.",
       "why": "It is the largest downsizing in modern automotive history, showing how traditional manufacturing hubs are struggling to survive the shift to electric cars.",
@@ -3999,6 +3989,16 @@
       "mode": "evening",
       "fp": "european union approves plan to deport rejected migrants to foreign",
       "date": "2026-10-03"
+    },
+    {
+      "headline": "Yemen Government Launches Massive Military Offensive Against Houthis as Strikes Target Saudi Oil Facilities",
+      "summary": "Yemen's Saudi-backed government declared a sweeping military campaign to reclaim all territory held by Houthi rebels. The announcement followed heavy Saudi airstrikes on Sanaa and Saada, while Houthi forces encircled the strategic city of Taiz and claimed retaliatory drone and missile attacks on Saudi Aramco oil sites in Riyadh and Khurais.",
+      "why": "This breaks years of relative calm and reignites a full-scale regional war. It puts critical Gulf energy supplies and the Bab el-Mandeb shipping corridor\u2014one of the world's most vital maritime choke points\u2014directly in the crosshairs.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "yemen government launches massive military offensive against houthis as strikes",
+      "date": "2026-10-04"
     }
   ]
 }
