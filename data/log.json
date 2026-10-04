@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Volkswagen Approves 100,000 Job Cuts in Historic Shake-up",
-      "summary": "Volkswagen's leadership and unions agreed to cut 100,000 jobs worldwide and drop future vehicle guarantees for four German factories. The carmaker plans to slash its model lineup by half to urgently lower costs and survive. Aggressive competition from cheaper Chinese electric cars has pushed Europe's biggest industrial giant against the wall.",
-      "why": "It is the largest downsizing in modern automotive history, showing how traditional manufacturing hubs are struggling to survive the shift to electric cars.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "volkswagen approves 100 000 job cuts in historic shake up",
-      "date": "2026-09-04"
-    },
-    {
-      "headline": "Russian Drone Hits Ukraine's Intelligence Headquarters in Kyiv",
-      "summary": "A Russian jet-powered drone smashed into the central building of Ukraine's security service in downtown Kyiv, injuring at least twelve people. Ukrainian officials confirmed the strike aimed directly at their acting spy chief, who was unharmed and ordered immediate retaliation. The bold hit on the nation's intelligence hub landed just as international envoys prepared to travel to Moscow and Kyiv for peace negotiations.",
-      "why": "Striking the nerve center of a country's defense in broad daylight threatens to derail delicate diplomatic talks and trigger a fresh wave of retaliatory strikes.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "russian drone hits ukraine s intelligence headquarters in kyiv",
-      "date": "2026-09-04"
-    },
-    {
-      "headline": "Hackers Leak Over 150 Million Driver's Licenses Online",
-      "summary": "Federal investigators launched a probe after criminal forums began selling scanned driver's licenses belonging to more than 150 million Americans and Canadians. The breach reportedly hit an identity verification company that processes personal documents for banks and apps. Criminals are already using these leaked records to bypass security checks and open fake accounts.",
-      "why": "It exposes nearly half the adult population to identity theft, handing fraudsters the keys to people's financial lives with no simple way to change the lock.",
-      "domain": "Technology",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "hackers leak over 150 million driver s licenses online",
-      "date": "2026-09-04"
-    },
-    {
-      "headline": "Philippine Court Orders Arrest of Vice President Duterte",
-      "summary": "A Manila court issued an arrest warrant for Vice President Sara Duterte over public comments where she claimed she hired an assassin to target President Ferdinand Marcos Jr.. The criminal charge comes while she faces an ongoing Senate impeachment trial over the threats and budget misuse. While she is expected to post bail, the feud between the country's two ruling political dynasties is now a full-blown constitutional standoff.",
-      "why": "When the two top leaders of a pivotal Asian democracy openly feud over assassination plots, it paralyzes the government and threatens political stability.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "philippine court orders arrest of vice president duterte",
-      "date": "2026-09-04"
-    },
-    {
-      "headline": "US and Iran trade strikes across the Middle East",
-      "summary": "The United States launched fresh strikes on Iranian sites and tightened sanctions after a week of back-and-forth attacks. Iran fired back with warnings at American allies like Jordan, treating them as potential targets. Washington plays it down as a limited fight, but neighbors are bracing for a much wider flare-up.",
-      "why": "A bigger clash could choke off oil routes in the Persian Gulf and send energy prices through the roof everywhere.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us and iran trade strikes across the middle east",
-      "date": "2026-09-04"
-    },
-    {
       "headline": "Russia strikes Ukraine's security headquarters in major escalation",
       "summary": "A Russian drone strike slammed into Ukraine's intelligence headquarters right in the heart of Kyiv. Ukraine called the hit a dangerous new phase that targets central command. At the same time, European leaders warn that sabotage operations are quietly spreading across the continent.",
       "why": "Direct hits on top command centers make peace talks far less likely and raise the stakes for everyone involved.",
@@ -3998,6 +3948,56 @@
       "severity": "CRITICAL",
       "mode": "monitor",
       "fp": "yemen government launches massive military offensive against houthis as strikes",
+      "date": "2026-10-04"
+    },
+    {
+      "headline": "Iran keeps the Strait of Hormuz shut as maritime standoff deepens",
+      "summary": "Tehran declared that the world's most critical oil passage will stay closed until Washington meets its terms. Tankers remain anchored across the region, while the U.S. pauses escort missions amid fragile negotiations. The disruption is choking crude shipments and sending fuel prices jumping globally.",
+      "why": "It acts like a tourniquet on the global economy, driving up the cost of everyday goods from gas pumps to groceries.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "iran keeps the strait of hormuz shut as maritime standoff",
+      "date": "2026-10-04"
+    },
+    {
+      "headline": "Russia strikes Kyiv bridge during German chancellor's visit",
+      "summary": "Russian missiles struck critical transit infrastructure in Ukraine's capital right as Germany's chancellor arrived for emergency talks. The attack is part of a wider campaign targeting power plants and transport corridors before freezing weather sets in. Western allies are being pressured to speed up air-defense supplies.",
+      "why": "It aims to break Ukrainian civilian resolve and tests whether European allies can maintain long-term support.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "russia strikes kyiv bridge during german chancellor s visit",
+      "date": "2026-10-04"
+    },
+    {
+      "headline": "Yemen launches major offensive against Houthis as Red Sea attacks flare",
+      "summary": "Yemen's government forces announced a broad military offensive against Houthi fighters following renewed explosions near cargo vessels off the coast. Key energy routes and pipelines in the Arabian Peninsula are facing heightened threats as fighting escalates. The clashes show that peace talks in the country have hit a wall.",
+      "why": "It threatens to reignite a brutal civil war while keeping a dangerous chokehold on international shipping routes.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "yemen launches major offensive against houthis as red sea attacks",
+      "date": "2026-10-04"
+    },
+    {
+      "headline": "Brazil votes in high-stakes election that will shape Amazon policy",
+      "summary": "Voters across Brazil are casting ballots in a fiercely contested presidential showdown between President Lula and the Bolsonaro coalition. The campaign closed with tense rallies reflecting a nation divided down the middle over the economy and political power. The next administration will steer South America's powerhouse economy for years to come.",
+      "why": "It determines how Latin America's largest economy runs and whether the Amazon rainforest gets protected or cleared.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "brazil votes in high stakes election that will shape amazon",
+      "date": "2026-10-04"
+    },
+    {
+      "headline": "U.S. completes military drawdown from Iraq after 20-year presence",
+      "summary": "American troops have vacated their remaining bases in Iraq, officially ending a military deployment that began back in 2003. The exit leaves Baghdad entirely responsible for keeping ISIS remnants contained while managing strong regional pressure. Neighboring powers are already jostling to step into the empty space.",
+      "why": "It closes the book on a defining modern military era and triggers a fresh contest for influence across the Middle East.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "u s completes military drawdown from iraq after 20 year",
       "date": "2026-10-04"
     }
   ]
