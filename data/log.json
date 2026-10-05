@@ -1,56 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US strikes Iranian oil tankers after missile attack in the Gulf",
-      "summary": "The US military hit three Iranian oil tankers near Kharg Island after Iran launched ballistic missiles at two American warships in regional waters. Washington warned it will impose heavier economic pain if its ships are targeted, while Gulf neighbors scramble over shipping safety in the Strait of Hormuz. It is like two neighbors throwing rocks at each other's cars, raising the risk of an all-out street fight.",
-      "why": "Disruptions in this narrow energy chokepoint can instantly drive up global fuel prices and pull major powers into a direct military conflict.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us strikes iranian oil tankers after missile attack in the",
-      "date": "2026-09-05"
-    },
-    {
-      "headline": "US envoys land in Moscow as Russia halts Kyiv strikes",
-      "summary": "American envoys arrived in Moscow to restart stalled peace talks aimed at ending the war in Ukraine. In return, Vladimir Putin ordered a 72-hour pause on airstrikes against Kyiv to give the diplomacy room to breathe. Think of it like taking a foot off the gas pedal just long enough to see if a deal can be hammered out.",
-      "why": "Any breakthrough or breakdown in these negotiations will decide whether Europe moves toward a durable settlement or faces years more of grinding war and economic strain.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us envoys land in moscow as russia halts kyiv strikes",
-      "date": "2026-09-05"
-    },
-    {
-      "headline": "US envoy pushes Israel over West Bank settler attacks",
-      "summary": "US officials visited Palestinian communities in the occupied West Bank to inspect damage and demand stronger Israeli protection against settler attacks. The diplomatic push comes as humanitarian agencies warn that basic water and electrical systems in Gaza are collapsing. It is like a fire inspector finally stepping into a building where smoke has been billowing out the windows for weeks.",
-      "why": "Spiraling unrest in the West Bank threatens to derail fragile ceasefires and trigger another widespread explosion of regional violence.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "us envoy pushes israel over west bank settler attacks",
-      "date": "2026-09-05"
-    },
-    {
-      "headline": "Backlash grows over US-Venezuela oil agreement",
-      "summary": "A major new energy deal between Washington and Caracas has drawn intense pushback from political factions across Venezuela. The agreement paves the way for US firms to develop Venezuelan crude in exchange for sanctions relief, but critics argue it surrenders national resources too cheaply. It is like pawning the family heirloom in a hurry just to pay off the weekly grocery bill.",
-      "why": "The pact could dramatically reshape global oil flows and set a new standard for how major powers trade sanctions relief for energy access.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "backlash grows over us venezuela oil agreement",
-      "date": "2026-09-05"
-    },
-    {
-      "headline": "Masked anti-immigrant protesters block Britain's Port of Dover",
-      "summary": "Hundreds of demonstrators blocked the main access roads to Dover, freezing freight trucks and train routes into the UK's busiest international crossing. The group demanded an immediate end to migrant boats crossing the English Channel, drawing swift condemnation from the British government. It was like putting a padlock on a country\u2019s front door during the morning commute to make a political statement.",
-      "why": "The blockade disrupts vital European supply chains and shows how anti-immigration anger is shifting from politics into direct economic sabotage.",
-      "domain": "Society",
-      "severity": "MEDIUM",
-      "mode": "afternoon",
-      "fp": "masked anti immigrant protesters block britain s port of dover",
-      "date": "2026-09-05"
-    },
-    {
       "headline": "US strikes three Iranian oil tankers after missile fire on warships",
       "summary": "The US military hit three Iranian oil tankers across the Persian Gulf and the Gulf of Oman, disabling two and destroying a third. Washington said the action was payback after Iranian forces launched ballistic missiles at an American aircraft carrier and destroyer, warning it is ready to wipe out Iran's entire oil fleet if pushed.",
       "why": "Striking commercial tankers right off Iran's main oil hub is a dangerous military escalation. It puts the world's most vital oil transit corridor, the Strait of Hormuz, directly in the line of fire and sharply raises the risk of direct, wider conflict.",
@@ -3998,6 +3948,56 @@
       "severity": "HIGH",
       "mode": "morning",
       "fp": "okinawa murder arrest sparks major backlash against us bases",
+      "date": "2026-10-05"
+    },
+    {
+      "headline": "US military surges in the Gulf as oil prices spike past $100",
+      "summary": "The Pentagon is sending another aircraft carrier and thousands of troops to the Persian Gulf as fighting with Iran drags on. Iran is choking tanker traffic in the Strait of Hormuz, prompting the G7 nations to release emergency fuel stockpiles. It is like having a kitchen fire break out right next to the world's main fuel pipe.",
+      "why": "If crude stays above $100 a barrel, transport costs jump everywhere, hitting families with higher prices on everything from food to electricity.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us military surges in the gulf as oil prices spike",
+      "date": "2026-10-05"
+    },
+    {
+      "headline": "Fierce fighting near the Red Sea threatens key shipping chokepoint",
+      "summary": "Yemeni government forces and Houthi fighters are clashing near the Bab el-Mandeb strait. The Houthis took over the town of Al-Turbah while coalition air strikes resumed. This narrow strip of water is the front gate to the Suez Canal; when it gets blocked, cargo ships have to take the long, expensive road around Africa.",
+      "why": "Disrupting this maritime highway drives up global shipping rates and causes supply chain delays for goods travelling between Asia and Europe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "fierce fighting near the red sea threatens key shipping chokepoint",
+      "date": "2026-10-05"
+    },
+    {
+      "headline": "Russia hammers Kyiv bridges in intensified air campaign",
+      "summary": "Russian forces have stepped up strikes across Ukraine, hitting key bridges in Kyiv for several days in a row. The attacks come as Germany pledges fresh aid and both militaries brace for harder fighting. It is like two exhausted fighters trading heavier blows, with basic power and transport systems caught in the middle.",
+      "why": "Knocking out core infrastructure leaves millions vulnerable ahead of winter and raises the risk of deeper European entanglement in the war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "russia hammers kyiv bridges in intensified air campaign",
+      "date": "2026-10-05"
+    },
+    {
+      "headline": "US Supreme Court takes up landmark climate lawsuit against big oil",
+      "summary": "The US Supreme Court kicked off its new session hearing arguments on whether giant energy firms can be sued for climate damages. Local governments argue oil firms knew fossil fuels caused warming and misled the public for decades. It works like the massive tobacco lawsuits from the 1990s, where corporations faced colossal payouts for health harms.",
+      "why": "Allowing these lawsuits to proceed could saddle energy producers with billions in liabilities and accelerate a shift away from fossil fuels.",
+      "domain": "Climate",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "us supreme court takes up landmark climate lawsuit against big",
+      "date": "2026-10-05"
+    },
+    {
+      "headline": "Surprise lead for the right in Brazil's election shakes markets",
+      "summary": "Fl\u00e1vio Bolsonaro outperformed expectations to take a surprise lead against President Lula da Silva in the first round of Brazil's presidential election. The unexpected tally caught pollsters off guard and sparked a sharp rally in the Brazilian currency. It resembles an underdog seizing momentum just when everyone expected the incumbent to cruise through.",
+      "why": "Brazil is South America's economic engine, and the winner will decide major policies on global food production, mining exports, and Amazon conservation.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "surprise lead for the right in brazil s election shakes",
       "date": "2026-10-05"
     }
   ]
