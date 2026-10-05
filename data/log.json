@@ -3949,6 +3949,56 @@
       "mode": "evening",
       "fp": "u s completes military drawdown from iraq after 20 year",
       "date": "2026-10-04"
+    },
+    {
+      "headline": "Clashes near Bab el-Mandeb threaten global shipping lanes",
+      "summary": "Yemeni forces pushed toward the Bab el-Mandeb strait in a bid to push back Houthi fighters who have menaced commercial ships. Recent strikes on regional energy routes have kept oil markets jittery and forced cargo ships onto long, expensive detours. Controlling this bottleneck is like controlling the front door to world trade.",
+      "why": "When this tiny waterway gets choked off, energy prices spike and shipping delays drive up everyday costs worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "clashes near bab el mandeb threaten global shipping lanes",
+      "date": "2026-10-05"
+    },
+    {
+      "headline": "Brain-control breakthrough with light wins Nobel Prize in Medicine",
+      "summary": "Scientists Karl Deisseroth, Peter Hegemann, and Georg Nagel won the Nobel Prize for inventing optogenetics. They borrowed a light-sensitive protein from pond algae and used it to turn individual brain cells on or off with light, like a biological switch. The tool gives scientists a clear blueprint of how our brains handle memory, mood, and movement.",
+      "why": "It gives doctors a master key to unlock treatments for stubborn conditions like Alzheimer's, blindness, and Parkinson's.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "brain control breakthrough with light wins nobel prize in medicine",
+      "date": "2026-10-05"
+    },
+    {
+      "headline": "Brazil heads to tense runoff as Bolsonaro's son tops Lula",
+      "summary": "Brazil's presidential vote is heading to an October runoff after right-wing candidate Fl\u00e1vio Bolsonaro beat expectations and finished ahead of incumbent President Lula. Conservative parties also swept key seats across the legislature, showing how strong the right remains. Both candidates now have three weeks to win over undecided voters in an intensely polarized country.",
+      "why": "Who runs Brazil decides the fate of the Amazon rainforest and directs Latin America's largest economic powerhouse.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "brazil heads to tense runoff as bolsonaro s son tops",
+      "date": "2026-10-05"
+    },
+    {
+      "headline": "Spain calls snap election after housing crisis fractures parliament",
+      "summary": "Spanish Prime Minister Pedro S\u00e1nchez called a surprise national election for late November after lawmakers killed his emergency housing bills. Rents have skyrocketed across Spain, bringing furious crowds into the streets over mass evictions and tourist apartments. S\u00e1nchez hopes the early vote will break the gridlock, but his party faces a tough fight against the right.",
+      "why": "Unbearable living costs are now breaking governments apart in Europe's major economies.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "spain calls snap election after housing crisis fractures parliament",
+      "date": "2026-10-05"
+    },
+    {
+      "headline": "Okinawa murder arrest sparks major backlash against US bases",
+      "summary": "A US Marine was arrested in Okinawa over the killing of a local woman, setting off protests across the island. Japan's Prime Minister pressed Washington for answers, while residents demanded real limits on the American military presence. Okinawa holds most US troops in Japan, and relations have boiled over once again.",
+      "why": "Washington cannot protect Pacific trade routes or deter regional conflict without keeping Japan firmly in its corner.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "okinawa murder arrest sparks major backlash against us bases",
+      "date": "2026-10-05"
     }
   ]
 }
