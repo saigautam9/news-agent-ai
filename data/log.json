@@ -3959,6 +3959,16 @@
       "mode": "evening",
       "fp": "spain calls a snap election after housing protests shake the",
       "date": "2026-10-06"
+    },
+    {
+      "headline": "Yemeni Forces Launch Major Counteroffensive Around Bab el-Mandeb Strait",
+      "summary": "Yemeni government troops, supported by intense Saudi airstrikes and U.S. intelligence sharing, have launched a large-scale military push along the Red Sea coast, reporting the recapture of the strategic port city of Mocha and several coastal positions near the Bab el-Mandeb Strait from Houthi fighters.",
+      "why": "The Bab el-Mandeb Strait is one of the planet's most vital maritime choke points for global energy and trade. A sharp escalation and shifting control here directly endangers international merchant shipping, spikes commercial freight and oil transport risks, and deepens direct foreign military involvement in the conflict.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "yemeni forces launch major counteroffensive around bab el mandeb strait",
+      "date": "2026-10-06"
     }
   ]
 }
