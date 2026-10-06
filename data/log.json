@@ -1,96 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US strikes three Iranian oil tankers after missile fire on warships",
-      "summary": "The US military hit three Iranian oil tankers across the Persian Gulf and the Gulf of Oman, disabling two and destroying a third. Washington said the action was payback after Iranian forces launched ballistic missiles at an American aircraft carrier and destroyer, warning it is ready to wipe out Iran's entire oil fleet if pushed.",
-      "why": "Striking commercial tankers right off Iran's main oil hub is a dangerous military escalation. It puts the world's most vital oil transit corridor, the Strait of Hormuz, directly in the line of fire and sharply raises the risk of direct, wider conflict.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us strikes three iranian oil tankers after missile fire on",
-      "date": "2026-09-05"
-    },
-    {
-      "headline": "US Strikes Iranian Oil Tankers After Warships Targeted in Persian Gulf",
-      "summary": "Iran fired ballistic missiles at a US aircraft carrier and a guided-missile destroyer patrolling regional waters. The warships dodged the missiles and no troops were hurt. In response, US forces struck three Iranian crude oil tankers near Kharg Island and the Gulf of Oman, destroying one and crippling two others.",
-      "why": "This is a sharp, direct military escalation between two heavily armed powers in the world's main oil artery. Moving from shadow attacks to shooting missiles at US aircraft carriers and blowing up oil tankers pushes both sides closer to an open, wider war that could choke global energy supplies.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us strikes iranian oil tankers after warships targeted in persian",
-      "date": "2026-09-05"
-    },
-    {
-      "headline": "US strikes Iranian oil tankers in Persian Gulf flare-up",
-      "summary": "The US military bombed three Iranian oil tankers near the Strait of Hormuz after trading fire with regional forces. Washington claims the vessels bankroll armed proxy groups, while Tehran has warned it could choke off commercial shipping in return. Both sides are stepping closer to an all-out naval confrontation.",
-      "why": "When missiles fly around the world's main oil highway, fuel and shipping prices rise for everyone like an automatic tax on daily life.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us strikes iranian oil tankers in persian gulf flare up",
-      "date": "2026-09-05"
-    },
-    {
-      "headline": "Global bond sell-off pushes borrowing costs to 20-year highs",
-      "summary": "Investors are dumping government debt around the world, sending long-term borrowing yields to their highest marks in two decades. Markets are spooked by jumping oil prices, swelling government deficits, and heavy tech-sector borrowing to build artificial intelligence data centers. Central bankers are signaling that interest rate cuts are now effectively paused.",
-      "why": "When government borrowing gets this expensive, it immediately trickles down into higher interest rates on home mortgages, car loans, and business payrolls.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "global bond sell off pushes borrowing costs to 20 year",
-      "date": "2026-09-05"
-    },
-    {
-      "headline": "Catastrophic Himalayan flood leaves over 5,000 missing in Nepal",
-      "summary": "A massive glacial collapse triggered violent flash floods and mudslides that swept through northern Nepal, leaving over 1,300 confirmed dead. Rescuers are still pulling trapped workers from subterranean hydropower tunnels ten days after the disaster. The torrent crushed towns, shattered highway border links with China, and knocked out key electric plants.",
-      "why": "It exposes how fast melting high-altitude ice can trigger sudden disasters that wipe out clean power supplies and high-mountain communities without warning.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "catastrophic himalayan flood leaves over 5 000 missing in nepal",
-      "date": "2026-09-05"
-    },
-    {
-      "headline": "US envoys meet Putin in Moscow for Ukraine peace talks",
-      "summary": "American envoys arrived in the Russian capital to discuss a proposed framework to end the war with Ukraine. Both Moscow and Kyiv agreed to a three-day pause on striking each other's capitals while the talks take place. The negotiations represent the first major direct diplomatic push between the sides in months.",
-      "why": "It is the most significant opening yet to halt Europe's largest land war and settle borders that have reshaped global security.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us envoys meet putin in moscow for ukraine peace talks",
-      "date": "2026-09-05"
-    },
-    {
-      "headline": "US flies deported migrants to Guyana under third-party deal",
-      "summary": "Planes carrying deported Afghan and Cuban migrants touched down in Guyana under an agreement with Washington. Guyana has become the latest of more than thirty nations accepting foreign deportees in exchange for closer financial and security partnerships. Human rights groups warn the practice leaves asylum seekers in limbo, while supporters say it deters illegal border crossings.",
-      "why": "It fundamentally changes global asylum rules by turning migration control into an outsourced swap market between wealthy and developing nations.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "us flies deported migrants to guyana under third party deal",
-      "date": "2026-09-05"
-    },
-    {
-      "headline": "US and Iran Exchange Strikes as American Forces Target Iranian Oil Fleet",
-      "summary": "The US military disabled two Iranian crude oil tankers and destroyed a third near Kharg Island and the Gulf of Oman. This came right after Iranian forces fired ballistic missiles at an American aircraft carrier and a guided-missile destroyer. Iran immediately threatened wider counterstrikes against American naval ships.",
-      "why": "This is a direct, violent clash between two major militaries in the world's most sensitive energy bottleneck. Striking naval warships and commercial oil carriers removes the guardrails, risking a wider open war that could choke off global energy supplies overnight.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us and iran exchange strikes as american forces target iranian",
-      "date": "2026-09-05"
-    },
-    {
-      "headline": "U.S. Airstrikes Disable Iranian Oil Tankers After Missiles Target American Warships",
-      "summary": "The U.S. military struck and disabled three Iranian oil tankers, including one near Iran's critical oil export hub at Kharg Island. CENTCOM launched the strikes after Iranian forces fired ballistic missiles directly at an American aircraft carrier and a guided-missile destroyer in the region. Iran condemned the strikes as economic warfare and threatened immediate retaliation against American naval vessels and commercial shipping in the Strait of Hormuz.",
-      "why": "This is a dangerous, direct military escalation between two state militaries. Moving beyond proxy skirmishes, forces are now directly targeting vital warships and commercial energy fleets, raising the immediate danger of an all-out naval conflict and a blockade of the world's most sensitive oil shipping chokepoint.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "u s airstrikes disable iranian oil tankers after missiles target",
-      "date": "2026-09-05"
-    },
-    {
       "headline": "US Military Hits Three Iranian Oil Tankers After Missile Attack on Warships",
       "summary": "The US military disabled two Iranian oil tankers and destroyed a third near key Gulf shipping lanes. US Central Command launched the strikes after Iranian forces fired ballistic missiles at an American aircraft carrier and a guided-missile destroyer. Washington announced a new tit-for-tat policy and warned it is prepared to destroy Iran's entire oil fleet if attacks continue.",
       "why": "This marks a sharp military escalation directly targeting energy infrastructure in the world's most critical oil bottleneck. Moving from shadow skirmishes to openly taking out commercial tankers threatens to choke the Strait of Hormuz, shake global markets, and ignite direct naval warfare.",
@@ -3999,6 +3909,56 @@
       "mode": "afternoon",
       "fp": "surprise lead for the right in brazil s election shakes",
       "date": "2026-10-05"
+    },
+    {
+      "headline": "Optogenetics pioneers win the 2026 Nobel Prize in Medicine",
+      "summary": "The 2026 Nobel Prize in Medicine went to Karl Deisseroth, Peter Hegemann, and Georg Nagel for creating optogenetics. Their discovery lets scientists turn individual brain cells on or off with flashes of light, like flipping a light switch inside the brain. The breakthrough gives researchers an exact map of neural circuits instead of just guessing from blurry scans.",
+      "why": "It gives scientists a precise tool to understand and eventually treat devastating brain disorders like Parkinson's, epilepsy, and severe depression.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "optogenetics pioneers win the 2026 nobel prize in medicine",
+      "date": "2026-10-06"
+    },
+    {
+      "headline": "Brazil heads to a tense presidential runoff between Lula and Bolsonaro",
+      "summary": "Brazil's presidential election is heading to a tight runoff after right-wing candidate Fl\u00e1vio Bolsonaro led incumbent President Luiz In\u00e1cio Lula da Silva in the first round. Neither candidate won an outright majority, leaving the nation polarized over the cost of living and governance. Voters will return to the ballot box on October 25 to choose between two completely opposite visions for the country.",
+      "why": "The outcome determines the direction of Latin America's largest economy and the protection of the Amazon rainforest.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "brazil heads to a tense presidential runoff between lula and",
+      "date": "2026-10-06"
+    },
+    {
+      "headline": "Tensions flare between the US and Iran as oil prices push toward $100",
+      "summary": "Friction between the United States and Iran has escalated following drone attacks and military posturing, pushing crude oil prices toward $100 a barrel. The standoff has put key Middle Eastern shipping routes on edge and triggered heightened security at Western military bases. While both capitals have exchanged diplomatic messages, neither side has backed down.",
+      "why": "A wider conflict risks cutting off critical shipping lanes and driving up fuel and food prices across the world.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "tensions flare between the us and iran as oil prices",
+      "date": "2026-10-06"
+    },
+    {
+      "headline": "Global trade fractures as the US pushes aggressive new tariffs at the G20",
+      "summary": "Trade ministers gathered at the G20 meeting in Milwaukee amid growing friction over sweeping American tariffs and manufacturing protections. Washington urged allies to curb global overproduction, while trading partners warned that retaliatory measures are fracturing the global economy. The clash signals a continuing retreat from open trade toward rival economic camps.",
+      "why": "Higher trade barriers raise everyday shelf prices for consumers and make global manufacturing much more volatile.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "global trade fractures as the us pushes aggressive new tariffs",
+      "date": "2026-10-06"
+    },
+    {
+      "headline": "Spain calls a snap election after housing protests shake the government",
+      "summary": "Spain's government called a snap national election after parliament rejected new rent caps and eviction protections, triggering mass street protests. Soaring housing costs and holiday apartment rentals have locked young people and families out of homes in major cities. The collapse of the ruling coalition reflects how the housing crunch is destabilizing politics across Europe.",
+      "why": "It proves that unaffordable shelter has become an urgent crisis capable of bringing down governments and reshaping European politics.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "spain calls a snap election after housing protests shake the",
+      "date": "2026-10-06"
     }
   ]
 }
