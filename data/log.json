@@ -3879,6 +3879,56 @@
       "mode": "afternoon",
       "fp": "mass demonstrations shut down french schools and spark crisis talks",
       "date": "2026-10-07"
+    },
+    {
+      "headline": "Middle East conflict widens three years after October 7",
+      "summary": "Three years after the war began in Gaza, violence is spreading across the wider region. Fresh Israeli strikes hit Gaza and the West Bank, while Houthi attacks targeted Saudi airport fuel depots and displaced over 200,000 civilians in Yemen. Diplomatic efforts remain stuck as the confrontation threatens to draw in more regional powers.",
+      "why": "It keeps millions of civilians in catastrophic conditions and raises the odds of a wider regional war that could disrupt global energy supplies.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "middle east conflict widens three years after october 7",
+      "date": "2026-10-07"
+    },
+    {
+      "headline": "Looming Super El Ni\u00f1o threatens food security for millions",
+      "summary": "Climate forecasters and the UN warned this week that Pacific ocean temperatures are surging toward one of the most intense El Ni\u00f1o cycles on record. More than 347 million children across nearly 100 countries are expected to face severe droughts or catastrophic flooding over the coming months. Key farming regions in East Africa, Southeast Asia, and Latin America are already seeing crops fail before peak harvest season.",
+      "why": "Extreme swings in rainfall will spike global food prices and trigger humanitarian crises just as aid funding is already stretched thin.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "looming super el ni o threatens food security for millions",
+      "date": "2026-10-07"
+    },
+    {
+      "headline": "Ukraine drone strikes hit Russian fuel as eastern lines shift",
+      "summary": "Ukrainian long-range drones have knocked out significant Russian oil refining capacity, causing fuel shortages and rare admissions of economic damage from Moscow. On the ground, Ukrainian troops pulled off counter-attacks in northern Donetsk, pushing Russian units back across river lines. Both countries are escalating aerial attacks on critical infrastructure ahead of the approaching winter.",
+      "why": "Disrupting Russian fuel infrastructure while reclaiming contested eastern ground fundamentally changes the leverage each side holds in any future peace talks.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ukraine drone strikes hit russian fuel as eastern lines shift",
+      "date": "2026-10-07"
+    },
+    {
+      "headline": "Global bond market sell-off drives borrowing costs higher",
+      "summary": "U.S. government bond yields have climbed to their highest levels since 2002 as investors worry about massive government deficits. At the same time, rising yields in Japan are pulling global money out of American and European bonds. Think of it like a global interest rate hike that makes borrowing more expensive for everyone at the exact same time.",
+      "why": "Higher borrowing costs hit everything from regular home mortgages to the ability of governments to fund public services without cutting budgets.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "global bond market sell off drives borrowing costs higher",
+      "date": "2026-10-07"
+    },
+    {
+      "headline": "French debt worries shake the euro and European stability",
+      "summary": "The euro tumbled to a 17-month low against the U.S. dollar over fears that France cannot rein in its massive government deficits. Investors are demanding higher interest rates to lend to Paris, sparking concern that political gridlock will block necessary budget cuts. When the euro zone's second-biggest economy starts to wobble, the financial foundation of the entire bloc feels the strain.",
+      "why": "Financial stress in France limits Europe's ability to act as a unified power and spend on common defense, industry, and social safety nets.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "french debt worries shake the euro and european stability",
+      "date": "2026-10-07"
     }
   ]
 }
