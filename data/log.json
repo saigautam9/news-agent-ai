@@ -3829,6 +3829,56 @@
       "mode": "morning",
       "fp": "renewed yemen clashes force over 200 000 people from their",
       "date": "2026-10-07"
+    },
+    {
+      "headline": "US signals room for diplomacy in Iran war amid global oil strain",
+      "summary": "The White House signaled it might accept partial limits on Iranian uranium enrichment rather than a complete halt, hinting at possible off-ramps to the ongoing war. Meanwhile, US naval operations around the Strait of Hormuz continue to squeeze crude shipments, forcing major Asian buyers to scramble for alternative oil supplies.",
+      "why": "Shifts in this conflict determine whether global energy bills stay manageable or spark a worldwide economic shock.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us signals room for diplomacy in iran war amid global",
+      "date": "2026-10-07"
+    },
+    {
+      "headline": "Houthi strikes hit Saudi airports in expanding regional conflict",
+      "summary": "Houthi forces launched missile and drone attacks on two Saudi airports, killing three civilians near Riyadh. The strikes retaliate against a renewed Saudi-backed ground offensive in Yemen and triggered emergency security alerts across the Gulf.",
+      "why": "Strikes on major civilian aviation hubs threaten to drag neighboring petrostates straight back into open warfare.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "houthi strikes hit saudi airports in expanding regional conflict",
+      "date": "2026-10-07"
+    },
+    {
+      "headline": "Spain calls snap elections after housing package collapses",
+      "summary": "Prime Minister Pedro S\u00e1nchez called early general elections after parliament shot down his flagship affordable housing bill. The political collapse follows weeks of massive protests by citizens priced out of city rentals.",
+      "why": "Spain has become the first major Western European power to see its government collapse over the housing crisis, a warning sign for other strained economies.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "spain calls snap elections after housing package collapses",
+      "date": "2026-10-07"
+    },
+    {
+      "headline": "Russian lab worker's plague death triggers international biosecurity alert",
+      "summary": "Washington issued travel warnings and demanded transparency from Moscow after a Russian laboratory worker died from a suspected plague infection. International health monitors assessed the wider public risk as low, but Western officials are pressing for verification of lab safety standards.",
+      "why": "Lax communication around dangerous biological pathogens can easily turn an isolated accident into a geopolitical panic.",
+      "domain": "Health",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "russian lab worker s plague death triggers international biosecurity alert",
+      "date": "2026-10-07"
+    },
+    {
+      "headline": "Mass demonstrations shut down French schools and spark crisis talks",
+      "summary": "Over 250,000 students, teachers, and parents demonstrated across France over poor school conditions, shutting down hundreds of campuses nationwide. President Emmanuel Macron convened an emergency cabinet meeting after police clashed with crowds using tear gas.",
+      "why": "The unrest shows how quickly public anger over crumbling public services can snowball into a national governing crisis.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "mass demonstrations shut down french schools and spark crisis talks",
+      "date": "2026-10-07"
     }
   ]
 }
