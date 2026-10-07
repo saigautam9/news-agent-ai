@@ -3779,6 +3779,56 @@
       "mode": "monitor",
       "fp": "yemeni forces launch major counteroffensive around bab el mandeb strait",
       "date": "2026-10-06"
+    },
+    {
+      "headline": "Suspected plague leak at a Russian lab sparks global alert",
+      "summary": "Health officials worldwide are on edge after a lab worker in Siberia died from suspected pneumonic plague, with reports of a second casualty emerging. Russian authorities have locked down information, prompting the World Health Organization and Washington to demand immediate answers. It is like smelling smoke in an apartment building while your neighbor refuses to open the door.",
+      "why": "An accidental leak of an airborne pathogen risks triggering rapid border closures and testing already fragile global biosecurity systems.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "suspected plague leak at a russian lab sparks global alert",
+      "date": "2026-10-07"
+    },
+    {
+      "headline": "Gaza conflict reaches three-year mark amid widespread ruin",
+      "summary": "Today marks three full years since the October 7 attacks sparked the war, leaving most of Gaza reduced to rubble and tent camps. Deadly strikes continue across the territory and the West Bank, while ceasefire diplomacy remains completely deadlocked. Millions of civilians remain trapped in a grinding cycle of displacement with little access to food, clean water, or shelter.",
+      "why": "The protracted conflict has permanently destabilized Middle Eastern security, strained international law, and created an enduring humanitarian disaster.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "gaza conflict reaches three year mark amid widespread ruin",
+      "date": "2026-10-07"
+    },
+    {
+      "headline": "Russia pounds Ukrainian cities as drones ignite Black Sea tanker",
+      "summary": "Russia launched a massive wave of strikes across Ukraine, smashing an apartment building in the north and killing at least twenty people. Meanwhile, a Ukrainian sea drone set a commercial oil tanker on fire off Russia's southern coast near Sochi. Both sides are increasingly targeting power grids and maritime supply lines, hitting the gears that keep everyday life running.",
+      "why": "Targeting commercial energy shipping and critical infrastructure threatens to drive up global fuel costs and widen the battlefield.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "russia pounds ukrainian cities as drones ignite black sea tanker",
+      "date": "2026-10-07"
+    },
+    {
+      "headline": "Nepal ends search with over 5,000 missing in massive flash floods",
+      "summary": "Rescue teams in Nepal have officially concluded their search following catastrophic flash floods that washed away whole mountain villages. Nearly 5,300 people remain unaccounted for and are now presumed dead after torrents of water and mud destroyed roads and bridges. Survivors face ruined farmland and collapsed power networks with winter fast approaching.",
+      "why": "The disaster highlights how extreme weather events can instantly erase critical infrastructure and push vulnerable mountain economies past the breaking point.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "nepal ends search with over 5 000 missing in massive",
+      "date": "2026-10-07"
+    },
+    {
+      "headline": "Renewed Yemen clashes force over 200,000 people from their homes",
+      "summary": "Fierce fighting between Houthi rebels and government forces has suddenly flared up again after months of relative calm. Houthi fighters captured key territory, sending more than 200,000 residents fleeing for safety in a matter of weeks. The fragile peace has cracked like thin ice, plunging an already exhausted population back into full-scale war.",
+      "why": "A fresh flare-up threatens crucial Red Sea trade routes and deepens one of the world's worst ongoing hunger crises.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "renewed yemen clashes force over 200 000 people from their",
+      "date": "2026-10-07"
     }
   ]
 }
