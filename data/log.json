@@ -3749,6 +3749,56 @@
       "mode": "evening",
       "fp": "french debt worries shake the euro and european stability",
       "date": "2026-10-07"
+    },
+    {
+      "headline": "Iran tanker attacks choke Strait of Hormuz shipping",
+      "summary": "Iranian forces have ramped up strikes on commercial vessels near the Strait of Hormuz, while the White House announced it will hold off on military strikes ahead of the upcoming midterm elections. Western officials see this as reckless aggression, while regional analysts note Tehran is using maritime pressure as bargaining leverage against economic sanctions. It is like putting spike strips across the narrowest and most critical fuel highway on Earth.",
+      "why": "Any sustained threat to the Strait instantly drives up global oil and gas prices, hitting household heating and transportation budgets everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "iran tanker attacks choke strait of hormuz shipping",
+      "date": "2026-10-08"
+    },
+    {
+      "headline": "China halts fuel exports amid record diesel squeeze",
+      "summary": "Beijing has curbed shipments of refined fuel to protect its domestic supplies, coinciding with refinery outages in Russia and the Middle East. Western buyers view the move as an aggressive pinch on global energy trade, while Beijing insists it must safeguard its own factories first. It is like the neighborhood's biggest bakery refusing to sell bread outside its doors right when everyone else's ovens are broken.",
+      "why": "Diesel powers freight trucks, cargo ships, and farm tractors, so shortages push up the price of groceries and everyday goods across the globe.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "china halts fuel exports amid record diesel squeeze",
+      "date": "2026-10-08"
+    },
+    {
+      "headline": "Europe and China launch tense showdown talks over critical minerals",
+      "summary": "European and Chinese negotiators opened high-stakes trade talks in Beijing over an escalating trade deficit and Chinese export limits on rare earth minerals. European leaders argue Beijing is flooding their markets with cheap imports while starving Western tech of vital raw components, but China frames its export controls as fair protection against foreign trade barriers. It is a standoff over the raw ingredients that build the modern digital world.",
+      "why": "A breakdown in these talks could shatter global tech supply chains, slowing clean energy adoption and making everyday electronics far more expensive.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "europe and china launch tense showdown talks over critical minerals",
+      "date": "2026-10-08"
+    },
+    {
+      "headline": "Maduro faces expanded torture charges in New York court",
+      "summary": "U.S. federal prosecutors unveiled an expanded criminal indictment against detained former Venezuelan leader Nicol\u00e1s Maduro and his wife, alleging state-sanctioned torture of Americans and political opponents. Washington portrays the move as long-overdue justice for human rights abuses, while Maduro loyalists label it an illegitimate political trial by a foreign adversary. It puts a former sitting foreign leader through a domestic criminal trial rarely seen in modern diplomacy.",
+      "why": "The prosecution marks a permanent reset in Venezuelan power and could trigger major diplomatic and energy realignments throughout the Western Hemisphere.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "maduro faces expanded torture charges in new york court",
+      "date": "2026-10-08"
+    },
+    {
+      "headline": "Housing crisis sparks nationwide strike calls across Spain and France",
+      "summary": "Massive demonstrations and a call for a nationwide general strike have erupted across Spain following the death of an evicted Madrid tenant, while student cost-of-living protests spread in France. Tenant organizers argue standard wages can no longer cover roof-over-head essentials, while municipal authorities struggle to balance investor protections with citizen anger. The simmering pressure cooker of European housing costs has blown its lid.",
+      "why": "Widespread street mobilization over basic living costs threatens European economic productivity and deepens political volatility across the continent.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "housing crisis sparks nationwide strike calls across spain and france",
+      "date": "2026-10-08"
     }
   ]
 }
