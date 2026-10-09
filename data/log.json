@@ -3689,6 +3689,16 @@
       "mode": "evening",
       "fp": "france shaken by massive youth and worker protests",
       "date": "2026-10-09"
+    },
+    {
+      "headline": "Houthi Missile Strikes Hit Riyadh's Main International Airport",
+      "summary": "Yemen's Houthi forces launched ballistic missiles into Saudi Arabia, directly hitting King Khalid International Airport in Riyadh. Blasts and shrapnel set a parked passenger jet on fire, triggered evacuations, and prompted international carriers to cancel or suspend flights into the kingdom's capital.",
+      "why": "Striking the primary airport of a major regional power and damaging commercial airliners is a sharp military escalation. It shatters relative calm, threatens vital international air transit and nearby energy infrastructure, and risks igniting direct, broader regional warfare.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "houthi missile strikes hit riyadh s main international airport",
+      "date": "2026-10-09"
     }
   ]
 }
