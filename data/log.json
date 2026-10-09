@@ -3749,6 +3749,56 @@
       "mode": "morning",
       "fp": "nobel peace prize awarded to navi pillay in defense of",
       "date": "2026-10-09"
+    },
+    {
+      "headline": "Gulf conflict flares as Houthis strike Riyadh and Iran hits tanker",
+      "summary": "Houthi forces launched a deadly strike on Riyadh's international airport, while Iranian forces struck an oil tanker moving through the Strait of Hormuz. Saudi-backed forces and regional allies immediately launched counter-offensives along the Red Sea coast to push fighters away from critical shipping lanes. It feels like several simmering regional fuses were lit at the exact same moment.",
+      "why": "When trade bottlenecks like Hormuz and the Red Sea catch fire, the ripple effect hits everyone's energy bills and grocery prices almost overnight.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "gulf conflict flares as houthis strike riyadh and iran hits",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Global borrowing costs surge as tech's AI borrowing spree faces doubt",
+      "summary": "Long-term government bond yields climbed to 24-year highs after central banks warned interest rates must stay high. At the same time, major investors are growing nervous about the hundreds of billions in debt being used to build out artificial intelligence infrastructure. It is like lenders suddenly realizing a borrower put an entire mansion renovation on high-interest credit cards.",
+      "why": "Higher rates make loans more expensive for ordinary families while threatening to pop an expensive tech investment bubble.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "global borrowing costs surge as tech s ai borrowing spree",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Washington slaps heavy sanctions on the International Criminal Court",
+      "summary": "The United States announced severe financial sanctions against the world's top war crimes court, calling its investigations politically biased against allies. The move came only hours after a veteran international jurist was awarded the Nobel Peace Prize for defending global human rights. The clash openly pits the world's superpower against the legal watchdog designed to hold leaders accountable.",
+      "why": "Disabling the global court weakens the referee system built after World War II to protect ordinary civilians from wartime atrocities.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "washington slaps heavy sanctions on the international criminal court",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Allied offensive aims to retake critical Red Sea shipping chokepoint",
+      "summary": "Yemeni government forces launched a sweeping ground operation with regional backing to push rebel fighters back from the Bab al-Mandab Strait. The narrow waterway carries a massive chunk of the planet's sea cargo and has spent months under constant threat. If troops secure the coastline, commercial cargo ships could finally return to normal travel routes.",
+      "why": "Reopening this narrow sea gate removes thousands of miles of costly detours around Africa for everyday goods.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "allied offensive aims to retake critical red sea shipping chokepoint",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "China agrees to halve hybrid car exports to Europe in surprise deal",
+      "summary": "Beijing agreed to cut hybrid vehicle shipments to the European Union by 50 percent to avoid an all-out trade war. European leaders were preparing aggressive tariffs to protect local automakers from being undercut by cheaper imports. Both sides chose a messy compromise over a tariff fight that could have wrecked broader commerce.",
+      "why": "It keeps European car factories open, but it also means buyers will pay higher prices for cleaner cars.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "china agrees to halve hybrid car exports to europe in",
+      "date": "2026-10-09"
     }
   ]
 }
