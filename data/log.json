@@ -3699,6 +3699,56 @@
       "mode": "monitor",
       "fp": "houthi missile strikes hit riyadh s main international airport",
       "date": "2026-10-09"
+    },
+    {
+      "headline": "Iran steps up Hormuz attacks, sending oil past $100",
+      "summary": "Iranian forces have sharply increased drone, missile, and mine attacks on commercial oil and gas tankers passing through the Strait of Hormuz, cutting daily traffic roughly in half. At least a dozen energy ships have been struck within days, driving global crude oil past $105 a barrel. Shipping companies are pulling back from the waterway, which usually carries a fifth of the world's oil supply.",
+      "why": "Choking the planet's primary fuel pipe raises prices for everything from gas to groceries and risks pulling global powers into an open war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "iran steps up hormuz attacks sending oil past 100",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Houthi missile strikes hit Riyadh airport, escalating Gulf conflict",
+      "summary": "Yemen's Houthi forces launched ballistic missiles directly into King Khalid International Airport in the Saudi capital, damaging passenger aircraft and killing three people. International airlines quickly canceled flights to Riyadh as regional air defenses scrambled to stop follow-up barrages. The strike is a dramatic escalation following a Saudi-led military push inside Yemen earlier this week.",
+      "why": "Directly hitting a major international transit hub shatters Gulf airspace safety and threatens to pull neighboring states back into full-scale conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "houthi missile strikes hit riyadh airport escalating gulf conflict",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Russian strikes knock out power and water across Ukraine",
+      "summary": "A heavy wave of Russian missiles and jet drones slammed into Ukraine's power transmission network, triggering emergency blackouts across Kyiv and seven other regions. The resulting voltage plunge halted subway trains and cut municipal water pressure, leaving residents scrambling for basic services. Repair teams are working around the clock as officials warn the grid is severely damaged right before winter sets in.",
+      "why": "Knocking out heat, light, and clean water on this scale turns civilian survival into an immediate crisis for millions of families.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "russian strikes knock out power and water across ukraine",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Europe launches 46 mineral projects while patching trade ties with Beijing",
+      "summary": "The European Union approved 46 strategic mining and processing projects worth over \u20ac20 billion to build domestic supplies of lithium, gallium, and rare earths. Meanwhile, European and Chinese negotiators held crunch meetings in Beijing to avert an outright trade war over electric vehicle tariffs and export licenses. Brussels wants to avoid depending entirely on Beijing for green tech components without triggering retaliatory trade embargoes today.",
+      "why": "Whoever controls these raw minerals holds the keys to tomorrow's batteries, clean power grids, and tech manufacturing.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "europe launches 46 mineral projects while patching trade ties with",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Nobel Peace Prize awarded to Navi Pillay in defense of international law",
+      "summary": "The Norwegian Nobel Committee awarded the 2026 Peace Prize to South African jurist Navi Pillay, honoring her decades of work prosecuting war crimes from Rwanda to modern conflicts. The committee made clear the award is a defense of international tribunals, which have faced mounting pressure and sanctions from major powers. The decision drew immediate diplomatic fury from Israel following Pillay's recent United Nations inquiry into the war in Gaza.",
+      "why": "It puts a global spotlight on international law and courts at a time when powerful nations are increasingly brushing their rulings aside.",
+      "domain": "Society",
+      "severity": "MEDIUM",
+      "mode": "morning",
+      "fp": "nobel peace prize awarded to navi pillay in defense of",
+      "date": "2026-10-09"
     }
   ]
 }
