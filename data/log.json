@@ -3799,6 +3799,56 @@
       "mode": "afternoon",
       "fp": "china agrees to halve hybrid car exports to europe in",
       "date": "2026-10-09"
+    },
+    {
+      "headline": "Yemen Fighting Spills Over to Riyadh and Jeopardizes Global Shipping",
+      "summary": "Saudi-backed forces launched a wide offensive to push Houthi fighters away from the Red Sea, triggering a deadly Houthi drone and missile strike on Riyadh's airport. Neighboring countries are moving troops into position as the fighting expands. Both sides are now hitting vital hubs instead of sticking to local front lines.",
+      "why": "The Bab al-Mandab strait is like a single main hallway for global trade, so any fight there can immediately drive up world fuel and shipping prices.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "yemen fighting spills over to riyadh and jeopardizes global shipping",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "UAE Uncovers Plot to Fly Commercial Jet Into Israeli Airport",
+      "summary": "Authorities in the United Arab Emirates arrested an airline co-pilot who was secretly preparing to crash a passenger plane into Tel Aviv's main airport. Officials said the plan was intercepted before the aircraft could be weaponized. Aviation security across the region was immediately put on high alert.",
+      "why": "A disaster like this would have claimed countless lives and likely pushed the entire region into an uncontrollable wider conflict.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "uae uncovers plot to fly commercial jet into israeli airport",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Massive 7.7-Magnitude Earthquake Shakes Panama",
+      "summary": "A violent earthquake and powerful aftershocks rattled Panama, damaging buildings, knocking out electricity grids, and grounding flights. Residents fled into the streets as search-and-rescue teams began inspecting cracked structures and bridges. Officials are still assessing how badly transport corridors and basic services were hit.",
+      "why": "Beyond the human danger, Panama acts as the world's shortcut for cargo ships, so damaged infrastructure can trigger fresh supply bottlenecks.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "massive 7 7 magnitude earthquake shakes panama",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Global Borrowing Rates Spike as Wall Street Worries Over AI Debt",
+      "summary": "Government bond yields jumped to 24-year highs as central bankers signaled borrowing costs will stay high. At the same time, investors grew nervous about the mountain of borrowed money flowing into artificial intelligence infrastructure. Many are worried tech giants are spending on a scale that profits cannot yet justify.",
+      "why": "When these baseline rates climb, it makes normal loans like home mortgages and car payments more expensive for everyone.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "global borrowing rates spike as wall street worries over ai",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Nobel Peace Prize Ignites Fierce Diplomatic Clash and Sanctions",
+      "summary": "Former United Nations human rights official and international judge Navi Pillay won the 2026 Nobel Peace Prize for pursuing war crimes. The announcement drew swift condemnation from Israel and triggered immediate retaliatory sanctions from the United States. Backers praised the prize for defending basic human rights, while critics argued the committee was playing partisan politics.",
+      "why": "It shows that the world's top powers are increasingly refusing to accept rulings from global courts and international institutions.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "nobel peace prize ignites fierce diplomatic clash and sanctions",
+      "date": "2026-10-09"
     }
   ]
 }
