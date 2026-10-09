@@ -1,166 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US and Iran Trade Strikes Around the Strait of Hormuz",
-      "summary": "The US military bombed Iranian minelaying sites after commercial tankers were attacked in the Strait of Hormuz, and Iran fired back with missiles aimed at US bases. Oil prices immediately jumped past $90 a barrel as shippers paused traffic through the gulf. It is like someone squeezing the main fuel pipe that powers the global economy.",
-      "why": "A fifth of the world's petroleum passes through this narrow strait, so blockages here quickly push up gas prices and grocery bills across the globe.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us and iran trade strikes around the strait of hormuz",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "Heavy Russian Strikes Pummel Ukraine's Ports and Power Grid",
-      "summary": "Russia launched consecutive days of intense drone and missile barrages targeting Kyiv, railway hubs, and Black Sea grain ports. The attacks hit civilian energy and export facilities just as diplomatic calls for peace from visiting leaders went unanswered. It leaves cities bracing for a harsh freeze with damaged power lines.",
-      "why": "Battering grain terminals and power plants threatens food shipments to poorer nations and leaves millions of civilians without heat.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "heavy russian strikes pummel ukraine s ports and power grid",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "China Pumps $54 Billion into Big State Banks and Insurers",
-      "summary": "China's finance ministry announced a massive $54 billion cash injection into its largest state lenders and insurance firms. Domestic loan demand has slumped to seven-year lows as regular families and businesses pull back on spending. Think of it as a government blood transfusion to keep the country's financial engine from stalling out.",
-      "why": "If the world's second-largest economy stumbles under bad debts, factory orders and export demand drop for everyone else.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "china pumps 54 billion into big state banks and insurers",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "Canada Triggers Retaliatory Tariffs in Widening US Trade Feud",
-      "summary": "Canada put steep new taxes on hundreds of American imports at midnight, firing back against recent US trade restrictions. The dispute is widening quickly, especially as Washington considers new tariffs on imported computer chips. It is a classic eye-for-an-eye squabble where each round of penalties makes doing business across borders harder.",
-      "why": "Tariffs work like a hidden sales tax on regular shoppers, driving up costs for everyday groceries, cars, and electronics.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "canada triggers retaliatory tariffs in widening us trade feud",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "Syria Begins Scrapping Secret Chemical Weapons Arsenals",
-      "summary": "United Nations monitors confirmed that Syria has formally started locating and destroying clandestine chemical weapons caches left behind from former regime stockpiles. International experts are supervising the neutralization process to safely dispose of deadly nerve agents. It finally closes the door on some of the modern world's most terrifying weapons.",
-      "why": "Destroying these poisons ensures they cannot be stolen by rogue militias or used again against innocent populations.",
-      "domain": "Geopolitics",
-      "severity": "MEDIUM",
-      "mode": "morning",
-      "fp": "syria begins scrapping secret chemical weapons arsenals",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "Houthi strikes on Saudi oil sites send crude prices near $100",
-      "summary": "Yemen's Houthi forces launched major drone and missile strikes on oil installations across southern Saudi Arabia, injuring dozens of workers and forcing temporary operational shutdowns. The attacks expand the wider regional conflict directly into the facilities of the world's leading oil exporter. Crude prices quickly climbed toward $100 a barrel as tanker traffic in nearby waterways slowed down.",
-      "why": "Think of Saudi oil like the world economy's main fuel pump; when it takes a hit, shipping costs, gas prices, and grocery bills rise everywhere.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "houthi strikes on saudi oil sites send crude prices near",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "Western allies ban Israeli settlement goods, sparking diplomatic feud",
-      "summary": "The United Kingdom barred imports from Israeli settlements in the West Bank, with France and Canada joining in by announcing new sanctions. Israel fired back immediately by shutting down the British consulate in East Jerusalem, accusing long-time partners of hostile posturing. The move represents the sharpest political break between Israel and key Western capitals in decades.",
-      "why": "Allies are swapping diplomatic talk for real economic punches, shattering long-standing geopolitical alignments around the conflict.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "western allies ban israeli settlement goods sparking diplomatic feud",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "Canada's counter-tariffs on US products officially take effect",
-      "summary": "Canada rolled out steep retaliatory tariffs on a wide list of American consumer goods, ranging from dairy products to household merchandise. The measure responds directly to recent US trade penalties, escalating an exchange of cross-border tariff threats. Neither government is backing down, increasing friction between two deeply intertwined economies.",
-      "why": "When trade neighbors start taxing each other's goods, factories face supply bottlenecks and everyday consumers foot the bill.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "canada s counter tariffs on us products officially take effect",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "Far-right AfD wins historic 44% in German state election",
-      "summary": "Germany's far-right Alternative for Germany party won nearly 44% of the vote in Saxony-Anhalt, handing Chancellor Friedrich Merz's party a crushing defeat. While the AfD ended up just three seats short of a full majority, centrist parties now face a nightmare trying to piece together a workable government. The vote effectively punches a hole through Germany's traditional political firewall against far-right rule.",
-      "why": "Europe's economic anchor is splintering from within, which will make it much harder for Germany to pass budgets or guide European policy.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "far right afd wins historic 44 in german state election",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "EU inks $232 million investment deal to keep Greenland close",
-      "summary": "European Union chief Ursula von der Leyen visited Nuuk to sign a $232 million partnership package covering Greenland's infrastructure, clean energy, and rare minerals. The funding aims to anchor the Arctic island firmly inside the European sphere following repeated annexation talk from Washington. It also serves as a pushback against growing Russian and Chinese maritime interest in Arctic waterways.",
-      "why": "As polar ice thins, Greenland sits right on top of the critical minerals that power modern tech, turning the island into the center of a quiet superpower tug-of-war.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "eu inks 232 million investment deal to keep greenland close",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "Gulf energy sites hit as oil races toward $100",
-      "summary": "Houthi drone and missile strikes hit Saudi energy facilities, injuring 73 people and forcing operations to pause. Coupled with ongoing clashes around the Strait of Hormuz, the damage pushed global crude oil near $100 a barrel. Drivers and businesses are already feeling the pinch from record diesel prices.",
-      "why": "Oil is the fuel pump of the global economy, so disruptions here make shipping, food, and daily commutes more expensive for billions of people.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "gulf energy sites hit as oil races toward 100",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "Deadly strikes pound Kyiv after brief truce crumbles",
-      "summary": "A massive wave of Russian drones and missiles slammed into Kyiv, killing at least five people and hitting a broadcast studio live on air. The attack shattered a temporary weekend pause that was set up while American envoys visited both capitals. The bombardment landed just hours after a direct phone call between Donald Trump and Vladimir Putin ended without a deal.",
-      "why": "",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "deadly strikes pound kyiv after brief truce crumbles",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "Western allies ban trade with Israeli settlements",
-      "summary": "Britain, Canada, and France barred imports from Israeli settlements in the occupied West Bank, warning that settler violence is emptying out Palestinian towns. Israel quickly fired back by shutting down the British consulate in East Jerusalem, while Washington warned of retaliation. Nine other European governments backed the move, marking the deepest Western split with Israel in decades.",
-      "why": "When lifelong allies stop trading over disputed land, it breaks decades of diplomatic consensus and pulls Europe and America further apart.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "western allies ban trade with israeli settlements",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "Far-right election win rattles Germany's government",
-      "summary": "The far-right Alternative for Germany party won a historic victory in Saxony-Anhalt, picking up nearly 44% of the vote. Chancellor Friedrich Merz called the wipeout his party's worst loss in decades, though he insisted mainstream parties will still refuse to govern with them. The shock result puts a hard-right party on the doorstep of state power for the first time since World War II.",
-      "why": "Germany is the anchor of Europe's economy, and if its political dam breaks, the entire continent faces gridlock and turmoil.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "far right election win rattles germany s government",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "Europe rushes cash to Greenland to block American pressure",
-      "summary": "European officials landed in Nuuk to pledge hundreds of millions of euros for Greenland's clean power, satellite networks, and critical mines. The funding is a direct answer to renewed rhetoric from Washington claiming the island should fall under American control. European leaders stated firmly that Greenland's borders and natural resources belong only to its people and Denmark.",
-      "why": "As polar ice melts, the Arctic is turning into a contested frontier where old allies are quietly competing for vital mineral wealth and sea routes.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "europe rushes cash to greenland to block american pressure",
-      "date": "2026-09-08"
-    },
-    {
-      "headline": "Houthi strikes hit Saudi energy hubs and injure 73, risking direct Saudi retaliation",
-      "summary": "Yemen's Houthi forces fired a barrage of drones and ballistic missiles into southern Saudi Arabia, hitting multiple cities including Abha and Jazan. The strikes damaged oil installations run by Aramco, sparked large fires, forced a temporary pause in energy operations, and injured at least 73 people.",
-      "why": "This is a severe military escalation that pulls Saudi Arabia back into direct conflict with the Houthis. By taking aim at critical oil installations in the world's top crude exporter, the strikes threaten global fuel supplies and risk broadening ongoing Middle East warfare.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "houthi strikes hit saudi energy hubs and injure 73 risking",
-      "date": "2026-09-08"
-    },
-    {
       "headline": "US Destroys Iranian Oil Tankers After Missile Strikes on Jordan Base",
       "summary": "The US military destroyed five Iranian crude oil tankers after Iranian forces fired ballistic missiles at American warships. In response, Iran targeted US troops at an air base in Jordan and warned commercial ships around Gulf ports to evacuate. It is like two opponents who were previously just shoving each other suddenly trading knockout punches in a crowded room.",
       "why": "This marks an open, direct military confrontation between the United States and Iran rather than a proxy fight. Directly attacking oil tankers and striking bases in allied countries sharply escalates the conflict, putting critical global shipping routes and energy supplies in immediate danger.",
@@ -3799,6 +3639,56 @@
       "mode": "afternoon",
       "fp": "housing crisis sparks nationwide strike calls across spain and france",
       "date": "2026-10-08"
+    },
+    {
+      "headline": "Deadly Russian Strikes in Ukraine as Peace Talks Stall",
+      "summary": "A Russian glide bomb hit crowded passenger buses in Kramatorsk, killing dozens of civilians in eastern Ukraine. At the same time, air barrages knocked out power lines across Kyiv right before cold weather sets in. Mediated peace efforts have hit a wall, leaving both sides stuck in a punishing aerial fight.",
+      "why": "With diplomatic talks falling apart, attacks on everyday transit and heating grids leave millions of families bracing for a brutal winter.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "deadly russian strikes in ukraine as peace talks stall",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Gaza Reconstruction Stalls as Regional Tensions Simmer",
+      "summary": "A year after a peace framework was signed, rebuilding in Gaza is largely frozen and hundreds of thousands remain stranded in makeshift tents. At the same time, broader regional skirmishes involving the Houthis and Iran keep flaring up. Diplomats are struggling to keep the fragile arrangements from collapsing back into full-scale conflict.",
+      "why": "Without repairs or a lasting settlement, millions of displaced people remain without basic shelter, and the wider region stays on the edge of open war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "gaza reconstruction stalls as regional tensions simmer",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Trillion-Dollar AI Expansion Sparks Safety Alarms",
+      "summary": "Tech companies are funneling trillions of dollars into massive computing hubs, straining power supplies like a runaway train. At the same time, leading AI creators preparing to go public are warning of extreme existential risks from advanced software. World leaders are rushing to broker voluntary ground rules before the technology outpaces their ability to steer it.",
+      "why": "The world is rewiring energy grids and economies around tools that even their makers admit could create severe systemic hazards without guardrails.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "trillion dollar ai expansion sparks safety alarms",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "Brazil's Presidential Race Takes a Sharp Right Turn",
+      "summary": "Right-wing senator Fl\u00e1vio Bolsonaro scored a surprise lead over current president Luiz In\u00e1cio Lula da Silva in the first round of voting. The two rivals are now locked in a fierce campaign before the final runoff later this month. If Bolsonaro wins, he plans to overhaul the constitution and roll back environmental protections.",
+      "why": "A political flip in South America's biggest economy could undo protections for the Amazon rainforest, changing the climate game for everyone.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "brazil s presidential race takes a sharp right turn",
+      "date": "2026-10-09"
+    },
+    {
+      "headline": "France Shaken by Massive Youth and Worker Protests",
+      "summary": "More than a quarter million students, teachers, and parents flooded streets across France to protest deteriorating school conditions and squeezed budgets. Clashes with riot police broke out as demonstrations disrupted classrooms and public services. The anger reflects deep generational frustration, drawing comparisons to the country's historic 1968 strikes.",
+      "why": "When an entire younger generation loses faith in its economic future, it puts severe pressure on the political stability of one of Europe's main engines.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "france shaken by massive youth and worker protests",
+      "date": "2026-10-09"
     }
   ]
 }
