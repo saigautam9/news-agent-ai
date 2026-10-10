@@ -3669,6 +3669,36 @@
       "mode": "monitor",
       "fp": "massive 7 7 earthquake strikes southern panama",
       "date": "2026-10-10"
+    },
+    {
+      "headline": "Massive 7.7 Magnitude Earthquake Strikes Panama",
+      "summary": "A shallow, violent magnitude 7.7 earthquake hit southern and central Panama, followed shortly by a powerful 6.6 aftershock. The ground shook all the way into Colombia, cracking roads, damaging buildings near the epicenter, and cutting electricity to several provinces.",
+      "why": "A shallow inland quake this strong is a major natural disaster that poses serious danger to human life, damages critical infrastructure, and triggered emergency tsunami alerts across the Pacific coast.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "massive 7 7 magnitude earthquake strikes panama",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "Hurricane Isaias Slams U.S. Gulf Coast, Cutting Power to Hundreds of Thousands",
+      "summary": "Hurricane Isaias crashed into the Florida Panhandle as a Category 2 storm after intensifying to Category 3 offshore. Its winds and storm surge tore off roofs, flooded streets, and knocked out power for more than 660,000 homes and businesses across Florida and Alabama.",
+      "why": "It is a major natural disaster that disrupted regional energy production, flattened local power grids, and brought dangerous inland flash flooding across multiple states.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "hurricane isaias slams u s gulf coast cutting power to",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "U.S. Abruptly Announces Deal to Import Russian Diesel",
+      "summary": "The White House announced a surprise direct agreement with Moscow to purchase hundreds of thousands of tons of Russian diesel to help lower domestic fuel costs. This move immediately flips years of American policy enforcing strict embargoes on Russian energy exports.",
+      "why": "It is a sudden, massive government policy shift that punches a huge hole in Western sanctions policy and fundamentally changes global energy diplomacy overnight.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "u s abruptly announces deal to import russian diesel",
+      "date": "2026-10-10"
     }
   ]
 }
