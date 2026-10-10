@@ -3699,6 +3699,56 @@
       "mode": "monitor",
       "fp": "u s abruptly announces deal to import russian diesel",
       "date": "2026-10-10"
+    },
+    {
+      "headline": "Full-scale war erupts again in Yemen near key trade chokepoint",
+      "summary": "The UN warned that Yemen has slipped back into full-scale war after heavy clashes erupted between Saudi-backed government forces and Houthi fighters. Battles have flared around Mokha along the Red Sea coast, accompanied by fresh missile strikes. The fighting brings direct violence right up to the doorstep of the Bab el-Mandeb strait, one of the planet's busiest maritime bottlenecks.",
+      "why": "When this narrow maritime door gets caught in crossfire, cargo ships must divert thousands of miles around Africa, driving up shipping rates and delays worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "full scale war erupts again in yemen near key trade",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "US eases restrictions on Russian diesel as fuel costs spike",
+      "summary": "The US government moved to permit Russian diesel back into global trade channels to cool down soaring fuel prices. Diesel costs had spiked to punishing levels, threatening to choke supply chains and push everyday goods higher ahead of upcoming elections. Officials chose pragmatic pocketbook relief over maintaining an airtight economic blockade on Moscow's refined fuels.",
+      "why": "Diesel powers the trucks, trains, and ships that move everything we eat and buy, making fuel supply the ultimate lever on global inflation.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "us eases restrictions on russian diesel as fuel costs spike",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "Massive 7.7 earthquake hits Panama, triggering tsunami alerts",
+      "summary": "A magnitude 7.7 earthquake struck Panama, shaking buildings across Central America and setting off tsunami warnings along Latin America's Pacific coastline. Coastal residents were urged to seek higher ground while emergency teams fanned out to assess damage to bridges, roads, and utilities. The region is now bracing for heavy aftershocks as rescue efforts mobilize.",
+      "why": "Beyond the human toll, severe tremors near the Panama transit corridor risk rattling vital regional ports and transport links that bridge the Pacific and Atlantic.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "massive 7 7 earthquake hits panama triggering tsunami alerts",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "Hurricane Isaias batters the US Gulf Coast, cutting power to hundreds of thousands",
+      "summary": "Hurricane Isaias slammed into the Florida Panhandle and Alabama coast, tearing down power lines and causing widespread inland flooding before weakening. More than 350,000 homes and businesses lost electricity in the dark as emergency crews began clearing blocked roadways. Flooded agricultural areas and municipal infrastructure will take weeks to fully recover.",
+      "why": "Major storm hits along the Gulf disrupt regional energy and transport infrastructure while stretching local emergency safety nets thin.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "hurricane isaias batters the us gulf coast cutting power to",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "Allies clash over international law as Nobel Prize spotlights human rights courts",
+      "summary": "Canada, Japan, and European nations united to publicly back the International Criminal Court against US sanctions, exposing deep diplomatic fissures. The friction intensified as former international judge Navi Pillay was awarded the 2026 Nobel Peace Prize for defending legal accountability. Washington has pushed hard against the court's jurisdiction, while its closest partners insist international law must apply equally to all.",
+      "why": "When the world's most powerful allies can no longer agree on the shared rules of international justice, global diplomacy loses the referee it relies on to manage conflicts.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "allies clash over international law as nobel prize spotlights human",
+      "date": "2026-10-10"
     }
   ]
 }
