@@ -3749,6 +3749,56 @@
       "mode": "morning",
       "fp": "allies clash over international law as nobel prize spotlights human",
       "date": "2026-10-10"
+    },
+    {
+      "headline": "US pressures Ukraine for leadership change amid Russian fuel talks",
+      "summary": "The White House called for Ukraine to replace President Volodymyr Zelenskyy while announcing a diesel agreement involving Russia. Envoys from Washington, Kyiv, and Europe are meeting under heavy strain to figure out a path forward. European partners worry the United States is pulling the rug out from under Kyiv to force a quick deal on Moscow's terms.",
+      "why": "If a country's main backer changes sides or demands new leaders, the whole balance of global security tilts overnight.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us pressures ukraine for leadership change amid russian fuel talks",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "Massive 7.6 earthquake rocks Panama and triggers tsunami alerts",
+      "summary": "A magnitude 7.6 earthquake hit off the coast of Panama, shaking buildings hard and sending residents fleeing into the streets. Authorities triggered tsunami warnings while disaster crews fanned out to check bridges, hospitals, and transit routes. Ongoing aftershocks have left vulnerable coastal neighborhoods bracing for structural collapses and disrupted basic services.",
+      "why": "A shock this violent can knock out vital trade corridors and push fragile local communities into an instant humanitarian emergency.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "massive 7 6 earthquake rocks panama and triggers tsunami alerts",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "Houthi strike hits Riyadh airport in sharp Middle East escalation",
+      "summary": "Yemen's Houthi forces launched missiles and drones deep into Saudi Arabia, causing a blast that wounded several people near Riyadh's airport. Air defenses intercepted some targets, but the strikes still reached the capital's perimeter. The attack shatters fragile regional pauses and brings high-stakes conflict right back to the Gulf's commercial core.",
+      "why": "Direct strikes on major Gulf cities risk sparking a broader regional war that could quickly rattle world oil shipping.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "houthi strike hits riyadh airport in sharp middle east escalation",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "Hurricane Isaias cuts power to hundreds of thousands amid flash floods",
+      "summary": "Hurricane Isaias made landfall, leaving at least two dead and knocking out electricity for hundreds of thousands of people across several states. The wind has lost some punch, but sheets of rain are turning city streets into rivers and washing out highways. Utility workers face days of repair work because flooded ground keeps repair trucks from reaching downed transformers.",
+      "why": "It is another stark reminder of how quickly extreme weather can break our power grids and leave ordinary families without clean water or heat.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "hurricane isaias cuts power to hundreds of thousands amid flash",
+      "date": "2026-10-10"
+    },
+    {
+      "headline": "India locks down New Delhi and rounds up youth protest leaders",
+      "summary": "Authorities barricaded New Delhi and detained thousands of demonstrators to crush planned protests against the national election commission. Security forces blocked roads, shut transit stations, and took student protest organizers into custody before crowds could gather. Demonstrators say the government is rigging the rules of the game, while officials argue the lockdown was necessary to keep order.",
+      "why": "When the world's biggest democracy starts shutting down its own capital to stop youth from questioning elections, the health of basic civil rights is on the line.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "india locks down new delhi and rounds up youth protest",
+      "date": "2026-10-10"
     }
   ]
 }
