@@ -1,196 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US Destroys Iranian Oil Tankers After Missile Strikes on Jordan Base",
-      "summary": "The US military destroyed five Iranian crude oil tankers after Iranian forces fired ballistic missiles at American warships. In response, Iran targeted US troops at an air base in Jordan and warned commercial ships around Gulf ports to evacuate. It is like two opponents who were previously just shoving each other suddenly trading knockout punches in a crowded room.",
-      "why": "This marks an open, direct military confrontation between the United States and Iran rather than a proxy fight. Directly attacking oil tankers and striking bases in allied countries sharply escalates the conflict, putting critical global shipping routes and energy supplies in immediate danger.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us destroys iranian oil tankers after missile strikes on jordan",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "US Destroys Five Iranian Tankers Following Missile Attacks on Warship",
-      "summary": "The US military destroyed five Iranian crude oil tankers after Iranian forces fired ballistic missiles at an American warship twice in 48 hours. This direct clash comes as allied strikes also hit Saudi oil infrastructure, driving crude prices toward $100 a barrel.",
-      "why": "Blowing up commercial tankers and trading missile fire with naval warships is a sharp military escalation. It puts a chokehold on key shipping lanes, risking an all-out regional war and an immediate shock to global energy supplies.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us destroys five iranian tankers following missile attacks on warship",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "Oil Tops $100 as Middle East Tanker Strikes Throttle Energy Routes",
-      "summary": "Global oil prices pushed past $100 a barrel after U.S. strikes hit Iranian tankers and renewed drone attacks damaged Saudi oil facilities. The fighting has choked vessel traffic through the Strait of Hormuz, the narrow sea lane that normally carries a fifth of global petroleum. With tanker movements ground to a crawl, energy markets are bracing for a prolonged supply shock.",
-      "why": "When oil spikes, it acts like a sudden tax hike on everything from trucked groceries to factory power, threatening to trigger fresh interest rate hikes and consumer pain.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "oil tops 100 as middle east tanker strikes throttle energy",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "Canada Hits Back at the U.S. with Retaliatory Tariffs",
-      "summary": "Canada rolled out steep counter-tariffs on roughly $20 billion worth of American imports, matching heavy levies imposed by the Trump administration. In response, Washington slapped new curbs on Canadian products and blocked Canadian firms from bidding on U.S. government contracts. Both leaders have traded sharp warnings as negotiations over auto, steel, and agricultural trade completely broke down.",
-      "why": "A trade fight between two closely linked neighbors pushes up retail prices on both sides of the border and could drag down manufacturing jobs across North America.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "canada hits back at the u s with retaliatory tariffs",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "China Injects $54 Billion into Big Banks to Fight Economic Slump",
-      "summary": "Beijing launched a massive multi-billion dollar capital boost into its state insurers and top commercial banks to steady the country's financial system. The injection is meant to push more loans into the real economy as household spending and the property market continue to cool. Authorities are trying to jump-start growth without causing a fresh pile-up of bad debt.",
-      "why": "China is the world's biggest factory and customer for raw materials, meaning a stalled Chinese economy slows down trade and manufacturing everywhere else.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "china injects 54 billion into big banks to fight economic",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "Russia and North Korea Open Their First Shared Road Bridge",
-      "summary": "Moscow and Pyongyang officially opened the first automobile bridge across the Tumen River, connecting Russian territory directly to North Korea. While both governments claim the new crossing is for everyday trade and tourism, international monitors warn it establishes an overland highway for shipping military equipment and munitions. The bridge formalizes an increasingly tight military and economic pact between the two isolated regimes.",
-      "why": "It builds a permanent, sanctions-proof pipeline between a nuclear-armed rogue state and Russia, complicating both the war in Ukraine and security in East Asia.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "russia and north korea open their first shared road bridge",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "UN Votes to Replace the Traditional World Map to Show Africa's True Scale",
-      "summary": "The United Nations General Assembly passed a resolution encouraging schools, governments, and tech companies to swap out the 16th-century Mercator map for equal-area projections. The centuries-old Mercator map distorts the globe by making northern countries look massive while shrinking equatorial landmasses like Africa, which is actually 14 times larger than Greenland. The measure passed 164 to 1, with the United States casting the sole dissenting vote.",
-      "why": "Changing the basic picture of the world that children see in classrooms reshapes how future leaders and citizens view the geopolitical weight and human importance of the Global South.",
-      "domain": "Society",
-      "severity": "MEDIUM",
-      "mode": "morning",
-      "fp": "un votes to replace the traditional world map to show",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "Oil tops $100 as US and Iran trade strikes in the Persian Gulf",
-      "summary": "The US military struck five Iranian oil tankers, and Iran responded by firing missiles at shipping and American bases in the region. The exchange pushed benchmark crude prices back above $100 a barrel. It is like a fire breaking out next to the world's main fuel pump, leaving everyone bracing for the blast.",
-      "why": "Expensive oil acts like an immediate tax on ordinary families everywhere, quickly driving up grocery bills, commute costs, and factory prices.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "oil tops 100 as us and iran trade strikes in",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "Houthi strikes on Saudi refineries reignite Yemen conflict",
-      "summary": "Yemen's Houthi forces launched a massive drone and missile barrage into southern Saudi Arabia, setting oil facilities ablaze and injuring more than 70 people. Saudi jets answered with dozens of airstrikes across several Yemeni provinces. The exchange blows apart years of relative calm and threatens to pull the wider region into direct fighting.",
-      "why": "A fresh war across the Arabian Peninsula puts vital global oil supplies and Red Sea shipping routes in extreme danger while worsening a massive humanitarian crisis.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "houthi strikes on saudi refineries reignite yemen conflict",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "Peace talks stall as Russia batters Ukrainian energy and cities",
-      "summary": "High-profile diplomatic trips by US envoys to Moscow and Kyiv ended without any peace breakthrough, leaving both capitals ready for a brutal winter campaign. Russia followed up with fresh drone and missile attacks against Ukrainian apartment buildings, border crossings, and power stations. Both armies are increasingly relying on long-range drone strikes far behind the front lines.",
-      "why": "A stalled peace process locks the continent into endless conflict and leaves millions of Ukrainian families facing freezing weather without reliable heat or power.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "peace talks stall as russia batters ukrainian energy and cities",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "US and Canada escalate trade battle with import bans and retaliatory tariffs",
-      "summary": "The White House ordered import bans on Canadian alcohol, dairy, and motorcycles just as Canada's matching 50 percent tariffs on American goods went live. The dispute grew out of collapsed trade talks and has escalated at lightning speed. It is like two longtime neighbors suddenly putting up spiked fences and refusing to share tools.",
-      "why": "Disrupting the world's largest bilateral trade relationship slows factory lines, threatens cross-border supply chains, and forces everyday consumers to pay more.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "us and canada escalate trade battle with import bans and",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "Nigeria reportedly secures quiet ceasefire with Boko Haram",
-      "summary": "Reports revealed the Nigerian government brokered a secret three-month truce with Boko Haram, which helped free 360 kidnapped villagers in the northeast. While officials publicly deny negotiating or paying ransoms, fighting on the ground around the border has dropped sharply. The move marks a rare, pragmatic shift in tactics after nearly two decades of military-first operations.",
-      "why": "Even a temporary pause in one of Africa's deadliest insurgencies offers rare safety to millions of civilians and tests whether diplomacy can finally end 17 years of bloodshed.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "nigeria reportedly secures quiet ceasefire with boko haram",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "US and Iran trade direct military strikes in the Gulf, pushing oil over $100",
-      "summary": "After Iranian forces fired ballistic missiles at an American warship, the US destroyed five Iranian oil tankers in retaliation. Iran struck back today by launching missiles at a US military base in Jordan and attacking vessels around the Strait of Hormuz, sending global oil prices above $100 a barrel.",
-      "why": "Direct military blows between the US and Iran in the world's most vital oil corridor could quickly trigger a broader war and spark an immediate global energy crunch.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us and iran trade direct military strikes in the gulf",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "Persian Gulf clashes send oil prices past $100",
-      "summary": "Fighting between the US and Iran escalated around the Strait of Hormuz, with strikes on tankers and shipping choking the world's most vital energy bottleneck. Iran hit back at commercial vessels after the US military targeted Iranian ships, pushing crude prices back into triple digits. Think of Hormuz as the kitchen sink pipe of the global economy; when it gets clogged, everyone's bill goes up.",
-      "why": "Expensive oil acts like an immediate tax hike on almost every family on Earth, driving up the cost of groceries, travel, and electricity.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "persian gulf clashes send oil prices past 100",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "Peace talks stall as Russia and Ukraine trade massive strikes",
-      "summary": "US peace envoys wrapped up meetings in Moscow and Kyiv without a breakthrough, leaving the two sides as far apart as ever. Immediately following the talks, Russia pounded Ukrainian cities with hundreds of drones and missiles, while Ukraine launched waves of deep-strike drones into Russian territory. Both armies are swinging harder in an attempt to grab extra bargaining chips before anyone sits down at a negotiation table.",
-      "why": "The failure to find common ground means Europe's deadliest war is expanding its reach into everyday civilian life rather than winding down.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "peace talks stall as russia and ukraine trade massive strikes",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "AI safety departures trigger fresh alarm over out-of-control models",
-      "summary": "Key researchers quit leading AI lab Anthropic, warning publicly that companies are running too fast toward super-smart systems without safety brakes. The departing scientists argue that competitive pressure is pushing firms to gamble with high-consequence technology before they know how to control it. It is like building a supersonic race car while skipping tests on the steering wheel.",
-      "why": "If insider warnings lead to emergency government limits, the pace of technological change across schools, workplaces, and businesses could suddenly shift gears.",
-      "domain": "Technology",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "ai safety departures trigger fresh alarm over out of control",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "US and Canada slide into an escalating trade battle",
-      "summary": "The US rolled out fresh bans on Canadian dairy, alcohol, and motorbikes, and Canada hit back with retaliatory duties of its own. Decades of smooth cross-border commerce are cracking as both sides swap punitive trade penalties. It is like two friendly next-door neighbors locking the shared garden gate and charging each other a toll to borrow sugar.",
-      "why": "These two economies are tied at the hip, meaning new trade barriers will raise prices on store shelves and shake factory jobs on both sides of the border.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "us and canada slide into an escalating trade battle",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "Global AI hardware hunger fuels a major Chinese export surge",
-      "summary": "China posted stronger-than-expected trade figures, carried largely by huge global demand for computer chips, servers, and tech hardware needed for the artificial intelligence boom. Even with geopolitical tensions and tariff friction in the air, factories in China are running hot to supply the world's digital overhaul. The appetite to build computing infrastructure is currently stronger than political rivalries.",
-      "why": "Strong factory demand shows that the worldwide race to build artificial intelligence has become the primary engine keeping global manufacturing alive.",
-      "domain": "Technology",
-      "severity": "MEDIUM",
-      "mode": "evening",
-      "fp": "global ai hardware hunger fuels a major chinese export surge",
-      "date": "2026-09-09"
-    },
-    {
-      "headline": "US strikes destroy Iranian tankers and Houthi barrages hit Saudi refineries, driving oil past $100",
-      "summary": "The US military destroyed five Iranian oil tankers after attacks on an American warship, while Iran-backed Houthis launched drone and missile strikes that set Saudi oil facilities ablaze and injured over 70 people. Iran and allied forces also targeted commercial tankers in the Persian Gulf, choking traffic along critical shipping lanes and sending Brent crude spiking back above $100 a barrel.",
-      "why": "This is a sharp military escalation that directly targets oil shipping and production infrastructure, threatening global energy supply lines and escalating the risk of a wider direct confrontation between the US, its Gulf allies, and Iran.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "us strikes destroy iranian tankers and houthi barrages hit saudi",
-      "date": "2026-09-09"
-    },
-    {
       "headline": "Ukrainian Drones Hit Russia's Arctic Gas Heartland for the First Time",
       "summary": "Ukrainian long-range drones flew roughly 3,000 kilometers into northern Siberia, striking an energy facility in Novy Urengoy. It is the deepest strike Kyiv has ever carried out inside Russian territory.",
       "why": "This is a major military escalation that shows Russia's energy crown jewels are no longer out of reach. Opening up the Arctic as a battleground puts immense pressure on global gas supplies and significantly widens the conflict.",
@@ -3849,6 +3659,16 @@
       "mode": "evening",
       "fp": "nobel peace prize ignites fierce diplomatic clash and sanctions",
       "date": "2026-10-09"
+    },
+    {
+      "headline": "Massive 7.7 earthquake strikes southern Panama",
+      "summary": "A powerful 7.7-magnitude earthquake followed by a strong 6.6 aftershock hit southern Panama. The shaking damaged buildings, cracked roads, and sent crowds rushing into the streets in panic.",
+      "why": "An earthquake of this size is a major natural disaster that threatens lives, breaks key transport links, and requires emergency response.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "massive 7 7 earthquake strikes southern panama",
+      "date": "2026-10-10"
     }
   ]
 }
