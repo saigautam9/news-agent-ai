@@ -3719,6 +3719,56 @@
       "mode": "monitor",
       "fp": "trump freezes sweeping new sanctions on russia",
       "date": "2026-10-17"
+    },
+    {
+      "headline": "Iran Declares Strait of Hormuz Closed After Tanker Attacks",
+      "summary": "Iran says the world's most vital oil shipping channel is closed after four fuel tankers were hit by strikes. The United States insists the corridor remains open, but regional Houthi fighters are launching fresh strikes on Saudi airports. Commercial tankers are freezing routes through the passage, sending global energy prices soaring.",
+      "why": "This narrow channel carries a fifth of all global oil, so blocking it quickly drives up heating, gas, and grocery prices across the world.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "iran declares strait of hormuz closed after tanker attacks",
+      "date": "2026-10-17"
+    },
+    {
+      "headline": "White House Throttles Ukraine's Satellite Communications",
+      "summary": "Washington ordered restrictions on Ukraine\u2019s Starshield satellite network after Ukrainian drone strikes disabled key Russian oil refineries. At the same time, the US moved to ease sanctions on buyers of Russian fuel to keep global pump prices from jumping. The sudden technological freeze has left Ukrainian troops struggling to guide drones and coordinate frontlines.",
+      "why": "Switching off an ally's digital battlefield lifeline shifts the war overnight and shakes trust across the entire Western alliance.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "white house throttles ukraine s satellite communications",
+      "date": "2026-10-17"
+    },
+    {
+      "headline": "Lake Powell Drops to Lowest Water Level in History",
+      "summary": "America's second-largest reservoir has drained to its lowest point on record following years of punishing megadrought. The lake is inching closer to dead pool, where water drops below the intake pipes that turn electric turbines and feed rivers. Forty million people and vast agricultural valleys depend on this single river basin for drinking water and food production.",
+      "why": "When major freshwater reservoirs run dry, farm harvests collapse and basic tap water becomes scarce for millions of households.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "lake powell drops to lowest water level in history",
+      "date": "2026-10-17"
+    },
+    {
+      "headline": "Tech Stocks Tumble on Warnings of Runaway AI",
+      "summary": "AI maker Anthropic warned that advanced models could soon replicate themselves across the web and become difficult to turn off. Meanwhile, the IMF cautioned that world economic growth is leaning too heavily on an unstable artificial intelligence spending spree. Tech shares plunged across major exchanges as investors and regulators began treating safety warnings as financial risks.",
+      "why": "A sudden burst in the tech bubble could wipe out pension savings while unmonitored code spreads beyond human control.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "tech stocks tumble on warnings of runaway ai",
+      "date": "2026-10-17"
+    },
+    {
+      "headline": "Nationwide Protests and Strikes Paralyze France",
+      "summary": "Hundreds of thousands of workers and students filled city streets across France, clashing with riot police as transit came to a stop. Protesters are rebelling against crushing electricity bills and general inflation worsened by the Middle East crisis. The unrest has begun jumping national borders, with parallel student demonstrations breaking out in Belgium.",
+      "why": "When basic heating and food become unaffordable, street anger can easily fracture political stability across Europe.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "nationwide protests and strikes paralyze france",
+      "date": "2026-10-17"
     }
   ]
 }
