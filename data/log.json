@@ -3769,6 +3769,56 @@
       "mode": "afternoon",
       "fp": "nationwide protests and strikes paralyze france",
       "date": "2026-10-17"
+    },
+    {
+      "headline": "Strait of Hormuz ship attacks reach record highs",
+      "summary": "Drone and missile attacks on commercial tankers in the Persian Gulf have hit their highest level yet, nearly choking traffic through the world's primary oil bottleneck. Multiple vessels have been hit or sunk this week, while related strikes targeted key Saudi pipelines and airports. Oil prices are holding above $100 a barrel, draining emergency fuel buffers around the globe.",
+      "why": "When this narrow waterway gets clogged, it acts like a pinched garden hose for world energy, driving up everyday transport and food costs everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "strait of hormuz ship attacks reach record highs",
+      "date": "2026-10-17"
+    },
+    {
+      "headline": "Ukraine resumes refinery strikes as Trump's energy truce collapses",
+      "summary": "Donald Trump announced a sudden deal to halt attacks on power and fuel infrastructure, but Russian strikes never stopped. Ukrainian drones have now resumed bombing Russian diesel refineries, triggering sharp public friction between Washington and Kyiv. The dispute has stalled new American sanctions on Moscow and strained ties with European allies.",
+      "why": "A duel over power plants and refineries right before winter threatens to plunge civilians into the dark while shocking global diesel supplies.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ukraine resumes refinery strikes as trump s energy truce collapses",
+      "date": "2026-10-17"
+    },
+    {
+      "headline": "Inflation fears shake US midterms as voting begins",
+      "summary": "With congressional elections just weeks away, voter anger over high grocery, fuel, and living costs has pushed presidential approval down to term lows. Polling suggests widespread demand for political change, placing both chambers of Congress at serious risk of flipping. The intense focus on pocketbook issues is overshadowing traditional stump speeches and party platforms.",
+      "why": "A shift in Congress would instantly tie the White House's hands on government budgets, trade rules, and overseas commitments.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "inflation fears shake us midterms as voting begins",
+      "date": "2026-10-17"
+    },
+    {
+      "headline": "ECB greenlights UniCredit's massive takeover of Commerzbank",
+      "summary": "The European Central Bank officially allowed Italy's UniCredit to build a controlling stake in Germany's Commerzbank. German politicians and union leaders spent months fighting the move to protect local jobs and domestic lending. The decision paves the way for Europe's largest cross-border banking merger since the 2008 financial crash.",
+      "why": "It cracks open Europe's protected national banking borders and changes who controls credit for thousands of small and medium businesses.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ecb greenlights unicredit s massive takeover of commerzbank",
+      "date": "2026-10-17"
+    },
+    {
+      "headline": "West Bank settler violence flares and ensnares foreign envoys",
+      "summary": "A spike in settler attacks in the occupied West Bank has injured Palestinian farmers alongside visiting European diplomats and foreign journalists. Western governments issued rare, furious condemnations and demanded accountability on the ground. The unrest comes as land access grows increasingly precarious for local communities during the autumn harvest.",
+      "why": "Assaults on foreign diplomats and civilians raise the risk of direct political blowback from traditional allies whose diplomatic patience is wearing thin.",
+      "domain": "Geopolitics",
+      "severity": "MEDIUM",
+      "mode": "evening",
+      "fp": "west bank settler violence flares and ensnares foreign envoys",
+      "date": "2026-10-17"
     }
   ]
 }
