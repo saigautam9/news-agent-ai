@@ -3819,6 +3819,16 @@
       "mode": "evening",
       "fp": "west bank settler violence flares and ensnares foreign envoys",
       "date": "2026-10-17"
+    },
+    {
+      "headline": "Strait of Hormuz Under Fire as Tankers Are Struck and Drones Target Riyadh",
+      "summary": "Iran's Revolutionary Guard warned that the Strait of Hormuz is closed after several crude oil tankers were hit by naval mines and fire from small boats. At the same time, air defense systems intercepted multiple drones heading over the Saudi capital, Riyadh.",
+      "why": "The Strait of Hormuz is the main artery of the world's oil trade. Attacking supertankers and declaring this vital chokepoint shut threatens global energy supplies and marks a dangerous, direct military escalation across the Persian Gulf.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "strait of hormuz under fire as tankers are struck and",
+      "date": "2026-10-17"
     }
   ]
 }
