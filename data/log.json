@@ -3709,6 +3709,16 @@
       "mode": "morning",
       "fp": "china and north korea open long delayed border lifeline",
       "date": "2026-10-17"
+    },
+    {
+      "headline": "Trump Freezes Sweeping New Sanctions on Russia",
+      "summary": "President Trump signed an order hitting the brakes on a massive sanctions law against Russia, just two days before it was set to kick in. Congress had passed the bipartisan bill to starve Moscow's war effort by penalizing Russian banks and foreign buyers of Russian oil. Trump argued the pause protects American interests, pointing to a new deal to import Russian diesel to lower fuel prices. Ukrainian leaders and lawmakers in Washington pushed back immediately, warning the move hands Moscow an economic lifeline.",
+      "why": "This is a massive U-turn in American foreign policy. Congress built a financial wall to squeeze the Kremlin, but the White House just opened the gate to keep fuel prices down. It upends Western pressure on Moscow overnight and deepens an already tense rift between Washington and its allies.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "trump freezes sweeping new sanctions on russia",
+      "date": "2026-10-17"
     }
   ]
 }
