@@ -3739,6 +3739,56 @@
       "mode": "monitor",
       "fp": "supertankers catch fire after striking sea mines in the strait",
       "date": "2026-10-18"
+    },
+    {
+      "headline": "Houthi Missile Strikes Hit Riyadh Airport and Rattled Oil Hubs",
+      "summary": "A series of missile and drone attacks from Yemen struck Riyadh's main international airport and oil sites, killing at least 20 people and shutting down key air corridors. Saudi forces launched heavy airstrikes in response while talking with Washington about expanding defense operations as energy markets jump. It is like tossing a lit match into an already overheated room, threatening to drag the Gulf back into open warfare.",
+      "why": "If Saudi airspace and oil facilities stay vulnerable, shipping routes jam up, fuel prices surge worldwide, and the chances of a wider regional conflict multiply.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "houthi missile strikes hit riyadh airport and rattled oil hubs",
+      "date": "2026-10-18"
+    },
+    {
+      "headline": "White House Halts Russia Sanctions for Cheap Fuel, Triggering Backlash",
+      "summary": "The White House issued an executive waiver freezing tough congressional sanctions on Russia just two days before they took effect, aiming to buy Russian diesel to cool high gas prices. Lawmakers from both political parties and Ukrainian officials reacted with fury, warning that the deal feeds cash to Moscow while its army pummels Ukraine's power grid. It is like locking the front door against an intruder, only to open the kitchen window to buy discounted groceries.",
+      "why": "The move punches a hole in the Western sanctions wall against Moscow and cracks American bipartisan foreign policy right before major elections.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "white house halts russia sanctions for cheap fuel triggering backlash",
+      "date": "2026-10-18"
+    },
+    {
+      "headline": "France Engulfed by Severe Cost-of-Living Riots and Mass Arrests",
+      "summary": "Over half a million people took to the streets across France over soaring grocery prices, energy bills, and failing public services, but rallies quickly boiled over into arson and clashes. Protesters torched town halls, ransacked stores, and fought riot squads, prompting police to arrest more than 1,800 people over the weekend. It is like a pressure cooker that has been rattling on high heat for months until the lid finally flew off.",
+      "why": "The unrest shows how ordinary pocketbook pain is destabilizing a nuclear-armed European pillar and leaving its government on the defensive ahead of elections.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "france engulfed by severe cost of living riots and mass",
+      "date": "2026-10-18"
+    },
+    {
+      "headline": "Europe Approves Largest Cross-Border Bank Takeover Since 2008",
+      "summary": "The European Central Bank authorized Italy's UniCredit to take majority control of Commerzbank, sweeping aside intense political pushback from Berlin. The decision clears the way to create a multi-nation financial titan, despite German fears over lost banking jobs and local lending. Think of it like tearing down property fences between two giant neighborhood grocery chains so they can survive against global superstores.",
+      "why": "It marks a turning point for the European Union, proving regulators will prioritize a unified financial market over individual countries protecting their national champion companies.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "europe approves largest cross border bank takeover since 2008",
+      "date": "2026-10-18"
+    },
+    {
+      "headline": "Masked Settlers Attack European Diplomats in West Bank Olive Groves",
+      "summary": "A crowd of masked Israeli settlers assaulted a visiting delegation of French, Belgian, and Polish diplomats who were joining Palestinian farmers for their seasonal olive harvest. The attackers beat several officials, including a visiting French mayor, and vandalized consular vehicles, sparking formal protests from European capitals. It is the diplomatic equivalent of roughing up a neutral referee who came to observe a neighborhood boundary dispute.",
+      "why": "Physically targeting Western diplomats shatters normal diplomatic boundaries and pushes European governments toward sanctioning extremist groups and hardening their stance against the occupation.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "masked settlers attack european diplomats in west bank olive groves",
+      "date": "2026-10-18"
     }
   ]
 }
