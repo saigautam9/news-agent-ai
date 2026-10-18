@@ -3789,6 +3789,56 @@
       "mode": "morning",
       "fp": "masked settlers attack european diplomats in west bank olive groves",
       "date": "2026-10-18"
+    },
+    {
+      "headline": "Ukraine Strikes St. Petersburg Oil Hubs with Massive Drone Swarm",
+      "summary": "Ukraine launched over a thousand drones deep into Russia, setting major oil export terminals and power facilities on fire in St. Petersburg. Kyiv ended its pause on hitting Russian fuel depots after Moscow kept hammering Ukraine's electrical grid. The barrage shows Ukraine is willing to bypass Washington's calls for restraint to strike at the cash machine funding Russia's war.",
+      "why": "Hitting key export terminals threatens to shake global oil markets and make fuel pricier for everyone.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ukraine strikes st petersburg oil hubs with massive drone swarm",
+      "date": "2026-10-18"
+    },
+    {
+      "headline": "Egypt Prepares Military Aid for Saudi Arabia After Escalating Houthi Attacks",
+      "summary": "Yemen's Houthi forces launched fresh missile and drone strikes against Saudi airports and energy infrastructure after a long-standing ceasefire collapsed. In response, Egypt's leadership called an emergency session to approve defensive military assistance for the kingdom. Cairo is aligning with Turkey and Pakistan to create a regional security shield around the Gulf.",
+      "why": "Bringing the region's largest ground army into the standoff risks expanding the conflict and choking off critical global shipping lanes.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "egypt prepares military aid for saudi arabia after escalating houthi",
+      "date": "2026-10-18"
+    },
+    {
+      "headline": "'No Kings' Movement Rallies US Voters Ahead of Crucial Midterms",
+      "summary": "Tens of thousands of demonstrators gathered across major American cities for 'No Kings' rallies aimed at driving massive early voting turnout. The grassroots protests focused on challenging Donald Trump's second-term policies at the ballot box just weeks before the midterm vote. Both sides view the upcoming election as a referendum on the administration's aggressive use of executive power.",
+      "why": "The vote determines who controls Congress, deciding whether the White House faces a hard check on tariffs, foreign policy, and federal power.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "no kings movement rallies us voters ahead of crucial midterms",
+      "date": "2026-10-18"
+    },
+    {
+      "headline": "France Shaken by Violent Cost-of-Living Protests and Mass Arrests",
+      "summary": "Hundreds of thousands of protesters took to the streets across France to push back against soaring prices and decaying public services. The demonstrations turned chaotic in major cities, resulting in 1,800 arrests, ransacked storefronts, and the torching of Limoges City Hall. The unrest lands just months before presidential elections, leaving Emmanuel Macron's government scrambling to regain control.",
+      "why": "When basic groceries and rent become unaffordable, street fury can quickly freeze a nation's economy and reshape its political future.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "france shaken by violent cost of living protests and mass",
+      "date": "2026-10-18"
+    },
+    {
+      "headline": "Settler Attack on European Diplomats in the West Bank Triggers Global Outcry",
+      "summary": "Masked Israeli settlers attacked a diplomatic convoy and beat an olive-harvesting French mayor alongside European envoys in the occupied West Bank. The violence drew immediate, fierce condemnations from European capitals and a rare warning from Washington about an out-of-control crisis. European leaders are now demanding criminal prosecutions from an Israeli government that has long turned a blind eye to settler violence.",
+      "why": "Beating foreign diplomats crosses a major diplomatic red line, pushing Europe to reconsider its political and trade support for Israel.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "settler attack on european diplomats in the west bank triggers",
+      "date": "2026-10-18"
     }
   ]
 }
