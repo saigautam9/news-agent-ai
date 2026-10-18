@@ -3839,6 +3839,16 @@
       "mode": "afternoon",
       "fp": "settler attack on european diplomats in the west bank triggers",
       "date": "2026-10-18"
+    },
+    {
+      "headline": "Oil Tanker Explodes After Hitting Naval Mine in the Strait of Hormuz",
+      "summary": "A commercial oil tanker struck a naval mine and caught fire in the southern Strait of Hormuz. Iranian forces said the vessel was moving without tracking systems in defiance of passage rules, marking the latest tanker explosion in the area over the weekend.",
+      "why": "The Strait of Hormuz is the world's main energy highway, moving about a fifth of global oil supplies. Naval mines detonating against tankers in this narrow corridor is a sharp military escalation that threatens to cut off international shipping, spike global fuel prices, and trigger wider direct naval clashes.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "oil tanker explodes after hitting naval mine in the strait",
+      "date": "2026-10-18"
     }
   ]
 }
