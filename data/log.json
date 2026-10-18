@@ -3729,6 +3729,16 @@
       "mode": "monitor",
       "fp": "strait of hormuz under fire as tankers are struck and",
       "date": "2026-10-17"
+    },
+    {
+      "headline": "Supertankers Catch Fire After Striking Sea Mines in the Strait of Hormuz Amid Escalating Maritime Attacks",
+      "summary": "Two supertankers carrying millions of barrels of crude oil caught fire after hitting naval mines in the Strait of Hormuz, while commercial vessels and a tugboat were attacked off the coasts of Yemen and the United Arab Emirates, and drones were intercepted near Riyadh.",
+      "why": "The Strait of Hormuz is the world's most critical oil transit route, acting like the jugular vein of the global energy supply. Active naval mines damaging commercial supertankers represents a severe military escalation that directly threatens global shipping lanes and risks dragging regional and international militaries into a wider clash.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "supertankers catch fire after striking sea mines in the strait",
+      "date": "2026-10-18"
     }
   ]
 }
