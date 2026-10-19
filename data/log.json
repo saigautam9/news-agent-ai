@@ -3849,6 +3849,56 @@
       "mode": "afternoon",
       "fp": "paris and milan enact night curfews following destructive street riots",
       "date": "2026-10-19"
+    },
+    {
+      "headline": "UN Cuts Food Aid for 500,000 People in Gaza as Funds Run Out",
+      "summary": "The UN World Food Programme ran short of money and had to cut off monthly food deliveries for half a million people in Gaza. Rations for those still receiving help were sliced in half, just as winter arrives. Aid groups say community kitchens and bakeries cannot keep up without an immediate wave of international funding.",
+      "why": "It leaves hundreds of thousands of displaced families facing real hunger with virtually nowhere else to turn.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "un cuts food aid for 500 000 people in gaza",
+      "date": "2026-10-19"
+    },
+    {
+      "headline": "Ukraine Hits Russian Oil Ports in Huge Drone Attack",
+      "summary": "Ukraine launched over 1,000 drones deep inside Russia, setting major fuel export terminals ablaze around St. Petersburg. The strike went ahead despite US pressure to pause attacks on energy sites, sending global oil prices jumping. Kyiv said it must cut off the cash flow funding Moscow's military operations.",
+      "why": "Attacking major fuel depots directly threatens Russia's war budget while pushing up fuel prices for drivers everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ukraine hits russian oil ports in huge drone attack",
+      "date": "2026-10-19"
+    },
+    {
+      "headline": "France Imposes Night Curfews Following Cost-of-Living Riots",
+      "summary": "French authorities ordered night curfews in parts of Paris and other cities after protests against high prices turned into violent riots. What began as peaceful demonstrations over unaffordable food and fuel quickly led to looting and clashes with police. Ministers are scrambling for control as public anger over living standards boils over.",
+      "why": "It shows how easily high everyday bills can tear through the social fabric of a leading world economy.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "france imposes night curfews following cost of living riots",
+      "date": "2026-10-19"
+    },
+    {
+      "headline": "Indonesian Markets Tumble After Global Downgrade Warning",
+      "summary": "Indonesian shares tumbled to a six-year low after index giant MSCI warned it could downgrade the country's stock market over shady trading and weak rules. It is like a bank threatening to yank your credit score because your bookkeeping looks messy. Exchange leaders are racing to meet with the agency before foreign investment evaporates.",
+      "why": "A formal downgrade would trigger billions of dollars in sudden capital flight from Southeast Asia's largest economy.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "indonesian markets tumble after global downgrade warning",
+      "date": "2026-10-19"
+    },
+    {
+      "headline": "China Warns Britain of Countermeasures Over EV Tariffs",
+      "summary": "Beijing warned London of swift retaliation if the UK joins the European Union in slapping extra duties on Chinese electric cars. British officials want to protect local auto jobs, but Beijing called the idea unfair discrimination. It puts Britain in a tough squeeze between European trade rules and keeping green technology affordable.",
+      "why": "A new tariff fight risks raising the price of clean cars and disrupting international commerce.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "china warns britain of countermeasures over ev tariffs",
+      "date": "2026-10-19"
     }
   ]
 }
