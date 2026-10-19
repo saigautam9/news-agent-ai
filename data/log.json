@@ -3799,6 +3799,56 @@
       "mode": "monitor",
       "fp": "oil tanker explodes after hitting naval mine in the strait",
       "date": "2026-10-18"
+    },
+    {
+      "headline": "Ship Attacks in the Strait of Hormuz Send Global Oil Prices Soaring",
+      "summary": "Iran has struck at least 15 cargo ships using mines, drones, and rockets across the Strait of Hormuz over the past ten days. The attacks have snarled one of the planet's busiest trade routes and pushed crude oil past $108 a barrel. Navies are scrambling to protect commercial vessels, but shipping companies are already rerouting cargo.",
+      "why": "When this narrow waterway gets blocked, it behaves like a kinked garden hose for world trade, driving up fuel and grocery bills for regular people everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ship attacks in the strait of hormuz send global oil",
+      "date": "2026-10-19"
+    },
+    {
+      "headline": "White House Curbs Ukraine's Satellite Internet and Softens Russian Energy Penalties",
+      "summary": "The United States ordered limits on Ukraine's frontline use of military Starshield satellite networks just as Russia renewed strikes on Ukraine's power grid. At the same time, Washington waived new sanctions on buyers of Russian crude to prevent another spike in fuel prices. The abrupt shift caught Kyiv without critical warning and opened a deep rift between Ukraine and its main backer.",
+      "why": "Switching off a military's primary digital link mid-battle changes the course of the war and forces allies to rethink whether they can rely on American promises.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "white house curbs ukraine s satellite internet and softens russian",
+      "date": "2026-10-19"
+    },
+    {
+      "headline": "Romanian Jets Down Attack Drones Over NATO Territory",
+      "summary": "Romanian fighter jets intercepted two high-speed attack drones over alliance waters in the Black Sea this weekend. The shootdown followed a wave of airspace intrusions and triggered emergency NATO meetings to prevent accidental escalation. Border nations are now demanding faster defensive responses along the alliance's eastern edge.",
+      "why": "Any errant strike that lands inside NATO borders brings the world uncomfortably close to triggering collective defense treaties and igniting a direct war between superpowers.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "romanian jets down attack drones over nato territory",
+      "date": "2026-10-19"
+    },
+    {
+      "headline": "Mass-Casualty Strike in Yemen Reignites Broader Regional Conflict",
+      "summary": "A Houthi missile and drone strike on a government security base killed 53 people and wounded hundreds in Yemen's Shabwa province. The blast represents the deadliest single attack since the civil war flared back up, shattering quiet diplomatic talks. Regional partners, including Saudi Arabia and the UAE, are already weighing fresh military counterstrikes.",
+      "why": "Renewed heavy fighting in Yemen directly threatens millions of civilians with starvation and opens another dangerous battlefront across the wider Middle East.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "mass casualty strike in yemen reignites broader regional conflict",
+      "date": "2026-10-19"
+    },
+    {
+      "headline": "Paris and Milan Enact Night Curfews Following Destructive Street Riots",
+      "summary": "French authorities announced overnight curfews in parts of Paris, while Italian police fired tear gas at looters across downtown Milan after days of unrest. Demonstrators clashed with security forces over economic pain, inflation, and government cutbacks, leaving shops vandalized and dozens injured. European officials are rushing emergency powers into place to stop the disorder from spreading to neighboring cities.",
+      "why": "When everyday frustration over the cost of living turns into street battles in major capital cities, governments become paralyzed and pull back on essential reforms.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "paris and milan enact night curfews following destructive street riots",
+      "date": "2026-10-19"
     }
   ]
 }
