@@ -3729,6 +3729,56 @@
       "mode": "evening",
       "fp": "china warns britain of countermeasures over ev tariffs",
       "date": "2026-10-19"
+    },
+    {
+      "headline": "Gulf conflict intensifies as strikes hit Saudi capital",
+      "summary": "Houthi drone and missile strikes have reached deep into Riyadh, forcing Saudi Arabia to cancel its flagship global investment summit and order staff to work from home. Britain is deploying fighter jets to defend Saudi airspace, while U.S. and Israeli defense leaders hold urgent talks amid soaring tensions with Iran. It feels like a spark dropping into a room full of gas fumes, pushing the region closer to an open war.",
+      "why": "If the world's central oil corridor gets dragged directly into war, energy costs and basic goods could surge worldwide overnight.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "gulf conflict intensifies as strikes hit saudi capital",
+      "date": "2026-10-20"
+    },
+    {
+      "headline": "Europe re-arms alone as U.S. support for Ukraine fractures",
+      "summary": "Washington's shifting stance on Ukraine has pushed relations with European allies to new lows, leaving European leaders scrambling to manage their security independently. Finland has announced plans to purchase one million landmines for its Russian border after exiting an international ban alongside Baltic neighbors. It looks like neighbors suddenly realizing the police patrol is gone, so they are rushing to fortify their own fences.",
+      "why": "This signals the biggest breakdown in the Western alliance in decades, forcing Europe to rebuild its own military defense from the ground up.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "europe re arms alone as u s support for ukraine",
+      "date": "2026-10-20"
+    },
+    {
+      "headline": "Tech market slides as AI debt meets stubborn inflation",
+      "summary": "Stock markets worldwide are tumbling as investors worry about the massive debt tech firms took on to build artificial intelligence infrastructure. Because inflation has stayed sticky, interest rates remain high, making all that borrowed money very expensive to carry before profits show up. It is like maxing out several credit cards to build a giant factory before checking how many orders will actually come in.",
+      "why": "If over-leveraged tech giants stumble under their debts, the pain could quickly hit ordinary pension funds, jobs, and bank lending across the globe.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "tech market slides as ai debt meets stubborn inflation",
+      "date": "2026-10-20"
+    },
+    {
+      "headline": "Street riots and debt troubles strain France",
+      "summary": "Widespread protests, rioting, and looting have hit French cities, forcing authorities to impose local curfews to regain control. At the exact same time, bond markets are charging Paris higher interest on its massive debt pile as investor confidence falls. It is like struggling to pay your credit card bill just as a fire breaks out in your living room.",
+      "why": "France is one of Europe's main economic anchors, so deep political instability there risks spilling over into the entire European economy.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "street riots and debt troubles strain france",
+      "date": "2026-10-20"
+    },
+    {
+      "headline": "Alberta rejects independence, averting Canadian breakup",
+      "summary": "Voters in Alberta have rejected a referendum to break away from Canada, handing a crucial victory to the federal government. A vote to leave would have triggered a constitutional nightmare and disrupted key cross-border energy pipelines and trade corridors. Canada stays united for now, but the deep frustration in its resource-heavy west is far from resolved.",
+      "why": "The vote dodges a sudden crisis across North American trade and energy networks, though political friction over oil and sovereignty will linger for years.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "alberta rejects independence averting canadian breakup",
+      "date": "2026-10-20"
     }
   ]
 }
