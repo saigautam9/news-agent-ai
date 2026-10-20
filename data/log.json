@@ -3779,6 +3779,56 @@
       "mode": "morning",
       "fp": "alberta rejects independence averting canadian breakup",
       "date": "2026-10-20"
+    },
+    {
+      "headline": "France and Italy Deploy Troops to Quell Cost-of-Living Riots",
+      "summary": "Paris and other French cities have imposed nighttime curfews after nationwide protests over high prices and decaying public services ended in widespread looting and over 2,500 arrests. In Italy, the government is dispatching 500 soldiers to Milan after violent clashes left shopping districts boarded up. It feels like a kitchen pressure cooker blowing its lid as everyday families run out of patience with runaway inflation.",
+      "why": "When daily grocery bills push citizens to riot and governments answer with soldiers on the streets, stability across Europe's largest economies is at risk.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "france and italy deploy troops to quell cost of living",
+      "date": "2026-10-20"
+    },
+    {
+      "headline": "White House Move to Soften Russia Sanctions Triggers Washington Revolt",
+      "summary": "A decision by President Donald Trump to waive sanctions on Russian diesel and curb technical support to Ukraine has sparked an open mutiny among congressional Republicans. Key lawmakers are threatening to block the administration's broader agenda until strong backing for Kyiv is restored. It is like a driver pulling the emergency brake while the car is speeding down the highway, throwing allies into confusion.",
+      "why": "A sudden fracture in American foreign policy risks crumbling Ukraine's front lines and redrawing the security map of Europe overnight.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "white house move to soften russia sanctions triggers washington revolt",
+      "date": "2026-10-20"
+    },
+    {
+      "headline": "Britain Deploys Fighter Jets to Protect Saudi Arabia",
+      "summary": "The United Kingdom is flying Typhoon jets into Saudi airspace following deadly rebel strikes in Yemen that killed dozens and threatened regional oil hubs. London stepped in to bolster Gulf air defenses and deter further drone and missile attacks on critical infrastructure. The deployment serves as a firebreak to stop a local conflict from igniting a wider regional war.",
+      "why": "A major strike on Gulf energy corridors could instantly choke shipping lanes and send worldwide fuel prices through the roof.\u5e76\u5c06",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "britain deploys fighter jets to protect saudi arabia",
+      "date": "2026-10-20"
+    },
+    {
+      "headline": "Alberta Overwhelmingly Rejects Separation From Canada",
+      "summary": "Roughly 76 percent of voters in oil-rich Alberta chose to remain part of Canada, shutting down a high-profile push to begin secession. Prime Minister Mark Carney rallied voters around national unity, warning that breaking apart would leave the country vulnerable to U.S. economic bullying. While frustration with the central government runs deep, voters decided staying in the marriage was far safer than a messy divorce.",
+      "why": "The decisive vote keeps Canada intact and guarantees federal control over the planet's fourth-largest proven oil reserves.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "alberta overwhelmingly rejects separation from canada",
+      "date": "2026-10-20"
+    },
+    {
+      "headline": "Chinese Tech Giants Spend $35 Billion on Nvidia Chips",
+      "summary": "ByteDance, Alibaba, and Tencent placed massive orders for more than three million Nvidia artificial intelligence processors engineered to squeak past current trade restrictions. Chinese tech giants are stockpiling these semiconductors like bottled water before a hurricane to keep training their models. The massive spending spree proves that trade barriers are struggling to slow down Beijing's digital ambitions.",
+      "why": "Whoever controls computing power will shape the future economy, and China is spending whatever it takes to prevent the West from locking it out.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "chinese tech giants spend 35 billion on nvidia chips",
+      "date": "2026-10-20"
     }
   ]
 }
