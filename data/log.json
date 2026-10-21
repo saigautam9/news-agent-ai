@@ -3639,6 +3639,56 @@
       "mode": "afternoon",
       "fp": "chinese tech giants spend 35 billion on nvidia chips",
       "date": "2026-10-20"
+    },
+    {
+      "headline": "UN Admits World Will Blow Past the 1.5\u00b0C Climate Limit",
+      "summary": "A landmark United Nations report released today confirms the world has officially missed its chance to prevent global warming from crossing the critical 1.5-degree Celsius mark. Scientists now urge leaders to switch to damage control, aiming to cap peak heating around 1.8 degrees before trying to cool the planet back down by 2100. Even with existing national promises, the world remains on track for a scorching 2.6 to 2.8 degrees of warming.",
+      "why": "Crossing this line turns once-rare heatwaves, failed crops, and rising seas into the new normal for regular families across the globe.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "un admits world will blow past the 1 5 c",
+      "date": "2026-10-21"
+    },
+    {
+      "headline": "Ukraine Signals Readiness to Freeze Front Line as Envoys Meet Putin",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said Kyiv is willing to freeze the war along the current front lines and switch to peace talks if Western allies guarantee his country's security. At the same time, American envoys are in Russia presenting an updated settlement plan directly to Vladimir Putin. While peace talks have suddenly accelerated, Moscow still demands that Ukraine surrender eastern territory, keeping a final deal in doubt.",
+      "why": "Freezing the battle lines could halt Europe's deadliest war, but it also risks turning occupied Ukrainian towns into permanently lost land.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "ukraine signals readiness to freeze front line as envoys meet",
+      "date": "2026-10-21"
+    },
+    {
+      "headline": "Global Oil Crosses $110 as Fuel Shortages and Conflict Hit Markets",
+      "summary": "Brent crude oil pushed past $110 a barrel as persistent fighting in the Middle East disrupted key shipping channels and fuel supplies. Energy watchdogs warned that oil markets will not return to normal anytime soon, squeezing refineries and driving up diesel prices across the world. The surge threatens to reignite stubborn inflation just as central banks were looking to give consumers relief.",
+      "why": "When oil gets expensive, it acts like a hidden tax on everyday life by driving up the price of everything from bus fares to grocery deliveries.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "global oil crosses 110 as fuel shortages and conflict hit",
+      "date": "2026-10-21"
+    },
+    {
+      "headline": "Lebanon-Israel Truce Strained as New Strikes Loom Amid Florida Talks",
+      "summary": "Military delegates from Lebanon and Israel are meeting in Florida for US-mediated security talks, but the peace effort is hanging by a thread. Israeli leaders warned they will resume airstrikes on southern Beirut and push deeper into border zones if rocket attacks continue. Ceasefire attempts over recent months have repeatedly unraveled, leaving hundreds of thousands of border residents displaced.",
+      "why": "If these talks collapse, millions of civilians across the region face another cycle of brutal airstrikes and blown-up power grids.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "lebanon israel truce strained as new strikes loom amid florida",
+      "date": "2026-10-21"
+    },
+    {
+      "headline": "China Pours Cheap Exports Overseas as Its Own Shoppers Stay Home",
+      "summary": "China posted 4.5% economic growth on the back of massive factory shipments of green technology and industrial goods. Back home, however, ordinary families are still keeping their wallets shut while a years-long housing downturn drags on. This heavy reliance on foreign buyers is setting off fresh tariff fights with the United States and Europe over factory oversupply.",
+      "why": "When the world's biggest factory makes far more than it can consume, local businesses elsewhere get undercut by cheap imports.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "china pours cheap exports overseas as its own shoppers stay",
+      "date": "2026-10-21"
     }
   ]
 }
