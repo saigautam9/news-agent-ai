@@ -3699,6 +3699,56 @@
       "mode": "monitor",
       "fp": "us orders diplomats out of saudi arabia after fatal strikes",
       "date": "2026-10-22"
+    },
+    {
+      "headline": "Seven Oil Tankers Damaged in the Strait of Hormuz",
+      "summary": "Seven tankers caught fire or hit underwater mines overnight in the world's most critical oil corridor, with Iran warning of wider strikes. The attacks mark the worst single-day blow to shipping in the passage in months and sent crude prices leaping upward. It is like someone setting fire to the only highway that delivers gasoline to a major city.",
+      "why": "When this narrow waterway chokes up, fuel and grocery bills for regular families worldwide jump almost immediately.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "seven oil tankers damaged in the strait of hormuz",
+      "date": "2026-10-22"
+    },
+    {
+      "headline": "Russia Bombs Kyiv Hours After Agreeing to Peace Talks",
+      "summary": "Russia fired ballistic missiles into Kyiv, hitting homes, a clinic, and power infrastructure right after Vladimir Putin agreed in principle to resume peace talks. Ukraine took casualties across several cities while sending hundreds of defensive drone counterstrikes toward Moscow. The attack showed that talk at the diplomatic table has done nothing to slow the violence on the ground.",
+      "why": "It dashes hopes for a ceasefire before winter and leaves millions of ordinary people bracing for freezing power blackouts.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "russia bombs kyiv hours after agreeing to peace talks",
+      "date": "2026-10-22"
+    },
+    {
+      "headline": "Severe Internet Flaw Knocks Websites Offline Worldwide",
+      "summary": "Tech teams and governments rushed to patch two critical flaws discovered inside PHP, the programming backbone for roughly 70 percent of the web. Many public portals, universities, and business services went dark just to stop attackers from hijacking their servers. It is the digital equivalent of discovering that the master lock used on millions of front doors can be opened by anyone.",
+      "why": "It exposes how quickly essential everyday services can shut down when a single shared piece of internet plumbing fails.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "severe internet flaw knocks websites offline worldwide",
+      "date": "2026-10-22"
+    },
+    {
+      "headline": "European Union Hands Top Human Rights Honor to the ICC",
+      "summary": "The European Parliament awarded its highest human rights prize to the International Criminal Court and its judges. The move comes as Washington slaps heavy sanctions on the court over war crimes warrants issued against allies. It is like Europe publicly handing a megaphone to a referee that the United States is actively trying to push off the field.",
+      "why": "It deepens a rare and bitter feud between longtime allies over whether international law still binds the most powerful nations.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "european union hands top human rights honor to the icc",
+      "date": "2026-10-22"
+    },
+    {
+      "headline": "Canada and Turkey Sign Trade Deal to Counter US Tariffs",
+      "summary": "Canadian Prime Minister Mark Carney met Turkish President Recep Tayyip Erdogan in Ankara to launch a new trade, defense, and energy partnership. The two leaders kicked off free-trade talks as Canada moves to insulate its economy against steep US tariffs. Think of it as a neighbor looking for new grocery suppliers so they do not depend entirely on one unpredictable superstore.",
+      "why": "It proves that major allies are actively rewiring the world trading system to protect their pocketbooks from American economic penalties.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "canada and turkey sign trade deal to counter us tariffs",
+      "date": "2026-10-22"
     }
   ]
 }
