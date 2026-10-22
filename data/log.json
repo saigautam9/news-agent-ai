@@ -3749,6 +3749,26 @@
       "mode": "afternoon",
       "fp": "canada and turkey sign trade deal to counter us tariffs",
       "date": "2026-10-22"
+    },
+    {
+      "headline": "Iran Claims Seven Oil Tankers Hit in the Strait of Hormuz",
+      "summary": "Iran announced that seven oil tankers caught fire or were disabled by strikes and naval mines in the Strait of Hormuz. Tehran also warned it could target American military bases across the region if the U.S. responds.",
+      "why": "The Strait of Hormuz is the world's main oil highway. Damaging multiple tankers and threatening U.S. bases is a severe military escalation that risks dragging major powers into a direct war and spiking global energy prices.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "iran claims seven oil tankers hit in the strait of",
+      "date": "2026-10-22"
+    },
+    {
+      "headline": "Critical 'PHP2Shell' Flaw Forces Websites Offline Around the World",
+      "summary": "Security researchers and agencies sounded the alarm over a critical flaw in PHP, the software engine powering about 70 percent of websites. Because attackers can remotely hijack vulnerable servers, several European government portals and global services abruptly went dark to install emergency patches.",
+      "why": "PHP is like the underlying plumbing of the internet. A flaw this severe gives attackers an open door into millions of servers at once, causing unprecedented emergency shutdowns across essential public infrastructure.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "critical php2shell flaw forces websites offline around the world",
+      "date": "2026-10-22"
     }
   ]
 }
