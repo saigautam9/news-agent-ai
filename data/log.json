@@ -3769,6 +3769,56 @@
       "mode": "monitor",
       "fp": "critical php2shell flaw forces websites offline around the world",
       "date": "2026-10-22"
+    },
+    {
+      "headline": "Tankers Hit in the Strait of Hormuz Threaten World Energy",
+      "summary": "Seven oil tankers caught fire or were damaged by mines overnight in the world's most vital energy bottleneck, with Iran and regional powers exchanging warnings. The attacks come as military tensions between Washington, Tel Aviv, and Tehran push closer to open conflict. Shipping firms are already pulling back, threatening to squeeze a fifth of the world's daily petroleum supply.",
+      "why": "When this narrow waterway closes, it acts like a kink in a garden hose, driving up fuel and food prices for people everywhere.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "tankers hit in the strait of hormuz threaten world energy",
+      "date": "2026-10-22"
+    },
+    {
+      "headline": "Russia-Ukraine War Spills into Digital Backbones and Cities",
+      "summary": "Russia battered Kyiv with ballistic missiles and cluster munitions just hours after fragile peace talks collapsed. At the same time, Ukrainian long-range strikes crippled several major Russian data centers, freezing banking, transit, and online services across the country. The war is increasingly targeting the digital and physical grids that keep ordinary society running.",
+      "why": "Striking everyday servers and power networks shows how modern warfare can suddenly paralyze civilian life hundreds of miles away from any frontline.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "russia ukraine war spills into digital backbones and cities",
+      "date": "2026-10-22"
+    },
+    {
+      "headline": "WHO Warns Ebola Outbreak Has Reached Three African Nations",
+      "summary": "Health officials warned that a dangerous Ebola outbreak has spread beyond the Democratic Republic of the Congo into Kenya and Nigeria. Contact tracers are struggling because cases are popping up in crowded transit hubs rather than isolated villages. The World Health Organization described the containment effort as far more complex than past responses.",
+      "why": "If a lethal virus takes root in major travel hubs, it risks overwhelming fragile local clinics and sparking a cross-border public health emergency.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "who warns ebola outbreak has reached three african nations",
+      "date": "2026-10-22"
+    },
+    {
+      "headline": "Global Debt Soars to $365 Trillion as Borrowing Costs Bite",
+      "summary": "Total global debt has climbed to 365 trillion dollars, leaving governments and households trapped under growing interest bills. At the same time, rising trade barriers and persistent inflation are stoking public anger and straining budgets across major economies. Many countries now have almost no financial cushion left to fight off an unexpected downturn.",
+      "why": "When paying interest eats up national budgets, governments are forced to cut spending on basics like hospitals, schools, and roads.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "global debt soars to 365 trillion as borrowing costs bite",
+      "date": "2026-10-22"
+    },
+    {
+      "headline": "Meta Hit with Record-Breaking $25 Billion Privacy Penalty",
+      "summary": "A judge ordered Meta to pay 25 billion dollars in fines for deliberately misleading users about how their personal data was shared during the Cambridge Analytica era. The court found that the tech giant's deceptive practices spanned more than a decade. It stands as one of the largest corporate penalties ever handed down to a tech firm.",
+      "why": "It sets a massive precedent that courts are finally ready to impose fines painful enough to actually dent Big Tech balance sheets.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "meta hit with record breaking 25 billion privacy penalty",
+      "date": "2026-10-22"
     }
   ]
 }
