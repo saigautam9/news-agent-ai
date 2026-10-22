@@ -3689,6 +3689,16 @@
       "mode": "evening",
       "fp": "france slaps down curfews as nationwide unrest spreads",
       "date": "2026-10-21"
+    },
+    {
+      "headline": "US orders diplomats out of Saudi Arabia after fatal strikes on airport and oil field",
+      "summary": "Drones and missiles hit Saudi Arabia's King Fahd Airport and a key Aramco oil installation, killing at least three people. Washington quickly told non-essential embassy staff and their families to pack up and leave the country. At the same time, crude oil jumped past $110 a barrel as reports emerged of planned military strikes against Iran.",
+      "why": "When an embassy evacuates staff families, governments are preparing for a wider war, not just a passing flare-up. Direct hits on energy hubs and international airports threaten to choke the global fuel supply, driving up prices for everyday essentials across the globe.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us orders diplomats out of saudi arabia after fatal strikes",
+      "date": "2026-10-22"
     }
   ]
 }
