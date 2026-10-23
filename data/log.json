@@ -3689,6 +3689,56 @@
       "mode": "monitor",
       "fp": "shallow 7 0 magnitude earthquake hits high altitude tibet",
       "date": "2026-10-23"
+    },
+    {
+      "headline": "Russia and Ukraine agree to talks even as missiles pound Kyiv",
+      "summary": "A White House envoy visited Russia to restart three-way peace talks, securing the release of an American prisoner. Just hours later, Russia hammered Kyiv with heavy missile barrages, proving that diplomacy has not slowed the battlefield violence. Moscow is demanding major land concessions before it will even consider freezing the front lines.",
+      "why": "It shows that diplomatic handshakes are masking a brutal stalemate where civilians continue to pay the highest price.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "russia and ukraine agree to talks even as missiles pound",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "Deadly drone strike on border market deepens Sudan's spreading catastrophe",
+      "summary": "A massive drone strike incinerated the bustling Amiet market on the border between Sudan and South Sudan, killing more than 150 people and destroying crucial fuel supplies. The attack marks an intensifying aerial offensive between Sudan's regular military and rival paramilitary forces. The conflict is spilling across borders while basic food and medicine routes get choked off.",
+      "why": "It risks pulling neighboring South Sudan into a war that has already driven millions to the brink of starvation.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "deadly drone strike on border market deepens sudan s spreading",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "Houthi strikes on Saudi capital shut airport and shake regional economy",
+      "summary": "Yemen's Houthi rebels hit Riyadh's main international airport with drones and missiles, killing over a dozen people and disrupting flights for over a week. The blow forced Saudi Arabia to call off its premier global investment summit, nicknamed Davos in the Desert, and brought British fighter jets to protect Saudi skies. It punctures Riyadh's image as a safe haven for international business and travel.",
+      "why": "If Saudi Arabia cannot protect its own capital, its trillion-dollar gamble to reshape its economy away from oil begins to crumble.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "houthi strikes on saudi capital shut airport and shake regional",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "Brazil heads to a knife-edge election that will reshape South America",
+      "summary": "Brazilians vote this weekend in a dead-heat presidential runoff between incumbent leftist Luiz In\u00e1cio Lula da Silva and right-wing Senator Fl\u00e1vio Bolsonaro. The race pits two completely opposite blueprints against each other, with Bolsonaro pushing deregulation and closer US ties while Lula defends state welfare and ties with Beijing. Voters are deeply divided over stagnant wages, rising costs, and corruption investigations.",
+      "why": "The winner controls South America's economic engine and will decide whether the Amazon rainforest is protected or opened up for exploitation.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "brazil heads to a knife edge election that will reshape",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "France slaps curfews on major cities after violent cost-of-living riots",
+      "summary": "French authorities imposed night curfews in Paris and several other cities after protests over the cost of living exploded into the worst street violence in years. Rioters burned municipal buildings and looted stores, resulting in more than 2,500 arrests and leaving the government on the defensive. What began as school walkouts has snowballing into a nationwide revolt over inflation and declining public services.",
+      "why": "It highlights how persistent inflation can spark civil instability and weaken governments at the core of the European economy.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "france slaps curfews on major cities after violent cost of",
+      "date": "2026-10-23"
     }
   ]
 }
