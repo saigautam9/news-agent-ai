@@ -1,156 +1,6 @@
 {
   "entries": [
     {
-      "headline": "Iran Offers Hormuz Reopening as Standoff Threatens Global Oil",
-      "summary": "Tensions between the US and Iran have reached a fever pitch, choking off traffic through the Strait of Hormuz. Tehran has offered to reopen the vital shipping channel within days if Washington scales back military pressure, even as Iranian commanders warn of wider retaliation if attacked. Meanwhile, Saudi Arabia is scrambling to restart overland pipelines to bypass the bottleneck and keep crude moving.",
-      "why": "About a fifth of the world's oil moves through this single passage, so any prolonged disruption will rapidly hike fuel and grocery prices worldwide.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "iran offers hormuz reopening as standoff threatens global oil",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "World Leaders Open High-Stakes UN Summit Under Threat of Wider War",
-      "summary": "The United Nations General Assembly opened in New York with heads of state confronting escalating wars in the Middle East and Ukraine. Donald Trump and other world leaders are slated to address an increasingly divided assembly that is struggling to mediate active conflicts. Frustration with inaction has also triggered calls from countries like Turkey to scrap the veto power held by permanent Security Council members.",
-      "why": "The global diplomatic framework built after World War II is fraying, leaving fewer reliable tools to stop regional wars from snowballing into global ones.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "world leaders open high stakes un summit under threat of",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "Putin's Ruling Party Sweeps Russian Elections to Lock In War Footing",
-      "summary": "Russia's United Russia party claimed a crushing supermajority in parliamentary elections, cementing the Kremlin's domestic power. The win gives Vladimir Putin unchecked legislative support even as the conflict in Ukraine drags on and economic pressure mounts on ordinary families. With parliament firmly locked down, the government can push through war budgets and mobilization measures without political debate.",
-      "why": "It guarantees that Russia stays geared for a grinding, long-term war, virtually shutting the door on any domestic political pressure for peace.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "putin s ruling party sweeps russian elections to lock in",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "Twenty Countries Propose a Global Watchdog for AI Risks",
-      "summary": "A coalition of twenty governments introduced a plan at the UN to establish an international body to police dangerous artificial intelligence. The group wants clear global safety rules and inspection powers to detect severe runaway risks before powerful models are deployed. Backers view the proposal like the atomic energy agency, but tailored for software algorithms instead of enriched uranium.",
-      "why": "Without common international guardrails, an unchecked tech race could produce automated cyber weapons and autonomous systems that no single country can control.",
-      "domain": "Technology",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "twenty countries propose a global watchdog for ai risks",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "China Expels Two Top Generals in Widening Military Purge",
-      "summary": "Beijing expelled two high-ranking military commanders from the Communist Party and the armed forces, citing disloyalty and corruption. The sudden ouster is one of the highest-level cleanouts of the People's Liberation Army leadership in recent memory. It reflects President Xi Jinping's drive to eliminate rival factions and ensure absolute party control over the armed forces.",
-      "why": "Rapid turnover at the top of China's military creates internal friction and command uncertainty at a time of rising friction across the Pacific.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "china expels two top generals in widening military purge",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "Middle East Tension Drives Oil Past $100 as Mediators Race",
-      "summary": "Attacks on regional pipelines and tankers have pushed crude oil prices over $100 a barrel, threatening the narrow Strait of Hormuz. Think of this waterway as the world's main fuel pipe; if it gets choked, gas pumps and power plants everywhere feel the squeeze. Qatari envoys are rushing between Washington and Tehran with compromise plans to keep commercial shipping moving before direct clashes widen.",
-      "why": "When global fuel arteries get pinched, families around the world instantly face higher bills for food, electricity, and transport.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "middle east tension drives oil past 100 as mediators race",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "Huge Moscow Drone Wave Sets Stage for UN War Talks",
-      "summary": "Ukraine sent an unprecedented wave of more than 1,600 long-range drones into the Moscow region, rattling Russia's capital and its power systems. The strikes landed right as Ukrainian President Volodymyr Zelenskyy arrived in New York to discuss emergency energy ceasefires with President Donald Trump. Both countries are trading punishing hits on infrastructure to gain maximum bargaining chips before serious talks start.",
-      "why": "Both militaries are driving the war to a fever pitch to grab leverage before winter cold sets in.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "huge moscow drone wave sets stage for un war talks",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "US and China Negotiate AI Hotline to Prevent Accidental War",
-      "summary": "Senior officials from Washington and Beijing are meeting in New York to hammer out trade rules and set up an emergency military hotline for artificial intelligence. Both countries are spending fortunes to put algorithms on the battlefield, but both worry a computer hallucination could trigger real shooting. Just like the old Cold War red telephone, this creates an instant human off-ramp before automated systems spiral out of hand.",
-      "why": "Installing a shared kill switch keeps a rogue machine glitch from sparking an unintended world war.",
-      "domain": "Technology",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us and china negotiate ai hotline to prevent accidental war",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "US Reopens Cold War Bases Under New Arctic Security Deal",
-      "summary": "The United States, Denmark, and Greenland agreed to reopen shuttered military outposts and expand the American defense footprint near the North Pole. Melting ice caps are rapidly turning frozen Arctic waters into valuable shortcut shipping lanes for world trade. The pact lets Washington secure strategic northern waterways against foreign rivals while officially promising to respect Greenland's local rights.",
-      "why": "It permanently shifts military power across the Arctic just as melting ice turns the region into a vital global shipping lane.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "us reopens cold war bases under new arctic security deal",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "World Leaders Open Divided UN Assembly in New York",
-      "summary": "More than 120 world leaders have landed in New York for the 81st UN General Assembly during an era of deep mistrust. Instead of working together on big problems like rogue technology and climate change, big powers are treating the summit like speed dating to cut private side deals. Traditional diplomacy is taking a back seat while rival political camps test each other's resolve.",
-      "why": "The world's main meeting hall is splintering into rival clubs at the exact moment global crises require everyone at the table.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "afternoon",
-      "fp": "world leaders open divided un assembly in new york",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "U.S. and Iran clash over high-stakes ultimatum at UN",
-      "summary": "At the UN General Assembly, the U.S. warned it is reaching a fork in the road with Iran, demanding a new deal while threatening harsh military strikes. Behind closed doors, envoys held urgent sideline talks to keep the peace. Both sides are essentially playing high-stakes poker, trying to project strength without accidentally sparking a regional war.",
-      "why": "A breakdown in diplomacy could disrupt vital Middle East shipping lanes overnight and send energy bills soaring around the world.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "u s and iran clash over high stakes ultimatum at",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "Global central banks hike interest rates as energy costs jump",
-      "summary": "Major central banks, led by the U.S. Federal Reserve, have pivoted back to raising interest rates after fresh energy spikes reignited inflation fears. Instead of easing borrowing costs as consumers hoped, policymakers are tapping the brakes to keep prices from running wild. Think of it like taking your foot off the gas pedal just when the car was finally cruising smoothly.",
-      "why": "Costlier loans hit everyday household budgets and heighten the risk of a widespread economic slowdown.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "global central banks hike interest rates as energy costs jump",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "U.S. signs deal with Denmark to build Arctic bases in Greenland",
-      "summary": "The United States finalized a landmark agreement with Denmark and Greenland to build two major military outposts in the Arctic. As polar ice melts, northern waters are opening valuable shipping shortcuts and access to critical minerals. Washington is staking its claim early to make sure rivals like Russia and China cannot dominate the top of the globe.",
-      "why": "The pact redraws northern defense maps and accelerates the global scramble for control over Arctic trade routes.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "u s signs deal with denmark to build arctic bases",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "Fierce Super El Ni\u00f1o triggers Pacific storms and emergency alerts",
-      "summary": "An unusually intense El Ni\u00f1o pattern has stirred up powerful Pacific storms, including Category 5 Hurricane Polo, prompting California to declare an emergency. Oddly enough, the same weather shift has left the Atlantic unusually calm, breaking a 100-year lull record. Nature has essentially turned the usual weather script upside down, shifting extreme floods and droughts to unexpected regions.",
-      "why": "Violent weather swings threaten food crops and drive up rebuilding and insurance costs for millions living on coastlines.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "fierce super el ni o triggers pacific storms and emergency",
-      "date": "2026-09-22"
-    },
-    {
-      "headline": "Moldova declares national crisis over water and energy shocks",
-      "summary": "Moldova announced a 60-day state of emergency as severe drought dried up its two largest rivers alongside soaring regional power prices. The country faces empty water taps and electric bills its citizens can barely afford to pay. It is a prime example of what happens when extreme weather and volatile global markets squeeze a small nation at the same time.",
-      "why": "The double crunch exposes how easily resource shortages can push vulnerable frontline countries into sudden instability.",
-      "domain": "Climate",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "moldova declares national crisis over water and energy shocks",
-      "date": "2026-09-22"
-    },
-    {
       "headline": "US and Iran Hold High-Stakes Talks Over Strait of Hormuz",
       "summary": "American and Iranian envoys held indirect talks in New York to de-escalate military tensions and protect commercial shipping. Even as leaders traded fiery threats at the podium, backroom negotiators worked to trade sanction relief for open water transit. Both sides want to step back from an all-out regional war that would paralyze global trade.",
       "why": "If ships cannot pass through this tiny waterway, oil prices and everyday shipping costs will spike worldwide overnight.",
@@ -3819,6 +3669,26 @@
       "mode": "evening",
       "fp": "meta hit with record breaking 25 billion privacy penalty",
       "date": "2026-10-22"
+    },
+    {
+      "headline": "Record Tanker Strikes in Hormuz Choke Shipping and Drive Oil to $113",
+      "summary": "Seven oil tankers were damaged overnight in the Strait of Hormuz by drone attacks and naval mines. It is the worst single-day hit to shipping since the conflict started. Brent crude immediately leaped toward $113 a barrel, while Israeli Prime Minister Benjamin Netanyahu openly ordered his military and intelligence chiefs to prepare to topple Iran's regime.",
+      "why": "The Strait of Hormuz is like the main fuel pipe for the entire world. Damaging seven ships at once threatens to pinch that pipe shut, which could shock global energy supplies and pull major world powers into a full-blown regional war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "record tanker strikes in hormuz choke shipping and drive oil",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "Shallow 7.0 Magnitude Earthquake Hits High-Altitude Tibet",
+      "summary": "A powerful 7.0 magnitude earthquake struck northern Tibet late Thursday at a shallow depth of just a few miles. The tremor collapsed more than 300 homes, killed at least 16 people, injured dozens, and severed local road and train connections.",
+      "why": "A magnitude 7.0 shock is a severe natural disaster. Striking so close to the surface in freezing, high-altitude terrain makes rescue operations a race against time before cold weather traps survivors cut off from aid.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "shallow 7 0 magnitude earthquake hits high altitude tibet",
+      "date": "2026-10-23"
     }
   ]
 }
