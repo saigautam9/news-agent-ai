@@ -3739,6 +3739,56 @@
       "mode": "morning",
       "fp": "france slaps curfews on major cities after violent cost of",
       "date": "2026-10-23"
+    },
+    {
+      "headline": "Israel Locks Down the West Bank and Launches Major Offensive",
+      "summary": "Following deadly clashes in Hebron, the Israeli military sealed off the occupied West Bank and started wide-scale house raids. Far-right cabinet ministers are pushing to dismantle the Palestinian Authority entirely, just days ahead of a contentious general election. Aid groups warn the sweep will displace thousands of civilians and destroy fragile local supply chains.",
+      "why": "It threatens to wipe out what remains of Palestinian self-rule and could ignite an unstoppable regional escalation.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "israel locks down the west bank and launches major offensive",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "Tanker Attacks in the Strait of Hormuz Shake Global Oil Supply",
+      "summary": "Drone strikes hit multiple commercial oil tankers in the narrow Strait of Hormuz, forcing vessels to reroute and sharply driving up shipping insurance. The United Kingdom sent fighter jets to the Persian Gulf to guard Saudi energy facilities as missile threats grow. Think of this route like the world's main fuel pipe; when it clogs, fuel prices jump everywhere overnight.",
+      "why": "A bottleneck here immediately inflates heating and transportation costs for families and businesses around the globe.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "tanker attacks in the strait of hormuz shake global oil",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "Wall Street Sounds Alarms Over an Unprecedented AI Spending Bubble",
+      "summary": "Major financial institutions have begun sounding the alarm that the frenzy to buy computing infrastructure looks dangerously like past speculative bubbles. Leading artificial intelligence firms are racking up astronomical multi-year cloud commitments even as their net losses swell. If practical revenues from AI tools fail to match these wild bets, banks and pension portfolios could take a painful hit.",
+      "why": "When over-hyped tech bets unravel, the resulting credit crunch can pull down the broader financial system.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "wall street sounds alarms over an unprecedented ai spending bubble",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "Surging AI Data Centers Trigger Electric Grid Crunch and Voter Backlash",
+      "summary": "Giant artificial intelligence data centers are sucking up so much electricity that regional power grids are struggling to keep up. Utility bills are climbing for everyday consumers, sparking an intense backlash that has taken over legislative races across the United States. Governments are now wrestling with whether to limit high-tech expansion or force regular ratepayers to fund costly grid upgrades.",
+      "why": "It brings the digital boom straight to kitchen tables, forcing a hard choice between tech dominance and affordable household power bills.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "surging ai data centers trigger electric grid crunch and voter",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "France Plunges into Budget Crisis as Street Protests Paralyze Cities",
+      "summary": "Protesters and striking workers have shut down French streets to fight against deep public spending cuts and austerity measures. The government is wobbling and cannot easily pass its new budget, causing borrowing costs across Europe to tick uncomfortably higher. With security forces on high alert and bans on public gatherings, social tensions have hit a boiling point.",
+      "why": "If Europe's second-largest economy loses control of its finances and politics, the shock waves will destabilize the entire eurozone.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "france plunges into budget crisis as street protests paralyze cities",
+      "date": "2026-10-23"
     }
   ]
 }
