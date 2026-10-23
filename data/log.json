@@ -3789,6 +3789,56 @@
       "mode": "afternoon",
       "fp": "france plunges into budget crisis as street protests paralyze cities",
       "date": "2026-10-23"
+    },
+    {
+      "headline": "Middle East strikes push oil past $110 as US evacuates diplomats",
+      "summary": "Drone strikes hit Saudi oil facilities and shipping lanes, prompting the US to pull diplomats out of the kingdom and the UK to send fighter jets. Brent crude soared past $110 a barrel as markets panicked over fuel supplies. Think of it like a bottleneck on a major highway, where one blockage backs up traffic for miles.",
+      "why": "When crude prices spike this high, everyday families worldwide quickly feel the pinch in higher grocery bills, heating costs, and pump prices.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "middle east strikes push oil past 110 as us evacuates",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "Deadly Ebola outbreak reaches Nigeria's capital",
+      "summary": "Nigeria confirmed an Ebola case in its capital, marking the virus's jump into Africa's most populous nation after killing over 4,600 people in the Democratic Republic of the Congo. Health teams are tracing dozens of contacts to keep the disease from spreading further. Catching an outbreak early in a major transit hub is like stamping out an ember before the dry forest catches fire.",
+      "why": "A fast-moving lethal virus in dense transport hubs threatens fragile public health systems and global travel safety.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "deadly ebola outbreak reaches nigeria s capital",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "Israel faces a pivotal election that could end Netanyahu's rule",
+      "summary": "Israel is heading into an October 27 general election that could decide whether Benjamin Netanyahu keeps power or gets replaced by an opposition alliance. The vote comes in the shadow of war with Iran and ongoing devastation across Gaza. While the contenders disagree fiercely at home, most major factions take a similarly tough stance toward regional security.",
+      "why": "The election will set the course for regional conflicts and decide whether Israel rebuilds ties with international partners or doubles down on its current path.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "israel faces a pivotal election that could end netanyahu s",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "Justice Department sues to halt Alaska Senate race certification",
+      "summary": "The US Department of Justice sued to stop Alaska from certifying its upcoming Senate vote if the Republican incumbent loses. The administration claims having another candidate with almost the same name on the ballot will confuse voters. Critics warn that trying to block election results before ballots are even tallied tests the guardrails of American democracy.",
+      "why": "This move puts the federal government directly into local vote counting and could determine which party controls the entire US Senate.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "justice department sues to halt alaska senate race certification",
+      "date": "2026-10-23"
+    },
+    {
+      "headline": "Russia and Ukraine agree to a local truce in trapped southern town",
+      "summary": "Russia and Ukraine agreed to a temporary ceasefire around the front-line city of Oleshky to let food, water, and medical aid reach about 2,000 trapped civilians. The local deal was brokered through a surprise humanitarian effort led by US First Lady Melania Trump. It allows elderly and vulnerable residents to safely escape the ruined town after surviving on emergency rations for months.",
+      "why": "It offers a rare, life-saving pause in brutal fighting and proves that small diplomatic openings are still possible even during a grinding war.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "russia and ukraine agree to a local truce in trapped",
+      "date": "2026-10-23"
     }
   ]
 }
