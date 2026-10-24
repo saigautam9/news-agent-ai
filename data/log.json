@@ -3829,6 +3829,56 @@
       "mode": "morning",
       "fp": "ukraine clears starlink speed limits for frontline troops",
       "date": "2026-10-24"
+    },
+    {
+      "headline": "U.S. and Iran face off over the world's biggest oil corridor",
+      "summary": "Iran declared that American warships are barred from the Persian Gulf after several commercial tankers were hit in the Strait of Hormuz. Washington has hinted at military strikes in response, while emergency talks to keep the waterway open are stalling. An oil spill has already reached nearby shores as commercial shipping traffic slows to a crawl.",
+      "why": "This narrow passage carries roughly a fifth of the world's petroleum, so any real disruption instantly drives up the cost of gas, groceries, and shipping worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "u s and iran face off over the world s",
+      "date": "2026-10-24"
+    },
+    {
+      "headline": "Global bond selloff pushes borrowing costs to twenty-year highs",
+      "summary": "Investors dumped government bonds across the U.S., Europe, and Asia, sending sovereign borrowing yields to their highest marks in decades. Huge government debt piles combined with fresh inflation fears from rising oil prices have made lenders nervous. While bond markets steadied slightly, finance ministries worldwide are facing crushing interest bills just to roll over existing loans.",
+      "why": "When sovereign bond yields climb this high, it acts like a giant brake on the global economy, making mortgages, business loans, and government budgets much more painful.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "global bond selloff pushes borrowing costs to twenty year highs",
+      "date": "2026-10-24"
+    },
+    {
+      "headline": "Drone and missile strikes shake Saudi Arabia's oil heartland",
+      "summary": "Heavy drone and missile attacks launched from Yemen forced Saudi Aramco to evacuate staff from its main headquarters and shut down Riyadh's airport. The kingdom was forced to postpone its flagship global investment conference while air defenses scramble to protect critical infrastructure. The strikes mark a severe escalation that directly threatens the heart of Gulf oil production.",
+      "why": "When the world's largest crude exporter is under direct fire, global energy markets lose the safety cushion that keeps oil shocks from wrecking economies.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "drone and missile strikes shake saudi arabia s oil heartland",
+      "date": "2026-10-24"
+    },
+    {
+      "headline": "Satellite blackouts hit Ukrainian troops on the front lines",
+      "summary": "Ukrainian forces suffered sudden disruptions to their Starlink and Starshield satellite access, leaving frontline units struggling to guide drones and coordinate artillery. The cutoffs persisted despite political assurances from Washington that connectivity would be protected. U.S. lawmakers have now launched formal inquiries into who ordered the limits and how much leverage private contractors hold over active combat.",
+      "why": "It reveals the terrifying danger of leaving the nervous system of modern warfare in the hands of a single private satellite provider.",
+      "domain": "Technology",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "satellite blackouts hit ukrainian troops on the front lines",
+      "date": "2026-10-24"
+    },
+    {
+      "headline": "Wave of riots and protests paralyzes French cities",
+      "summary": "Violent street clashes and widespread looting swept through Paris, Marseille, and other major cities, forcing shop owners to board up storefronts with plywood. What began as student protests over schools has ballooned into a broad revolt that has crippled President Emmanuel Macron's final stretch in office. The crisis is fueling a major surge in support for far-right opposition parties across the country.",
+      "why": "Protracted political chaos in Europe's second-biggest economy destabilizes the whole continent right when European leadership is already stretched thin.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "wave of riots and protests paralyzes french cities",
+      "date": "2026-10-24"
     }
   ]
 }
