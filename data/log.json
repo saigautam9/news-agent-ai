@@ -3779,6 +3779,56 @@
       "mode": "evening",
       "fp": "russia and ukraine agree to a local truce in trapped",
       "date": "2026-10-23"
+    },
+    {
+      "headline": "India caps cancer medicine prices to stop medical bankruptcy",
+      "summary": "India's top court declared extreme markups on vital cancer drugs to be pure extortion, forcing steep price caps across the country. The landmark decision began with a single patient who took the issue to court after being unable to pay for treatment. The new caps mean millions of working families will not have to sell off land or exhaust savings just to stay alive.",
+      "why": "It sets a major legal precedent that human survival comes before runaway drug pricing, saving millions from poverty.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "india caps cancer medicine prices to stop medical bankruptcy",
+      "date": "2026-10-24"
+    },
+    {
+      "headline": "Oil prices jump past $117 over US-Iran strike fears",
+      "summary": "Crude oil prices spiked above $117 a barrel because traders worry the US might launch new strikes against Iran. When oil gets this expensive, moving fuel through key shipping choke points gets riskier and pricier. It acts like an instant tax on everything from grocery shipping to factory production.",
+      "why": "Expensive energy hits normal families directly in the wallet and drives up inflation worldwide.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "oil prices jump past 117 over us iran strike fears",
+      "date": "2026-10-24"
+    },
+    {
+      "headline": "France deploys 70,000 police as protests paralyze cities",
+      "summary": "France called out 70,000 security officers and shut down major spots like the Louvre as nationwide protests erupted. Talks between President Emmanuel Macron and opposing factions completely broke down, leaving the country at a standstill. The tension is already spilling across borders, with Italian police raiding activist homes in Milan.",
+      "why": "Deep public anger is paralyzing Europe's second-biggest economy and shaking political stability across the continent.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "france deploys 70 000 police as protests paralyze cities",
+      "date": "2026-10-24"
+    },
+    {
+      "headline": "Israel locks down West Bank communities after soldier deaths",
+      "summary": "The Israeli military launched sweeping raids and heavy security restrictions around Hebron after two soldiers were killed. Whole neighborhoods now face tight movement bans, home searches, and closed roads. Human rights groups warn that widespread crackdowns are shutting down daily life for regular civilians.",
+      "why": "Punishing entire towns risks turning local friction into a much wider, uncontrollable explosion of violence.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "israel locks down west bank communities after soldier deaths",
+      "date": "2026-10-24"
+    },
+    {
+      "headline": "Ukraine clears Starlink speed limits for frontline troops",
+      "summary": "Ukraine's military announced that speed caps on Elon Musk's Starlink network have been removed. The satellite system is the digital nervous system for Ukrainian units directing drones and coordinating defenses. This follows revelations that US officials spent years negotiating behind the scenes with SpaceX over how combat connectivity is handled.",
+      "why": "It highlights how modern battlefields hinge entirely on the cooperation of a single private tech company.",
+      "domain": "Technology",
+      "severity": "MEDIUM",
+      "mode": "morning",
+      "fp": "ukraine clears starlink speed limits for frontline troops",
+      "date": "2026-10-24"
     }
   ]
 }
