@@ -3839,6 +3839,56 @@
       "mode": "monitor",
       "fp": "saudi arabia intercepts missile over riyadh as houthis target major",
       "date": "2026-10-25"
+    },
+    {
+      "headline": "Brazilians Vote in Knife-Edge Presidential Runoff",
+      "summary": "Millions of Brazilians are voting today in a tense runoff between incumbent President Luiz In\u00e1cio Lula da Silva and conservative challenger Fl\u00e1vio Bolsonaro. The race is neck and neck after Bolsonaro narrowly led the first round. It is like a tug-of-war deciding whether Latin America's biggest economy leans into social welfare and green policies or pivots to right-wing deregulation.",
+      "why": "The outcome decides the protection of the Amazon rainforest, the direction of Latin America's largest economy, and whether Brazil aligns closer to Washington or Beijing.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "brazilians vote in knife edge presidential runoff",
+      "date": "2026-10-25"
+    },
+    {
+      "headline": "Russia and Ukraine Exchange Heavy Grid Strikes Before Winter",
+      "summary": "Russian missile barrages targeted power and gas systems across Ukraine, threatening to freeze cities just as winter approaches. Ukrainian long-range drones struck key Russian electrical nodes in return, knocking out power across sections of Crimea. Despite diplomatic talk of an energy truce, both sides are treating power networks like primary battlefield targets.",
+      "why": "Targeting the basic utilities people need to survive the winter risks leaving millions in the dark and deepens the humanitarian emergency.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "russia and ukraine exchange heavy grid strikes before winter",
+      "date": "2026-10-25"
+    },
+    {
+      "headline": "Houthi Strikes Threaten Saudi Airports and Oil Hubs",
+      "summary": "Saudi Arabia partially reopened its main airport in Riyadh today despite fresh warnings and continued missile barrages from Houthi forces. The rebel group targeted aviation hubs, refineries, and fuel pipelines across the kingdom. Air defenses intercepted several incoming attacks, but civilian flights and energy transit remain in the crosshairs.",
+      "why": "Threatening critical Gulf transport and energy facilities risks disrupting global oil flows and pulling regional powers into direct confrontation.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "houthi strikes threaten saudi airports and oil hubs",
+      "date": "2026-10-25"
+    },
+    {
+      "headline": "West Bank Under Lockdown Days Before Israeli Election",
+      "summary": "Israel launched massive military sweeps and sealed off crossings across the West Bank following a shooting that killed two soldiers. The lockdown restricts movement for thousands of Palestinian families just two days before Israelis cast ballots. Tuesday's vote functions as a critical referendum on Prime Minister Benjamin Netanyahu's wartime government.",
+      "why": "The outcome will decide Israel's political future and dictate whether the region moves toward wider conflict or fragile recovery.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "west bank under lockdown days before israeli election",
+      "date": "2026-10-25"
+    },
+    {
+      "headline": "Cost-of-Living Protests Paralyze Cities Across France",
+      "summary": "More than 400,000 demonstrators took to the streets across France this weekend to push back against soaring prices and school budget cuts. Authorities deployed 70,000 security officers, firing tear gas and water cannons after clashes broke out and shops were boarded up. Everyday budgets have snapped, and public anger is boiling over.",
+      "why": "Severe domestic unrest in Europe's second-largest economy paralyzes government policy and threatens wider political stability across the European Union.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "cost of living protests paralyze cities across france",
+      "date": "2026-10-25"
     }
   ]
 }
