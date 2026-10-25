@@ -3989,6 +3989,16 @@
       "mode": "evening",
       "fp": "mass protests and clashes paralyze france",
       "date": "2026-10-25"
+    },
+    {
+      "headline": "Serbia's Longtime Leader Aleksandar Vu\u010di\u0107 Concedes Defeat to Student Movement",
+      "summary": "After 14 years of firm rule, Serbian leader Aleksandar Vu\u010di\u0107 admitted defeat in snap parliamentary elections on Sunday. A youth- and student-led opposition coalition scored a shocking victory, winning an outright majority of seats in parliament after two years of mass street protests against corruption.",
+      "why": "This marks a huge political earthquake in the Balkans. It brings an abrupt end to more than a decade of autocratic, Russia-friendly rule and hands control of an EU-candidate nation to an entirely new, grass-roots youth movement.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "serbia s longtime leader aleksandar vu i concedes defeat to",
+      "date": "2026-10-25"
     }
   ]
 }
