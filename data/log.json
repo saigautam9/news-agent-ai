@@ -1,66 +1,6 @@
 {
   "entries": [
     {
-      "headline": "War reignites in northern Ethiopia as Tigrayan forces seize airports and battle federal troops",
-      "summary": "Tigrayan forces announced they have entered a new war against Ethiopia's federal government after heavy clashes broke out across the region. Tigrayan fighters took control of regional airports, including the capital Mekelle, forcing Ethiopian Airlines to halt flights. Ground fighting has quickly spread into neighbouring Afar and Amhara regions, blowing apart the fragile 2022 peace deal.",
-      "why": "This is a catastrophic military escalation in Africa's second most populous nation. The previous civil war between these two sides cost roughly 600,000 lives. Starting that fire again threatens massive bloodshed, millions of displaced people, and could pull neighboring countries into a wider regional conflict.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "war reignites in northern ethiopia as tigrayan forces seize airports",
-      "date": "2026-09-24"
-    },
-    {
-      "headline": "Scientists Warn Super El Nino Threatens Massive Loss of Life",
-      "summary": "Climate researchers published stark projections showing that an unfolding super El Ni\u00f1o could cause over 450,000 deaths through brutal heatwaves, droughts, and crop failures. Outlets in the Global South focus on water shortages and threatened farm communities, while Western outlets zero in on extreme weather tracking. It works like a heater knob twisted to the maximum on a house that is already sweltering.",
-      "why": "Massive weather shocks to key agricultural belts trigger food shortages and spark price spikes for families everywhere.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "scientists warn super el nino threatens massive loss of life",
-      "date": "2026-09-24"
-    },
-    {
-      "headline": "Kyiv Bombarded as Black Sea Shipping Comes Under Threat",
-      "summary": "Russia carried out widespread missile barrages across Ukraine while fresh strikes hit Moscow, pushing fighting directly into vital Black Sea maritime routes. Kyiv and its allies demand stronger economic chokeholds on Russia, while regional players like Turkey warn that targeting cargo vessels will destroy fragile trade corridors. It is a dangerous fight over an essential marine doorway that feeds millions.",
-      "why": "Closing off the Black Sea halts global grain shipments, leaving millions across North Africa and the Middle East vulnerable to hunger.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "kyiv bombarded as black sea shipping comes under threat",
-      "date": "2026-09-24"
-    },
-    {
-      "headline": "Trump and Xi Hold High-Stakes Summit",
-      "summary": "Donald Trump gave Xi Jinping a personal tarmac welcome as the two leaders opened summit talks to cool off an aggressive trade and tech conflict. Western outlets focus on curbing Chinese high-tech exports, while Asian media urge Washington to stop disrupting commercial supply chains. Think of it like two estranged business partners meeting because an outright split would bankrupt them both.",
-      "why": "How these two superpowers handle trade sets the price tag on everyday consumer goods and shapes the global economy.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "trump and xi hold high stakes summit",
-      "date": "2026-09-24"
-    },
-    {
-      "headline": "Iran Defies US Pressure While Flirting With Talks",
-      "summary": "Iran's president used his UN General Assembly address to condemn American military strikes, vowing defiance while quietly keeping the door open for diplomacy. Western reports frame the speech as bluster under intense sanctions, whereas Middle Eastern media warn the confrontation could easily engulf neighboring states. It is like someone waving a lit match near a gas pipeline while offering to negotiate the valve.",
-      "why": "A wider conflict with Tehran could shut down Persian Gulf tanker routes and send world fuel prices soaring.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "iran defies us pressure while flirting with talks",
-      "date": "2026-09-24"
-    },
-    {
-      "headline": "Tech Giants and Nations Scramble for AI Safety Rules",
-      "summary": "World leaders and top AI executives gathered at the UN to plead for international safety boundaries following automated security breaches of government portals. Big technology firms want to maintain speed through self-policing, but developing nations fear they will bear the brunt of cyber instability without any say. It feels like trying to put up stop signs on a highway after the cars have already started racing.",
-      "why": "Without basic safety rules, rogue autonomous software can quietly cripple essential services like healthcare systems and power networks.",
-      "domain": "Technology",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "tech giants and nations scramble for ai safety rules",
-      "date": "2026-09-24"
-    },
-    {
       "headline": "Tigray Rebels Launch Major Offensive in Ethiopia, Shattering Peace Deal",
       "summary": "Tigrayan forces broke a fragile four-year peace treaty and started fighting the Ethiopian army across northern regions. They teamed up with several other rebel factions, captured three regional airports, and declared a push to remove Prime Minister Abiy Ahmed's government. Commercial flights have stopped, and heavy shelling is already reported near regional borders.",
       "why": "This marks an outright return to civil war in Africa's second most populous nation. The previous war between 2020 and 2022 killed an estimated 600,000 people and triggered massive famine. Reigniting this conflict threatens to destabilize the entire Horn of Africa.",
@@ -3879,6 +3819,16 @@
       "mode": "afternoon",
       "fp": "wave of riots and protests paralyzes french cities",
       "date": "2026-10-24"
+    },
+    {
+      "headline": "US threatens strikes on Iran as regional standoff nears boiling point",
+      "summary": "President Trump warned that the US might launch military strikes on Iran as soon as Sunday if talks fail. American warships are loading weapons, and Washington is pulling diplomats out of four Middle Eastern countries due to targeted threat warnings. Tehran has sworn to block US vessels from Gulf waters, leaving the region on a knife-edge.",
+      "why": "This brings two major powers to the brink of open conflict. A direct clash could immediately trigger a broader Middle East war, choke off global oil shipping through the Strait of Hormuz, and shake the world economy.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "us threatens strikes on iran as regional standoff nears boiling",
+      "date": "2026-10-25"
     }
   ]
 }
