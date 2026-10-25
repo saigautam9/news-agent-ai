@@ -3939,6 +3939,56 @@
       "mode": "afternoon",
       "fp": "mass protests across france signal deepening european instability",
       "date": "2026-10-25"
+    },
+    {
+      "headline": "Brazilians Vote in a Knife-Edge Presidential Runoff",
+      "summary": "Millions of Brazilians went to the polls in a tense face-off between left-wing President Lula and right-wing challenger Fl\u00e1vio Bolsonaro. Voting hours had to be extended across the country because of heavy storms in the south and bus shortages in major cities. The race is neck-and-neck, and both sides have traded fierce accusations over voting problems and online rumors.",
+      "why": "As South America's biggest economy, whoever leads Brazil sets the environmental future of the Amazon and decides how closely the region aligns with the United States.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "brazilians vote in a knife edge presidential runoff",
+      "date": "2026-10-25"
+    },
+    {
+      "headline": "Lethal Drone Strikes Batter Sudanese Civilians",
+      "summary": "Escalating drone attacks across Sudan have killed hundreds of civilians this month, including over 150 people during a single blast at a border market. The United Nations warned that high-tech remote warfare is turning ordinary public squares into slaughter zones. Aid agencies are struggling to deliver even basic food and medicine as the conflict between rival military factions deepens.",
+      "why": "The runaway fighting is fracturing Africa's third-largest country and worsening one of the largest hunger and displacement disasters on the planet.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "lethal drone strikes batter sudanese civilians",
+      "date": "2026-10-25"
+    },
+    {
+      "headline": "SpaceX Throttles Ukrainian Battlefield Internet",
+      "summary": "Ukrainian troops faced sudden speed caps on Starlink satellite dishes, which hobbled their frontline reconnaissance and defense drones. Elon Musk confirmed the throttle, arguing that the company never permitted its civilian internet service to guide lethal drone strikes. Ukrainian officials pushed back firmly, warning that the disruption left forces blind to incoming Russian air raids before access was restored.",
+      "why": "It proves how a single billionaire running a private tech company can effectively control military operations and national security in modern war.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "spacex throttles ukrainian battlefield internet",
+      "date": "2026-10-25"
+    },
+    {
+      "headline": "Alberta Voters Decisively Choose to Stay in Canada",
+      "summary": "Albertans turned out in large numbers to vote on a 10-question referendum that included whether to seek separation from Canada. More than three-quarters of voters rejected breaking away, firmly halting the provincial government's secession ambitions. The outcome keeps Canada's primary energy hub solidly anchored within the federal system.",
+      "why": "The decisive vote avoids a constitutional earthquake that could have fractured Canada's borders and rattled North American energy markets. commentary.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "alberta voters decisively choose to stay in canada",
+      "date": "2026-10-25"
+    },
+    {
+      "headline": "Mass Protests and Clashes Paralyze France",
+      "summary": "More than 400,000 demonstrators filled streets across France over crumbling public school conditions and punishing living costs. What started as a student walkout quickly expanded into a nationwide strike joined by major trade unions and yellow vest activists. Clashes between masked demonstrators and riot police led to tear gas deployments and over a thousand arrests.",
+      "why": "The widespread street anger shows how persistent price hikes are eroding trust in European governments and paralyzing Emmanuel Macron's administration.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "mass protests and clashes paralyze france",
+      "date": "2026-10-25"
     }
   ]
 }
