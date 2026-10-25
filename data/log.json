@@ -3889,6 +3889,56 @@
       "mode": "morning",
       "fp": "cost of living protests paralyze cities across france",
       "date": "2026-10-25"
+    },
+    {
+      "headline": "US-Iran Standoff Pushes Middle East Energy Arteries to the Brink",
+      "summary": "Washington and Tehran are trading sharp threats of military strikes while fresh missile barrages have disrupted Saudi airports and oil infrastructure. Iranian commanders warned American warships to stay out of the Persian Gulf, and US officials raised alarms over planned attacks against personnel abroad. It is like flicking a lighter near an open fuel tank, leaving the world's most critical trade chokepoints on edge.",
+      "why": "Any direct clash could shut down vital shipping corridors and trigger an immediate global energy price shock.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "us iran standoff pushes middle east energy arteries to the",
+      "date": "2026-10-25"
+    },
+    {
+      "headline": "Ukraine Diplomacy Probes Frontline Freezes as Washington Votes Near",
+      "summary": "Kyiv is signaling that it might accept pausing combat operations along current front lines, though it remains completely opposed to officially giving away land. At the same time, localized truces are being tested on the ground while the US election looms over the future of Western military funding. It is like hitting the pause button on an inferno without removing the dry timber that started it.",
+      "why": "These shifts could freeze borders in place and set the baseline for European security and reconstruction for decades to come.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ukraine diplomacy probes frontline freezes as washington votes near",
+      "date": "2026-10-25"
+    },
+    {
+      "headline": "Brazil Votes in a Cutthroat Runoff Deciding South America's Direction",
+      "summary": "Voters across Brazil are casting ballots in a tense presidential runoff between veteran leftist Lula da Silva and right-wing senator Fl\u00e1vio Bolsonaro. The two rivals are locked in a dead heat over the economy, climate rules, and ties with Washington. It works like a national steering wheel, deciding whether Latin America's largest engine swings toward conservative nationalism or remains an anchor of the Global South.",
+      "why": "The winner will decide the fate of the Amazon rainforest and determine trade and diplomatic alliances across the Western Hemisphere.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "brazil votes in a cutthroat runoff deciding south america s",
+      "date": "2026-10-25"
+    },
+    {
+      "headline": "Escalating Raids in the West Bank and Lebanon Heighten Regional Red Alerts",
+      "summary": "Israeli forces launched extensive raids through Hebron that displaced thousands of Palestinian civilians following fatal clashes. New airstrikes simultaneously struck southern Lebanon, while military forces moved to high alert ahead of domestic elections. The situation resembles a cracked dam holding back pressure, where even a small surge can unleash widespread destruction.",
+      "why": "Unchecked displacement and cross-border fire threaten to collapse remaining regional buffers and drag neighboring nations into an all-out fight.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "escalating raids in the west bank and lebanon heighten regional",
+      "date": "2026-10-25"
+    },
+    {
+      "headline": "Mass Protests Across France Signal Deepening European Instability",
+      "summary": "Hundreds of thousands of people flooded French streets over the weekend to protest rising living costs and austerity, ending in intense clashes and mass arrests. Everyday families feel squeezed between stubborn inflation and public spending cuts, venting frustration against government leaders. It acts like a pressure relief valve bursting open when ordinary paychecks can no longer cover basic grocery bills.",
+      "why": "Mounting unrest inside one of Europe's anchor economies risks spreading wider instability and paralyzing continental policymaking.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "mass protests across france signal deepening european instability",
+      "date": "2026-10-25"
     }
   ]
 }
