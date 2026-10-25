@@ -3829,6 +3829,16 @@
       "mode": "monitor",
       "fp": "us threatens strikes on iran as regional standoff nears boiling",
       "date": "2026-10-25"
+    },
+    {
+      "headline": "Saudi Arabia intercepts missile over Riyadh as Houthis target major airport",
+      "summary": "Saudi air defenses shot down a ballistic missile fired toward Riyadh. Following the launch, Houthi forces warned international travelers and airlines to avoid the capital's airport, calling it an open target. At the same time, negotiations between Washington and Tehran hit a wall, with the White House openly weighing military strikes within hours.",
+      "why": "Aiming missiles at a bustling international airport is like tossing matches next to a fuel tank. Threatening civilian aviation hubs while major powers prepare for immediate strikes pushes the entire region to the edge of full-blown war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "saudi arabia intercepts missile over riyadh as houthis target major",
+      "date": "2026-10-25"
     }
   ]
 }
