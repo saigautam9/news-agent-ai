@@ -3909,6 +3909,56 @@
       "mode": "monitor",
       "fp": "aleksandar vu i concedes defeat as student led movement wins",
       "date": "2026-10-26"
+    },
+    {
+      "headline": "AI Giant Anthropic Files for Massive Public Listing",
+      "summary": "Anthropic submitted paperwork to go public in what could become one of Wall Street's largest stock debuts ever. Investors are lining up with cash, yet the company's own prospectus included blunt warnings that advanced AI poses existential dangers to humanity. It is like selling public tickets to ride a supersonic jet while the engineers openly debate whether the navigation system might turn on the passengers.",
+      "why": "The move ties global financial markets directly to frontier AI, accelerating a high-stakes race where safety rules are still being written.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "ai giant anthropic files for massive public listing",
+      "date": "2026-10-26"
+    },
+    {
+      "headline": "Egypt Approves Military Support for Saudi Arabia",
+      "summary": "Egypt's parliament just gave the green light to send military support to Saudi Arabia following intensified Houthi missile and drone strikes. Think of it like a heavyweight neighbor stepping into the yard because stray rocks are threatening everyone's house. Cairo urgently needs to protect its Red Sea shipping tolls and keep Gulf money flowing, but the move risks pulling the Arab world's largest army straight into the regional crossfire.",
+      "why": "Direct Egyptian involvement could turn a simmering proxy conflict into a broader state-on-state war right along vital global shipping lanes.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "egypt approves military support for saudi arabia",
+      "date": "2026-10-26"
+    },
+    {
+      "headline": "Student Movement Ousts Longtime Serbian Leader",
+      "summary": "In a stunning election upset, a student-led political coalition defeated Serbia's longtime leader Aleksandar Vu\u010di\u0107, who officially conceded. Vu\u010di\u0107 spent years playing the West, Moscow, and Beijing against each other, but public fatigue with corruption and democratic backsliding finally caught up with him. It is like a political dam that looked solid for a decade suddenly bursting under a wave of young voters.",
+      "why": "The surprise transition weakens Russia's most dependable diplomatic partner in Europe and opens the door for a major tilt toward the European Union.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "student movement ousts longtime serbian leader",
+      "date": "2026-10-26"
+    },
+    {
+      "headline": "Israel Faces Knife-Edge Vote on Netanyahu's Fate",
+      "summary": "Israelis are heading to the polls in a high-stakes parliamentary election that serves as a direct referendum on Benjamin Netanyahu. The race pits supporters backing an indefinite wartime footing against opponents who argue that ongoing conflict is wrecking the nation's economy and social fabric. It comes down to whether voters trust the current leadership to deliver security or decide the price has grown too steep.",
+      "why": "The vote will determine whether the country remains locked in open-ended regional fighting or pivots toward domestic rebuilding and potential diplomatic deals.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "israel faces knife edge vote on netanyahu s fate",
+      "date": "2026-10-26"
+    },
+    {
+      "headline": "Lula Wins in Brazil as Opposition Refuses to Concede",
+      "summary": "President Luiz In\u00e1cio Lula da Silva secured reelection in Brazil, but the conservative opposition led by Fl\u00e1vio Bolsonaro has refused to accept the outcome. While foreign allies rushed to recognize the win, right-wing demonstrators are disputing the results and organizing street protests. The country is split right down the middle, threatening another drawn-out political crisis.",
+      "why": "Paralysis and unrest in Latin America's largest economy threaten regional trade stability and crucial global climate agreements tied to the Amazon.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "lula wins in brazil as opposition refuses to concede",
+      "date": "2026-10-26"
     }
   ]
 }
