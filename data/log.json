@@ -3959,6 +3959,16 @@
       "mode": "afternoon",
       "fp": "lula wins in brazil as opposition refuses to concede",
       "date": "2026-10-26"
+    },
+    {
+      "headline": "Serbia's Longtime Leader Aleksandar Vu\u010di\u0107 Concedes Defeat in Historic Election Upset",
+      "summary": "Aleksandar Vu\u010di\u0107 conceded defeat after preliminary election results showed the youth-led opposition 'Student List' winning an outright parliamentary majority, ending his 14-year grip on power in Serbia.",
+      "why": "This is a major government transition in the Western Balkans that abruptly ends more than a decade of Kremlin-aligned, semi-authoritarian rule and fundamentally redraws regional geopolitics toward Europe.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "serbia s longtime leader aleksandar vu i concedes defeat in",
+      "date": "2026-10-26"
     }
   ]
 }
