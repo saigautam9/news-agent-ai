@@ -3809,6 +3809,56 @@
       "mode": "monitor",
       "fp": "serbia s longtime leader aleksandar vu i concedes defeat in",
       "date": "2026-10-26"
+    },
+    {
+      "headline": "Houthi Strikes on Saudi Oil Hubs Escalate Gulf Crisis",
+      "summary": "Missile and drone attacks struck energy infrastructure and airports across Saudi Arabia, sparking explosions and flight groundings. The United States ordered non-essential embassy staff and their families to evacuate the Kingdom as regional tensions spiked. It amounts to tossing lit matches next to the world's most critical fuel supply.",
+      "why": "Direct hits on Gulf oil arteries threaten global energy prices and raise the threat of direct military intervention.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "houthi strikes on saudi oil hubs escalate gulf crisis",
+      "date": "2026-10-27"
+    },
+    {
+      "headline": "Nearly 100,000 Evacuated as Cyclone Arnab Nears India",
+      "summary": "Authorities in eastern India rushed nearly 100,000 residents out of coastal Andhra Pradesh and Odisha ahead of Cyclone Arnab. Meteorologists warn the severe storm will bring destructive storm surges, flooding, and damaging winds to vulnerable fishing villages. It is an urgent scramble to move people before rail networks and highways flood.",
+      "why": "The disaster tests coastal climate defenses and risks destroying regional crops that millions depend on for basic food security.",
+      "domain": "Climate",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "nearly 100 000 evacuated as cyclone arnab nears india",
+      "date": "2026-10-27"
+    },
+    {
+      "headline": "Israeli Election Hits a Political Deadlock",
+      "summary": "Israelis voted in huge numbers today in an election framed as a national referendum after years of intense war. Early exit polls show neither Prime Minister Benjamin Netanyahu nor the opposition bloc has secured a clear governing majority. It is like a tug-of-war where both sides pulled with all their might, only to leave the rope stuck right in the middle.",
+      "why": "The resulting power vacuum decides whether Israel stays on an aggressive wartime footing or shifts toward regional diplomacy.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "israeli election hits a political deadlock",
+      "date": "2026-10-27"
+    },
+    {
+      "headline": "Fl\u00e1vio Bolsonaro Leaves Brazil Following Election Defeat",
+      "summary": "After losing a fierce presidential runoff to Luiz In\u00e1cio Lula da Silva, conservative challenger Fl\u00e1vio Bolsonaro left the country for the United States. His sudden exit surprised loyalists and took the immediate steam out of feared post-election unrest. While a violent coup attempt was avoided, Lula now faces a deeply hostile congress.",
+      "why": "Latin America's largest economy avoided immediate democratic breakdown, but severe political polarization will stall economic governance.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "fl vio bolsonaro leaves brazil following election defeat",
+      "date": "2026-10-27"
+    },
+    {
+      "headline": "Renewed Ethnic Violence in Ethiopia Leaves Dozens Dead",
+      "summary": "At least 60 civilians were killed in a series of armed raids across Ethiopia's Oromia region over the past week. Local church leaders say communities were targeted in their homes, highlighting security forces' inability to police the countryside. It resembles a fire smothered in one corner that quietly reignites in another.",
+      "why": "Persistent ethnic fracturing in East Africa's economic anchor risks creating massive humanitarian displacement across the Horn of Africa.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "renewed ethnic violence in ethiopia leaves dozens dead",
+      "date": "2026-10-27"
     }
   ]
 }
