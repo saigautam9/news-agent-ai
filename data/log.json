@@ -3689,6 +3689,56 @@
       "mode": "evening",
       "fp": "renewed ethnic violence in ethiopia leaves dozens dead",
       "date": "2026-10-27"
+    },
+    {
+      "headline": "Peace talks falter as regional war around Iran risks widening",
+      "summary": "Qatari mediators pitched a fresh seven-day roadmap to halt the eight-month war between Iran, the US, and Israel, but Tehran rejected key terms over its nuclear program. At the same time, emergency talks between Russian, Iranian, and Gulf leaders in Moscow have failed to break the deadlock. With shipping disruptions spreading and talk of renewed military strikes growing, fears are rising that the fight could flare up further.",
+      "why": "A wider flare-up could shut down the world's most critical oil routes and drag global superpowers into direct confrontation.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "peace talks falter as regional war around iran risks widening",
+      "date": "2026-10-28"
+    },
+    {
+      "headline": "Israel's national election ends in deadlock with no clear winner",
+      "summary": "In Israel's first general election since the October 7 attacks, neither Prime Minister Benjamin Netanyahu's right-wing bloc nor the opposition led by Gadi Eisenkot secured a governing majority. Historic voter turnout among Arab citizens has left Arab parties holding unprecedented bargaining power in parliament. Both camps now face brutal coalition negotiations to break the gridlock.",
+      "why": "Whoever manages to build a government will decide whether Israel doubles down on or winds back multi-front wars across the region.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "israel s national election ends in deadlock with no clear",
+      "date": "2026-10-28"
+    },
+    {
+      "headline": "Deadly high-speed train collision kills over 60 in central Spain",
+      "summary": "A high-speed passenger train slammed into a stationary train near Toledo, derailing carriages down an embankment and killing at least 64 people. The crash cut off main rail links between Madrid and southern Spain and overwhelmed local hospitals with wounded passengers. It marks the country's second fatal high-speed train disaster this year, triggering urgent safety investigations into signalling systems.",
+      "why": "It is one of Europe's worst modern rail disasters, shattering confidence in high-speed infrastructure and sparking political backlash ahead of national elections.",
+      "domain": "Society",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "deadly high speed train collision kills over 60 in central",
+      "date": "2026-10-28"
+    },
+    {
+      "headline": "Tech sell-off wipes trillions as the US-China AI race hits a wall",
+      "summary": "Chinese and global tech stocks took a sharp hit as investors grew nervous about massive spending on artificial intelligence that has yet to turn solid profits. The sell-off deepened as Washington tightened restrictions on Chinese tech access and chip trade. Companies on both sides are finding that building massive computing centers is burning cash faster than it generates revenue.",
+      "why": "The staggering cost of the technology race is beginning to strain global markets and reshaping how the world's two largest economies do business.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "tech sell off wipes trillions as the us china ai",
+      "date": "2026-10-28"
+    },
+    {
+      "headline": "Fl\u00e1vio Bolsonaro flees to Florida after losing Brazil's presidency",
+      "summary": "After narrowly losing the presidential runoff to incumbent President Lula, conservative challenger Fl\u00e1vio Bolsonaro skipped the country and arrived in the United States. He defied a Brazilian Supreme Court order to hand in his passport over corruption investigations, and Washington granted him and his family entry visas. President Lula slammed the escape, calling it an insult to Brazilian sovereignty.",
+      "why": "The standoff deepens bitter political division in Latin America's largest economy and threatens to trigger a diplomatic row with the US.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "fl vio bolsonaro flees to florida after losing brazil s",
+      "date": "2026-10-28"
     }
   ]
 }
