@@ -3739,6 +3739,56 @@
       "mode": "morning",
       "fp": "fl vio bolsonaro flees to florida after losing brazil s",
       "date": "2026-10-28"
+    },
+    {
+      "headline": "Britain Pours Ten Billion Pounds into Ukraine\u2019s Winter Defenses",
+      "summary": "The UK government rolled out a major ten-billion-pound funding package to reinforce Ukraine\u2019s air defense shield and repair bombed electrical grids ahead of winter. Russian strikes continue to batter heating plants and frontline outposts, threatening mass blackouts during freezing weather. European capitals fear that a collapse of the power grid could spark another mass exodus of refugees across their borders.",
+      "why": "Keeping Ukraine\u2019s electrical grid alive determines whether millions survive the winter and tests Western political stamina to fund the war.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "britain pours ten billion pounds into ukraine s winter defenses",
+      "date": "2026-10-28"
+    },
+    {
+      "headline": "Global Food and Fuel Prices Surge as Regional Crises Collide",
+      "summary": "The World Bank warned that global commodity prices are jumping 23 percent this year, driven by a sharp 32 percent hike in energy costs. Tanker routes through the Middle East are snarled, while erratic weather is hitting crop yields and pushing grocery bills up by nearly a fifth. For families worldwide, everyday paychecks are stretching thinner just to keep the lights on and pantries stocked.",
+      "why": "When staples like fuel and grain spike together, it acts like a regressive global tax that hurts everyday families first and hardest.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "global food and fuel prices surge as regional crises collide",
+      "date": "2026-10-28"
+    },
+    {
+      "headline": "Israel\u2019s General Election Ends in Fresh Parliamentary Paralysis",
+      "summary": "Voters turned out in record numbers, but neither Benjamin Netanyahu\u2019s coalition nor his opponents won the 61 seats needed to run parliament. The deadlock forces both camps into frantic horse-trading with smaller hardline factions to try to form a fragile coalition. The resulting political vacuum leaves negotiations over regional conflicts and ceasefire arrangements stuck in place.",
+      "why": "A government without a clear mandate struggles to make hard compromises, keeping the Middle East perched on a hair-trigger.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "israel s general election ends in fresh parliamentary paralysis",
+      "date": "2026-10-28"
+    },
+    {
+      "headline": "The Federal Reserve Keeps Borrowing Costs Pinned at 3.9 Percent",
+      "summary": "The US central bank voted to leave its benchmark interest rate unchanged at 3.9 percent. Officials are trapped between stubborn price pressures on energy and food and warning signs of slower job growth. That means mortgages, car loans, and credit card balances will stay expensive to pay off for the foreseeable future.",
+      "why": "Keeping money expensive slows down business hiring and keeps homeownership out of reach for millions of middle-class workers.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "the federal reserve keeps borrowing costs pinned at 3 9",
+      "date": "2026-10-28"
+    },
+    {
+      "headline": "Landmark Health Study Shows Lethal Heatwaves Are Outpacing Hospitals",
+      "summary": "A major Lancet medical report revealed that heat-related deaths around the world have surged 36 percent over the past decade. Emergency rooms in developing nations and major metro hubs are increasingly overwhelmed by heat stroke, tainted water, and drought-driven food shortages. Scientists emphasize that warming is no longer just an environmental talking point, but an active public health emergency.",
+      "why": "Climate stress is moving from computer projections into hospital wards, threatening public health systems and the survival of outdoor workers.",
+      "domain": "Health",
+      "severity": "MEDIUM",
+      "mode": "evening",
+      "fp": "landmark health study shows lethal heatwaves are outpacing hospitals",
+      "date": "2026-10-28"
     }
   ]
 }
