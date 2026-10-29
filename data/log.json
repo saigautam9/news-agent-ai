@@ -3749,6 +3749,26 @@
       "mode": "monitor",
       "fp": "three oil tankers catch fire after striking naval mines in",
       "date": "2026-10-29"
+    },
+    {
+      "headline": "Multiple Oil Tankers Struck in the Strait of Hormuz",
+      "summary": "Several commercial oil tankers have caught fire after hitting naval mines or being struck by projectiles in the Strait of Hormuz over the last few hours.",
+      "why": "Think of the Strait of Hormuz as the world's main fuel pipe. Around a fifth of all global oil has to squeeze through this narrow strip of water. When ships start exploding and catching fire there, shipping halts, gas prices spike fast, and navies can quickly get dragged into direct clashes.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "multiple oil tankers struck in the strait of hormuz",
+      "date": "2026-10-29"
+    },
+    {
+      "headline": "European Central Bank President Christine Lagarde Resigns Early",
+      "summary": "Christine Lagarde announced she is stepping down early as head of the European Central Bank, walking away months before her term was set to finish.",
+      "why": "The ECB is basically the control tower for the money and borrowing costs of twenty-one European countries. Having its top boss leave ahead of schedule while prices are jumpy and political tensions are high leaves a sudden leadership vacuum right when stability matters most.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "european central bank president christine lagarde resigns early",
+      "date": "2026-10-29"
     }
   ]
 }
