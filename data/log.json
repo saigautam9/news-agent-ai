@@ -3689,6 +3689,56 @@
       "mode": "evening",
       "fp": "landmark health study shows lethal heatwaves are outpacing hospitals",
       "date": "2026-10-28"
+    },
+    {
+      "headline": "Tanker Attacks in the Strait of Hormuz Threaten Global Oil Flow",
+      "summary": "Commercial oil tankers were struck by naval mines near Oman, setting at least one vessel ablaze in the narrow waterway. The strikes mark a sharp escalation in the ongoing war between the United States and Iran. With military operations already passing forty billion dollars, neither government appears close to a cease-fire.",
+      "why": "This narrow channel carries a huge share of the world's petroleum, so any bottleneck here acts like a kink in a garden hose, quickly driving up energy and grocery bills worldwide.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "tanker attacks in the strait of hormuz threaten global oil",
+      "date": "2026-10-29"
+    },
+    {
+      "headline": "Central Africa's Ebola Outbreak Surpasses 10,000 Cases",
+      "summary": "A fast-moving outbreak of the Bundibugyo Ebola strain has infected over ten thousand people and caused nearly five thousand deaths across central Africa. While the crisis is centered in eastern DR Congo, confirmed cases have already crossed into Kenya, Uganda, and Nigeria. Health authorities warn that emergency funds are running out just as containment becomes critical.",
+      "why": "Letting an aggressive virus slip across borders without enough medical tools risks turning a regional tragedy into a wider pandemic.",
+      "domain": "Health",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "central africa s ebola outbreak surpasses 10 000 cases",
+      "date": "2026-10-29"
+    },
+    {
+      "headline": "Federal Reserve Freezes Interest Rates as Fuel Costs Keep Inflation Sticky",
+      "summary": "America's central bank held interest rates steady between 3.75% and 4%, choosing to wait for more economic data. Rising oil prices tied to the Middle East war have pushed consumer inflation back up to 3.7%, keeping daily expenses painfully high. Two voting officials dissented and wanted a rate hike right away, signaling that borrowing costs could climb again before the year ends.",
+      "why": "High interest rates act like heavy brakes on the global economy, making mortgages, credit card balances, and business loans pricier for regular people.",
+      "domain": "Markets",
+      "severity": "CRITICAL",
+      "mode": "morning",
+      "fp": "federal reserve freezes interest rates as fuel costs keep inflation",
+      "date": "2026-10-29"
+    },
+    {
+      "headline": "Israel's First Wartime Election Ends in Complete Gridlock",
+      "summary": "Voters turned out in record numbers for Israel's first general election since the October 7 attacks, but left parliament deeply divided. Exit polls and late counts show Prime Minister Benjamin Netanyahu tied with his main opposition rival, leaving neither with a clear path to sixty-one seats. Both camps now face weeks of fierce bargaining, with Arab-led parties holding unprecedented leverage.",
+      "why": "A paralyzed leadership in Jerusalem makes it far harder to negotiate stable cease-fires, rebuild war-torn communities, or map out peace in the Middle East.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "israel s first wartime election ends in complete gridlock",
+      "date": "2026-10-29"
+    },
+    {
+      "headline": "Defeated Challenger Flees Brazil for the US, Sparking Political Turmoil",
+      "summary": "Right-wing senator Fl\u00e1vio Bolsonaro left Brazil and flew to Florida after losing a tight presidential runoff to President Lula da Silva. After landing in Miami, he released statements challenging the election outcome and claiming to be the country's rightful leader. Brazilian courts and federal police have opened formal inquiries into the move as a threat to constitutional order.",
+      "why": "When a major political figure walks away from election results, it fractures trust in democracy across South America's largest economic powerhouse.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "morning",
+      "fp": "defeated challenger flees brazil for the us sparking political turmoil",
+      "date": "2026-10-29"
     }
   ]
 }
