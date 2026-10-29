@@ -3739,6 +3739,16 @@
       "mode": "morning",
       "fp": "defeated challenger flees brazil for the us sparking political turmoil",
       "date": "2026-10-29"
+    },
+    {
+      "headline": "Three Oil Tankers Catch Fire After Striking Naval Mines in the Strait of Hormuz",
+      "summary": "Three commercial oil tankers exploded and caught fire within a 24-hour span after striking sea mines in the Strait of Hormuz. Iranian forces stated the ships tried to bypass restrictions using an unauthorized southern passage with transponders disabled, directly challenging recent U.S. military announcements that key transit corridors had been de-mined.",
+      "why": "The Strait of Hormuz is like the main fuel pipe for the global economy. Having several large tankers hit live naval mines in rapid succession directly threatens commercial shipping, risks immediate global oil supply shocks, and sharply increases the odds of a wider naval shooting war.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "three oil tankers catch fire after striking naval mines in",
+      "date": "2026-10-29"
     }
   ]
 }
