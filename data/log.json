@@ -3619,6 +3619,56 @@
       "mode": "monitor",
       "fp": "commercial tankers struck by naval mines in the strait of",
       "date": "2026-10-30"
+    },
+    {
+      "headline": "Qatari Mediators Push for U.S.-Iran Ceasefire as Trump Hints War Is Ending",
+      "summary": "Qatari envoys arrived in Tehran today to push a seven-day peace plan aimed at pausing the eight-month war between the U.S. and Iran. President Trump told reporters the fighting will end soon, but Iran has balked at Washington's demands for strict nuclear inspections. With heavy U.S. military gear already landing across the region, both sides are treating this weekend as a final diplomatic off-ramp.",
+      "why": "A breakthrough would calm spiraling global oil prices, while failure could trigger an explosive second round of airstrikes within days.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "qatari mediators push for u s iran ceasefire as trump",
+      "date": "2026-10-30"
+    },
+    {
+      "headline": "Binance Hit by $6.3 Billion Hack in Record-Breaking Crypto Heist",
+      "summary": "Hackers breached the world's biggest crypto exchange and drained about $6.3 billion across multiple blockchains in only twenty minutes. Security firms linked the attack to North Korea's elite cyber force, though partners managed to quickly freeze roughly half the funds. Binance promised to pay back all affected customers out of its emergency reserves.",
+      "why": "Beyond rattling global crypto markets like a massive digital bank robbery, the haul hands a cash-strapped rogue state billions to bankroll its weapons.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "afternoon",
+      "fp": "binance hit by 6 3 billion hack in record breaking",
+      "date": "2026-10-30"
+    },
+    {
+      "headline": "Netanyahu Claims Vote Was Stolen After Losing Parliamentary Majority",
+      "summary": "Benjamin Netanyahu's party claimed Israel's election was rigged after final tallies showed his ruling coalition dropped to 53 seats. A record turnout by Arab-majority parties gave them 19 seats, opening a rare path for the opposition to push him out of office. Election officials pushed back against the fraud claims, but political gridlock has already paralyzed the Knesset.",
+      "why": "Unseating Israel's longest-serving leader could change the course of regional wars, while crying fraud shakes the country's democratic foundations.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "netanyahu claims vote was stolen after losing parliamentary majority",
+      "date": "2026-10-30"
+    },
+    {
+      "headline": "U.S.-Canada Trade War Ratchets Up as Fresh Tariffs Kick In",
+      "summary": "New U.S. tariffs and bans on Canadian goods went live today under emergency trade rules, hitting products from carpets to machinery. Canadian exporters and American importers are fighting back with lawsuits, warning the fight is driving up everyday prices on both sides of the border. Feeling squeezed, Canada is speeding up talks to build closer economic ties with the European Union instead.",
+      "why": "Slapping taxes on your closest neighbor is like breaking a shared fence\u2014it drives up everyday consumer costs and shatters supply chains built over decades.",
+      "domain": "Markets",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "u s canada trade war ratchets up as fresh tariffs",
+      "date": "2026-10-30"
+    },
+    {
+      "headline": "Novaya Gazeta, Russia's Last Independent Newspaper, Forced to Close",
+      "summary": "Russia's most famous independent paper announced it will permanently stop publishing after security services evicted its staff and cut off donations. Founded in 1993 with Mikhail Gorbachev's Nobel Prize money, the outlet survived decades of harassment and the murder of six reporters. The editor-in-chief said official pressure finally pushed the newsroom into a survival 'kill zone'.",
+      "why": "This pulls the plug on the last independent domestic newsroom inside Russia, leaving ordinary citizens with zero local alternatives to state propaganda.",
+      "domain": "Society",
+      "severity": "HIGH",
+      "mode": "afternoon",
+      "fp": "novaya gazeta russia s last independent newspaper forced to close",
+      "date": "2026-10-30"
     }
   ]
 }
