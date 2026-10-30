@@ -3669,6 +3669,56 @@
       "mode": "afternoon",
       "fp": "novaya gazeta russia s last independent newspaper forced to close",
       "date": "2026-10-30"
+    },
+    {
+      "headline": "Missile Threats Hit Saudi Oil Hub Amid Regional Conflict",
+      "summary": "Strikes tied to widening Middle East warfare forced Saudi Aramco to clear staff from its main headquarters campus. Meanwhile, neighboring countries are frantically trying to broker talks between Washington and Tehran to keep the conflict from blowing up further. The incidents show that the conflict is no longer just on the front lines, but aiming straight at the global energy engine.",
+      "why": "If the nerve center of the world's biggest oil tap gets knocked offline, everyday fuel and grocery bills around the globe will shoot up.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "missile threats hit saudi oil hub amid regional conflict",
+      "date": "2026-10-30"
+    },
+    {
+      "headline": "Binance Suffers Record-Breaking $6.3 Billion Cyber Heist",
+      "summary": "Hackers managed to siphon about $6.3 billion out of Binance, making it the biggest robbery in crypto history. Global tech stocks and crypto prices dropped sharply as security teams rushed to track the stolen tokens. It was the digital equivalent of thieves walking straight into the world's largest vault and hauling the cash away.",
+      "why": "A theft this massive proves even giant exchanges have loose locks, which could trigger an aggressive crackdown from global financial watchdogs.",
+      "domain": "Technology",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "binance suffers record breaking 6 3 billion cyber heist",
+      "date": "2026-10-30"
+    },
+    {
+      "headline": "Ukraine Hits Russian Oil as Moscow Silences Last Independent Paper",
+      "summary": "Ukrainian strikes hit another major Russian fuel refinery, pressing on despite warnings from allies about oil disruptions. At the same time, Russian authorities forced Novaya Gazeta to stop publishing entirely. That officially shuts down the very last independent newsroom operating openly inside Russia.",
+      "why": "Knocking out refineries bites right into Moscow's war budget, while killing the last independent paper leaves ordinary Russians without any truthful news.",
+      "domain": "Geopolitics",
+      "severity": "CRITICAL",
+      "mode": "evening",
+      "fp": "ukraine hits russian oil as moscow silences last independent paper",
+      "date": "2026-10-30"
+    },
+    {
+      "headline": "Israel Sinks Into Political Limbo After Inconclusive Vote",
+      "summary": "Final election results left no clear winner in Israel, setting off messy negotiations to assemble a governing coalition. At the same time, Prime Minister Benjamin Netanyahu's allies began questioning the legitimacy of the ballot count. The stalemate leaves key wartime decisions and international diplomacy hanging in the air.",
+      "why": "Without a stable government in place, reaching any durable peace or rebuilding plan in Gaza becomes nearly impossible.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "israel sinks into political limbo after inconclusive vote",
+      "date": "2026-10-30"
+    },
+    {
+      "headline": "Court Battles Erupt Over U.S. Midterm Voting Rules",
+      "summary": "With days left before Americans decide who runs Congress, federal appeals judges blocked Justice Department attempts to discard thousands of ballots. Federal investigators have launched fraud inquiries across several states, but courts ruled there was no proof to justify tossing votes. The legal skirmishes have turned basic ballot-counting into an intense fight ahead of election day.",
+      "why": "How these legal disputes shake out will decide the balance of power in Washington and how future elections are run.",
+      "domain": "Geopolitics",
+      "severity": "HIGH",
+      "mode": "evening",
+      "fp": "court battles erupt over u s midterm voting rules",
+      "date": "2026-10-30"
     }
   ]
 }
