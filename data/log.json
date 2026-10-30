@@ -1,166 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US and Iran Teeter Between Peace Talks and Wider War",
-      "summary": "Diplomatic efforts are hanging by a thread as Washington and Tehran trade offers and threats over their monthslong conflict. Military flare-ups near vital Persian Gulf shipping routes have sent oil prices swinging and spiked global borrowing costs. Mediators are rushing to New York to restart talks, but both sides warn the window for a peaceful deal is closing fast.",
-      "why": "A spark here could shut down the world's main oil faucet, driving up the price of gas, groceries, and heating for families worldwide.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "us and iran teeter between peace talks and wider war",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "SpaceX Starship Reaches Orbit for the First Time",
-      "summary": "The largest rocket ever built successfully reached Earth orbit, clearing a massive technical hurdle even as its mission ended slightly early. Reaching space with a fully reusable super-heavy vehicle is the space equivalent of inventing a reusable cargo ship instead of throwing the vessel away after every voyage. This milestone dramatically cuts the cost of launching communications satellites, scientific probes, and future lunar hardware.",
-      "why": "Slashing the price of getting into orbit will reshape global communications, navigation networks, and the future space economy.",
-      "domain": "Technology",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "spacex starship reaches orbit for the first time",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "Attacks on Middle East Pipelines and Ships Squeeze Global Supply Chains",
-      "summary": "Fresh strikes on critical pipelines and cargo ships around the Arabian Peninsula have forced fleets to detour thousands of miles around Africa. The rerouting adds weeks to delivery schedules, burns millions of barrels of extra bunker fuel, and clogs sea traffic. Factories across Europe and Asia are already reporting delays for essential parts and raw materials.",
-      "why": "When maritime shortcuts shut down, freight costs ripple through the economy, making everyday imported goods more expensive on store shelves.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "attacks on middle east pipelines and ships squeeze global supply",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "Top US Court Takes Up Landmark Climate Damage Lawsuits",
-      "summary": "The US Supreme Court is moving to decide whether local governments can force energy companies to pay for damages from extreme weather like floods and wildfires. Cities argue that energy producers should help foot the cleanup bills, while oil firms warn that liability could crush the energy sector. The eventual decision will determine whether taxpayers or corporate balance sheets pay for mounting climate destruction.",
-      "why": "This outcome will decide who pays trillions of dollars to rebuild broken communities, which will directly alter energy prices and local tax bills.",
-      "domain": "Climate",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "top us court takes up landmark climate damage lawsuits",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "Global Pandemic Treaty Stalls at the United Nations",
-      "summary": "Negotiations for a binding worldwide treaty to fight future pandemics hit a wall at the UN General Assembly after major governments refused to sign on. Poorer nations wanted firm promises for shared vaccines and medicines, while wealthier countries pushed back against mandatory patent and technology sharing. Without an agreed rulebook, international cooperation on viral outbreaks remains broken and improvised.",
-      "why": "Without a shared plan, the world risks repeating the same deadly scramble for medicine and hospital gear when the next superbug arrives.",
-      "domain": "Health",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "global pandemic treaty stalls at the united nations",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "SpaceX Starship Reaches Earth Orbit for the First Time",
-      "summary": "SpaceX launched Starship, the largest and most powerful rocket ever built, into Earth orbit for the first time on its 14th test flight, successfully deploying operational satellites into space before splashing down in the Pacific Ocean.",
-      "why": "Reaching orbit proves the massive, reusable launch system works in space. It marks a major technological leap that drastically lowers the cost of carrying heavy cargo to orbit and clears a critical milestone for returning humans to the Moon.",
-      "domain": "Breaking",
-      "severity": "CRITICAL",
-      "mode": "monitor",
-      "fp": "spacex starship reaches earth orbit for the first time",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "Standoff over the Strait of Hormuz keeps oil on edge",
-      "summary": "Talks between the United States and Iran hit a wall after Washington turned down Tehran's proposal to reopen the vital shipping route. Iranian officials stated they have no immediate plans for direct talks, leaving Qatari mediators scrambling to keep diplomacy alive. With tankers blocked from moving freely, global crude supplies remain tight and energy prices continue to push higher.",
-      "why": "About a fifth of the planet's oil moves through this single narrow waterway, meaning any prolonged bottleneck makes everyday fuel and electricity pricier across the world.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "standoff over the strait of hormuz keeps oil on edge",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "Allies rush to shield Saudi oil ports from Houthi strikes",
-      "summary": "Yemen's Houthi forces launched fresh drone and missile attacks on Saudi Aramco energy hubs, prompting pipeline shutdowns and air raid alerts. France announced it is deploying air defense batteries to the Saudi port of Yanbu, while regional allies called emergency defense talks. At the same time, fighting near Yemen's coast is threatening cargo traffic through the Bab al-Mandab Strait.",
-      "why": "Attacks on major oil hubs and shipping lanes act like a roadblock on global commerce, raising shipping insurance costs and delaying basic goods.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "allies rush to shield saudi oil ports from houthi strikes",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "Renewed air strikes slam Kyiv as Ukraine pleads for air defense",
-      "summary": "Russian missiles and drones struck residential and commercial areas in Kyiv and industrial centers across Ukraine early Tuesday. Ukrainian leaders wrapped up discussions at the UN General Assembly with urgent calls to Western allies for more interceptor batteries. The relentless bombardment continues to batter the country's power grid as winter approaches.",
-      "why": "Wrecking Ukraine's energy network puts millions of regular families at risk of freezing conditions and tests Western political stamina.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "renewed air strikes slam kyiv as ukraine pleads for air",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "US and China agree to a temporary trade truce",
-      "summary": "Donald Trump and Xi Jinping finished high-stakes meetings in Washington, agreeing to extend a tariff ceasefire and trim duties on tens of billions in goods. They also set up a bilateral trade council and agreed to talk about artificial intelligence guardrails. Tough issues like bans on advanced computer chips were left off the table, giving both sides breathing room rather than a final peace.",
-      "why": "When the world's two economic heavyweights pause their trade fight, it prevents supply chains from snapping and calms global markets.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "us and china agree to a temporary trade truce",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "American troops complete their departure from Iraq",
-      "summary": "The United States is handing over its last military bases in Iraq ahead of the formal September 30 withdrawal deadline. The exit wraps up more than twenty years of coalition military operations under an agreement negotiated two years ago. Baghdad now has to police its own airspace and territory amid simmering regional friction.",
-      "why": "Removing the US military shield creates a power vacuum that could allow regional rivals and militant remnants to expand their reach.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "american troops complete their departure from iraq",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "U.S. and Iran Reach High-Stakes Impasse Over Persian Gulf War",
-      "summary": "Fragile back-channel ceasefire talks in New York stalled as Iranian diplomats prepared to leave the United Nations without a deal. Iran offered to reopen the vital Strait of Hormuz in exchange for sanctions relief and an end to the U.S. naval blockade, but President Trump publicly rejected the terms. The standoff leaves roughly a fifth of the world's oil traffic bottled up, keeping fuel prices dangerously high.",
-      "why": "If talks collapse into wider strikes, energy supplies around the globe could choke and send everyday living costs skyrocketing.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "u s and iran reach high stakes impasse over persian",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "Ethiopia Slides Back Toward All-Out Civil War",
-      "summary": "Intense fighting has flared across northern Ethiopia as a coalition of regional fighters clashed with federal troops, shattering a four-year peace accord. Government forces moved into key border towns while neighboring Eritrean troops reportedly crossed into the fight. Aid convoys are completely blocked, leaving millions of vulnerable civilians cut off from food and electricity.",
-      "why": "Renewed conflict in Africa's second most populous nation could unleash mass famine and drag the entire Horn of Africa into chaos.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "ethiopia slides back toward all out civil war",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "Sudan's Humanitarian Crisis Triggers Fiery Clash at the UN",
-      "summary": "Sudan's war took center stage on the closing day of the UN General Assembly as delegates traded bitter accusations over foreign weapon shipments fueling the violence. Fighting between the national army and rival paramilitaries has displaced millions and caused extreme hunger across the country. Diplomats warned that outside nations are treating the war like a proxy playground while ignoring the suffering of ordinary families.",
-      "why": "Sudan is enduring the world's worst displacement crisis, and endless foreign meddling is pushing the country toward total collapse.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "sudan s humanitarian crisis triggers fiery clash at the un",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "Pentagon Moves to Cut Top Generals and Admirals by 20 Percent",
-      "summary": "Defense Secretary Pete Hegseth ordered a 20 percent reduction in top-tier four-star generals and admirals across the U.S. military. Hegseth says the move trims a bloated corporate-style headquarters and puts battlefield officers back in charge. Critics and defense experts warn that purging dozens of senior commanders risks politicizing the armed forces and losing decades of wartime experience.",
-      "why": "It marks the biggest shake-up of American military leadership in generations, happening right as the nation juggles multiple overseas conflicts.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "pentagon moves to cut top generals and admirals by 20",
-      "date": "2026-09-29"
-    },
-    {
-      "headline": "Australia Hikes Rates to 15-Year High as Energy Shocks Stoke Inflation",
-      "summary": "Australia's central bank unexpectedly lifted its benchmark interest rate to 4.60 percent, the highest level seen since 2011. Officials blamed stubborn local price pressures and surging global oil costs driven by Middle East shipping disruptions. The move warns that central banks everywhere may keep borrowing costs high for much longer than people hoped.",
-      "why": "It shows how distant geopolitical shocks quickly hit ordinary families at home through steeper mortgage payments and stubborn store prices.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "australia hikes rates to 15 year high as energy shocks",
-      "date": "2026-09-29"
-    },
-    {
       "headline": "US and Coalition Troops Fully Withdraw From Iraq",
       "summary": "The last American and British troops have officially left Iraq, ending a combat and advisory mission that lasted more than two decades. Iraqi forces are now entirely on their own to prevent extremist groups from rebounding, while neighboring Iran works quickly to expand its influence across the country. The exit marks the definitive close of America's longest post-9/11 military deployment.",
       "why": "It completely redraws Middle Eastern security dynamics, leaving a fragile power vacuum that could determine whether the region stabilizes or slides into fresh proxy wars.",
@@ -3769,6 +3609,16 @@
       "mode": "monitor",
       "fp": "european central bank president christine lagarde resigns early",
       "date": "2026-10-29"
+    },
+    {
+      "headline": "Commercial Tankers Struck by Naval Mines in the Strait of Hormuz",
+      "summary": "Four commercial oil tankers hit naval mines and caught fire while sailing through the Strait of Hormuz, according to Iranian military statements and regional maritime tracking agencies.",
+      "why": "The Strait of Hormuz is the world's main oil highway. When sea mines begin hitting commercial vessels here, fuel transit can freeze overnight, threatening global energy supply lines and drastically escalating direct military clashes.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "commercial tankers struck by naval mines in the strait of",
+      "date": "2026-10-30"
     }
   ]
 }
