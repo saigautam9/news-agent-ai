@@ -1,156 +1,6 @@
 {
   "entries": [
     {
-      "headline": "US and Coalition Troops Fully Withdraw From Iraq",
-      "summary": "The last American and British troops have officially left Iraq, ending a combat and advisory mission that lasted more than two decades. Iraqi forces are now entirely on their own to prevent extremist groups from rebounding, while neighboring Iran works quickly to expand its influence across the country. The exit marks the definitive close of America's longest post-9/11 military deployment.",
-      "why": "It completely redraws Middle Eastern security dynamics, leaving a fragile power vacuum that could determine whether the region stabilizes or slides into fresh proxy wars.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "us and coalition troops fully withdraw from iraq",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "Global Bond Sell-Off Pushes Borrowing Costs to Decades-High Levels",
-      "summary": "A sharp sell-off in government bonds pushed benchmark interest yields to their highest levels in almost twenty years. Tepid demand at debt auctions combined with persistent economic strain triggered broad drops across stock markets from New York to Tokyo. Spiking yields act like a giant brake on the global economy, making every dollar borrowed costlier.",
-      "why": "When sovereign bond yields climb this high, mortgages, business loans, and national debt payments become far more expensive for ordinary people and governments alike.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "global bond sell off pushes borrowing costs to decades high",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "Tech Giants Sign White House Accord to Self-Police AI",
-      "summary": "The White House and chiefs of major technology firms signed a landmark agreement to let the tech industry police its own artificial intelligence safety. The deal relies on voluntary guardrails even as safety researchers warn that advanced models are growing too capable to manage without legal oversight. Washington chose a light-touch approach, betting that software creators can manage catastrophic risks better than regulators can.",
-      "why": "Letting companies grade their own homework will dictate how the most powerful technology in human history is controlled, protected, and rolled out to society.",
-      "domain": "Technology",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "tech giants sign white house accord to self police ai",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "Cockpit Attack Diverts Tel Aviv-Bound Flight Into Saudi Arabia",
-      "summary": "A commercial flight heading to Israel made an emergency landing in Saudi Arabia after an attacker stabbed the pilot mid-air. Israeli travelers were abruptly grounded in a kingdom that still has no formal diplomatic ties with Israel, forcing emergency back-channel negotiations to coordinate their safety and evacuation. Security agencies across several nations launched joint investigations into how the assailant breached the cockpit.",
-      "why": "The rare incident tests the fragile, informal diplomatic relationship between Saudi Arabia and Israel while raising urgent alarms over commercial aviation security.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "morning",
-      "fp": "cockpit attack diverts tel aviv bound flight into saudi arabia",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "US and China Extend Fragile Trade Truce Ahead of Summit",
-      "summary": "Washington and Beijing agreed to a two-month freeze on new tariffs just as Chinese leadership arrived in America for high-stakes talks. The temporary pause prevents immediate, punitive taxes on factory goods, metals, and consumer electronics. While both sides avoided an immediate economic collision, deep disagreements over technology controls and supply chains remain unresolved.",
-      "why": "Preventing an economic fight between the world's two largest powers keeps global supply chains from breaking and shields consumers from sharp price spikes.",
-      "domain": "Geopolitics",
-      "severity": "HIGH",
-      "mode": "morning",
-      "fp": "us and china extend fragile trade truce ahead of summit",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "U.S. and Iran Weigh Ceasefire Over Key Oil Route",
-      "summary": "Washington sent Tehran a counterproposal to pause their seven-month conflict and gradually reopen the blocked Strait of Hormuz. While diplomats trade offers behind closed doors, Iranian military commanders publicly insist that all American troops must leave the region first. Both sides are trying to relieve economic strain on global supply chains without appearing to back down.",
-      "why": "This narrow channel moves a fifth of the world's oil, so whether these talks hold decides energy bills and inflation for every household on Earth.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "u s and iran weigh ceasefire over key oil route",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "Long-Range Drone Strikes Target Russian Energy Hubs",
-      "summary": "Mass drone barrages struck major oil processing centers deep inside Russian territory, damaging facilities near Moscow. Kyiv is deliberately targeting the industrial engines that pay for the conflict, while Moscow claims the vast majority of incoming drones were shot down. Both militaries are increasingly shifting their focus from trenches to the critical infrastructure keeping each nation running.",
-      "why": "Hitting energy infrastructure hundreds of miles from the front lines squeezes fuel supplies and threatens to trigger another round of global commodity spikes.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "long range drone strikes target russian energy hubs",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "Last U.S. Combat Forces Pull Out of Iraq",
-      "summary": "The final American military units have officially departed Iraq, fulfilling a withdrawal timetable agreed upon two years ago. Baghdad celebrated the move as a major step toward full national sovereignty, while Washington describes it as a transition to a standard diplomatic relationship. The exit leaves Iraqi forces on their own to handle regional security and manage heavy political pressure from neighboring Iran.",
-      "why": "It brings an end to over two decades of direct American military presence and decisively shifts the balance of power across the Middle East.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "last u s combat forces pull out of iraq",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "Supreme Court Allows Third-Country Deportations to Continue",
-      "summary": "The U.S. Supreme Court allowed immigration officials to keep deporting asylum seekers to third-party countries where they have zero family or cultural ties. Roughly 25,000 migrants have already been sent to about twenty unfamiliar nations while lower-court challenges play out. Human rights groups warn the practice leaves vulnerable people stranded with no support system, but officials argue it deters border crossings.",
-      "why": "It sets a radical new precedent in international migration law by disconnecting deportation from a person's actual homeland.",
-      "domain": "Society",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "supreme court allows third country deportations to continue",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "Stubborn Inflation Sparks Warnings of New Rate Hikes",
-      "summary": "Fresh government data shows inflation held flat at 3.4 percent in August rather than cooling down as expected. Central bankers signaled that borrowing costs may need to climb even higher before the year ends to choke off price pressures. Ordinary families are still feeling the pinch on rent and food, while employers warn that costlier loans could soon freeze hiring.",
-      "why": "Higher interest rates act like a brake on the whole economy, making mortgages and credit cards far more expensive for regular people.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "afternoon",
-      "fp": "stubborn inflation sparks warnings of new rate hikes",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "Passengers Thwart Cockpit Attack on Israel-Bound Flight",
-      "summary": "A co-pilot stabbed the flight captain and attempted to crash a passenger jet flying between Dubai and Tel Aviv before crew and passengers broke into the cockpit. The airliner plunged thousands of feet in roughly a minute before crew members regained control and made an emergency landing in Saudi Arabia. The flight was diverted safely, but the incident has sparked immediate global aviation security reviews.",
-      "why": "It exposes major vulnerabilities in mental health and cockpit screening while testing delicate security diplomacy in a volatile corridor.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "passengers thwart cockpit attack on israel bound flight",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "Western Coalition Officially Ends Military Mission in Iraq",
-      "summary": "The United States, Britain, and their partners have pulled their final combat troops out of Iraq, officially concluding the anti-ISIS campaign Operation Inherent Resolve. The exit fulfills a bilateral agreement to hand full defense responsibility over to Iraqi security forces. It formally closes over a decade of direct Western ground operations in the country.",
-      "why": "It removes an international safety net, testing whether Baghdad can keep extremist cells down while caught between competing regional powers.",
-      "domain": "Geopolitics",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "western coalition officially ends military mission in iraq",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "Oil Surpasses $100 a Barrel as Middle East Shipping Clashes Flare",
-      "summary": "Global crude prices climbed back above $100 a barrel following strikes on commercial oil tankers and maritime trade routes. Heightened friction between the U.S. and Iran has forced cargo ships to take long, expensive detours. Refineries and shippers are passing along higher insurance and freight bills straight down the supply chain.",
-      "why": "When oil spikes, it acts like an automatic tax hike on almost everything people eat, buy, or use to travel.",
-      "domain": "Markets",
-      "severity": "CRITICAL",
-      "mode": "evening",
-      "fp": "oil surpasses 100 a barrel as middle east shipping clashes",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "AI Expansion Triggers Fierce Fights Over Local Power and Water",
-      "summary": "Rapid construction of massive artificial intelligence data hubs is outstripping local utility networks across major economies. Power companies warn that the surge in energy and water demand from these server warehouses risks overloading neighborhood grids. Governments are now drafting emergency rules to decide who gets power priority when supplies run thin.",
-      "why": "It forces cities to choose between feeding the tech industry's insatiable appetite and keeping household electricity cheap and reliable.",
-      "domain": "Technology",
-      "severity": "MEDIUM",
-      "mode": "evening",
-      "fp": "ai expansion triggers fierce fights over local power and water",
-      "date": "2026-09-30"
-    },
-    {
-      "headline": "Canada Strikes Back With Reciprocal Tariffs on American Goods",
-      "summary": "Canada has activated retaliatory tariffs on American steel, metals, and machinery in response to trade duties levied by Washington. Trade ministers insist the counter-tariffs are necessary to shield domestic workers, even as corporate lobbies plead for calm. Border-dependent factories are already bracing for shipment delays and parts shortages.",
-      "why": "Tit-for-tat trade barriers between close trading partners drive up factory costs and leave ordinary consumers footing the bill.",
-      "domain": "Markets",
-      "severity": "HIGH",
-      "mode": "evening",
-      "fp": "canada strikes back with reciprocal tariffs on american goods",
-      "date": "2026-09-30"
-    },
-    {
       "headline": "US troops leave Iraq after 23 years",
       "summary": "The last American soldiers packed up and left Iraq, ending a military mission that began back in 2003 [1.1.4]. Local militia groups agreed to pause attacks against ground forces, leaving the Iraqi government entirely responsible for keeping order. It is like taking the training wheels off a bicycle in heavy traffic; Baghdad now has to steer without a safety net.",
       "why": "This sudden power vacuum forces regional rivals to either work things out together or clash for control.",
@@ -3719,6 +3569,16 @@
       "mode": "evening",
       "fp": "court battles erupt over u s midterm voting rules",
       "date": "2026-10-30"
+    },
+    {
+      "headline": "Four Oil Tankers Blaze in Strait of Hormuz After Hitting Naval Mines",
+      "summary": "Iran says four oil tankers caught fire after striking naval mines in the Strait of Hormuz, and maritime agencies confirmed at least one ship ablaze off the coast of Oman. The vessels were moving through a southern sea corridor that the US military insisted was cleared of mines, which Tehran claims is strictly forbidden. Crude oil prices jumped past $117 a barrel as shipping companies paused traffic.",
+      "why": "The Strait of Hormuz is the world's main energy highway. Think of it like someone tossing spike strips onto the only exit ramp leaving a refinery: if tankers cannot pass safely, the whole world suddenly faces fuel shortages, spiking inflation, and the threat of an immediate military clash between the US and Iran.",
+      "domain": "Breaking",
+      "severity": "CRITICAL",
+      "mode": "monitor",
+      "fp": "four oil tankers blaze in strait of hormuz after hitting",
+      "date": "2026-10-31"
     }
   ]
 }
